@@ -63,6 +63,7 @@
             "displayName": "Fight+",
             "URLPage": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/7731516.json?id=7731516&params[type]=epg&idDiffusion=150421494&cache=3600000&liveTVPageID=2872",
             "URLVitrine": "http://service.mycanal.fr/highlight/dfc8382d3fb37cc34f4226a397cd9f82/885.json?cache=60000000&id=7731516&params[type]=epg",
+            "URLSport": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/7731516.json?idSport=128&idCompetition=2&idSport=4",
             "path": "/guide/programme/7731516-fight.html",
             "EpgId": 177,
             "idDiffusion": "150421494",
