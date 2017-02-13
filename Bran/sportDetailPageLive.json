@@ -28,7 +28,7 @@
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
-      "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4537.json?cache=60000&params[highlight]=0&params[parentPid]=4536",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportCalendar.json",
       "displayType": "list",
       "pullToRefresh": true,
       "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14-1.1/pid4537-calendrier-1.1.html",
@@ -38,7 +38,7 @@
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
-      "URLPage": "http://service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/3964.json?cache=300000&params[highlight]=0&params[parentPid]=4536",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json",
       "pullToRefresh": true,
       "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3964-classement.html",
       "highlight": false
@@ -46,14 +46,14 @@
     {
       "displayTemplate": "sportComposition",
       "displayName": "Compositions",
-      "URLPage": "http://service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/3983.json?cache=300000&params[highlight]=0&params[parentPid]=4536",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportComposition.json",
       "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html",
       "highlight": false
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
-      "URLPage": "http://service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/3983.json?cache=300000&params[highlight]=0&params[parentPid]=4536",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/vitrineStats.json",
       "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html",
       "highlight": false
     }
