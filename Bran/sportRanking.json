@@ -1,0 +1,310 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportRanking",
+    "displayName": "Classement",
+    "pullToRefresh": true,
+    "BOName": "Classement",
+    "BOLayoutName": "Top 14 Classement",
+    "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3964-classement.html"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "RugbyiOS",
+      "prop4": "RugbyiOS - Top 14",
+      "prop5": "RugbyiOS - Top 14 - Classement",
+      "eVar31": "Top 14 Classement",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "RugbyiOS - Top 14 - Classement"
+    }
+  },
+  "strates": [
+    {
+      "displayName": "Ligue 1",
+      "events": [
+        {
+          "title": "Pts",
+          "Id": "total",
+          "type": "main"
+        },
+        {
+          "title": "bo",
+          "Id": "bonusOffensive"
+        },
+        {
+          "title": "bd",
+          "Id": "bonusDefensive"
+        },
+        {
+          "title": "J",
+          "Id": "matchPlayed"
+        },
+        {
+          "title": "G",
+          "Id": "matchWon"
+        },
+        {
+          "title": "N",
+          "Id": "matchEquality"
+        },
+        {
+          "title": "P",
+          "Id": "matchLost"
+        },
+        {
+          "title": "Pts M.",
+          "Id": "scored"
+        },
+        {
+          "title": "Pts E.",
+          "Id": "against"
+        },
+        {
+          "title": "Diff.",
+          "Id": "diff"
+        }
+      ],
+      "contents": [
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/2250.png",
+          "ranking": "1er",
+          "title": "Clermont Auvergne",
+          "thirdTitle": "51",
+          "pointsDetail": [
+            "5",
+            "2",
+            "16",
+            "10",
+            "2",
+            "4",
+            "474",
+            "328",
+            "146"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/47.png",
+          "ranking": "2e",
+          "title": "La Rochelle",
+          "thirdTitle": "50",
+          "pointsDetail": [
+            "5",
+            "3",
+            "16",
+            "9",
+            "3",
+            "4",
+            "416",
+            "293",
+            "123"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/4950.png",
+          "ranking": "3e",
+          "title": "Montpellier",
+          "thirdTitle": "46",
+          "pointsDetail": [
+            "3",
+            "3",
+            "16",
+            "10",
+            "0",
+            "6",
+            "409",
+            "340",
+            "69"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/2350.png",
+          "ranking": "4e",
+          "title": "Toulouse",
+          "thirdTitle": "42",
+          "pointsDetail": [
+            "2",
+            "4",
+            "16",
+            "9",
+            "0",
+            "7",
+            "338",
+            "313",
+            "25"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/39.png",
+          "ranking": "5e",
+          "title": "Toulon",
+          "thirdTitle": "41",
+          "pointsDetail": [
+            "4",
+            "3",
+            "16",
+            "8",
+            "1",
+            "7",
+            "388",
+            "340",
+            "48"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/2050.png",
+          "ranking": "6e",
+          "title": "Castres",
+          "thirdTitle": "39",
+          "pointsDetail": [
+            "3",
+            "2",
+            "16",
+            "8",
+            "1",
+            "7",
+            "400",
+            "322",
+            "78"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+          "ranking": "7e",
+          "title": "Bordeaux Begles",
+          "thirdTitle": "37",
+          "pointsDetail": [
+            "1",
+            "4",
+            "16",
+            "8",
+            "0",
+            "8",
+            "374",
+            "365",
+            "9"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/3500.png",
+          "ranking": "8e",
+          "title": "Brive",
+          "thirdTitle": "36",
+          "pointsDetail": [
+            "0",
+            "2",
+            "16",
+            "8",
+            "1",
+            "7",
+            "343",
+            "381",
+            "-38"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/41.png",
+          "ranking": "9e",
+          "title": "Racing 92",
+          "thirdTitle": "36",
+          "pointsDetail": [
+            "2",
+            "0",
+            "15",
+            "8",
+            "1",
+            "6",
+            "325",
+            "312",
+            "13"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/1600.png",
+          "ranking": "10e",
+          "title": "Stade Francais",
+          "thirdTitle": "34",
+          "pointsDetail": [
+            "2",
+            "2",
+            "16",
+            "7",
+            "1",
+            "8",
+            "375",
+            "387",
+            "-12"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/3450.png",
+          "ranking": "11e",
+          "title": "Pau",
+          "thirdTitle": "33",
+          "pointsDetail": [
+            "1",
+            "4",
+            "15",
+            "7",
+            "0",
+            "8",
+            "346",
+            "385",
+            "-39"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+          "ranking": "12e",
+          "title": "Lyon",
+          "thirdTitle": "28",
+          "pointsDetail": [
+            "1",
+            "3",
+            "15",
+            "5",
+            "2",
+            "8",
+            "288",
+            "336",
+            "-48"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/48.png",
+          "ranking": "13e",
+          "title": "Grenoble",
+          "thirdTitle": "19",
+          "pointsDetail": [
+            "1",
+            "6",
+            "16",
+            "3",
+            "0",
+            "13",
+            "348",
+            "515",
+            "-167"
+          ]
+        },
+        {
+          "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
+          "ranking": "14e",
+          "title": "Bayonne",
+          "thirdTitle": "16",
+          "pointsDetail": [
+            "0",
+            "0",
+            "15",
+            "3",
+            "2",
+            "10",
+            "223",
+            "430",
+            "-207"
+          ]
+        }
+      ]
+    }
+  ]
+}

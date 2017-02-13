@@ -1,0 +1,165 @@
+{
+  "currentPage": {
+    "displayTemplate": "vitrine",
+    "autorefresh": 30000
+  },
+  "strates": [
+    {
+      "type": "sportVitrine",
+      "status": "finished",
+      "displayStatus": "Terminé",
+      "displayTime": "14h45",
+      "eventStartDate": 1485611100,
+      "tvChannel": "Canal+ SPORT",
+      "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+      "homeTeam": {
+        "displayName": "Toulon",
+        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/39.png",
+        "score": 20,
+        "winner": false,
+        "stats": [
+          {
+            "type": "try",
+            "value": 2,
+            "events": [
+              {
+                "time": "37‘",
+                "playerName": "J. Orioli"
+              }
+            ]
+          },
+          {
+            "type": "conversion",
+            "value": 2,
+            "events": [
+              {
+                "time": "37‘",
+                "playerName": "P. Bernard"
+              },
+              {
+                "time": "74‘",
+                "playerName": "P. Bernard"
+              }
+            ]
+          },
+          {
+            "type": "penalty",
+            "value": 2,
+            "events": [
+              {
+                "time": "41‘",
+                "playerName": "P. Bernard"
+              },
+              {
+                "time": "55‘",
+                "playerName": "P. Bernard"
+              }
+            ]
+          }
+        ]
+      },
+      "awayTeam": {
+        "displayName": "La Rochelle",
+        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/47.png",
+        "score": 23,
+        "winner": true,
+        "stats": [
+          {
+            "type": "try",
+            "value": 2,
+            "events": [
+              {
+                "time": "22‘",
+                "playerName": "V. Rattez"
+              },
+              {
+                "time": "61‘",
+                "playerName": "V. Rattez"
+              }
+            ]
+          },
+          {
+            "type": "conversion",
+            "value": 2,
+            "events": [
+              {
+                "time": "23‘",
+                "playerName": "Z. Holmes"
+              },
+              {
+                "time": "62‘",
+                "playerName": "B. James"
+              }
+            ]
+          },
+          {
+            "type": "penalty",
+            "value": 3,
+            "events": [
+              {
+                "time": "13‘",
+                "playerName": "Z. Holmes"
+              },
+              {
+                "time": "48‘",
+                "playerName": "B. James"
+              },
+              {
+                "time": "80‘",
+                "playerName": "B. James"
+              }
+            ]
+          }
+        ]
+      },
+      "autorefresh": 30000
+    },
+    {
+      "type": "statsVitrine",
+      "contents": [
+        {
+          "type": "slider",
+          "title": "Possession (%)",
+          "homeTeamScore": "32.7",
+          "homeTeamPercentage": 0.327,
+          "awayTeamScore": "67.3",
+          "awayTeamPercentage": 0.673
+        },
+        {
+          "type": "slider",
+          "title": "Tirs",
+          "homeTeamScore": "6",
+          "homeTeamPercentage": 0.375,
+          "awayTeamScore": "10",
+          "awayTeamPercentage": 0.625,
+          "subScore": {
+            "title": "Tirs cadrés",
+            "homeTeamScore": "3",
+            "awayTeamScore": "3"
+          }
+        },
+        {
+          "type": "slider",
+          "title": "Passes",
+          "homeTeamScore": "326",
+          "homeTeamPercentage": 0.327,
+          "awayTeamScore": "670",
+          "awayTeamPercentage": 0.673,
+          "subScore": {
+            "title": "Passes réussies",
+            "homeTeamScore": "228 (70%)",
+            "awayTeamScore": "584 (88%)"
+          }
+        },
+        {
+          "type": "slider",
+          "title": "Hors-jeux",
+          "homeTeamScore": "1",
+          "homeTeamPercentage": 0.167,
+          "awayTeamScore": "5",
+          "awayTeamPercentage": 0.833
+        }
+      ]
+    }
+  ]
+}

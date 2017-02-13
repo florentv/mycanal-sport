@@ -1,0 +1,254 @@
+{
+  "currentPage": {
+    "BOName": "GENERIQUE - Composition",
+    "autorefresh": 30000,
+    "displayName": "Composition",
+    "displayTemplate": "sportComposition",
+    "path": "/pid4176-generique-composition.html"
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "football",
+      "homeTeam": {
+        "formationType": 442,
+        "primaryColor": "#123647",
+        "secondaryColor": "#673276",
+        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
+        "displayName": "Marseille",
+        "contents": [
+          {
+            "displayName": "S. Taumalolo",
+            "position": "Goalkeeper",
+            "shirtNo": "1",
+            "formationPlace": 1
+          },
+          {
+            "displayName": "L. Jammes",
+            "position": "Defender",
+            "shirtNo": "2",
+            "formationPlace": 2
+          },
+          {
+            "displayName": "W. Desmaison",
+            "position": "Defender",
+            "shirtNo": "3",
+            "formationPlace": 3
+          },
+          {
+            "displayName": "H. Roodt",
+            "position": "Defender",
+            "shirtNo": "4",
+            "formationPlace": 4
+          },
+          {
+            "displayName": "A. Muldowney",
+            "position": "Defender",
+            "shirtNo": "5",
+            "formationPlace": 5,
+            "redCard": 1
+          },
+          {
+            "displayName": "P. Kimlin",
+            "position": "Midfielder",
+            "shirtNo": "6",
+            "formationPlace": 6,
+            "goals": 1
+          },
+          {
+            "displayName": "R. Grice",
+            "position": "Midfielder",
+            "shirtNo": "8",
+            "formationPlace": 7,
+            "yellowCard": 1,
+            "captain": true
+          },
+          {
+            "displayName": "F. Alexandre",
+            "position": "Midfielder",
+            "shirtNo": "7",
+            "formationPlace": 9
+          },
+          {
+            "displayName": "C. McLeod",
+            "position": "Striker",
+            "shirtNo": "9",
+            "formationPlace": 10,
+            "goals": 2
+          },
+          {
+            "displayName": "J. Wisniewski",
+            "position": "Striker",
+            "shirtNo": "10",
+            "formationPlace": 11
+          },
+          {
+            "displayName": "X. Mignot",
+            "position": "Striker",
+            "shirtNo": "11",
+            "formationPlace": 8
+          }
+        ]
+      },
+      "awayTeam": {
+        "formationType": 4231,
+        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
+        "displayName": "Angers",
+        "primaryColor": "#123647",
+        "secondaryColor": "#673276",
+        "contents": [
+          {
+            "displayName": "S. Taumalolo",
+            "position": "Goalkeeper",
+            "shirtNo": "1",
+            "formationPlace": 1
+          },
+          {
+            "displayName": "L. Jammes",
+            "position": "Defender",
+            "shirtNo": "2",
+            "formationPlace": 2
+          },
+          {
+            "displayName": "W. Desmaison",
+            "position": "Defender",
+            "shirtNo": "3",
+            "formationPlace": 3
+          },
+          {
+            "displayName": "H. Roodt",
+            "position": "Defender",
+            "shirtNo": "4",
+            "formationPlace": 4
+          },
+          {
+            "displayName": "A. Muldowney",
+            "position": "Defender",
+            "shirtNo": "5",
+            "formationPlace": 5,
+            "redCard": 1
+          },
+          {
+            "displayName": "P. Kimlin",
+            "position": "Midfielder",
+            "shirtNo": "6",
+            "formationPlace": 6,
+            "goals": 1
+          },
+          {
+            "displayName": "R. Grice",
+            "position": "Midfielder",
+            "shirtNo": "8",
+            "formationPlace": 7,
+            "yellowCard": 1,
+            "captain": true
+          },
+          {
+            "displayName": "F. Alexandre",
+            "position": "Midfielder",
+            "shirtNo": "7",
+            "formationPlace": 9
+          },
+          {
+            "displayName": "C. McLeod",
+            "position": "Striker",
+            "shirtNo": "9",
+            "formationPlace": 10,
+            "goals": 2
+          },
+          {
+            "displayName": "J. Wisniewski",
+            "position": "Striker",
+            "shirtNo": "10",
+            "formationPlace": 11
+          },
+          {
+            "displayName": "X. Mignot",
+            "position": "Striker",
+            "shirtNo": "11",
+            "formationPlace": 8
+          }
+        ]
+      }
+    },
+    {
+      "title": "Remplaçants Marseille",
+      "type": "playerList",
+      "contents": [
+        {
+          "displayName": "A. Heguy",
+          "shirtNo": "16"
+        },
+        {
+          "displayName": "A. Dardet",
+          "shirtNo": "17"
+        },
+        {
+          "displayName": "M. Capelli",
+          "shirtNo": "18"
+        },
+        {
+          "displayName": "D. Hayes",
+          "shirtNo": "19"
+        },
+        {
+          "displayName": "L. Saseras",
+          "shirtNo": "20"
+        },
+        {
+          "displayName": "G. Bosch",
+          "shirtNo": "21"
+        },
+        {
+          "displayName": "N. Hunt",
+          "shirtNo": "22"
+        },
+        {
+          "displayName": "D. Edwards",
+          "shirtNo": "23"
+        }
+      ]
+    },
+    {
+      "title": "Remplaçants Angers",
+      "type": "playerList",
+      "contents": [
+        {
+          "displayName": "A. Heguy",
+          "shirtNo": "16"
+        },
+        {
+          "displayName": "A. Dardet",
+          "shirtNo": "17"
+        },
+        {
+          "displayName": "M. Capelli",
+          "shirtNo": "18"
+        },
+        {
+          "displayName": "D. Hayes",
+          "shirtNo": "19"
+        },
+        {
+          "displayName": "L. Saseras",
+          "shirtNo": "20"
+        },
+        {
+          "displayName": "G. Bosch",
+          "shirtNo": "21"
+        },
+        {
+          "displayName": "N. Hunt",
+          "shirtNo": "22"
+        },
+        {
+          "displayName": "D. Edwards",
+          "shirtNo": "23"
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "currentPage": {
+    "displayTemplate": "liveGrid",
+    "displayName": "Live Tv v2 - liste des chaines",
+    "BOName": "Live Tv v2 - liste des chaines",
+    "path": "/siri-live/&params[tab]=/live-tv/pid5170-live-tv-v2-liste-des-chaines.html",
+    "displayOnlyCurrentPrograms": true
+  },
+  "pageParameters": {
+    "displayOnlyCurrentPrograms": true,
+    "displayedPrograms": "now"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCiOS",
+      "prop4": "MyCiOS - Live TV",
+      "prop5": "MyCiOS - Live TV - Live Tv v2 - Live Tv v2 - liste des chaines",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCiOS - Live TV - Live Tv v2 - Live Tv v2 - liste des chaines"
+    }
+  },
+  "paging": {
+    "indexStart": 0,
+    "indexEnd": 4,
+    "nbContents": 5,
+    "totalAvailableContents": 5,
+    "iterationType": "index"
+  },
+  "features" : [
+  	{
+  		"type" : "multiliveSetup",
+  		"URLImage" : "...",
+  		"title" : "Multi-live",
+  		"contentID" : 2348,
+  		"onClick" : {
+  			"displayTemplate" : "multiliveSetup",
+  			"displayName" : "Multi-live",
+  			"URLPage" : "/1234.Json&thematique=sport",
+  			"BOName" : "Multi-live",
+  			"BOLayoutName" : "Multi-live",
+  			"path" : "/"
+  		}
+  	}
+  ],
+  "channels": [
+    {
+      "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/120X90/CHN43FN_177_20130826.PNG",
+      "Name": "CANAL+ SPORT",
+      "EpgId": 177,
+      "contents": [
+        {
+          "contentID": "7731516",
+          "idDiffusion": "150421494",
+          "URLImage": "http://epg.canal-plus.com/mycanal/img/STD169/JPG/640X360/STD169_36117331.JPG",
+          "title": "Fight+",
+          "subtitle": "Mag. Sport",
+          "startTime": 1481544600,
+          "endTime": 1481551200,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Fight+",
+            "URLPage": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/7731516.json?id=7731516&params[type]=epg&idDiffusion=150421494&cache=3600000&liveTVPageID=2872",
+            "URLVitrine": "http://service.mycanal.fr/highlight/dfc8382d3fb37cc34f4226a397cd9f82/885.json?cache=60000000&id=7731516&params[type]=epg",
+            "path": "/guide/programme/7731516-fight.html",
+            "EpgId": 177,
+            "idDiffusion": "150421494",
+            "URLChannelMetadata": "http://service.mycanal.fr/page/dfc8382d3fb37cc34f4226a397cd9f82/1314.json?cache=300000&id=177"
+          }
+        },
+        {
+          "contentID": "7741447",
+          "idDiffusion": "150421495",
+          "URLImage": "http://epg.canal-plus.com/mycanal/img/STD169/JPG/640X360/STD169_44046298.JPG",
+          "title": "Champions League Weekly",
+          "subtitle": "Mag. Football",
+          "startTime": 1481551200,
+          "endTime": 1481552700,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Champions League Weekly",
+            "URLPage": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/7741447.json?id=7741447&params[type]=epg&idDiffusion=150421495&cache=3600000&liveTVPageID=2872",
+            "URLVitrine": "http://service.mycanal.fr/highlight/dfc8382d3fb37cc34f4226a397cd9f82/885.json?cache=60000000&id=7741447&params[type]=epg",
+            "path": "/guide/programme/7741447-champions-league-weekly.html",
+            "EpgId": 177,
+            "idDiffusion": "150421495",
+            "URLChannelMetadata": "http://service.mycanal.fr/page/dfc8382d3fb37cc34f4226a397cd9f82/1314.json?cache=300000&id=177"
+          }
+        }
+      ]
+    },
+    {
+      "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/120X90/CHN43FN_310_20150316.PNG",
+      "Name": "FRANCE 24",
+      "EpgId": 310,
+      "contents": [
+        {
+          "contentID": "7809041",
+          "idDiffusion": "150244923",
+          "URLImage": "http://epg.canal-plus.com/mycanal/img/STD169/JPG/640X360/STD169_36905929.JPG",
+          "title": "Sports",
+          "subtitle": "Mag. Sport",
+          "startTime": 1481550660,
+          "endTime": 1481551080,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Sports",
+            "URLPage": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/7809041.json?id=7809041&params[type]=epg&idDiffusion=150244923&cache=3600000&liveTVPageID=2872",
+            "URLVitrine": "http://service.mycanal.fr/highlight/dfc8382d3fb37cc34f4226a397cd9f82/885.json?cache=60000000&id=7809041&params[type]=epg",
+            "path": "/guide/programme/7809041-sports.html",
+            "EpgId": 310,
+            "idDiffusion": "150244923",
+            "URLChannelMetadata": "http://service.mycanal.fr/page/dfc8382d3fb37cc34f4226a397cd9f82/1314.json?cache=300000&id=310"
+          }
+        }
+      ]
+    },
+    {
+      "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/120X90/CHN43FN_589_20151102.PNG",
+      "Name": "BBC WORLD NEWS",
+      "EpgId": 589,
+      "contents": [
+        {
+          "contentID": "103782",
+          "idDiffusion": "150643016",
+          "URLImage": "http://epg.canal-plus.com/mycanal/img/GEN169/JPG/640X360/GEN169_1746.JPG",
+          "title": "Sport Today",
+          "subtitle": "Mag. Sport",
+          "startTime": 1481550300,
+          "endTime": 1481551200,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Sport Today",
+            "URLPage": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/103782.json?id=103782&params[type]=epg&idDiffusion=150643016&cache=3600000&liveTVPageID=2872",
+            "URLVitrine": "http://service.mycanal.fr/highlight/dfc8382d3fb37cc34f4226a397cd9f82/885.json?cache=60000000&id=103782&params[type]=epg",
+            "path": "/guide/programme/103782-sport-today.html",
+            "EpgId": 589,
+            "idDiffusion": "150643016",
+            "URLChannelMetadata": "http://service.mycanal.fr/page/dfc8382d3fb37cc34f4226a397cd9f82/1314.json?cache=300000&id=589"
+          }
+        }
+      ]
+    },
+    {
+      "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/120X90/CHN43FN_84_20161024.PNG",
+      "Name": "L'EQUIPE",
+      "EpgId": 84,
+      "contents": [
+        {
+          "contentID": "7802581",
+          "idDiffusion": "150140190",
+          "URLImage": "http://epg.canal-plus.com/mycanal/img/GEN169/JPG/640X360/GEN169_1898.JPG",
+          "title": "L'Équipe Replay, le mag",
+          "subtitle": "Mag. Football",
+          "startTime": 1481550000,
+          "endTime": 1481554500,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "L'Équipe Replay, le mag",
+            "URLPage": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/7802581.json?id=7802581&params[type]=epg&idDiffusion=150140190&cache=3600000&liveTVPageID=2872",
+            "URLVitrine": "http://service.mycanal.fr/highlight/dfc8382d3fb37cc34f4226a397cd9f82/885.json?cache=60000000&id=7802581&params[type]=epg",
+            "path": "/guide/programme/7802581-l-equipe-replay-le-mag.html",
+            "EpgId": 84,
+            "idDiffusion": "150140190",
+            "URLChannelMetadata": "http://service.mycanal.fr/page/dfc8382d3fb37cc34f4226a397cd9f82/1314.json?cache=300000&id=84"
+          }
+        }
+      ]
+    }
+  ]
+}
