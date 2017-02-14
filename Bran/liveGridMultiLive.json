@@ -54,13 +54,14 @@
           "contentID": "8090901",
           "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
           "title": "Paris Saint-Germain / Barcelonne",
-          "subtitle": "Ligue 2",
+          "subtitle": "Ligue des Champions",
           "startTime": 1487085000,
           "endTime": 1487090700,
           "onClick": {
             "displayTemplate": "liveTVPremium",
             "displayName": "Paris Saint-Germain / Barcelonne",
-            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8090901.json?id=8090901&params[type]=epg&idDiffusion=153507539&cache=780000&liveTVPageID=2872",
+            "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/detailPageLive.json",
+            "URLSport": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportDetailPageLive.json",
             "path": "/guide/programme/8090901-lens-clermont-foot.html"
           }
         },
