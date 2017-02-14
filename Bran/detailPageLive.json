@@ -1,0 +1,386 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "Lens / Clermont Foot",
+    "path": "/guide/programme/8090901-lens-clermont-foot.html"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Prog",
+      "prop5": "MyCtvOS - Prog - Fiche",
+      "prop6": "MyCtvOS - Prog - Fiche - Sport",
+      "prop7": "MyCtvOS - Prog - Fiche - Sport - Lens / Clermont Foot",
+      "pageName": "MyCtvOS - Prog - Fiche - Sport - Lens / Clermont Foot",
+      "prop10": "Crypte",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "eVar30": "Football",
+      "eVar39": "8090901"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "live",
+      "contentID": "8090901",
+      "duration": "6300000",
+      "title": "Paris Saint-Germain / Barcelonne",
+      "thirdTitle": "CANAL+ SPORT - Mardi 14 fevrier - 16h10",
+      "editorialTitle": "Ligue des Champions, France, 2017, 1h45",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+      "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_177_20130826.PNG",
+      "fbkWatchTag": "video.other",
+      "summary": "Les Lensois d'Alain Casanova, qui ont retrouvé les avant-postes du classement de la Ligue 2, ne peuvent se permettre d'échapper le moindre point face au Clermont Foot, une formation du milieu de tableau. Les partenaires de Nicolas Douchez devraient ainsi se ruer à l'assaut des buts auvergnats. Au match aller, les protégés de Corinne Diacre avaient été tenus en échec par les Sang et Or (1-1).",
+      "summaryMedium": "Ligue des Champions. 16eme de finale",
+      "sharingURL": "http://mycan.al/epg/8090901",
+      "HD": true,
+      "genre": "Sport",
+      "subGenre": "Football",
+      "availability": "Mardi 14 fevrier - 16h10",
+      "CSA": 1,
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": true,
+      "isRecordable": true,
+      "EpgId": 177,
+      "URLChannelMetadata": "http://hodor-dev.canalplus.pro/api/v1/channelmetadata/0377eca894ac21bbd258e92ba4f35d6e/177.json?pastDuration=28800&futureDuration=28800",
+      "URLVitrine": "http://hodor-dev.canalplus.pro/api/v1/highlight/0377eca894ac21bbd258e92ba4f35d6e/epg/8090901.json?id=8090901&params[type]=epg&cache=780000&contentType=multiple",
+      "startTime": 1487085000,
+      "endTime": 1487090700,
+      "recordURL": "http://hodor-dev.canalplus.pro/record/0377eca894ac21bbd258e92ba4f35d6e/153507539.json?params[ead]={ead}",
+      "programID": 8090901,
+      "diffusionID": 153507539,
+      "audioLanguage": "VF",
+      "consumptionPlatform": "HAPI",
+      "productId": "idKey/ANT_1182635_246",
+      "URLMedias": "http://hodor-dev.canalplus.pro/api/v1/getMediaUrl/0377eca894ac21bbd258e92ba4f35d6e/okapi/ANT_1182635_246.json?operator={operator}",
+      "rediffusions": true,
+      "channelName": "CANAL+ SPORT",
+      "parentTitle": "Football - Ligue des Champions"
+    },
+    "otherEpisodes": {
+      "label": "Episodes",
+      "contents": [
+        {
+          "type": "TBD",
+          "contentID": "5370571",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/23302227",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/5370571.json?id=5370571&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/5370571-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "5487246",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1634",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/5487246.json?id=5487246&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/5487246-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "5782397",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/26864195",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/5782397.json?id=5782397&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/5782397-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "5926333",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/26180601",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/5926333.json?id=5926333&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/5926333-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "6017783",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/26180601",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/6017783.json?id=6017783&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/6017783-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "6189788",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/26180601",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/6189788.json?id=6189788&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/6189788-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "6537985",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1634",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/6537985.json?id=6537985&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/6537985-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "6645004",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1634",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/6645004.json?id=6645004&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/6645004-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "6819136",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/26180601",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/6819136.json?id=6819136&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/6819136-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "7370706",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1634",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/7370706.json?id=7370706&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/7370706-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "7402335",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/7402335.json?id=7402335&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/7402335-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "7507224",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/7507224.json?id=7507224&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/7507224-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "7686393",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/7686393.json?id=7686393&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/7686393-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "7995155",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/7995155.json?id=7995155&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/7995155-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "8090894",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8090894.json?id=8090894&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8090894-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "8090901",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8090901.json?id=8090901&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8090901-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "8164129",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8164129.json?id=8164129&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8164129-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "8164159",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/47978485",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8164159.json?id=8164159&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8164159-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "8169337",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8169337.json?id=8169337&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8169337-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "8090906",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/50280986",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8090906.json?id=8090906&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8090906-football-championnat-de-france-ligue-2.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "8196733",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 2",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 2",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8196733.json?id=8196733&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8196733-football-championnat-de-france-ligue-2.html"
+          }
+        }
+      ]
+    },
+    "diffusions": [
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_574_20150602.PNG",
+        "diffusionDate": "Mardi 14 fevrier - 16h20",
+        "channelName": "ONZEO"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_542_20150602.PNG",
+        "diffusionDate": "Mardi 14 fevrier - 20h30",
+        "channelName": "FOOT+ 24/24"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_574_20150602.PNG",
+        "diffusionDate": "Mercredi 15 fevrier - 14h45",
+        "channelName": "ONZEO"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_542_20150602.PNG",
+        "diffusionDate": "Mercredi 15 fevrier - 15h15",
+        "channelName": "FOOT+ 24/24"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_542_20150602.PNG",
+        "diffusionDate": "Mercredi 15 fevrier - 20h30",
+        "channelName": "FOOT+ 24/24"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_542_20150602.PNG",
+        "diffusionDate": "Jeudi 16 fevrier - 10h00",
+        "channelName": "FOOT+ 24/24"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_574_20150602.PNG",
+        "diffusionDate": "Jeudi 16 fevrier - 11h00",
+        "channelName": "ONZEO"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_542_20150602.PNG",
+        "diffusionDate": "Jeudi 16 fevrier - 22h15",
+        "channelName": "FOOT+ 24/24"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_574_20150602.PNG",
+        "diffusionDate": "Vendredi 17 fevrier - 09h30",
+        "channelName": "ONZEO"
+      }
+    ]
+  }
+}

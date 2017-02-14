@@ -1,13 +1,11 @@
 {
   "currentPage": {
     "displayTemplate": "liveGrid",
-    "displayName": "Live Tv v2 - liste des chaines",
-    "BOName": "Live Tv v2 - liste des chaines",
-    "path": "/siri-live/&params[tab]=/live-tv/pid5170-live-tv-v2-liste-des-chaines.html",
-    "displayOnlyCurrentPrograms": true
+    "displayName": "Live TV – Sport",
+    "BOName": "Live TV – Sport",
+    "path": "/live"
   },
   "pageParameters": {
-    "displayOnlyCurrentPrograms": true,
     "displayedPrograms": "now"
   },
   "tracking": {
@@ -46,47 +44,39 @@
   ],
   "channels": [
     {
-      "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/120X90/CHN43FN_177_20130826.PNG",
-      "Name": "CANAL+ SPORT",
       "EpgId": 177,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_177_20130826.PNG",
+      "Name": "CANAL+ SPORT",
+      "DVR": true,
       "contents": [
         {
-          "contentID": "7731516",
-          "idDiffusion": "150421494",
-          "URLImage": "http://epg.canal-plus.com/mycanal/img/STD169/JPG/640X360/STD169_36117331.JPG",
-          "title": "Fight+",
-          "subtitle": "Mag. Sport",
-          "startTime": 1481544600,
-          "endTime": 1481551200,
+          "idDiffusion": "153507539",
+          "contentID": "8090901",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "title": "Paris Saint-Germain / Barcelonne",
+          "subtitle": "Ligue 2",
+          "startTime": 1487085000,
+          "endTime": 1487090700,
           "onClick": {
             "displayTemplate": "liveTVPremium",
-            "displayName": "Fight+",
-            "URLPage": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/7731516.json?id=7731516&params[type]=epg&idDiffusion=150421494&cache=3600000&liveTVPageID=2872",
-            "URLVitrine": "http://service.mycanal.fr/highlight/dfc8382d3fb37cc34f4226a397cd9f82/885.json?cache=60000000&id=7731516&params[type]=epg",
-            "URLSport": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportDetailPageLive.json",
-            "path": "/guide/programme/7731516-fight.html",
-            "EpgId": 177,
-            "idDiffusion": "150421494",
-            "URLChannelMetadata": "http://service.mycanal.fr/page/dfc8382d3fb37cc34f4226a397cd9f82/1314.json?cache=300000&id=177"
+            "displayName": "Paris Saint-Germain / Barcelonne",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8090901.json?id=8090901&params[type]=epg&idDiffusion=153507539&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8090901-lens-clermont-foot.html"
           }
         },
         {
-          "contentID": "7741447",
-          "idDiffusion": "150421495",
-          "URLImage": "http://epg.canal-plus.com/mycanal/img/STD169/JPG/640X360/STD169_44046298.JPG",
-          "title": "Champions League Weekly",
+          "idDiffusion": "153507540",
+          "contentID": "8083946",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/44903695",
+          "title": "Ligue 2 le mag",
           "subtitle": "Mag. Football",
-          "startTime": 1481551200,
-          "endTime": 1481552700,
+          "startTime": 1487090700,
+          "endTime": 1487092500,
           "onClick": {
             "displayTemplate": "liveTVPremium",
-            "displayName": "Champions League Weekly",
-            "URLPage": "http://service.mycanal.fr/detail/dfc8382d3fb37cc34f4226a397cd9f82/epg/7741447.json?id=7741447&params[type]=epg&idDiffusion=150421495&cache=3600000&liveTVPageID=2872",
-            "URLVitrine": "http://service.mycanal.fr/highlight/dfc8382d3fb37cc34f4226a397cd9f82/885.json?cache=60000000&id=7741447&params[type]=epg",
-            "path": "/guide/programme/7741447-champions-league-weekly.html",
-            "EpgId": 177,
-            "idDiffusion": "150421495",
-            "URLChannelMetadata": "http://service.mycanal.fr/page/dfc8382d3fb37cc34f4226a397cd9f82/1314.json?cache=300000&id=177"
+            "displayName": "Ligue 2 le mag",
+            "URLPage": "http://hodor-dev.canalplus.pro/api/v1/detail/0377eca894ac21bbd258e92ba4f35d6e/epg/8083946.json?id=8083946&params[type]=epg&idDiffusion=153507540&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8083946-ligue-2-le-mag.html"
           }
         }
       ]
