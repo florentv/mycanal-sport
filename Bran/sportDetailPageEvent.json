@@ -25,7 +25,7 @@
       "displaySport": "Football",
       "displayCompetition" : "Ligue des Champions",
       "displayRound" : "8ème de finales",
-      "eventID" : 173,
+      "productId" : 173,
       "status": "finished",
       "displayStatus": "Terminé",
       "displayTime": "20h45",

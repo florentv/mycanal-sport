@@ -22,7 +22,9 @@
     "informations": {
       "consumptionPlatform": "intellicore",
       "type": "live",
-      "displaySport": "Football"
+      "displaySport": "Football",
+      "displayCompetition" : "Ligue des Champions",
+      "displayRound" : "8ème de finales"
     }
   },
   "rubriques": [
