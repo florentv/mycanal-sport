@@ -1,0 +1,206 @@
+{
+  "currentPage": {
+    "displayTemplate": "dataPlayer",
+    "displayName": "PSG / Barcelone",
+    "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "mycanaliOS",
+      "prop4": "mycanaliOS - Sport",
+      "prop5": "mycanaliOS - Sport - Event",
+      "prop6": "mycanaliOS - Sport - Event - PSG / Barcelone - 173",
+      "eVar12": "GENERIQUE LDC Match Live",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone"
+    }
+  },
+  "detail": {
+    "informations": {
+      "consumptionPlatform": "HAPI",
+      "type": "sport",
+      "displaySport": "Football",
+      "displayCompetition": "Ligue des Champions",
+      "displayRound": "8ème de finales",
+      "contentID": "8083948",
+      "idSportEvent": 170,
+      "duration": "4920000",
+      "title": "Paris Saint-Germain / Barcelone",
+      "subtitle": "Match Football",
+      "thirdTitle": "CANAL+ SPORT - Jeudi 16 fevrier - 11h05",
+      "editorialTitle": "Match Football, Ligue des Champions, 2014, 1h22",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/49955993",
+      "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_177_20130826.PNG",
+      "fbkWatchTag": "video.other",
+      "summary": "Joueur emblématique de Manchester United où il a évolué durant toute sa carrière, Ryan Giggs a disputé 1027 matches et remporté 34 trophées avant de raccrocher les crampons et d'endosser le costume de General Manager du club mancunien. A travers l'exercice 2013-2014, dernière saison du championnat d'Angleterre qu'il ait disputé, et en compagnie de David Beckham, sir Alex Ferguson, Gary Neville, Diego Maradona ou encore Eric Cantona qui l'ont cotôyé, retour sur l'exceptionnelle carrière de Ryan Giggs, légende galloise des Red Devils et recordman du nombre de matches joués avec Manchester United.",
+      "summaryMedium": "Retour sur l'extraordinaire carrière de Ryan Giggs, joueur emblématique de Manchester United devenu Manager general, à travers la saison 2013-2014 du championnat d'Angleterre.",
+      "sharingURL": "http://mycan.al/epg/8083948",
+      "HD": true,
+      "genre": "Sport",
+      "subGenre": "Match Football",
+      "availability": "Jeudi 16 fevrier - 11h05",
+      "CSA": 1,
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": true,
+      "isRecordable": false,
+      "EpgId": 177,
+      "URLChannelMetadata": "http://hodor-dev.canalplus.pro/api/v1/channelmetadata/0377eca894ac21bbd258e92ba4f35d6e/177.json?pastDuration=28800&futureDuration=28800",
+      "startTime": 1487239500,
+      "endTime": 1487244300,
+      "programID": 8083948,
+      "diffusionID": 153507575,
+      "audioLanguage": "VF",
+      "personnalities": [
+        {
+          "prefix": "De :",
+          "content": "David Mendelle"
+        }
+      ],
+      "productId": "idKey/ANT_1179580_1",
+      "URLMedias": "http://hodor-dev.canalplus.pro/api/v1/getMediaUrl/0377eca894ac21bbd258e92ba4f35d6e/okapi/ANT_1179580_1.json?operator={operator}",
+      "rediffusions": false,
+      "channelName": "Canal+ SPORT",
+      "status": "finished",
+      "displayStatus": "Terminé",
+      "displayTime": "20h45",
+      "eventStartDate": 1483127100,
+      "homeTeam": {
+        "displayName": "Paris Saint-Germain",
+        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+        "score": 3,
+        "winner": true,
+        "stats": [
+          {
+            "type": "try",
+            "value": 1,
+            "events": [
+              {
+                "time": "49‘",
+                "playerName": "T. Arnold"
+              }
+            ]
+          },
+          {
+            "type": "conversion",
+            "value": 1,
+            "events": [
+              {
+                "time": "51‘",
+                "playerName": "F. Michalak"
+              }
+            ]
+          },
+          {
+            "type": "penalty",
+            "value": 4,
+            "events": [
+              {
+                "time": "19‘",
+                "playerName": "F. Michalak"
+              },
+              {
+                "time": "46‘",
+                "playerName": "F. Michalak"
+              },
+              {
+                "time": "57‘",
+                "playerName": "F. Michalak"
+              },
+              {
+                "time": "58‘",
+                "playerName": "F. Michalak"
+              },
+              {
+                "time": "76‘",
+                "playerName": "J. Potgieter"
+              }
+            ]
+          }
+        ]
+      },
+      "awayTeam": {
+        "displayName": "Barcelone",
+        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+        "score": 2,
+        "winner": false,
+        "stats": [
+          {
+            "type": "try",
+            "value": 1,
+            "events": [
+              {
+                "time": "81‘",
+                "playerName": "Y. Lesgourgues"
+              }
+            ]
+          },
+          {
+            "type": "conversion",
+            "value": 1,
+            "events": [
+              {
+                "time": "83‘",
+                "playerName": "I. Madigan"
+              }
+            ]
+          },
+          {
+            "type": "penalty",
+            "value": 3,
+            "events": [
+              {
+                "time": "16‘",
+                "playerName": "S. Hickey"
+              },
+              {
+                "time": "43‘",
+                "playerName": "S. Hickey"
+              },
+              {
+                "time": "54‘",
+                "playerName": "I. Madigan"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rubriques": [
+    {
+      "displayTemplate": "sportCalendar",
+      "displayName": "Calendrier",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportCalendar.json",
+      "displayType": "list",
+      "pullToRefresh": true,
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14-1.1/pid4537-calendrier-1.1.html",
+      "highlight": false,
+      "default": true
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json",
+      "pullToRefresh": true,
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3964-classement.html",
+      "highlight": false
+    },
+    {
+      "displayTemplate": "sportComposition",
+      "displayName": "Compositions",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportComposition.json",
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html",
+      "highlight": false
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Statistiques",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/vitrineStats.json",
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html",
+      "highlight": false
+    }
+  ]
+}

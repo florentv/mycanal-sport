@@ -72,7 +72,7 @@
             "onClick": {
               "displayTemplate": "playerDetailPage",
               "displayName": "Paris Saint-Germain / Barcelone",
-              "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/playerDetailPage.json",
+              "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json",
               "path": "/live/sport/psg-barcelone"
             }
           }
