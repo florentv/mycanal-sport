@@ -26,21 +26,21 @@
     "totalAvailableContents": 5,
     "iterationType": "index"
   },
-  "features" : [
-  	{
-  		"type" : "multiliveSetup",
-  		"URLImage" : "...",
-  		"title" : "Multi-live",
-  		"contentID" : 2348,
-  		"onClick" : {
-  			"displayTemplate" : "multiliveSetup",
-  			"displayName" : "Multi-live",
-  			"URLPage" : "/1234.Json&thematique=sport",
-  			"BOName" : "Multi-live",
-  			"BOLayoutName" : "Multi-live",
-  			"path" : "/"
-  		}
-  	}
+  "features": [
+    {
+      "type": "multiliveSetup",
+      "URLImage": "...",
+      "title": "Multi-live",
+      "contentID": 2348,
+      "onClick": {
+        "displayTemplate": "multiliveSetup",
+        "displayName": "Multi-live",
+        "URLPage": "/1234.Json&thematique=sport",
+        "BOName": "Multi-live",
+        "BOLayoutName": "Multi-live",
+        "path": "/"
+      }
+    }
   ],
   "channels": [
     {
@@ -53,7 +53,7 @@
           "idDiffusion": "153507539",
           "contentID": "8090901",
           "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
-          "title": "Paris Saint-Germain / Barcelonne",
+          "title": "Paris Saint-Germain / Barcelone",
           "subtitle": "Ligue des Champions",
           "startTime": 1487085000,
           "endTime": 1487090700,
@@ -61,8 +61,20 @@
             "displayTemplate": "liveTVPremium",
             "displayName": "Paris Saint-Germain / Barcelonne",
             "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/detailPageLive.json",
-            "URLSport": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportDetailPageLive.json",
             "path": "/guide/programme/8090901-lens-clermont-foot.html"
+          },
+          "onInteractivity": {
+            "displayNotification": true,
+            "URLImage": "...",
+            "title": "Expert Mode",
+            "subtitle": "Activer Expert Mode",
+            "text": "Profitez des résultats, classements et statistiques en temps réel",
+            "onClick": {
+              "displayTemplate": "playerDetailPage",
+              "displayName": "Paris Saint-Germain / Barcelone",
+              "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/playerDetailPage.json",
+              "path": "/live/sport/psg-barcelone"
+            }
           }
         },
         {

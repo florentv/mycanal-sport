@@ -1,0 +1,64 @@
+{
+  "currentPage": {
+    "displayTemplate": "playerDetailPage",
+    "displayName": "PSG / Barcelone",
+    "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "mycanaliOS",
+      "prop4": "mycanaliOS - Sport",
+      "prop5": "mycanaliOS - Sport - Event",
+      "prop6": "mycanaliOS - Sport - Event - PSG / Barcelone - 173",
+      "eVar12": "GENERIQUE LDC Match Live",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone"
+    }
+  },
+  "detail": {
+    "informations": {
+      "consumptionPlatform": "intellicore",
+      "type": "live",
+      "displaySport": "Football",
+      "displayCompetition" : "Ligue des Champions",
+      "displayRound" : "8ème de finales"
+    }
+  },
+  "rubriques": [
+    {
+      "displayTemplate": "sportCalendar",
+      "displayName": "Calendrier",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportCalendar.json",
+      "displayType": "list",
+      "pullToRefresh": true,
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14-1.1/pid4537-calendrier-1.1.html",
+      "highlight": false,
+      "default": true
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json",
+      "pullToRefresh": true,
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3964-classement.html",
+      "highlight": false
+    },
+    {
+      "displayTemplate": "sportComposition",
+      "displayName": "Compositions",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportComposition.json",
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html",
+      "highlight": false
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Statistiques",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/vitrineStats.json",
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html",
+      "highlight": false
+    }
+  ]
+}
