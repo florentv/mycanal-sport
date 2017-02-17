@@ -22,11 +22,7 @@
     "informations": {
       "consumptionPlatform": "HAPI",
       "type": "sport",
-      "displaySport": "Football",
-      "displayCompetition": "Ligue des Champions",
-      "displayRound": "8ème de finales",
       "contentID": "8083948",
-      "idSportEvent": 170,
       "duration": "4920000",
       "title": "Paris Saint-Germain / Barcelone",
       "subtitle": "Match Football",
@@ -63,110 +59,118 @@
       "URLMedias": "http://hodor-dev.canalplus.pro/api/v1/getMediaUrl/0377eca894ac21bbd258e92ba4f35d6e/okapi/ANT_1179580_1.json?operator={operator}",
       "rediffusions": false,
       "channelName": "Canal+ SPORT",
-      "status": "finished",
-      "displayStatus": "Terminé",
-      "displayTime": "20h45",
-      "eventStartDate": 1483127100,
-      "homeTeam": {
-        "displayName": "Paris Saint-Germain",
-        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-        "score": 3,
-        "winner": true,
-        "stats": [
-          {
-            "type": "try",
-            "value": 1,
-            "events": [
+      "events": [
+        {
+          "sportEventId": 170,
+          "displaySport": "Football",
+          "displayCompetition": "Ligue des Champions",
+          "displayRound": "8ème de finales",
+          "status": "finished",
+          "displayStatus": "Terminé",
+          "displayTime": "20h45",
+          "eventStartDate": 1483127100,
+          "homeTeam": {
+            "displayName": "Paris Saint-Germain",
+            "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+            "score": 3,
+            "winner": true,
+            "stats": [
               {
-                "time": "49‘",
-                "playerName": "T. Arnold"
+                "type": "try",
+                "value": 1,
+                "events": [
+                  {
+                    "time": "49‘",
+                    "playerName": "T. Arnold"
+                  }
+                ]
+              },
+              {
+                "type": "conversion",
+                "value": 1,
+                "events": [
+                  {
+                    "time": "51‘",
+                    "playerName": "F. Michalak"
+                  }
+                ]
+              },
+              {
+                "type": "penalty",
+                "value": 4,
+                "events": [
+                  {
+                    "time": "19‘",
+                    "playerName": "F. Michalak"
+                  },
+                  {
+                    "time": "46‘",
+                    "playerName": "F. Michalak"
+                  },
+                  {
+                    "time": "57‘",
+                    "playerName": "F. Michalak"
+                  },
+                  {
+                    "time": "58‘",
+                    "playerName": "F. Michalak"
+                  },
+                  {
+                    "time": "76‘",
+                    "playerName": "J. Potgieter"
+                  }
+                ]
               }
             ]
           },
-          {
-            "type": "conversion",
-            "value": 1,
-            "events": [
+          "awayTeam": {
+            "displayName": "Barcelone",
+            "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+            "score": 2,
+            "winner": false,
+            "stats": [
               {
-                "time": "51‘",
-                "playerName": "F. Michalak"
-              }
-            ]
-          },
-          {
-            "type": "penalty",
-            "value": 4,
-            "events": [
-              {
-                "time": "19‘",
-                "playerName": "F. Michalak"
+                "type": "try",
+                "value": 1,
+                "events": [
+                  {
+                    "time": "81‘",
+                    "playerName": "Y. Lesgourgues"
+                  }
+                ]
               },
               {
-                "time": "46‘",
-                "playerName": "F. Michalak"
+                "type": "conversion",
+                "value": 1,
+                "events": [
+                  {
+                    "time": "83‘",
+                    "playerName": "I. Madigan"
+                  }
+                ]
               },
               {
-                "time": "57‘",
-                "playerName": "F. Michalak"
-              },
-              {
-                "time": "58‘",
-                "playerName": "F. Michalak"
-              },
-              {
-                "time": "76‘",
-                "playerName": "J. Potgieter"
+                "type": "penalty",
+                "value": 3,
+                "events": [
+                  {
+                    "time": "16‘",
+                    "playerName": "S. Hickey"
+                  },
+                  {
+                    "time": "43‘",
+                    "playerName": "S. Hickey"
+                  },
+                  {
+                    "time": "54‘",
+                    "playerName": "I. Madigan"
+                  }
+                ]
               }
             ]
           }
-        ]
-      },
-      "awayTeam": {
-        "displayName": "Barcelone",
-        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
-        "score": 2,
-        "winner": false,
-        "stats": [
-          {
-            "type": "try",
-            "value": 1,
-            "events": [
-              {
-                "time": "81‘",
-                "playerName": "Y. Lesgourgues"
-              }
-            ]
-          },
-          {
-            "type": "conversion",
-            "value": 1,
-            "events": [
-              {
-                "time": "83‘",
-                "playerName": "I. Madigan"
-              }
-            ]
-          },
-          {
-            "type": "penalty",
-            "value": 3,
-            "events": [
-              {
-                "time": "16‘",
-                "playerName": "S. Hickey"
-              },
-              {
-                "time": "43‘",
-                "playerName": "S. Hickey"
-              },
-              {
-                "time": "54‘",
-                "playerName": "I. Madigan"
-              }
-            ]
-          }
-        ]
-      }
+        }
+      ]
     }
   },
   "rubriques": [

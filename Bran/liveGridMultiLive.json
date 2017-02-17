@@ -70,7 +70,7 @@
             "subtitle": "Activer Expert Mode",
             "text": "Profitez des résultats, classements et statistiques en temps réel",
             "onClick": {
-              "displayTemplate": "playerDetailPage",
+              "displayTemplate": "dataPlayer",
               "displayName": "Paris Saint-Germain / Barcelone",
               "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json",
               "path": "/live/sport/psg-barcelone"
