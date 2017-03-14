@@ -25,16 +25,11 @@
       "title": "LDC - 16eme de finales aller",
       "groups": [
         {
-          "title": "Mardi 14 février",
-          "contents": [
+          "events": [
             {
-              "displaySport": "Football",
-              "displayCompetition": "Ligue des Champions",
-              "displayRound": "16ème de finales",
               "eventID": 173,
               "status": "finished",
               "displayStatus": "Terminé",
-              "displayTime": "20h45",
               "eventStartDate": 1483127100,
               "channelName": "Canal+ SPORT",
               "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
@@ -78,7 +73,6 @@
           ]
         },
         {
-          "title": "Mercredi 15 février",
           "events": [
             {
               "displaySport": "Football",

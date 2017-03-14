@@ -23,6 +23,7 @@
       "consumptionPlatform": "HAPI",
       "type": "sport",
       "contentID": "8083948",
+      "sportEventId" : "179",
       "duration": "4920000",
       "title": "Paris Saint-Germain / Barcelone",
       "subtitle": "Match Football",

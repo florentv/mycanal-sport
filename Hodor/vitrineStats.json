@@ -119,20 +119,16 @@
       "type": "statsVitrine",
       "contents": [
         {
-          "type": "slider",
+          "type": "twoBar",
           "title": "Possession (%)",
           "homeTeamScore": "32.7",
-          "homeTeamPercentage": 0.327,
-          "awayTeamScore": "67.3",
-          "awayTeamPercentage": 0.673
+          "awayTeamScore": "67.3"
         },
         {
-          "type": "slider",
+          "type": "twoBar",
           "title": "Tirs",
           "homeTeamScore": "6",
-          "homeTeamPercentage": 0.375,
           "awayTeamScore": "10",
-          "awayTeamPercentage": 0.625,
           "subScore": {
             "title": "Tirs cadrés",
             "homeTeamScore": "3",
@@ -140,12 +136,10 @@
           }
         },
         {
-          "type": "slider",
+          "type": "twoBar",
           "title": "Passes",
           "homeTeamScore": "326",
-          "homeTeamPercentage": 0.327,
           "awayTeamScore": "670",
-          "awayTeamPercentage": 0.673,
           "subScore": {
             "title": "Passes réussies",
             "homeTeamScore": "228 (70%)",
@@ -153,12 +147,10 @@
           }
         },
         {
-          "type": "slider",
+          "type": "twoBar",
           "title": "Hors-jeux",
           "homeTeamScore": "1",
-          "homeTeamPercentage": 0.167,
-          "awayTeamScore": "5",
-          "awayTeamPercentage": 0.833
+          "awayTeamScore": "5"
         }
       ]
     }

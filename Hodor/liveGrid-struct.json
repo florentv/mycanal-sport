@@ -1,0 +1,48 @@
+{
+  "currentPage": {
+    "displayTemplate": "gabaritList",
+    "displayName": "Live TV",
+    "displayType": "tab",
+    "BOName": "Live TV avec multi-live",
+    "BOLayoutName": "KEYNOTE mars 2016 - Live TV v2 - liste des genres (sauf Webapp cause fallback)",
+    "path": "/live-tv/pid6142-live-tv-avec-multi-live.html&params[tab]=/live-tv/pid5170-live-tv-v2-liste-des-chaines.html",
+    "templateMode": "liveTV",
+    "displayOnlyCurrentPrograms": true
+  },
+  "pageParameters": {
+    "displayType": "tab"
+  },
+  "configuration": {
+    "type": "liveTV",
+    "gridDepth": 6000000,
+    "channelMetadataPastDuration": 28800000,
+    "channelMetadataFutureDuration": 28800000,
+    "displayFilters": true,
+    "firstRubric": {
+      "title": "Toutes les chaînes",
+      "displayFilters": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Sélection"
+    },
+    "otherRubrics": {
+      "iPhonePosition": "inList",
+      "iPhoneListSegmentedControlName": "Thématiques"
+    },
+    "features": [
+      {
+        "thematicID": "0$g$2$",
+        "associatedContentID": "5492"
+      },
+      {
+        "thematicID": "0$g$8$",
+        "associatedContentID": "5712"
+      }
+    ],
+    "onInteractivity": [
+      {
+        "type": "sport",
+        "associatedContentID": "5714"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "dataPlayer",
+  "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+  "title": "Mode Expert",
+  "subtitle": "Appui long",
+  "buttonTitle": "Activer le Mode Expert",
+  "text": "Grâce au Mode Expert, profitez des statistiques liées au match que vous regardez : résulats, classement, compositions et statistiques",
+  "contentID": "2590",
+  "onClick": {
+    "displayTemplate": "dataPlayer",
+    "displayName": "Mode Expert",
+    "URLPage": "http://service.mycanal.fr/page/06c5f6c5400c4041f83d2a1a19ab706b/2958.json?cache=300000",
+    "path": "/guide/programme/8300694-the-wall-face-au-mur.html"
+  }
+}
