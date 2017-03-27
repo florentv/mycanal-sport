@@ -1,4 +1,4 @@
-  {
+{
   "currentPage": {
     "BOName": "Slide show VERSAILLES - SAISON 1",
     "displayName": "VERSAILLES - SAISON 1",
@@ -20,10 +20,20 @@
           "contentID": "7731516",
           "idDiffusion": "150421494",
           "URLImage": "http://epg.canal-plus.com/mycanal/img/STD169/JPG/640X360/STD169_36117331.JPG",
-          "title": "Fight+",
-          "subtitle": "Mag. Sport",
+          "title": "Paris SG / Nancy",
+          "subtitle": "Football",
           "startTime": 1481544600,
           "endTime": 1481551200,
+          "displayLiveNotifications": [
+            {
+              "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+              "onClick": {
+                "displayTemplate": "liveNotifications",
+                "displayName": "Notifications Ligue 1",
+                "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json?sportEventId=178"
+              }
+            }
+          ],
           "onClick": {
             "displayTemplate": "liveTVPremium",
             "displayName": "Fight+",

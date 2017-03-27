@@ -1,7 +1,7 @@
-{
+;{
   "currentPage": {
     "displayTemplate": "dataPlayer",
-    "displayName": "PSG / Barcelone",
+    "displayName": "dataPlayer Ligue 1",
     "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html",
     "autorefresh": 30000
   },
@@ -18,82 +18,32 @@
       "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone"
     }
   },
-  "detail": {
-    "informations": {
-      "consumptionPlatform": "HAPI",
-      "type": "sport",
-      "contentID": "8083948",
-      "sportEventId" : "179",
-      "duration": "4920000",
-      "title": "Paris Saint-Germain / Barcelone",
-      "subtitle": "Match Football",
-      "thirdTitle": "CANAL+ SPORT - Jeudi 16 fevrier - 11h05",
-      "editorialTitle": "Match Football, Ligue des Champions, 2014, 1h22",
-      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/49955993",
-      "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_177_20130826.PNG",
-      "fbkWatchTag": "video.other",
-      "summary": "Joueur emblématique de Manchester United où il a évolué durant toute sa carrière, Ryan Giggs a disputé 1027 matches et remporté 34 trophées avant de raccrocher les crampons et d'endosser le costume de General Manager du club mancunien. A travers l'exercice 2013-2014, dernière saison du championnat d'Angleterre qu'il ait disputé, et en compagnie de David Beckham, sir Alex Ferguson, Gary Neville, Diego Maradona ou encore Eric Cantona qui l'ont cotôyé, retour sur l'exceptionnelle carrière de Ryan Giggs, légende galloise des Red Devils et recordman du nombre de matches joués avec Manchester United.",
-      "summaryMedium": "Retour sur l'extraordinaire carrière de Ryan Giggs, joueur emblématique de Manchester United devenu Manager general, à travers la saison 2013-2014 du championnat d'Angleterre.",
-      "sharingURL": "http://mycan.al/epg/8083948",
-      "HD": true,
-      "genre": "Sport",
-      "subGenre": "Match Football",
-      "availability": "Jeudi 16 fevrier - 11h05",
-      "CSA": 1,
-      "availableInVoDOnDevice": true,
-      "availableInD2GOnDevice": true,
-      "isRecordable": false,
-      "EpgId": 177,
-      "URLChannelMetadata": "http://hodor-dev.canalplus.pro/api/v1/channelmetadata/0377eca894ac21bbd258e92ba4f35d6e/177.json?pastDuration=28800&futureDuration=28800",
-      "startTime": 1487239500,
-      "endTime": 1487244300,
-      "programID": 8083948,
-      "diffusionID": 153507575,
-      "audioLanguage": "VF",
-      "personnalities": [
-        {
-          "prefix": "De :",
-          "content": "David Mendelle"
-        }
-      ],
-      "productId": "idKey/ANT_1179580_1",
-      "URLMedias": "http://hodor-dev.canalplus.pro/api/v1/getMediaUrl/0377eca894ac21bbd258e92ba4f35d6e/okapi/ANT_1179580_1.json?operator={operator}",
-      "rediffusions": false,
-      "channelName": "Canal+ SPORT"
-    }
-  },
   "rubriques": [
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportCalendar.json",
-      "displayType": "list",
       "pullToRefresh": true,
-      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14-1.1/pid4537-calendrier-1.1.html",
-      "highlight": false,
-      "default": true
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14-1.1/pid4537-calendrier-1.1.html"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json",
       "pullToRefresh": true,
-      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3964-classement.html",
-      "highlight": false
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3964-classement.html"
     },
     {
       "displayTemplate": "sportComposition",
       "displayName": "Compositions",
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportComposition.json",
-      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html",
-      "highlight": false
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/vitrineStats.json",
-      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html",
-      "highlight": false
+      "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14/pid3983-videos.html"
     }
   ]
 }

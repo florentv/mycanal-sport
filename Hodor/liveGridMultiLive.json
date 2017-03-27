@@ -63,22 +63,20 @@
             "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/detailPageLive.json",
             "path": "/guide/programme/8090901-lens-clermont-foot.html"
           },
-          "onInteractivity": [
-            {
-              "type": "sport",
-              "title": "Expert Mode",
-              "buttonTitle": "Activer le Mode Expert",
-              "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
-              "subtitle": "Activer le Mode Expert",
-              "text": "Profitez des résultats, classements et statistiques en temps réel",
-              "onClick": {
-                "displayTemplate": "dataPlayer",
-                "displayName": "Mode Expert",
-                "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json",
-                "path": "/guide/programme/8300694-the-wall-face-au-mur.html"
-              }
+          "onInteractivity": {
+            "type": "sport",
+            "title": "Expert Mode",
+            "buttonTitle": "Activer le Mode Expert",
+            "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+            "subtitle": "Activer le Mode Expert",
+            "text": "Profitez des résultats, classements et statistiques en temps réel",
+            "onClick": {
+              "displayTemplate": "dataPlayer",
+              "displayName": "Mode Expert",
+              "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json?sportEventID=178",
+              "path": "/guide/programme/8300694-the-wall-face-au-mur.html"
             }
-          ]
+          }
         },
         {
           "idDiffusion": "153507540",

@@ -1,0 +1,183 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Top 14",
+    "pullToRefresh": true,
+    "BOName": "GENERIQUE - Calendrier Top 14 1.1",
+    "BOLayoutName": "GENERIQUE Calendrier Top 14 1.1",
+    "path": "/top-14-1.1/pid4537-calendrier-1.1.html&params[tab]=/ne-pas-toucher-rugby/pid4533-generique-calendrier-top-14-1.1.html"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "RugbyiOS",
+      "prop4": "RugbyiOS - NE PAS TOUCHER - Rugby",
+      "prop5": "RugbyiOS - NE PAS TOUCHER - Rugby - GENERIQUE - Calendrier Top 14 1.1",
+      "eVar31": "GENERIQUE Calendrier Top 14 1.1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "RugbyiOS - NE PAS TOUCHER - Rugby - GENERIQUE - Calendrier Top 14 1.1"
+    }
+  },
+  "strates": [
+    {
+      "groups": [
+        {
+          "title": "Samedi 20 août",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1471718700,
+              "displayTime": "20h45",
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Bordeaux-Bègles",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 15,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Racing 92",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/41.png",
+                "score": 9
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1471718700,
+              "displayTime": "20h45",
+              "homeTeam": {
+                "displayName": "La Rochelle",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/47.png",
+                "score": 30
+              },
+              "awayTeam": {
+                "displayName": "Clermont",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2250.png",
+                "score": 30,
+                "winner": true
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1471718700,
+              "displayTime": "20h45",
+              "homeTeam": {
+                "displayName": "Stade Francais",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/1600.png",
+                "score": 54,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Grenoble",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/48.png",
+                "score": 20
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1471718700,
+              "displayTime": "20h45",
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Castres",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2050.png",
+                "score": 28,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Pau",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/3450.png",
+                "score": 11
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1471718700,
+              "displayTime": "20h45",
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Lyon",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+                "score": 15,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Brive",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/3500.png",
+                "score": 15
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1471718700,
+              "displayTime": "20h45",
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Toulouse",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2350.png",
+                "score": 20,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Montpellier",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4950.png",
+                "score": 12
+              }
+            }
+          ]
+        },
+        {
+          "title": "Dimanche 21 août",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1471796100,
+              "displayTime": "18h15",
+              "tvChannel": "Canal+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/1.png",
+              "homeTeam": {
+                "displayName": "Bayonne",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
+                "score": 28,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Toulon",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/39.png",
+                "score": 23
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Bayonne / Toulon",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317011&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317011&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

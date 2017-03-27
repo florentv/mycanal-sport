@@ -1,0 +1,1476 @@
+{
+  "token": "a888d820653360d636ebd505e0035f3d",
+  "tokenValue": {
+    "profils": [
+      "958",
+      "1030",
+      "1031",
+      "1072",
+      "1130",
+      "1172",
+      "1310",
+      "1450",
+      "1631",
+      "1637",
+      "1638",
+      "1650",
+      "1656",
+      "1657",
+      "1659",
+      "1660",
+      "1662",
+      "1675",
+      "1676",
+      "1678",
+      "1685",
+      "1687",
+      "1689",
+      "1692",
+      "1710",
+      "1790",
+      "1810",
+      "1890",
+      "1891",
+      "1970",
+      "2050",
+      "2190",
+      "2191",
+      "2192",
+      "2210",
+      "2211",
+      "2370",
+      "2544",
+      "2570",
+      "2670",
+      "2710"
+    ],
+    "macros": [
+      "LVTV_CP",
+      "TV_CS",
+      "TV_CP",
+      "SERVICES",
+      "LVTV_CS",
+      "ALD_CP",
+      "ALD_CS"
+    ],
+    "micros": [
+      "RALD_PANO",
+      "RALD_OCS",
+      "RALD_CS_BASIC",
+      "RALD_MC",
+      "RALD_DIS_CM",
+      "RALD_CRESC",
+      "RALD_CRESC_AX",
+      "RALD_MELODY",
+      "RALD_100SPORT",
+      "RALD_CINEP",
+      "RALD_PARATCM",
+      "RALD_CINE_X",
+      "RALD_OCS_X",
+      "RALD_CS_BASIC_X",
+      "RALD_DECOUVERTE",
+      "RALD_PANO_ABO",
+      "RALD_SCIENCEVIE",
+      "RALD_CS_ACC_TV",
+      "RALD_SCLUB",
+      "CP_ALD",
+      "CP_ALD_X",
+      "CP_ALD_CIN",
+      "CP_ALD_SPT",
+      "CP_ALD_SER",
+      "CP_ALD_FAM",
+      "RALD_CP_ACC_TV",
+      "RMC_DEV10",
+      "RMC_D2G",
+      "RMC_TV",
+      "READ_TR",
+      "RGOLFP",
+      "RRUGBYP",
+      "RMNJ_CS",
+      "RMULTI_ECR_CP",
+      "RMULTI_ECR_CS",
+      "RAPP_FOOT",
+      "RAPP_RUGBY",
+      "RAPP_F1",
+      "RMTV_CS",
+      "RTV_BASIC_AX",
+      "RTV_CP_BASIC_AHX",
+      "RTV_CS_MP_AX",
+      "RTV_PANO",
+      "RTV_SCINE_AX",
+      "RTV_CLASSIX",
+      "RTV_XP",
+      "RTV_CRESC_AX",
+      "RTV_OCS_AX",
+      "RTV_BEIN",
+      "RCPL_TVOD"
+    ],
+    "matchedMicros": [
+      "CP_ALD",
+      "CP_ALD_CIN",
+      "CP_ALD_FAM",
+      "CP_ALD_SER",
+      "CP_ALD_SPT",
+      "CP_ALD_X",
+      "RALD_100SPORT",
+      "RALD_CINEP",
+      "RALD_CINE_X",
+      "RALD_CRESC",
+      "RALD_CRESC_AX",
+      "RALD_CS_BASIC",
+      "RALD_CS_BASIC_X",
+      "RALD_DECOUVERTE",
+      "RALD_DIS_CM",
+      "RALD_MC",
+      "RALD_MELODY",
+      "RALD_OCS",
+      "RALD_OCS_X",
+      "RALD_PANO",
+      "RALD_PANO_ABO",
+      "RALD_PARATCM",
+      "RALD_SCLUB",
+      "READ_TR",
+      "RMC_D2G",
+      "RMC_TV",
+      "RTV_BASIC_AX",
+      "RTV_BEIN",
+      "RTV_CLASSIX",
+      "RTV_CRESC_AX",
+      "RTV_CS_MP_AX",
+      "RTV_OCS_AX",
+      "RTV_PANO",
+      "RTV_SCINE_AX",
+      "RTV_XP",
+      "RALD_CP_PROSPECT"
+    ],
+    "matchedMicrosALD": [
+      "CP_ALD",
+      "CP_ALD_CIN",
+      "CP_ALD_FAM",
+      "CP_ALD_SER",
+      "CP_ALD_SPT",
+      "CP_ALD_X",
+      "RALD_100SPORT",
+      "RALD_CINEP",
+      "RALD_CINE_X",
+      "RALD_CRESC",
+      "RALD_CRESC_AX",
+      "RALD_CS_BASIC",
+      "RALD_CS_BASIC_X",
+      "RALD_DECOUVERTE",
+      "RALD_DIS_CM",
+      "RALD_MC",
+      "RALD_MELODY",
+      "RALD_OCS",
+      "RALD_OCS_X",
+      "RALD_PANO",
+      "RALD_PANO_ABO",
+      "RALD_PARATCM",
+      "RALD_SCLUB",
+      "RMC_D2G",
+      "RMC_TV",
+      "RALD_CP_PROSPECT"
+    ],
+    "matchedMicrosOkapiALD": [
+      "CP_ALD",
+      "CP_ALD_CIN",
+      "CP_ALD_FAM",
+      "CP_ALD_SER",
+      "CP_ALD_SPT",
+      "CP_ALD_X",
+      "RALD_100SPORT",
+      "RALD_CINEP",
+      "RALD_CINE_X",
+      "RALD_CRESC",
+      "RALD_CRESC_AX",
+      "RALD_CS_BASIC",
+      "RALD_CS_BASIC_X",
+      "RALD_DECOUVERTE",
+      "RALD_DIS_CM",
+      "RALD_MC",
+      "RALD_MELODY",
+      "RALD_OCS",
+      "RALD_OCS_X",
+      "RALD_PANO",
+      "RALD_PANO_ABO",
+      "RALD_PARATCM",
+      "RALD_SCLUB",
+      "RMC_D2G",
+      "RMC_TV",
+      "RTV_BASIC_AX",
+      "RTV_BEIN",
+      "RTV_CLASSIX",
+      "RTV_CRESC_AX",
+      "RTV_CS_MP_AX",
+      "RTV_OCS_AX",
+      "RTV_PANO",
+      "RTV_SCINE_AX",
+      "RTV_XP",
+      "RALD_CP_PROSPECT"
+    ],
+    "isLogged": true,
+    "pds": {
+      "epgIds": [
+        1,
+        2,
+        3,
+        7,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        25,
+        26,
+        30,
+        48,
+        51,
+        65,
+        68,
+        76,
+        78,
+        81,
+        83,
+        84,
+        85,
+        89,
+        90,
+        92,
+        93,
+        94,
+        95,
+        101,
+        103,
+        106,
+        112,
+        117,
+        119,
+        126,
+        127,
+        142,
+        154,
+        165,
+        166,
+        167,
+        173,
+        177,
+        184,
+        185,
+        196,
+        198,
+        200,
+        210,
+        212,
+        215,
+        216,
+        217,
+        223,
+        224,
+        231,
+        240,
+        245,
+        246,
+        247,
+        248,
+        257,
+        259,
+        265,
+        268,
+        270,
+        274,
+        282,
+        284,
+        287,
+        290,
+        292,
+        294,
+        296,
+        298,
+        301,
+        302,
+        310,
+        312,
+        313,
+        322,
+        324,
+        328,
+        331,
+        336,
+        340,
+        341,
+        342,
+        352,
+        356,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        372,
+        374,
+        378,
+        380,
+        381,
+        383,
+        384,
+        396,
+        398,
+        407,
+        410,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        426,
+        434,
+        436,
+        440,
+        450,
+        455,
+        462,
+        464,
+        466,
+        467,
+        468,
+        470,
+        477,
+        480,
+        481,
+        483,
+        484,
+        486,
+        487,
+        489,
+        494,
+        502,
+        503,
+        504,
+        505,
+        513,
+        516,
+        518,
+        520,
+        521,
+        524,
+        525,
+        526,
+        527,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        580,
+        581,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        591,
+        592,
+        593,
+        595,
+        596,
+        597,
+        598,
+        599,
+        601,
+        603,
+        604,
+        605,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        619,
+        620,
+        628,
+        629,
+        632,
+        633,
+        635,
+        636,
+        637,
+        638,
+        639,
+        641,
+        643,
+        645,
+        650,
+        651,
+        652,
+        653,
+        656,
+        670,
+        672,
+        674,
+        677,
+        678,
+        681,
+        682,
+        683,
+        970,
+        971,
+        972,
+        973,
+        974,
+        975,
+        1017
+      ],
+      "epgIdsCat5": [],
+      "epgIdsHybrid": []
+    },
+    "vecteur": 16000,
+    "application": {
+      "device": {
+        "DEVICE_ID": "342",
+        "DEVICE_LABEL": "Apple TV",
+        "DEVICE_KEY": "tvos",
+        "DEVICE_TYPE_ID": "2",
+        "DEVICE_ATG_ECK": "tvos",
+        "DEVICE_VECTEUR_ID": "13",
+        "SITE_ID": "4",
+        "DEVICE_VERSION_SUP": "1.5",
+        "DEVICE_LOGO_BG_COLOR": "FN",
+        "DEVICE_OMNITURE_CHANNEL": "MyCtvOS",
+        "DEVICE_OPERATOR_OKAPI": "tvos"
+      },
+      "paired": false
+    },
+    "token": "a888d820653360d636ebd505e0035f3d",
+    "abtesting": {
+      "population": 0
+    },
+    "activated": true,
+    "activatedSMS": true,
+    "geozone": "1",
+    "channels": {
+      "hapi": [
+        {
+          "channelID": "40027",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Action",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5925.json?cache=300000",
+            "BOName": "Action",
+            "perso": "playlist",
+            "path": "/chaines/action"
+          }
+        },
+        {
+          "channelID": "40045",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "Melody",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5943.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "Melody",
+            "BOLayoutName": "Csat Melody HAPI",
+            "path": "/chaines/melody"
+          }
+        },
+        {
+          "channelID": "40068",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "ARTE +7",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5947.json?cache=300000",
+            "displayType": "tab",
+            "BOName": "ARTE +7",
+            "BOLayoutName": "CSAT ARTE +7 HAPI",
+            "path": "/chaines/arte-7"
+          }
+        },
+        {
+          "channelID": "40033",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "Pass Séries",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5883.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "Pass Series",
+            "BOLayoutName": "Csat Pass Series HAPI",
+            "path": "/theme-hapi/chaines/pid5883-pass-series.html"
+          }
+        },
+        {
+          "channelID": "40008",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "Ciné+",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5911.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "Cine+",
+            "BOLayoutName": "[Mobile/Webapp] Chaine Cine+ HAPI",
+            "path": "/chaines/cineplus"
+          }
+        },
+        {
+          "channelID": "40069",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "Les chaines Planète",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5963.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "Les chaines Planete",
+            "BOLayoutName": "[Mobile/Webapp] Les chaines Planete HAPI",
+            "path": "/chaines/les-chaines-planete"
+          }
+        },
+        {
+          "channelID": "40047",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "OCS GO",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5937.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "OCS GO",
+            "BOLayoutName": "[Mobile/webapp] Chaine OCS GO HAPI",
+            "path": "/chaines/ocs-go"
+          }
+        },
+        {
+          "channelID": "40085",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "M6 Music",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5945.json?cache=300000",
+            "displayType": "tab",
+            "BOName": "M6 Music",
+            "BOLayoutName": "M6 Music HAPI",
+            "path": "/chaines/m6-music"
+          }
+        },
+        {
+          "channelID": "40058",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Ushuaia TV",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5969.json?cache=300000",
+            "BOName": "Ushuaia TV",
+            "perso": "playlist",
+            "path": "/chaines/ushuaia-tv"
+          }
+        },
+        {
+          "channelID": "40101",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "RMC Découverte",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5968.json?cache=300000",
+            "BOName": "RMC Decouverte",
+            "perso": "playlist",
+            "path": "/chaines/rmc-decouverte"
+          }
+        },
+        {
+          "channelID": "40017",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Trek",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5966.json?cache=300000",
+            "BOName": "Trek",
+            "perso": "playlist",
+            "path": "/chaines/trek"
+          }
+        },
+        {
+          "channelID": "40100",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Sundance Channel",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5965.json?cache=300000",
+            "BOName": "Sundance Channel",
+            "perso": "playlist",
+            "path": "/chaines/sundance-channel"
+          }
+        },
+        {
+          "channelID": "40025",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Mangas",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5959.json?cache=300000",
+            "BOName": "Mangas",
+            "perso": "playlist",
+            "path": "/chaines/mangas"
+          }
+        },
+        {
+          "channelID": "40016",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Eurosport",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5957.json?cache=300000",
+            "BOName": "Eurosport",
+            "perso": "playlist",
+            "path": "/chaines/eurosport"
+          }
+        },
+        {
+          "channelID": "40054",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Disney XD",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5955.json?cache=300000",
+            "BOName": "Disney XD",
+            "perso": "playlist",
+            "path": "/chaines/disney-xd"
+          }
+        },
+        {
+          "channelID": "40018",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Science et Vie",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5952.json?cache=300000",
+            "BOName": "Science et Vie",
+            "perso": "playlist",
+            "path": "/chaines/science-et-vie"
+          }
+        },
+        {
+          "channelID": "40029",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "La chaîne du Père Noël",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5951.json?cache=300000",
+            "BOName": "La chaine du Pere Noel",
+            "perso": "playlist",
+            "path": "/chaines/pere-noel"
+          }
+        },
+        {
+          "channelID": "40020",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "AB Moteurs",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5950.json?cache=300000",
+            "BOName": "AB Moteurs",
+            "perso": "playlist",
+            "path": "/chaines/ab-moteurs"
+          }
+        },
+        {
+          "channelID": "40097",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "MTV HITS",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5949.json?cache=300000",
+            "BOName": "MTV HITS",
+            "perso": "playlist",
+            "path": "/chaines/mtv-hits"
+          }
+        },
+        {
+          "channelID": "40098",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "BET",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5948.json?cache=300000",
+            "BOName": "BET",
+            "perso": "playlist",
+            "path": "/chaines/bet"
+          }
+        },
+        {
+          "channelID": "40024",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Nickelodeon 4teen",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5946.json?cache=300000",
+            "BOName": "Nickelodeon 4teen",
+            "perso": "playlist",
+            "path": "/chaines/nickelodeon-4teen"
+          }
+        },
+        {
+          "channelID": "40001",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Disney English",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5944.json?cache=300000",
+            "BOName": "Disney English",
+            "perso": "playlist",
+            "path": "/chaines/disney-english"
+          }
+        },
+        {
+          "channelID": "40023",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Kombat sport",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5942.json?cache=300000",
+            "BOName": "Kombat sport",
+            "perso": "playlist",
+            "path": "/chaines/kombat-sport"
+          }
+        },
+        {
+          "channelID": "40000",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "13ème Rue",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5940.json?cache=300000",
+            "BOName": "13eme Rue",
+            "perso": "playlist",
+            "path": "/chaines/13eme-rue"
+          }
+        },
+        {
+          "channelID": "40090",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "AB1",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5939.json?cache=300000",
+            "BOName": "AB1",
+            "perso": "playlist",
+            "path": "/chaines/ab1"
+          }
+        },
+        {
+          "channelID": "40044",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "RTL9",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5936.json?cache=300000",
+            "BOName": "RTL9",
+            "perso": "playlist",
+            "path": "/chaines/rtl9"
+          }
+        },
+        {
+          "channelID": "40039",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Boing",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5935.json?cache=300000",
+            "BOName": "Boing",
+            "perso": "playlist",
+            "path": "/chaines/boing"
+          }
+        },
+        {
+          "channelID": "40036",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Seasons",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5934.json?cache=300000",
+            "BOName": "Seasons",
+            "perso": "playlist",
+            "path": "/chaines/seasons"
+          }
+        },
+        {
+          "channelID": "40082",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "France 4",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5931.json?cache=300000",
+            "BOName": "France 4",
+            "perso": "playlist",
+            "path": "/chaines/france4"
+          }
+        },
+        {
+          "channelID": "40080",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "France O",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5928.json?cache=300000",
+            "BOName": "France O",
+            "perso": "playlist",
+            "path": "/chaines/france-o"
+          }
+        },
+        {
+          "channelID": "40067",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Gulli",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5924.json?cache=300000",
+            "BOName": "Gulli",
+            "perso": "playlist",
+            "path": "/chaines/gulli"
+          }
+        },
+        {
+          "channelID": "40041",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Nickelodeon",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5923.json?cache=300000",
+            "BOName": "Nickelodeon",
+            "perso": "playlist",
+            "path": "/chaines/nickelodeon"
+          }
+        },
+        {
+          "channelID": "40007",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Disney Junior",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5922.json?cache=300000",
+            "BOName": "Disney Junior",
+            "perso": "playlist",
+            "path": "/chaines/disney-junior"
+          }
+        },
+        {
+          "channelID": "40061",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Planète+ A&E",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5921.json?cache=300000",
+            "BOName": "Planete+ A&E",
+            "perso": "playlist",
+            "path": "/chaines/planeteplus-ae"
+          }
+        },
+        {
+          "channelID": "40071",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Planète+ CI",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5920.json?cache=300000",
+            "BOName": "Planete+ CI",
+            "perso": "playlist",
+            "path": "/chaines/planeteplus-ci"
+          }
+        },
+        {
+          "channelID": "40002",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "C8",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5918.json?cache=300000",
+            "BOName": "C8",
+            "perso": "playlist",
+            "path": "/c8/"
+          }
+        },
+        {
+          "channelID": "40062",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Trace Urban",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5917.json?cache=300000",
+            "BOName": "Trace Urban",
+            "perso": "playlist",
+            "path": "/theme-hapi/chaines/pid5917-trace-urban.html"
+          }
+        },
+        {
+          "channelID": "40064",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Télétoon +",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5916.json?cache=300000",
+            "BOName": "Teletoon +",
+            "perso": "playlist",
+            "path": "/theme-hapi/chaines/pid5916-teletoon.html"
+          }
+        },
+        {
+          "channelID": "40066",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Nickelodeon Junior",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5915.json?cache=300000",
+            "BOName": "Nickelodeon Junior",
+            "perso": "playlist",
+            "path": "/chaines/nickelodeon-junior"
+          }
+        },
+        {
+          "channelID": "40077",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "France 2",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5900.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "France 2",
+            "BOLayoutName": "[Mobile/Webapp] France 2 HAPI",
+            "path": "/chaines/france2"
+          }
+        },
+        {
+          "channelID": "40042",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "MTV",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5914.json?cache=300000",
+            "BOName": "MTV",
+            "perso": "playlist",
+            "path": "/chaines/mtv"
+          }
+        },
+        {
+          "channelID": "40005",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "Discovery Education",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5903.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "Discovery Education",
+            "BOLayoutName": "[Mobile/Webapp] Chaine Discovery Education HAPI",
+            "path": "/theme-hapi/chaines/pid5903-discovery-education.html"
+          }
+        },
+        {
+          "channelID": "40004",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "Comédie +",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5880.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "Comedie+",
+            "BOLayoutName": "[Mobile/Webapp] Comedie+ Hapi",
+            "path": "/theme-hapi/chaines/pid5880-comedie.html"
+          }
+        },
+        {
+          "channelID": "40059",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Equidia",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5913.json?cache=300000",
+            "BOName": "Equidia",
+            "perso": "playlist",
+            "path": "/chaines/equidia"
+          }
+        },
+        {
+          "channelID": "40031",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Cartoon Network",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5910.json?cache=300000",
+            "BOName": "Cartoon Network",
+            "perso": "playlist",
+            "path": "/chaines/cartoon-network"
+          }
+        },
+        {
+          "channelID": "40057",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Voyage",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5909.json?cache=300000",
+            "BOName": "Voyage",
+            "perso": "playlist",
+            "path": "/chaines/voyage"
+          }
+        },
+        {
+          "channelID": "40032",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Canal J",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5908.json?cache=300000",
+            "BOName": "Canal J",
+            "perso": "playlist",
+            "path": "/chaines/canal-j"
+          }
+        },
+        {
+          "channelID": "40030",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Boomerang",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5907.json?cache=300000",
+            "BOName": "Boomerang",
+            "perso": "playlist",
+            "path": "/chaines/boomerang"
+          }
+        },
+        {
+          "channelID": "40079",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Nat Geo Wild",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5906.json?cache=300000",
+            "BOName": "Nat Geo Wild",
+            "perso": "playlist",
+            "path": "/chaines/nat-geo-wild"
+          }
+        },
+        {
+          "channelID": "40074",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "National Geographic Channel",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5905.json?cache=300000",
+            "BOName": "National Geographic Channel",
+            "perso": "playlist",
+            "path": "/chaines/national-geographic"
+          }
+        },
+        {
+          "channelID": "40022",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Discovery Science",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5902.json?cache=300000",
+            "BOName": "Discovery Science",
+            "perso": "playlist",
+            "path": "/chaines/discovery-science"
+          }
+        },
+        {
+          "channelID": "40051",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Syfy",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5901.json?cache=300000",
+            "BOName": "Syfy",
+            "perso": "playlist",
+            "path": "/chaines/syfy"
+          }
+        },
+        {
+          "channelID": "40003",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "C Star",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5899.json?cache=300000",
+            "BOName": "C Star",
+            "perso": "playlist",
+            "path": "/chaines/cstar"
+          }
+        },
+        {
+          "channelID": "40063",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Piwi+",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5897.json?cache=300000",
+            "BOName": "Piwi+",
+            "perso": "playlist",
+            "path": "/chaines/piwi"
+          }
+        },
+        {
+          "channelID": "40035",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Tiji",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5896.json?cache=300000",
+            "BOName": "Tiji",
+            "perso": "playlist",
+            "path": "/chaines/tiji"
+          }
+        },
+        {
+          "channelID": "40026",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Histoire",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5895.json?cache=300000",
+            "BOName": "Histoire",
+            "perso": "playlist",
+            "path": "/chaines/histoire"
+          }
+        },
+        {
+          "channelID": "40050",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Discovery Channel",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5894.json?cache=300000",
+            "BOName": "Discovery Channel",
+            "perso": "playlist",
+            "path": "/chaines/discovery-channel"
+          }
+        },
+        {
+          "channelID": "40034",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Planète+",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5893.json?cache=300000",
+            "BOName": "Planete+",
+            "perso": "playlist",
+            "path": "/chaines/planete-plus"
+          }
+        },
+        {
+          "channelID": "40053",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "W9",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5891.json?cache=300000",
+            "BOName": "W9",
+            "perso": "playlist",
+            "path": "/chaines/w9"
+          }
+        },
+        {
+          "channelID": "40081",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Paris Première",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5890.json?cache=300000",
+            "BOName": "Paris Premiere",
+            "perso": "playlist",
+            "path": "/chaines/paris-premiere"
+          }
+        },
+        {
+          "channelID": "40006",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "J-One",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5889.json?cache=300000",
+            "BOName": "J-One",
+            "perso": "playlist",
+            "path": "/chaines/j-one"
+          }
+        },
+        {
+          "channelID": "40028",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Teva",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5888.json?cache=300000",
+            "BOName": "Teva",
+            "perso": "playlist",
+            "path": "/chaines/teva"
+          }
+        },
+        {
+          "channelID": "40015",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Game One",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5887.json?cache=300000",
+            "BOName": "Game One",
+            "perso": "playlist",
+            "path": "/chaines/game-one"
+          }
+        },
+        {
+          "channelID": "40049",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "MCM",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5886.json?cache=300000",
+            "BOName": "MCM",
+            "perso": "playlist",
+            "path": "/chaines/mcm"
+          }
+        },
+        {
+          "channelID": "40046",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "E!",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5885.json?cache=300000",
+            "BOName": "E!",
+            "perso": "playlist",
+            "path": "/chaines/e"
+          }
+        },
+        {
+          "channelID": "40038",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "ELLE Girl",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5884.json?cache=300000",
+            "BOName": "ELLE Girl",
+            "perso": "playlist",
+            "path": "/chaines/elle-girl"
+          }
+        },
+        {
+          "channelID": "40094",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Serieclub",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5882.json?cache=300000",
+            "BOName": "Serieclub",
+            "perso": "playlist",
+            "path": "/chaines/serieclub"
+          }
+        },
+        {
+          "channelID": "40055",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Disney Cinéma",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5879.json?cache=300000",
+            "BOName": "Disney Cinema",
+            "perso": "playlist",
+            "path": "/chaines/disney-cinema"
+          }
+        },
+        {
+          "channelID": "40096",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "TCM Cinéma",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5878.json?cache=300000",
+            "BOName": "TCM Cinema",
+            "perso": "playlist",
+            "path": "/chaines/tcm-cinema"
+          }
+        },
+        {
+          "channelID": "40056",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "TV Breizh",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5877.json?cache=300000",
+            "BOName": "TV Breizh",
+            "perso": "playlist",
+            "path": "/chaines/tv-breizh"
+          }
+        },
+        {
+          "channelID": "40010",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Paramount channel",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5876.json?cache=300000",
+            "BOName": "Paramount channel",
+            "perso": "playlist",
+            "path": "/chaines/paramount"
+          }
+        },
+        {
+          "channelID": "40009",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Disney Channel",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5898.json?cache=300000",
+            "BOName": "Disney Channel HAPI",
+            "perso": "playlist",
+            "path": "/theme-hapi/chaines-hapi/pid5898-disney-channel-hapi.html"
+          }
+        },
+        {
+          "channelID": "40115",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Toonami",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5967.json?cache=300000",
+            "BOName": "Toonami",
+            "BOLayoutName": "Toonami HAPI",
+            "perso": "playlist",
+            "path": "/chaines/toonami"
+          }
+        },
+        {
+          "channelID": "40114",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Viceland",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5941.json?cache=300000",
+            "BOName": "Viceland",
+            "BOLayoutName": "Viceland HAPI",
+            "perso": "playlist",
+            "path": "/chaines/viceland"
+          }
+        },
+        {
+          "channelID": "40052",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "CANAL+",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5961.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "CANAL+",
+            "BOLayoutName": "[Chaine_canal+ Mob/Tab/webapp] HAPI",
+            "path": "/chaines/canalplus"
+          }
+        },
+        {
+          "channelID": "40089",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "MCS",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5929.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "MCS HAPI",
+            "BOLayoutName": "[Chaine_MCS Mobile_Tablette] HAPI",
+            "path": "/theme-hapi/chaines-hapi5/pid5929-mcs-hapi.html"
+          }
+        },
+        {
+          "channelID": "40083",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "France 5",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5926.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "France 5",
+            "BOLayoutName": "[Chaine_France 5 Mobile_Tablette] HAPI",
+            "path": "/chaines/france5"
+          }
+        },
+        {
+          "channelID": "40078",
+          "onClick": {
+            "displayTemplate": "gabaritList",
+            "displayName": "France 3",
+            "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/5932.json?cache=7200000",
+            "displayType": "tab",
+            "BOName": "France 3 HAPI",
+            "BOLayoutName": "[Chaine_France 3 Mobile_Tablette] HAPI",
+            "path": "/theme-hapi/chaines-hapi5/pid5932-france-3-hapi.html"
+          }
+        }
+      ]
+    },
+    "onExpertMode": [
+      {
+        "type": "sport",
+        "sportID": "2",
+        "sportCompetitionID": "1",
+        "title": "Expert Mode",
+        "buttonTitle": "Activer le Mode Expert",
+        "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+        "subtitle": "Activer le Mode Expert",
+        "text": "Profitez des résultats, classements et statistiques en temps réel",
+        "onClick": {
+          "displayTemplate": "dataPlayer",
+          "displayName": "Mode Expert Ligue 1",
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json",
+          "path": "..."
+        }
+      },
+      {
+        "type": "sport",
+        "sportID": 2,
+        "sportCompetitionID": "2",
+        "title": "Expert Mode",
+        "buttonTitle": "Activer le Mode Expert",
+        "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+        "subtitle": "Activer le Mode Expert",
+        "text": "Profitez des résultats, classements et statistiques en temps réel",
+        "onClick": {
+          "displayTemplate": "dataPlayer",
+          "displayName": "Mode Expert Champions League",
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json",
+          "path": "..."
+        }
+      }
+    ],
+    "onLiveNotifications": [
+      {
+        "type": "sport",
+        "sportID": "2",
+        "sportCompetitionID": "1",
+        "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+        "onClick": {
+          "displayTemplate": "sportNotifications",
+          "displayName": "Notifications Ligue 1",
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json"
+        }
+      },
+      {
+        "type": "sport",
+        "sportID": "3",
+        "sportCompetitionID": "2",
+        "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+        "onClick": {
+          "displayTemplate": "sportNotifications",
+          "displayName": "Notifications Top 14",
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json"
+        }
+      }
+    ]
+  },
+  "arborescence": [
+    {
+      "displayName": "Live TV",
+      "picto": "LiveTV",
+      "startPage": true,
+      "onClick": {
+        "displayTemplate": "gabaritList",
+        "displayName": "Live TV",
+        "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/6142.json?cache=28800000",
+        "displayType": "tab",
+        "templateMode": "liveTV",
+        "BOName": "Live TV avec multi-live",
+        "BOLayoutName": "KEYNOTE mars 2016 - Live TV v2 - liste des genres (sauf Webapp cause fallback)",
+        "path": "/live-tv/pid6142-live-tv-avec-multi-live.html"
+      }
+    },
+    {
+      "displayName": "A La Demande",
+      "picto": "OnDemand",
+      "onClick": {
+        "displayTemplate": "landing",
+        "displayName": "CANAL à la demande",
+        "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/4578.json?cache=600000",
+        "BOName": "Home ALD ATG",
+        "BOLayoutName": "[Transverse ALD] Landing - Abonne (Apple TV, Android TV & Android) ATG",
+        "path": "/theme-atg/pid4578-home-ald-atg.html"
+      }
+    },
+    {
+      "displayName": "En plus",
+      "picto": "None",
+      "onClick": {
+        "displayTemplate": "textList",
+        "displayName": "En plus",
+        "URLPage": "http://service.mycanal.fr/pagestructure/a888d820653360d636ebd505e0035f3d/500.json?cache=300000",
+        "BOName": "Divers",
+        "BOLayoutName": "En plus (Apple TV/Android TV)",
+        "path": "/pid500-divers.html"
+      }
+    }
+  ]
+}

@@ -3,6 +3,7 @@
     "displayTemplate": "sportCalendar",
     "displayName": "Calendrier",
     "pullToRefresh": true,
+    "autorefresh": 30000,
     "path": "/ne-pas-toucher-rugby/pid3970-generique-popin-resultats.html&params[tab]=/ne-pas-toucher-rugby/pid4531-generique-calendrier-resultats.html"
   },
   "tracking": {

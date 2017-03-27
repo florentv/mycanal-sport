@@ -1,0 +1,550 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Live",
+    "pullToRefresh": true,
+    "BOName": "Live 1.1",
+    "BOLayoutName": "Live 1.1",
+    "path": "/pid4501-live-1.1.html"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "RugbyiOS",
+      "prop4": "RugbyiOS - Live",
+      "prop5": "RugbyiOS - Live - 1.1",
+      "eVar31": "Live 1.1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "RugbyiOS - Live - 1.1"
+    }
+  },
+  "strates": [
+    {
+      "title": "Samedi 11 mars",
+      "date": 1489253400,
+      "groups": [
+        {
+          "title": "Top 14 - Journée 20",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "18h30",
+              "eventStartDate": 1489253400,
+              "tvChannel": "Rugby+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/5.png",
+              "homeTeam": {
+                "displayName": "Bordeaux-Bègles",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 46,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Grenoble",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/48.png",
+                "score": 14
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Bordeaux-Bègles / Grenoble",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317201&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317201&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "18h30",
+              "eventStartDate": 1489253400,
+              "tvChannel": "Rugby+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/5.png",
+              "homeTeam": {
+                "displayName": "Toulon",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/39.png",
+                "score": 82,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Bayonne",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
+                "score": 14
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Toulon / Bayonne",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317207&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317207&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "18h30",
+              "eventStartDate": 1489253400,
+              "tvChannel": "Rugby+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/5.png",
+              "homeTeam": {
+                "displayName": "Lyon",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+                "score": 35,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Stade Francais",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/1600.png",
+                "score": 33
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Lyon / Stade Francais",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317204&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317204&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "19h00",
+              "eventStartDate": 1489255200,
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Brive",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/3500.png",
+                "score": 21,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Toulouse",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2350.png",
+                "score": 19
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Brive / Toulouse",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317202&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317202&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "21h00",
+              "eventStartDate": 1489262400,
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Racing 92",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/41.png",
+                "score": 15
+              },
+              "awayTeam": {
+                "displayName": "La Rochelle",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/47.png",
+                "score": 38,
+                "winner": true
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Racing 92 / La Rochelle",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317206&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317206&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dimanche 12 mars",
+      "date": 1489324500,
+      "groups": [
+        {
+          "title": "Top 14 - Journée 20",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "12h30",
+              "eventStartDate": 1489318200,
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Pau",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/3450.png",
+                "score": 18,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Castres",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2050.png",
+                "score": 12
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Pau / Castres",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317205&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317205&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "17h00",
+              "eventStartDate": 1489334400,
+              "tvChannel": "Canal+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/1.png",
+              "homeTeam": {
+                "displayName": "Clermont",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2250.png",
+                "score": 19
+              },
+              "awayTeam": {
+                "displayName": "Montpellier",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4950.png",
+                "score": 28,
+                "winner": true
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Clermont / Montpellier",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317203&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317203&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Samedi 18 mars",
+      "date": 1489866300,
+      "groups": [
+        {
+          "title": "Top 14 - Journée 21",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "18h30",
+              "eventStartDate": 1489858200,
+              "tvChannel": "Rugby+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/5.png",
+              "homeTeam": {
+                "displayName": "Clermont",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2250.png",
+                "score": 65,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Pau",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/3450.png",
+                "score": 13
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Clermont / Pau",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317213&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317213&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "18h30",
+              "eventStartDate": 1489858200,
+              "tvChannel": "Rugby+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/5.png",
+              "homeTeam": {
+                "displayName": "Bayonne",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
+                "score": 24,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Bordeaux-Bègles",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 20
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Bayonne / Bordeaux-Bègles",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317211&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317211&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "20h45",
+              "eventStartDate": 1489866300,
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "La Rochelle",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/47.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Brive",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/3500.png",
+                "score": 17
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "La Rochelle / Brive",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317215&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317215&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hier",
+      "date": 1489923000,
+      "groups": [
+        {
+          "title": "Top 14 - Journée 21",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "12h30",
+              "eventStartDate": 1489923000,
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Toulouse",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2350.png",
+                "score": 42,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Lyon",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+                "score": 26
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Toulouse / Lyon",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317217&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317217&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "displayTime": "17h00",
+              "eventStartDate": 1489939200,
+              "tvChannel": "Canal+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/1.png",
+              "homeTeam": {
+                "displayName": "Grenoble",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/48.png",
+                "score": 23
+              },
+              "awayTeam": {
+                "displayName": "Toulon",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/39.png",
+                "score": 23,
+                "winner": true
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Grenoble / Toulon",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317214&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317214&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Samedi 25 mars",
+      "date": 1490463000,
+      "groups": [
+        {
+          "title": "Top 14 - Journée 22",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "before",
+              "displayStatus": "A venir",
+              "displayTime": "14h45",
+              "eventStartDate": 1490449500,
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Racing 92",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/41.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Clermont",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2250.png",
+                "score": 0
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Racing 92 / Clermont",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317227&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317227&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "before",
+              "displayStatus": "A venir",
+              "displayTime": "20h45",
+              "eventStartDate": 1490471100,
+              "tvChannel": "Canal+ SPORT",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/2.png",
+              "homeTeam": {
+                "displayName": "Bordeaux-Bègles",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Toulouse",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/2350.png",
+                "score": 0
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Bordeaux-Bègles / Toulouse",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317221&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317221&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dimanche 26 mars",
+      "date": 1490554800,
+      "groups": [
+        {
+          "title": "Top 14 - Journée 22",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "before",
+              "displayStatus": "A venir",
+              "displayTime": "17h00",
+              "eventStartDate": 1490540400,
+              "tvChannel": "Canal+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/1.png",
+              "homeTeam": {
+                "displayName": "Brive",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/3500.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Montpellier",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4950.png",
+                "score": 0
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Brive / Montpellier",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317222&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317222&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "before",
+              "displayStatus": "A venir",
+              "displayTime": "21h00",
+              "eventStartDate": 1490554800,
+              "tvChannel": "Canal+",
+              "tvChannelLogo": "https://storage.googleapis.com/canal_rugby_integ/images/broadcasters/1.png",
+              "homeTeam": {
+                "displayName": "Stade Francais",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/1600.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Toulon",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/39.png",
+                "score": 0
+              },
+              "onClick": {
+                "displayTemplate": "sportDetailPageLive",
+                "displayName": "Stade Francais / Toulon",
+                "URLPage": "http://rugby-service.mycanal.fr/page/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317225&params[type]=boSport",
+                "BOName": "GENERIQUE - Live 1.1",
+                "BOLayoutName": "GENERIQUE Live 1.1",
+                "URLVitrine": "http://rugby-service.mycanal.fr/highlight/0907654d43f2a7811af10eb0d698ab1c/4499.json?cache=30000&id=2017_203_M_317225&params[type]=boSport",
+                "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
