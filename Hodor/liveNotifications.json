@@ -19,7 +19,10 @@
     }
   },
   "configuration": {
-    "backButton" : "Retour programme"
+    "backButton" : "Retour programme",
+    "timingNotification" : "90000",
+    "timingBackNotifications" : "120000",
+    "delayNotification" : -90000
   },
   "notifications": [
     {
