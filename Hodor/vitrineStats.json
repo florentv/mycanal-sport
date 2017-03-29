@@ -117,6 +117,46 @@
     },
     {
       "type": "statsVitrine",
+      "title" : "Attaque",
+      "contents": [
+        {
+          "type": "twoBar",
+          "title": "Possession (%)",
+          "homeTeamScore": "32.7",
+          "awayTeamScore": "67.3"
+        },
+        {
+          "type": "twoBar",
+          "title": "Tirs",
+          "homeTeamScore": "6",
+          "awayTeamScore": "10",
+          "subScore": {
+            "title": "Tirs cadrés",
+            "homeTeamScore": "3",
+            "awayTeamScore": "3"
+          }
+        },
+        {
+          "type": "twoBar",
+          "title": "Passes",
+          "homeTeamScore": "326",
+          "awayTeamScore": "670",
+          "subScore": {
+            "title": "Passes réussies",
+            "homeTeamScore": "228 (70%)",
+            "awayTeamScore": "584 (88%)"
+          }
+        },
+        {
+          "type": "twoBar",
+          "title": "Hors-jeux",
+          "homeTeamScore": "1",
+          "awayTeamScore": "5"
+        }
+      ]
+    },
+    {
+      "type": "statsVitrine",
       "contents": [
         {
           "type": "twoBar",
