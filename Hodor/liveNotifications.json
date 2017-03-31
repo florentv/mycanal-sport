@@ -2,7 +2,6 @@
   "currentPage": {
     "displayTemplate": "liveNotifications",
     "displayName": "Notifications Ligue 1",
-    "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html",
     "autorefresh": 10000
   },
   "tracking": {
@@ -18,27 +17,30 @@
       "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone"
     }
   },
-  "configuration": {
-    "backButton" : "Retour programme",
-    "timingNotifications" : "90000",
-    "timingBackNotifications" : "120000",
-    "delayNotifications" : -90000
-  },
   "notifications": [
     {
       "text": "Début du match",
       "actionID": "Start Half",
-      "date": 3222289
+      "date": 3222289,
+      "backButton": "Retour programme",
+      "timingNotifications": 90000,
+      "timingBackNotifications": 120000
     },
     {
       "text": "But de Edison Cavani !",
       "actionID": "Goal",
-      "date": 3222290
+      "date": 3222290,
+      "backButton": "Retour programme",
+      "timingNotifications": 90000,
+      "timingBackNotifications": 120000
     },
     {
       "text": "Début du match",
       "actionID": "Start Half",
-      "date": 3222303
+      "date": 3222303,
+      "backButton": "Retour programme",
+      "timingNotifications": 50000,
+      "timingBackNotifications": 100000
     }
   ]
 }

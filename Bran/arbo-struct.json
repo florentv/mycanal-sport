@@ -1409,26 +1409,16 @@
     ],
     "onLiveNotifications": [
       {
-        "type": "sport",
-        "sportID": "2",
         "sportCompetitionID": "1",
-        "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
-        "onClick": {
-          "displayTemplate": "sportNotifications",
-          "displayName": "Notifications Ligue 1",
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json"
-        }
+        "URLImage": "http://...",
+        "displayName" : "Notifications Ligue 1",
+        "associatedContentID": "329"
       },
-      {
-        "type": "sport",
-        "sportID": "3",
-        "sportCompetitionID": "2",
-        "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
-        "onClick": {
-          "displayTemplate": "sportNotifications",
-          "displayName": "Notifications Top 14",
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json"
-        }
+      { 
+        "sportCompetitionID": "45",
+        "URLImage": "http://...",
+        "displayName" : "Notifications Top 14",
+        "associatedContentID": "438"
       }
     ]
   },

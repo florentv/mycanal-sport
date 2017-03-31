@@ -1,0 +1,35 @@
+{
+  "type": "liveNotifications",
+  "contentID": "329",
+  "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+  "sportId": "2",
+  "sportCompetitionId": "1",
+  "displayName" : "Notifications Ligue 1",
+  "autorefresh" : 15000,
+  "notifications": [
+    {
+      "text": "Début du match",
+      "actionID": "Start Half",
+      "backButton": "Retour programme",
+      "timingNotifications": 90000,
+      "timingBackNotifications": 120000,
+      "delayNotifications": -90000
+    },
+    {
+      "text": "But de {offensivePlayer} !",
+      "actionID": "Goal",
+      "backButton": "Retour programme",
+      "timingNotifications": 90000,
+      "timingBackNotifications": 120000,
+      "delayNotifications": -90000
+    },
+    {
+      "text": "Début de la seconde mi-temps",
+      "actionID": "Second Half",
+      "backButton": "Retour programme",
+      "timingNotifications": 80000,
+      "timingBackNotifications": 100000,
+      "delayNotifications": -90000
+    }
+  ]
+}
