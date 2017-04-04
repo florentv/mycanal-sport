@@ -18,8 +18,13 @@
     }
   },
   "strates": [
+<<<<<<< HEAD
     {
       "liveText": "Résulats en direct",
+=======
+    {   
+      "liveText": "Classement en direct",
+>>>>>>> origin/master
       "displayName": "Ligue 1 - Journée 30",
       "events": [
         {
@@ -307,8 +312,13 @@
         }
       ]
     }
+<<<<<<< HEAD
   ],
   "empty": {
     "displayName": "Le classement n'est pas disponible pour le moment."
   }
 }
+=======
+  ]
+}
+>>>>>>> origin/master
