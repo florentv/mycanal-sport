@@ -42,6 +42,11 @@
       "displayTemplate": "sportRanking",
       "displayName": "Course F1",
       "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking-F1.json?sportEventId=2134"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Multicam",
+      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking-F1.json?sportEventId=2134"
     }
   ]
 }
