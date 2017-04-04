@@ -1,15 +1,13 @@
 {
   "currentPage": {
-    "BOName": "GENERIQUE - Composition",
     "autorefresh": 30000,
     "displayName": "Composition",
-    "displayTemplate": "sportComposition",
-    "path": "/pid4176-generique-composition.html"
+    "displayTemplate": "sportComposition"
   },
   "strates": [
     {
       "type": "field",
-      "sport": "football",
+      "sportID": "1",
       "homeTeam": {
         "formationType": 442,
         "primaryColor": "#123647",
@@ -21,45 +19,45 @@
             "displayName": "S. Taumalolo",
             "position": "Goalkeeper",
             "shirtNo": "1",
-            "formationPlace": 1
+            "formationOrder": 1
           },
           {
             "displayName": "L. Jammes",
             "position": "Defender",
             "shirtNo": "2",
-            "formationPlace": 2
+            "formationOrder": 2
           },
           {
             "displayName": "W. Desmaison",
             "position": "Defender",
             "shirtNo": "3",
-            "formationPlace": 3
+            "formationOrder": 3
           },
           {
             "displayName": "H. Roodt",
             "position": "Defender",
             "shirtNo": "4",
-            "formationPlace": 4
+            "formationOrder": 4
           },
           {
             "displayName": "A. Muldowney",
             "position": "Defender",
             "shirtNo": "5",
-            "formationPlace": 5,
+            "formationOrder": 5,
             "redCard": 1
           },
           {
             "displayName": "P. Kimlin",
             "position": "Midfielder",
             "shirtNo": "6",
-            "formationPlace": 6,
+            "formationOrder": 6,
             "goals": 1
           },
           {
             "displayName": "R. Grice",
             "position": "Midfielder",
             "shirtNo": "8",
-            "formationPlace": 7,
+            "formationOrder": 7,
             "yellowCard": 1,
             "captain": true
           },
@@ -67,26 +65,26 @@
             "displayName": "F. Alexandre",
             "position": "Midfielder",
             "shirtNo": "7",
-            "formationPlace": 9
+            "formationOrder": 9
           },
           {
             "displayName": "C. McLeod",
             "position": "Striker",
             "shirtNo": "9",
-            "formationPlace": 10,
+            "formationOrder": 10,
             "goals": 2
           },
           {
             "displayName": "J. Wisniewski",
             "position": "Striker",
             "shirtNo": "10",
-            "formationPlace": 11
+            "formationOrder": 11
           },
           {
             "displayName": "X. Mignot",
             "position": "Striker",
             "shirtNo": "11",
-            "formationPlace": 8
+            "formationOrder": 8
           }
         ]
       },
@@ -101,45 +99,45 @@
             "displayName": "S. Taumalolo",
             "position": "Goalkeeper",
             "shirtNo": "1",
-            "formationPlace": 1
+            "formationOrder": 1
           },
           {
             "displayName": "L. Jammes",
             "position": "Defender",
             "shirtNo": "2",
-            "formationPlace": 2
+            "formationOrder": 2
           },
           {
             "displayName": "W. Desmaison",
             "position": "Defender",
             "shirtNo": "3",
-            "formationPlace": 3
+            "formationOrder": 3
           },
           {
             "displayName": "H. Roodt",
             "position": "Defender",
             "shirtNo": "4",
-            "formationPlace": 4
+            "formationOrder": 4
           },
           {
             "displayName": "A. Muldowney",
             "position": "Defender",
             "shirtNo": "5",
-            "formationPlace": 5,
+            "formationOrder": 5,
             "redCard": 1
           },
           {
             "displayName": "P. Kimlin",
             "position": "Midfielder",
             "shirtNo": "6",
-            "formationPlace": 6,
+            "formationOrder": 6,
             "goals": 1
           },
           {
             "displayName": "R. Grice",
             "position": "Midfielder",
             "shirtNo": "8",
-            "formationPlace": 7,
+            "formationOrder": 7,
             "yellowCard": 1,
             "captain": true
           },
@@ -147,26 +145,26 @@
             "displayName": "F. Alexandre",
             "position": "Midfielder",
             "shirtNo": "7",
-            "formationPlace": 9
+            "formationOrder": 9
           },
           {
             "displayName": "C. McLeod",
             "position": "Striker",
             "shirtNo": "9",
-            "formationPlace": 10,
+            "formationOrder": 10,
             "goals": 2
           },
           {
             "displayName": "J. Wisniewski",
             "position": "Striker",
             "shirtNo": "10",
-            "formationPlace": 11
+            "formationOrder": 11
           },
           {
             "displayName": "X. Mignot",
             "position": "Striker",
             "shirtNo": "11",
-            "formationPlace": 8
+            "formationOrder": 8
           }
         ]
       }
@@ -189,7 +187,8 @@
         },
         {
           "displayName": "D. Hayes",
-          "shirtNo": "19"
+          "shirtNo": "19",
+          "yellowCard": 1
         },
         {
           "displayName": "L. Saseras",
@@ -210,7 +209,7 @@
       ]
     },
     {
-      "title": "Remplaçants Angers",
+      "title": "Remplaçants Toulouse",
       "type": "playerList",
       "contents": [
         {
@@ -231,7 +230,9 @@
         },
         {
           "displayName": "L. Saseras",
-          "shirtNo": "20"
+          "shirtNo": "20",
+          "goals": 1,
+          "redCard": 1
         },
         {
           "displayName": "G. Bosch",
@@ -239,7 +240,8 @@
         },
         {
           "displayName": "N. Hunt",
-          "shirtNo": "22"
+          "shirtNo": "22",
+          "goals": 3
         },
         {
           "displayName": "D. Edwards",

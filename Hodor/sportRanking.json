@@ -2,7 +2,7 @@
   "currentPage": {
     "displayTemplate": "sportRanking",
     "displayName": "Classement Ligue 1",
-    "autorefresh" : 30000
+    "autorefresh": 30000
   },
   "tracking": {
     "omniture": {
@@ -18,7 +18,7 @@
     }
   },
   "strates": [
-    {   
+    {
       "liveText": "Résulats en direct",
       "displayName": "Ligue 1 - Journée 30",
       "events": [
@@ -138,7 +138,7 @@
           "ranking": "5",
           "title": "Marseille",
           "thirdTitle": "47",
-          "highlight" : true,
+          "highlight": true,
           "pointsDetail": [
             "4",
             "3",
@@ -224,7 +224,7 @@
           "ranking": "10",
           "title": "Toulouse",
           "thirdTitle": "41",
-          "highlight" : true,
+          "highlight": true,
           "pointsDetail": [
             "2",
             "2",
@@ -307,5 +307,8 @@
         }
       ]
     }
-  ]
+  ],
+  "empty": {
+    "displayName": "Le classement n'est pas disponible pour le moment."
+  }
 }
