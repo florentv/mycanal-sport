@@ -13,12 +13,16 @@
         "displayName": "Paris Saint-Germain",
         "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
         "score": 3,
+         "primaryColor": "#123647",
+        "secondaryColor": "#673276",
         "winner": true
       },
       "awayTeam": {
         "displayName": "Barcelone",
         "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
-        "score": 2
+        "score": 2,
+         "primaryColor": "#123287",
+        "secondaryColor": "#698276",
       }
     },
     {
