@@ -1,0 +1,71 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Calendrier",
+    "pullToRefresh": true,
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "mycanaliOS",
+      "prop4": "mycanaliOS - Sport",
+      "prop5": "mycanaliOS - Sport",
+      "prop6": "mycanaliOS - Sport - Event",
+      "prop7": "mycanaliOS - Sport - Event - PSG / Barcelone - 173",
+      "prop8": "mycanaliOS - Sport - Event - PSG / Barcelone - 173 - Calendrier",
+      "eVar31": "GENERIQUE Calendrier Popin Résultats",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone - 173 - Calendrier"
+    }
+  },
+  "strates": [
+    {
+      "liveText": "Résulats en direct",
+      "title": "Ligue des Champions - Quart de finale aller",
+      "groups": [
+        {
+          "title": "Ligue des Champions - Quart de finale aller",
+          "events": [
+            {
+              "status": 13,
+              "displayStatus": "Terminé",
+              "displayTime": "17h00",
+              "homeTeam": {
+                "displayName": "Paris Saint-Germain",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+                "score": 3,
+                "winner": true,
+                "goal" : true
+              },
+              "awayTeam": {
+                "displayName": "Barcelone",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 2
+                              }
+            },
+            {
+              "status": 8,
+              "displayStatus": "2 M-T",
+              "displayTime": "20h45",
+              "homeTeam": {
+                "displayName": "Benfica",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+                "score": 2
+              },
+              "awayTeam": {
+                "displayName": "Dortmund",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 2
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+  }
+}

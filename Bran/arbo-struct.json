@@ -1375,36 +1375,18 @@
     },
     "onExpertMode": [
       {
-        "type": "sport",
-        "sportID": "2",
         "sportCompetitionID": "1",
         "title": "Expert Mode",
-        "buttonTitle": "Activer le Mode Expert",
         "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
         "subtitle": "Activer le Mode Expert",
-        "text": "Profitez des résultats, classements et statistiques en temps réel",
-        "onClick": {
-          "displayTemplate": "dataPlayer",
-          "displayName": "Mode Expert Ligue 1",
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json",
-          "path": "..."
-        }
+        "associatedContentID": "2137"
       },
       {
-        "type": "sport",
-        "sportID": 2,
-        "sportCompetitionID": "2",
+        "sportCompetitionID": "15",
         "title": "Expert Mode",
-        "buttonTitle": "Activer le Mode Expert",
         "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
         "subtitle": "Activer le Mode Expert",
-        "text": "Profitez des résultats, classements et statistiques en temps réel",
-        "onClick": {
-          "displayTemplate": "dataPlayer",
-          "displayName": "Mode Expert Champions League",
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json",
-          "path": "..."
-        }
+        "associatedContentID": "2138"
       }
     ],
     "onLiveNotifications": [

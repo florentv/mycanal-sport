@@ -1,8 +1,7 @@
 ;{
   "currentPage": {
-    "displayTemplate": "dataPlayer",
-    "displayName": "dataPlayer Ligue 1",
-    "path": "/ne-pas-toucher-rugby/pid4499-generique-live-1.1.html",
+    "displayTemplate": "expertMode",
+    "displayName": "Mode Expert Ligue 1",
     "autorefresh": 30000
   },
   "tracking": {
@@ -22,7 +21,7 @@
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportCalendar.json",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportCalendar.json?year=2017&competitionID=7&roundID=30&homeTeam=21&awayTeam=2",
       "pullToRefresh": true,
       "path": "/pid4536-top-14-1.1.html&params[tab]=/top-14-1.1/pid4537-calendrier-1.1.html"
     },
