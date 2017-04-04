@@ -36,7 +36,7 @@
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/vitrineStats.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json?sportEventId=128"
     }
   ]
 }
