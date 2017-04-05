@@ -19,49 +19,12 @@
   },
   "strates": [
     {
-      "liveText": "Classement en direct",
-      "displayName": "Ligue 1 - Journée 30",
+      "displayName": "Classement en direct",
       "events": [
         {
           "title": "Pts",
           "Id": "total",
           "type": "main"
-        },
-        {
-          "title": "bo",
-          "Id": "bonusOffensive"
-        },
-        {
-          "title": "bd",
-          "Id": "bonusDefensive"
-        },
-        {
-          "title": "J",
-          "Id": "matchPlayed"
-        },
-        {
-          "title": "G",
-          "Id": "matchWon"
-        },
-        {
-          "title": "N",
-          "Id": "matchEquality"
-        },
-        {
-          "title": "P",
-          "Id": "matchLost"
-        },
-        {
-          "title": "Pts M.",
-          "Id": "scored"
-        },
-        {
-          "title": "Pts E.",
-          "Id": "against"
-        },
-        {
-          "title": "Diff.",
-          "Id": "diff"
         }
       ],
       "contents": [
@@ -69,241 +32,87 @@
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/2250.png",
           "ranking": "1",
           "title": "Monaco",
-          "thirdTitle": "71",
-          "pointsDetail": [
-            "5",
-            "2",
-            "16",
-            "10",
-            "2",
-            "4",
-            "474",
-            "328",
-            "146"
-          ]
+          "thirdTitle": "71"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/47.png",
           "ranking": "2",
           "title": "Paris SG",
-          "thirdTitle": "68",
-          "pointsDetail": [
-            "5",
-            "3",
-            "16",
-            "9",
-            "3",
-            "4",
-            "416",
-            "293",
-            "123"
-          ]
+          "thirdTitle": "68"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/4950.png",
           "ranking": "3",
           "title": "Nice",
-          "thirdTitle": "67",
-          "pointsDetail": [
-            "3",
-            "3",
-            "16",
-            "10",
-            "0",
-            "6",
-            "409",
-            "340",
-            "69"
-          ]
+          "thirdTitle": "67"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/2350.png",
           "ranking": "4",
           "title": "Lyon",
-          "thirdTitle": "51",
-          "pointsDetail": [
-            "2",
-            "4",
-            "16",
-            "9",
-            "0",
-            "7",
-            "338",
-            "313",
-            "25"
-          ]
+          "thirdTitle": "51"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/39.png",
           "ranking": "5",
           "title": "Marseille",
           "thirdTitle": "47",
-          "highlight": true,
-          "pointsDetail": [
-            "4",
-            "3",
-            "16",
-            "8",
-            "1",
-            "7",
-            "388",
-            "340",
-            "48"
-          ]
+          "highlight": true
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/2050.png",
           "ranking": "6",
           "title": "Bordeaux",
-          "thirdTitle": "46",
-          "pointsDetail": [
-            "3",
-            "2",
-            "16",
-            "8",
-            "1",
-            "7",
-            "400",
-            "322",
-            "78"
-          ]
+          "thirdTitle": "46"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
           "ranking": "7",
           "title": "Saint-Etienne",
-          "thirdTitle": "44",
-          "pointsDetail": [
-            "1",
-            "4",
-            "16",
-            "8",
-            "0",
-            "8",
-            "374",
-            "365",
-            "9"
-          ]
+          "thirdTitle": "44"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/3500.png",
           "ranking": "8",
           "title": "Guinguamp",
-          "thirdTitle": "41",
-          "pointsDetail": [
-            "0",
-            "2",
-            "16",
-            "8",
-            "1",
-            "7",
-            "343",
-            "381",
-            "-38"
-          ]
+          "thirdTitle": "41"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/41.png",
           "ranking": "9",
           "title": "Nantes",
-          "thirdTitle": "41",
-          "pointsDetail": [
-            "2",
-            "0",
-            "15",
-            "8",
-            "1",
-            "6",
-            "325",
-            "312",
-            "13"
-          ]
+          "thirdTitle": "41"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/1600.png",
           "ranking": "10",
           "title": "Toulouse",
           "thirdTitle": "41",
-          "highlight": true,
-          "pointsDetail": [
-            "2",
-            "2",
-            "16",
-            "7",
-            "1",
-            "8",
-            "375",
-            "387",
-            "-12"
-          ]
+          "highlight": true
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/3450.png",
           "ranking": "11",
           "title": "Rennes",
-          "thirdTitle": "40",
-          "pointsDetail": [
-            "1",
-            "4",
-            "15",
-            "7",
-            "0",
-            "8",
-            "346",
-            "385",
-            "-39"
-          ]
+          "thirdTitle": "40"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
           "ranking": "12",
           "title": "Angers",
-          "thirdTitle": "39",
-          "pointsDetail": [
-            "1",
-            "3",
-            "15",
-            "5",
-            "2",
-            "8",
-            "288",
-            "336",
-            "-48"
-          ]
+          "thirdTitle": "39"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/48.png",
           "ranking": "13",
           "title": "Lille",
-          "thirdTitle": "37",
-          "pointsDetail": [
-            "1",
-            "6",
-            "16",
-            "3",
-            "0",
-            "13",
-            "348",
-            "515",
-            "-167"
-          ]
+          "thirdTitle": "37"
         },
         {
           "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
           "ranking": "14",
           "title": "Metz",
-          "thirdTitle": "35",
-          "pointsDetail": [
-            "0",
-            "0",
-            "15",
-            "3",
-            "2",
-            "10",
-            "223",
-            "430",
-            "-207"
-          ]
+          "thirdTitle": "35"
         }
       ]
     }

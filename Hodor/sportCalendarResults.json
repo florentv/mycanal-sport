@@ -2,7 +2,6 @@
   "currentPage": {
     "displayTemplate": "sportCalendar",
     "displayName": "Calendrier",
-    "pullToRefresh": true,
     "autorefresh": 30000
   },
   "tracking": {
@@ -22,12 +21,25 @@
   },
   "strates": [
     {
-      "liveText": "Résulats en direct",
-      "title": "Ligue des Champions - Quart de finale aller",
       "groups": [
         {
           "title": "Ligue des Champions - Quart de finale aller",
           "events": [
+            {
+              "status": 8,
+              "displayStatus": "M-T 2",
+              "displayTime": "20h45",
+              "homeTeam": {
+                "displayName": "Benfica",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+                "score": 2
+              },
+              "awayTeam": {
+                "displayName": "Dortmund",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 2
+              }
+            },
             {
               "status": 13,
               "displayStatus": "Terminé",
@@ -37,13 +49,13 @@
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
                 "score": 3,
                 "winner": true,
-                "goal" : true
+                "goal": true
               },
               "awayTeam": {
                 "displayName": "Barcelone",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 2
-                              }
+              }
             },
             {
               "status": 8,

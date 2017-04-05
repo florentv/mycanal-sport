@@ -16,7 +16,7 @@
         "displayName": "Marseille",
         "contents": [
           {
-            "displayName": "S. Taumalolo",
+            "displayName": "Taumalolo",
             "position": "Goalkeeper",
             "shirtNo": "1",
             "formationOrder": 1
@@ -31,7 +31,9 @@
             "displayName": "W. Desmaison",
             "position": "Defender",
             "shirtNo": "3",
-            "formationOrder": 3
+            "formationOrder": 3,
+            "redCard" : true,
+            "yellowCard": true
           },
           {
             "displayName": "H. Roodt",
@@ -44,7 +46,7 @@
             "position": "Defender",
             "shirtNo": "5",
             "formationOrder": 5,
-            "redCard": 1
+            "redCard": true
           },
           {
             "displayName": "P. Kimlin",
@@ -54,12 +56,11 @@
             "goals": 1
           },
           {
-            "displayName": "R. Grice",
+            "displayName": "Grice (c)",
             "position": "Midfielder",
             "shirtNo": "8",
             "formationOrder": 7,
-            "yellowCard": 1,
-            "captain": true
+            "yellowCard": true
           },
           {
             "displayName": "F. Alexandre",
@@ -124,7 +125,7 @@
             "position": "Defender",
             "shirtNo": "5",
             "formationOrder": 5,
-            "redCard": 1
+            "redCard": true
           },
           {
             "displayName": "P. Kimlin",
@@ -134,12 +135,11 @@
             "goals": 1
           },
           {
-            "displayName": "R. Grice",
+            "displayName": "Grice (c)",
             "position": "Midfielder",
             "shirtNo": "8",
             "formationOrder": 7,
-            "yellowCard": 1,
-            "captain": true
+            "yellowCard": true
           },
           {
             "displayName": "F. Alexandre",

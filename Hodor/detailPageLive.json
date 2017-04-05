@@ -129,9 +129,9 @@
     ],
     "displayExpertMode": [
       {
-        "title": "Expert Mode",
+        "title": "Mode Expert",
         "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
-        "subtitle": "Activer le Mode Expert",
+        "subtitle": "Appui long sur la Surface Touch",
         "onClick": {
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",

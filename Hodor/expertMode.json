@@ -2,7 +2,7 @@
   "currentPage": {
     "displayTemplate": "expertMode",
     "displayName": "Mode Expert Ligue 1",
-    "autorefresh": 30000
+    "autorefresh" : 30000
   },
   "tracking": {
     "omniture": {
@@ -21,7 +21,7 @@
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarResults.json?year=2017&competitionID=7&roundID=30&homeTeam=21&awayTeam=2"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarResults.json?year=2017&competitionID=7&roundID=30&sportEventId=178"
     },
     {
       "displayTemplate": "sportRanking",
