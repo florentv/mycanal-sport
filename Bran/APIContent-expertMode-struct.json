@@ -4,6 +4,7 @@
   "displayName": "Mode Expert Ligue 1",
   "title": "Mode Expert",
   "subtitle": "Appui long pour activer",
+  "autorefresh" : 30000,
   "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
   "sportId": "2",
   "sportCompetitionId": "1",
