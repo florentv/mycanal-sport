@@ -1379,6 +1379,7 @@
         "title": "Expert Mode",
         "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
         "subtitle": "Activer le Mode Expert",
+        "displayName" : "Mode Expert Ligue 1",
         "associatedContentID": "2137"
       },
       {
@@ -1386,6 +1387,7 @@
         "title": "Expert Mode",
         "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
         "subtitle": "Activer le Mode Expert",
+        "displayName" : "Mode Expert Top 14",
         "associatedContentID": "2138"
       }
     ],
