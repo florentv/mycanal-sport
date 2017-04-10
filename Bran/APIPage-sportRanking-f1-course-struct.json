@@ -1,0 +1,24 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportRanking",
+    "displayName": "Pilotes 2017",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": " - Championnat",
+      "prop5": " - Championnat - Classement",
+      "prop6": " - Championnat - Classement - 2017 Pilotes Saison",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": " - Championnat - Classement - 2017 Pilotes Saison"
+    }
+  },
+  "configuration": {
+    "sportID": 1,
+    "competitionID": "1290",
+    "roundID": "3",
+    "rankingType": "race"
+  }
+}
