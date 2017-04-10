@@ -12,21 +12,25 @@
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
+      "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportCalendar.json"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
+      "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json"
     },
     {
       "displayTemplate": "sportComposition",
       "displayName": "Compositions",
+      "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportComposition.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
+      "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/vitrineStats.json"
     }
   ]
