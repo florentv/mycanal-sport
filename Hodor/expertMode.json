@@ -22,13 +22,13 @@
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarResults.json?year=2017&competitionID=7&roundID=30&sportEventId=178"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarResults.json?season=2017&competitionID=7&roundID=30&sportEventId=178"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json?year=2017&competitionID=12&homeTeam=3&awayTeam=23"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json?season=2017&competitionID=12&homeTeam=3&awayTeam=23"
     },
     {
       "displayTemplate": "sportComposition",
