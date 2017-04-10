@@ -21,31 +21,37 @@
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
+      "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarResults.json?year=2017&competitionID=7&roundID=30&sportEventId=178"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
+      "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json?year=2017&competitionID=12&homeTeam=3&awayTeam=23"
     },
     {
       "displayTemplate": "sportComposition",
       "displayName": "Compositions",
+      "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json?sportEventId=124"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
+      "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json?sportEventId=128"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Course F1",
+      "autorefresh" : 30000,
       "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking-F1.json?sportEventId=2134"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Multicam",
+      "autorefresh" : 90000,
       "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine-multicam.json?sportEventId=2134"
     }
   ]
