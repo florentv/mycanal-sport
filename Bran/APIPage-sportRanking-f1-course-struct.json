@@ -18,7 +18,6 @@
   "configuration": {
     "sportID": 1,
     "competitionID": "1290",
-    "roundID": "3",
     "rankingType": "race"
   }
 }
