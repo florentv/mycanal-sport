@@ -123,6 +123,7 @@
       "onClick": {
           "displayTemplate": "liveNotifications",
           "displayName": "Notifications Ligue 1",
+          "autorefresh" : 10000,
           "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/liveNotifications.json?sportEventId=178"
         }
       }
