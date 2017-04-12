@@ -18,7 +18,7 @@
   "configuration": {
     "sportID": 1,
     "competitionID": "1290",
-    "rankingType": "race",
+    "displayTitle" : true,
     "empty" : {
       "displayName" : "Pas de résultats disponibles"
     }
