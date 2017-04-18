@@ -22,37 +22,37 @@
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarResults.json?season=2017&competitionID=7&roundID=30&sportEventId=178"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarResults.json?sportID=1&season=2017&competitionID=7&roundID=30&sportEventID=178"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json?season=2017&competitionID=12&homeTeam=3&awayTeam=23"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json?sportID=3&season=2017&competitionID=12&homeTeam=3&awayTeam=23"
     },
     {
       "displayTemplate": "sportComposition",
       "displayName": "Compositions",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json?sportEventId=124"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json?sportEventID=124"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json?sportEventId=128"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json?sportEventID=128"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Course F1",
       "autorefresh" : 30000,
-      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking-F1.json?sportEventId=2134"
+      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking-F1.json?sportEventID=2134"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Multicam",
       "autorefresh" : 90000,
-      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine-multicam.json?sportEventId=2134"
+      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine-multicam.json?sportEventID=2134"
     }
   ]
 }

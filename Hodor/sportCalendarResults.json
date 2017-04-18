@@ -48,8 +48,7 @@
                 "displayName": "Paris Saint-Germain",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
                 "score": 3,
-                "winner": true,
-                "goal": true
+                "winner": true
               },
               "awayTeam": {
                 "displayName": "Barcelone",

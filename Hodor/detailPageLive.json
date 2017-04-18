@@ -124,7 +124,7 @@
           "displayTemplate": "liveNotifications",
           "displayName": "Notifications Ligue 1",
           "autorefresh" : 10000,
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/liveNotifications.json?sportEventId=178"
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/liveNotifications.json?sportEventID=178"
         }
       }
     ],
@@ -136,7 +136,7 @@
         "onClick": {
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json?sportEventId=178"
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json?sportEventID=178"
         }
       }
     ]
