@@ -1,7 +1,7 @@
 {
   "currentPage": {
     "displayTemplate": "sportCalendar",
-    "displayName": "Résultats Ligue 1",
+    "displayName": "Classement Ligue 1",
     "autorefresh": 30000
   },
   "tracking": {

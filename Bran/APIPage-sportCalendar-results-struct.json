@@ -16,7 +16,7 @@
     }
   },
   "configuration": {
-    "sportID": 1,
+    "sportID": "1",
     "competitionID": "1290",
     "displayTitle" : true,
     "empty" : {
