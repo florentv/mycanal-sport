@@ -29,16 +29,16 @@
   "features": [
     {
       "type": "multiliveSetup",
-      "URLImage": "...",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.mycanal.fr/image/00/0/vignettemultilive-12.0.png",
       "title": "Multi-live",
-      "contentID": 2348,
+      "contentID": "2348",
       "onClick": {
         "displayTemplate": "multiliveSetup",
-        "displayName": "Multi-live",
-        "URLPage": "/1234.Json&thematique=sport",
-        "BOName": "Multi-live",
-        "BOLayoutName": "Multi-live",
-        "path": "/"
+        "displayName": "Multi-Live",
+        "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/multiLiveSetup.json",
+        "BOName": "Multi-Live Sport",
+        "BOLayoutName": "[tvOS] Multi-live Sport",
+        "path": "/live-tv/fonctionnalites/pid6164-multi-live-sport.html"
       }
     }
   ],
