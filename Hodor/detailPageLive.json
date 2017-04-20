@@ -136,7 +136,7 @@
         "onClick": {
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/dataPlayer.json?sportEventID=178"
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/expertMode.json?sportEventID=178"
         }
       }
     ]

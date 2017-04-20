@@ -1,14 +1,27 @@
 {
   "currentPage": {
-    "BOName": "Slide show VERSAILLES - SAISON 1",
-    "displayName": "VERSAILLES - SAISON 1",
+    "BOName": "Multi-Live Sport",
+    "BOLayoutName": "[tvOS] Multi-live Sport",
+    "displayName": "Multi-Live",
     "displayTemplate": "multiliveSetup",
-    "path": "/pid7422-multilive-setup.html"
+    "path": "/live-tv/fonctionnalites/pid6164-multi-live-sport.html"
   },
   "title": "Multi-live",
-  "text": "Choisissez les matchs que vous souhaitez voir en simultané",
+  "text": "Sélectionnez 2 à 4 programmes à voir en simultané",
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Multi-Live",
+      "prop5": "MyCtvOS - Multi-Live - Accueil",
+      "eVar31": "[tvOS] Multi-live Sport",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Multi-Live - Accueil"
+    }
+  },
   "button": {
-    "title": "Activer la mosaïque"
+    "title": "Accéder à la mosaïque"
   },
   "channels": [
     {
