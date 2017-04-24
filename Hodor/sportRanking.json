@@ -19,7 +19,7 @@
   },
   "strates": [
     {
-      "displayTitle": "Classement en direct",
+      "text": "Classement en direct",
       "events": [
         {
           "title": "Pts",

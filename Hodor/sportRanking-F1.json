@@ -19,12 +19,11 @@
   },
   "strates": [
     {
-      "liveText": "Classement en direct",
-      "displayName": "Grand Prix Australie",
+      "text": "Classement en direct",
       "events": [
         {
-          "title": "Pts",
-          "Id": "total",
+          "title": "Temps",
+          "Id": "timing",
           "type": "main"
         }
       ],

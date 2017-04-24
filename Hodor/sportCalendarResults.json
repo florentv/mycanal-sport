@@ -42,7 +42,7 @@
             },
             {
               "status": "13",
-              "displayStatus": "Terminé",
+              "displayStatus": "A venir",
               "displayTime": "17h00",
               "homeTeam": {
                 "displayName": "Paris Saint-Germain",
@@ -57,9 +57,9 @@
               }
             },
             {
-              "status": "8",
-              "displayStatus": "2 M-T",
-              "displayTime": "20h45",
+              "status": "13",
+              "displayStatus": "A venir",
+              "displayTime": "02 mai",
               "homeTeam": {
                 "displayName": "Benfica",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
@@ -77,6 +77,6 @@
     }
   ],
   "empty": {
-    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+    "displayName": "Le calendrier n'est pas disponible pour le moment."
   }
 }

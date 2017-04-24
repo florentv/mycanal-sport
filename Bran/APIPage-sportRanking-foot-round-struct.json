@@ -16,9 +16,12 @@
     }
   },
   "configuration": {
-    "sportID": "1",
-    "competitionID": "1290",
+    "sportID": "457e14f6-6244-4fb5-882a-eafc874ac384",
+    "competitionID": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
     "calendarType": "results",
-    "displayTitle" : "Classement en direct"
+    "text" : "Classement en direct"
+  },
+  "empty": {
+    "displayName": "Pas de résultats disponibles"
   }
 }
