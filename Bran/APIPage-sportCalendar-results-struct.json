@@ -1,7 +1,7 @@
 {
   "currentPage": {
-    "displayTemplate": "sportRanking",
-    "displayName": "Pilotes 2017",
+    "displayTemplate": "sportCalendar",
+    "displayName": "Résultats Ligue 1",
     "autorefresh": 30000
   },
   "tracking": {
