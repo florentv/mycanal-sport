@@ -1,6 +1,6 @@
 {
   "currentPage": {
-    "displayTemplate": "sportCalendar",
+    "displayTemplate": "sportRanking",
     "displayName": "Classement Ligue 1",
     "autorefresh": 30000
   },
