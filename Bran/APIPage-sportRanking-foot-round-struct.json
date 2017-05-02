@@ -19,7 +19,34 @@
     "sportID": "457e14f6-6244-4fb5-882a-eafc874ac384",
     "competitionID": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
     "rankingType": "ranking",
-    "text" : "Classement en direct"
+    "text": "Classement en direct",
+    "events": [
+      {
+        "title": "Pts",
+        "Id": "pts",
+        "type": "main"
+      },
+      {
+        "title": "J",
+        "Id": "gp"
+      },
+      {
+        "title": "G",
+        "Id": "w"
+      },
+      {
+        "title": "N",
+        "Id": "d"
+      },
+      {
+        "title": "P",
+        "Id": "l"
+      },
+      {
+        "URLImage": "http://cdn-canalplus-sports.ladmedia.fr//images/sportsdatas/country/logo/0/aus/AUS.png",
+        "Id": "l"
+      }
+    ]
   },
   "empty": {
     "displayName": "Pas de résultats disponibles"
