@@ -90,12 +90,30 @@
           {
             "statType": "twoBar",
             "title": "Tirs",
-            "id": "shots",
+            "id": "Shot",
             "subScore": {
               "title": "Tirs cadrés",
-              "id": "Shot on Goal",
-              "withPercentage" : true
+              "id": "Shot on Goal"
             }
+          },
+          {
+            "statType": "twoBar",
+            "title": "Passes",
+            "id": "Cross",
+            "subScore": {
+              "title": "Passes réussies",
+              "id": "Cross"
+            }
+          },
+          {
+            "statType": "twoBar",
+            "title": "Hors-jeux",
+            "id": "Offsides"
+          },
+          {
+            "statType": "twoBar",
+            "title": "Corners",
+            "id": "Corner Kick"
           }
         ]
       }
@@ -110,6 +128,12 @@
             "statType": "twoBar",
             "title": "Fautes",
             "id": "Foul"
+          },
+          {
+            "statType": "twoBar",
+            "title": "Cartons rouges",
+            "id": "Expulsion",
+            "withPercentage" : true
           }
         ]
       }
