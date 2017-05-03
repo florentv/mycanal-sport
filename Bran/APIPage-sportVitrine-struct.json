@@ -19,8 +19,102 @@
     "sportID": "457e14f6-6244-4fb5-882a-eafc874ac384",
     "competitionID": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
     "rankingType": "race",
-    "text" : "Classement en direct"
+    "text": "Classement en direct"
   },
+  "strates": [
+    {
+      "configuration": {
+        "global": {
+          "type": "multicam",
+          "onSync": true
+        },
+        "contents": [
+          {
+            "displayName": "GP",
+            "picto": "race",
+            "children": [],
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/971.json?params[type]=live&cache=10800000"
+          },
+          {
+            "displayName": "Mosaique",
+            "picto": "mosaic",
+            "children": [],
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/970.json?params[type]=live&cache=10800000"
+          },
+          {
+            "displayName": "OnBoard",
+            "picto": "onboard",
+            "children": [],
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/972.json?params[type]=live&cache=10800000"
+          },
+          {
+            "displayName": "Stands",
+            "picto": "stand",
+            "children": [],
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/973.json?params[type]=live&cache=10800000"
+          },
+          {
+            "displayName": "Tracking",
+            "picto": "circuit",
+            "children": [],
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/974.json?params[type]=live&cache=10800000"
+          },
+          {
+            "displayName": "Temps",
+            "picto": "time",
+            "children": [],
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/975.json?params[type]=live&cache=10800000"
+          }
+        ]
+      }
+    },
+    {
+      "configuration": {
+        "global": {
+          "type": "sportVitrine"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "global": {
+          "type": "statsVitrine",
+          "title": "Attaque"
+        },
+        "contents": [
+          {
+            "statType": "twoBar",
+            "title": "Possession (%)",
+            "id": "Posession"
+          },
+          {
+            "statType": "twoBar",
+            "title": "Tirs",
+            "id": "shots",
+            "subScore": {
+              "title": "Tirs cadrés",
+              "id": "Shot on Goal",
+              "withPercentage" : true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "configuration": {
+        "global": {
+          "type": "statsVitrine"
+        },
+        "contents": [
+          {
+            "statType": "twoBar",
+            "title": "Fautes",
+            "id": "Foul"
+          }
+        ]
+      }
+    }
+  ],
   "empty": {
     "displayName": "Pas de résultats disponibles"
   }
