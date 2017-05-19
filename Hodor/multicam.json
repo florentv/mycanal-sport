@@ -1,0 +1,37 @@
+{
+  "currentPage": {
+    "displayTemplate": "multicam",
+    "displayName": "Multicam F1"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "myCtvOS",
+      "prop4": "myCtvOS - Live",
+      "prop5": "myCtvOS - Live - Mode Expert",
+      "prop6": "myCtvOS - Live - Mode Expert - Multicam F1",
+      "eVar31": "Mode Expert Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "myCtvOS - Live - Mode Expert - Multicam F1"
+    }
+  },
+  "multicam": [
+    {
+      "displayName": "onBoard",
+      "EpgId": 972
+    },
+    {
+      "displayName": "Stands",
+      "EpgId": 973
+    },
+    {
+      "displayName": "Tracking",
+      "EpgId": 974
+    },
+    {
+      "displayName": "Temps",
+      "EpgId": 975
+    }
+  ]
+}

@@ -47,7 +47,8 @@
               "homeTeam": {
                 "displayName": "Monaco",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-                "score": 4
+                "score": 4,
+                "winner": true
               },
               "awayTeam": {
                 "displayName": "Juventus",
