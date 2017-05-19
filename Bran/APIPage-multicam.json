@@ -1,0 +1,37 @@
+{
+  "currentPage": {
+    "displayTemplate": "multicam",
+    "displayName": "Multicam F1"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "A définir",
+      "prop4": "A définir",
+      "prop5": "A définir",
+      "prop6": "A définir",
+      "eVar31": "A définir",
+      "prop10": "A définir",
+      "prop11": "A définir",
+      "prop12": "A définir",
+      "pageName": "A définir"
+    }
+  },
+  "multicam": [
+    {
+      "displayName": "onBoard",
+      "EpgId": 972
+    },
+    {
+      "displayName": "Stands",
+      "EpgId": 973
+    },
+    {
+      "displayName": "Tracking",
+      "EpgId": 974
+    },
+    {
+      "displayName": "Temps",
+      "EpgId": 975
+    }
+  ]
+}
