@@ -60,10 +60,11 @@
           "highlight": true
         },
         {
-          "URLImage": "https://s3.eu-central-1.amazonaws.com/intellicore-platform-client-meta/59404953a7ed0600044cfbfa/460a0ea9-2738-426a-a3b1-8d9830e547c3/1498570404988_Exports-logo-LDC_320-LDC-PSG.png",
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2017/driver/vettel.png",
           "ranking": "6",
-          "title": "Bordeaux",
-          "thirdTitle": "46"
+          "title": "S. Vettel",
+          "subtitle" : "Formule 1",
+          "thirdTitle": "1h24'11\"672"
         },
         {
          "URLImage": "https://s3.eu-central-1.amazonaws.com/intellicore-platform-client-meta/59404953a7ed0600044cfbfa/460a0ea9-2738-426a-a3b1-8d9830e547c3/1498570404988_Exports-logo-LDC_320-LDC-PSG.png",
@@ -87,6 +88,7 @@
          "URLImage": "https://s3.eu-central-1.amazonaws.com/intellicore-platform-client-meta/59404953a7ed0600044cfbfa/460a0ea9-2738-426a-a3b1-8d9830e547c3/1498570404988_Exports-logo-LDC_320-LDC-PSG.png",
           "ranking": "10",
           "title": "Toulouse",
+          "subtitle" : "Ligue 1",
           "thirdTitle": "41",
           "highlight": true
         },
