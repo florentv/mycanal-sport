@@ -1,27 +1,26 @@
 {
   "currentPage": {
     "displayTemplate": "sportCalendar",
-    "displayName": "Calendrier",
+    "displayName": "Résultats Ligue 1",
+    "BOLayoutName": "[TEST tvOS] Résultats Ligue 1",
     "autorefresh": 30000
   },
   "tracking": {
     "omniture": {
-      "channel": "mycanaliOS",
-      "prop4": "mycanaliOS - Sport",
-      "prop5": "mycanaliOS - Sport",
-      "prop6": "mycanaliOS - Sport - Event",
-      "prop7": "mycanaliOS - Sport - Event - PSG / Barcelone - 173",
-      "prop8": "mycanaliOS - Sport - Event - PSG / Barcelone - 173 - Calendrier",
-      "eVar31": "GENERIQUE Calendrier Popin Résultats",
+      "prop4": "MyCtvOS - Test",
+      "prop5": "MyCtvOS - Test - [ME] Resultats Ligue 1",
+      "pageName": "MyCtvOS - Test - [ME] Resultats Ligue 1",
+      "channel": "MyCtvOS",
+      "eVar31": "[TEST tvOS] Résultats Ligue 1",
       "prop10": "Contenu",
       "prop11": "Autres",
-      "prop12": "Consumer",
-      "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone - 173 - Calendrier"
+      "prop12": "Consumer"
     }
   },
   "strates": [
     {
-      "title": "Ligue des Champions - Quart de finale aller",
+      "type": "sportCalendar",
+      "title": "France Ligue 1 - Match Day 34",
       "groups": [
         {
           "events": [
@@ -30,59 +29,60 @@
               "displayStatus": "En cours",
               "displayTime": "20h45",
               "homeTeam": {
-                "displayName": "Benfica",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-                "score": 2
+                "displayName": "Nancy",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 0
               },
               "awayTeam": {
-                "displayName": "Dortmund",
+                "displayName": "Marseille",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
-                "score": 2
+                "score": 0
               }
             },
             {
               "status": "8",
               "displayStatus": "En cours",
-              "displayTime": "20h",
+              "displayTime": "21h00",
               "homeTeam": {
-                "displayName": "Monaco",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-                "score": 4,
+                "displayName": "Paris SG",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 2,
                 "winner": true
               },
               "awayTeam": {
-                "displayName": "Juventus",
+                "displayName": "Montpellier",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
-                "score": 1
+                "score": 0
               }
             },
             {
               "status": "14",
               "displayStatus": "Interrompu",
-              "displayTime": "17h00",
+              "displayTime": "20h45",
               "homeTeam": {
-                "displayName": "Paris Saint-Germain",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-                "score": 3,
+                "displayName": "Lorient",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 5,
                 "winner": true
               },
               "awayTeam": {
-                "displayName": "Barcelone",
+                "displayName": "Metz",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
-                "score": 2
+                "score": 1
               }
             },
             {
               "status": "13",
               "displayStatus": "Terminé",
-              "displayTime": "02 Avril",
+              "displayTime": "22 avril",
               "homeTeam": {
-                "displayName": "Benfica",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-                "score": 2
+                "displayName": "Dijon",
+                "score": 3,
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "winner": true
               },
               "awayTeam": {
-                "displayName": "Dortmund",
+                "displayName": "Angers",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 2
               }
@@ -90,49 +90,95 @@
             {
               "status": "2",
               "displayStatus": "A venir",
-              "displayTime": "03 mai",
+              "displayTime": "03 septembre",
               "homeTeam": {
-                "displayName": "Benfica",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-                "score": 1,
+                "displayName": "Caen",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Nantes",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 2,
+                "winner": true
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "Reporté",
+              "displayTime": "22 avril",
+              "homeTeam": {
+                "displayName": "Lille",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 3,
                 "winner": true
               },
               "awayTeam": {
-                "displayName": "Dortmund",
+                "displayName": "Guingamp",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 0
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "22 avril",
+              "homeTeam": {
+                "displayName": "Bordeaux",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 2,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "SC Bastia",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 0
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "23 avril",
+              "homeTeam": {
+                "displayName": "Toulouse",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 1
+              },
+              "awayTeam": {
+                "displayName": "Nice",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 1
               }
             },
             {
               "status": "10",
               "displayStatus": "Reporté",
-              "displayTime": "03 mai",
+              "displayTime": "23 avril",
               "homeTeam": {
-                "displayName": "Benfica",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-                "score": 1,
-                "winner": true
+                "displayName": "St. Etienne",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 1
               },
               "awayTeam": {
-                "displayName": "Dortmund",
+                "displayName": "Rennes",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
-                "score": 0
+                "score": 1
               }
             },
             {
               "status": "7",
               "displayStatus": "Annulé",
-              "displayTime": "03 mai",
+              "displayTime": "23 avril",
               "homeTeam": {
-                "displayName": "Benfica",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
-                "score": 1,
-                "winner": true
+                "displayName": "Lyon",
+                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "score": 1
               },
               "awayTeam": {
-                "displayName": "Dortmund",
+                "displayName": "Monaco",
                 "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
-                "score": 0
+                "score": 2,
+                "winner": true
               }
             }
           ]
@@ -141,6 +187,6 @@
     }
   ],
   "empty": {
-    "displayName": "Les résultats ne sont pas disponibles pour le moment."
+    "displayName": "Aucuns résultats disponibles"
   }
 }
