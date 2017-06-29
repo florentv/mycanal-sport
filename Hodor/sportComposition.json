@@ -10,8 +10,10 @@
       "sportID": "1",
       "homeTeam": {
         "formationType": 442,
-        "primaryColor": "#123647",
-        "secondaryColor": "#673276",
+        "color" : {
+          "primary" : "0x239389",
+          "secondary" : "0x320990"
+        },
         "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
         "displayName": "Marseille",
         "contents": [
@@ -93,8 +95,10 @@
         "formationType": 4231,
         "logo": "https://storage.googleapis.com/canal_rugby/images/teams/4850.png",
         "displayName": "Angers",
-        "primaryColor": "#123647",
-        "secondaryColor": "#673276",
+        "color" : {
+          "primary" : "0x239389",
+          "secondary" : "0x320990"
+        },
         "contents": [
           {
             "displayName": "S. Taumalolo",

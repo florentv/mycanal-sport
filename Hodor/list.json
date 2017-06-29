@@ -1,0 +1,581 @@
+{
+  "currentPage": {
+    "displayTemplate": "list",
+    "displayName": "F1 : Grand Prix d'Azerbaïdjan",
+    "BOName": "F1 : Grand Prix d'Azerbaïdjan",
+    "path": "/f1-grand-prix-d-azerbaidjan/h/cplusald_them_sport_f1"
+  },
+  "paging": {
+    "iterationType": "id",
+    "idStart": "YXJyYXljb25uZWN0aW9uOjA=",
+    "idEnd": "YXJyYXljb25uZWN0aW9uOjc=",
+    "nbContents": 8,
+    "hasNextPage": false,
+    "hasPreviousPage": false,
+    "URLPage": "http://hodor.canalplus.pro/api/v1/contentGrid/9753b8437fdd9c39a5c9542c6c20ee01/cplusald_them_sport_f1;R3g.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=player&params%5Bsdm%5D=episod&params%5Bhighlight%5D=false&displayLogo=true&after=YXJyYXljb25uZWN0aW9uOjc%3D"
+  },
+  "contents": [
+    {
+          "type": "switch",
+          "contentID": "1454612",
+          "title": "La réaction de Gaëlle Skrela",
+          "subtitle": "Euro Féminin 2017 - Finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130906-640x360-vwptw.jpg",
+          "onClick": {
+            "displayTemplate": "switch",
+            "displayName": "La réaction de Gaëlle Skrela",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-reaction-de-gaelle-skrela-euro-feminin-2017-finale/p/1454612"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454611",
+          "title": "La réaction de Céline Dumerc",
+          "subtitle": "Euro Féminin 2017 - Finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130905-640x360-yznzr.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La réaction de Céline Dumerc",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454611.json?id=1454611&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454611.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-reaction-de-celine-dumerc-euro-feminin-2017-finale/p/1454611"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454608",
+          "title": "Le TOP 5 des Bleues lors de cet EuroBasket !",
+          "subtitle": "Euro Féminin 2017 - Finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130903-640x360-v0zuq.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Le TOP 5 des Bleues lors de cet EuroBasket !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454608.json?id=1454608&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454608.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/le-top-5-des-bleues-lors-de-cet-eurobasket-euro-feminin-2017-finale/p/1454608"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454589",
+          "title": "Les dernières informations avant France - Espagne !",
+          "subtitle": "Euro Féminin 2017 - Finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130885-640x360-zlztb.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Les dernières informations avant France - Espagne !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454589.json?id=1454589&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454589.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/les-dernieres-informations-avant-france-espagne-euro-feminin-2017-finale/p/1454589"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454571",
+          "title": "Marine Johannès/George Eddy: la rencontre",
+          "subtitle": "Euro Féminin 2017 - Finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130871-640x360-terjc.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Marine Johannès/George Eddy: la rencontre",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454571.json?id=1454571&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454571.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/marine-johannes-george-eddy-la-rencontre-euro-feminin-2017-finale/p/1454571"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454550",
+          "title": "La réaction de Céline Dumerc après France/Grèce",
+          "subtitle": "Euro Féminin 2017 - 1/2 finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130861-640x360-anddz.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La réaction de Céline Dumerc après France/Grèce",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454550.json?id=1454550&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454550.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-reaction-de-celine-dumerc-apres-france-grece-euro-feminin-2017-1-2-finale/p/1454550"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454549",
+          "title": "Le résumé de France-Grèce et les réactions",
+          "subtitle": "Euro Féminin 2017 - 1/2 finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130860-640x360-aw9ys.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Le résumé de France-Grèce et les réactions",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454549.json?id=1454549&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454549.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/le-resume-de-france-grece-et-les-reactions-euro-feminin-2017-1-2-finale/p/1454549"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454547",
+          "title": "La joie des Bleues après leur victoire en 1/2 finale",
+          "subtitle": "Euro Féminin 2017 - La France en finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130858-640x360-ymx3b.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La joie des Bleues après leur victoire en 1/2 finale",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454547.json?id=1454547&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454547.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-joie-des-bleues-apres-leur-victoire-en-1-2-finale-euro-feminin-2017-la-france-en-finale/p/1454547"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454532",
+          "title": "Dans les vestiaires des Bleues après leur 1/4 de finale",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130847-640x360-zkflm.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Dans les vestiaires des Bleues après leur 1/4 de finale",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454532.json?id=1454532&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454532.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/dans-les-vestiaires-des-bleues-apres-leur-1-4-de-finale-euro-feminin-2017/p/1454532"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454531",
+          "title": "Le résumé de Belgique-Espagne",
+          "subtitle": "Euro Féminin 2017 - 1/2 finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130846-640x360-q243a.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Le résumé de Belgique-Espagne",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454531.json?id=1454531&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454531.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/le-resume-de-belgique-espagne-euro-feminin-2017-1-2-finale/p/1454531"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454481",
+          "title": "Les dernières informations avant Grèce / France",
+          "subtitle": "Euro Féminin 2017 - 1/2 finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130802-640x360-wxbve.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Les dernières informations avant Grèce / France",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454481.json?id=1454481&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454481.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/les-dernieres-informations-avant-grece-france-euro-feminin-2017-1-2-finale/p/1454481"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454317",
+          "title": "Dumerc est prête",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130707-640x360-znf1v.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Dumerc est prête",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454317.json?id=1454317&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454317.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/dumerc-est-prete-euro-feminin-2017/p/1454317"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454315",
+          "title": "De nouveau la Grèce",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130706-640x360-efvwd.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "De nouveau la Grèce",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454315.json?id=1454315&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454315.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/de-nouveau-la-grece-euro-feminin-2017/p/1454315"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454265",
+          "title": "L'analyse : \"et maintenant la Grèce\"",
+          "subtitle": "Euro Féminin 2017 - 1/4 de finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130692-640x360-t2d4t.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "L'analyse : \"et maintenant la Grèce\"",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454265.json?id=1454265&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454265.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/l-analyse-et-maintenant-la-grece-euro-feminin-2017-1-4-de-finale/p/1454265"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454264",
+          "title": "La France en verve",
+          "subtitle": "Euro Féminin 2017 - 1/4 de finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130691-640x360-og9qt.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La France en verve",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454264.json?id=1454264&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454264.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-france-en-verve-euro-feminin-2017-1-4-de-finale/p/1454264"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454263",
+          "title": "Le trois point de Johannes",
+          "subtitle": "Euro Féminin 2017 - quart de finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130690-640x360-c01kn.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Le trois point de Johannes",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454263.json?id=1454263&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454263.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/le-trois-point-de-johannes-euro-feminin-2017-quart-de-finale/p/1454263"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454261",
+          "title": "Bon collectif des françaises",
+          "subtitle": "Euro Féminin 2017 - quart de finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130688-640x360-cdfjw.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Bon collectif des françaises",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454261.json?id=1454261&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454261.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/bon-collectif-des-francaises-euro-feminin-2017-quart-de-finale/p/1454261"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454257",
+          "title": "Portrait Gaelle Skrela",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130684-640x360-owtgc.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Portrait Gaelle Skrela",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454257.json?id=1454257&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454257.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/portrait-gaelle-skrela-euro-feminin-2017/p/1454257"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454255",
+          "title": "Bon début des Bleues",
+          "subtitle": "Euro Féminin 2017 - 1/4 de finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130682-640x360-whfnm.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Bon début des Bleues",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454255.json?id=1454255&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454255.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/bon-debut-des-bleues-euro-feminin-2017-1-4-de-finale/p/1454255"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454239",
+          "title": "La Grèce au rendez-vous",
+          "subtitle": "Euro Féminin 2017 - quart de finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130668-640x360-bwven.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La Grèce au rendez-vous",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454239.json?id=1454239&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454239.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-grece-au-rendez-vous-euro-feminin-2017-quart-de-finale/p/1454239"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454215",
+          "title": "La belgique en 1/2",
+          "subtitle": "Euro Féminin 2017 - quart de finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130645-640x360-vxrje.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La belgique en 1/2",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454215.json?id=1454215&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454215.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-belgique-en-1-2-euro-feminin-2017-quart-de-finale/p/1454215"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454198",
+          "title": "France - Slovaquie",
+          "subtitle": "Euro Féminin 2017 - Quart de finale",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130630-640x360-rnhob.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "France - Slovaquie",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454198.json?id=1454198&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454198.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/france-slovaquie-euro-feminin-2017-quart-de-finale/p/1454198"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454058",
+          "title": "Le point avant les quarts de finale",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130529-640x360-vmq5w.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Le point avant les quarts de finale",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454058.json?id=1454058&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454058.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/le-point-avant-les-quarts-de-finale-euro-feminin-2017/p/1454058"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1454044",
+          "title": "Slovaquie-Ukraine",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130518-640x360-s051u.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Slovaquie-Ukraine",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454044.json?id=1454044&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1454044.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/slovaquie-ukraine-euro-feminin-2017/p/1454044"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453930",
+          "title": "A la rencontre d'Hhadydia Minte !",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130438-640x360-tdl5n.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "A la rencontre d'Hhadydia Minte !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453930.json?id=1453930&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453930.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/a-la-rencontre-d-hhadydia-minte-euro-feminin-2017/p/1453930"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453859",
+          "title": "Le résumé du match !",
+          "subtitle": "Euro Féminin 2017 - France / Grèce",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130382-640x360-vngxz.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Le résumé du match !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453859.json?id=1453859&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453859.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/le-resume-du-match-euro-feminin-2017-france-grece/p/1453859"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453858",
+          "title": "Les réactions d'Olivia Epoupa et de Diandra Tchatchouang",
+          "subtitle": "Euro Féminin 2017 - France / Grèce",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130381-640x360-zjzyc.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Les réactions d'Olivia Epoupa et de Diandra Tchatchouang",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453858.json?id=1453858&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453858.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/les-reactions-d-olivia-epoupa-et-de-diandra-tchatchouang-euro-feminin-2017-france-grece/p/1453858"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453853",
+          "title": "Inside avec les Bleues avant le match de la Grèce",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130378-640x360-enjlc.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Inside avec les Bleues avant le match de la Grèce",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453853.json?id=1453853&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453853.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/inside-avec-les-bleues-avant-le-match-de-la-grece-euro-feminin-2017/p/1453853"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453772",
+          "title": "Focus sur Héléna Ciak, intérieure des Bleues !",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130308-640x360-uzjrq.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Focus sur Héléna Ciak, intérieure des Bleues !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453772.json?id=1453772&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453772.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/focus-sur-helena-ciak-interieure-des-bleues-euro-feminin-2017/p/1453772"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453765",
+          "title": "Les dernières infos avant France - Grèce !",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130301-640x360-zu5zw.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Les dernières infos avant France - Grèce !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453765.json?id=1453765&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453765.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/les-dernieres-infos-avant-france-grece-euro-feminin-2017/p/1453765"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453630",
+          "title": "Le résumé de France/Serbie",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130200-640x360-ctfwt.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Le résumé de France/Serbie",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453630.json?id=1453630&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453630.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/le-resume-de-france-serbie-euro-feminin-2017/p/1453630"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453625",
+          "title": "La réaction de Céline Dumerc après France/Serbie",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130195-640x360-z3npc.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La réaction de Céline Dumerc après France/Serbie",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453625.json?id=1453625&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453625.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-reaction-de-celine-dumerc-apres-france-serbie-euro-feminin-2017/p/1453625"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453623",
+          "title": "Marine Johannès en mode Stephen Curry !",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130193-640x360-evhrr.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Marine Johannès en mode Stephen Curry !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453623.json?id=1453623&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453623.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/marine-johannes-en-mode-stephen-curry-euro-feminin-2017/p/1453623"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453621",
+          "title": "La réaction de Marine Johannès après France/Serbie",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130191-640x360-u09tz.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La réaction de Marine Johannès après France/Serbie",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453621.json?id=1453621&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453621.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-reaction-de-marine-johannes-apres-france-serbie-euro-feminin-2017/p/1453621"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453572",
+          "title": "Retour sur la courte victoire française contre la Slovénie",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130146-640x360-c2lxn.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Retour sur la courte victoire française contre la Slovénie",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453572.json?id=1453572&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453572.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/retour-sur-la-courte-victoire-francaise-contre-la-slovenie-euro-feminin-2017/p/1453572"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453483",
+          "title": "Baric conclut superbement une séquence complètement folle !",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130095-640x360-nwpvd.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Baric conclut superbement une séquence complètement folle !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453483.json?id=1453483&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453483.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/baric-conclut-superbement-une-sequence-completement-folle-euro-feminin-2017/p/1453483"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453482",
+          "title": "Une dernière minute de folie entre la France et la Slovénie !",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130094-640x360-mwnyb.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Une dernière minute de folie entre la France et la Slovénie !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453482.json?id=1453482&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453482.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/une-derniere-minute-de-folie-entre-la-france-et-la-slovenie-euro-feminin-2017/p/1453482"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453474",
+          "title": "Baric envoie un missile hors du commun !",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130087-640x360-snhzv.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Baric envoie un missile hors du commun !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453474.json?id=1453474&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453474.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/baric-envoie-un-missile-hors-du-commun-euro-feminin-2017/p/1453474"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453293",
+          "title": "La der de capitaine Dumerc",
+          "subtitle": "Euro Féminin 2017",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-129976-640x360-t1pvn.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La der de capitaine Dumerc",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453293.json?id=1453293&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453293.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/la-der-de-capitaine-dumerc-euro-feminin-2017/p/1453293"
+          }
+        },
+        {
+          "type": "quicktime",
+          "contentID": "1453218",
+          "title": "Les braqueuses se préparent avant le début de la compétition",
+          "subtitle": "EuroBasket Féminin",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/3/nip-nip-129912-640x360-ekrio.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Les braqueuses se préparent avant le début de la compétition",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453218.json?id=1453218&params[type]=pfv&cache=780000",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9753b8437fdd9c39a5c9542c6c20ee01/pfv/1453218.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/les-braqueuses-se-preparent-avant-le-debut-de-la-competition-eurobasket-feminin/p/1453218"
+          }
+  ],
+  "displayParameters": {
+    "imageRatio": "169"
+  }
+}
