@@ -178,36 +178,36 @@
       "type": "playerList",
       "contents": [
         {
-          "displayName": "A. Heguy",
+          "displayName": "Heguy",
           "shirtNo": "16"
         },
         {
-          "displayName": "A. Dardet",
+          "displayName": "Dardet",
           "shirtNo": "17"
         },
         {
-          "displayName": "M. Capelli",
+          "displayName": "Capelli",
           "shirtNo": "18"
         },
         {
-          "displayName": "D. Hayes",
+          "displayName": "Hayes",
           "shirtNo": "19",
           "yellowCard": 1
         },
         {
-          "displayName": "L. Saseras",
+          "displayName": "Saseras",
           "shirtNo": "20"
         },
         {
-          "displayName": "G. Bosch",
+          "displayName": "Bosch",
           "shirtNo": "21"
         },
         {
-          "displayName": "N. Hunt",
+          "displayName": "Hunt",
           "shirtNo": "22"
         },
         {
-          "displayName": "D. Edwards",
+          "displayName": "Edwards",
           "shirtNo": "23"
         }
       ]
