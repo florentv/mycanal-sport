@@ -24,13 +24,13 @@
             "formationOrder": 1
           },
           {
-            "displayName": "L. Jammes",
+            "displayName": "Jammes",
             "position": "Defender",
             "shirtNo": "2",
             "formationOrder": 2
           },
           {
-            "displayName": "W. Desmaison",
+            "displayName": "Desmaison",
             "position": "Defender",
             "shirtNo": "3",
             "formationOrder": 3,
@@ -38,20 +38,20 @@
             "yellowCard": true
           },
           {
-            "displayName": "H. Roodt",
+            "displayName": "Roodt",
             "position": "Defender",
             "shirtNo": "4",
             "formationOrder": 4
           },
           {
-            "displayName": "A. Muldowney",
+            "displayName": "Muldowney",
             "position": "Defender",
             "shirtNo": "5",
             "formationOrder": 5,
             "redCard": true
           },
           {
-            "displayName": "P. Kimlin",
+            "displayName": "Kimlin",
             "position": "Midfielder",
             "shirtNo": "6",
             "formationOrder": 6,
@@ -65,26 +65,26 @@
             "yellowCard": true
           },
           {
-            "displayName": "F. Alexandre",
+            "displayName": "Alexandre",
             "position": "Midfielder",
             "shirtNo": "7",
             "formationOrder": 9
           },
           {
-            "displayName": "C. McLeod",
+            "displayName": "McLeod",
             "position": "Striker",
             "shirtNo": "9",
             "formationOrder": 10,
             "goals": 2
           },
           {
-            "displayName": "J. Wisniewski",
+            "displayName": "Wisniewski",
             "position": "Striker",
             "shirtNo": "10",
             "formationOrder": 11
           },
           {
-            "displayName": "X. Mignot",
+            "displayName": "Mignot",
             "position": "Striker",
             "shirtNo": "11",
             "formationOrder": 8
@@ -101,38 +101,38 @@
         },
         "contents": [
           {
-            "displayName": "S. Taumalolo",
+            "displayName": "Taumalolo",
             "position": "Goalkeeper",
             "shirtNo": "1",
             "formationOrder": 1
           },
           {
-            "displayName": "L. Jammes",
+            "displayName": "Jammes",
             "position": "Defender",
             "shirtNo": "2",
             "formationOrder": 2
           },
           {
-            "displayName": "W. Desmaison",
+            "displayName": "Desmaison",
             "position": "Defender",
             "shirtNo": "3",
             "formationOrder": 3
           },
           {
-            "displayName": "H. Roodt",
+            "displayName": "Roodt",
             "position": "Defender",
             "shirtNo": "4",
             "formationOrder": 4
           },
           {
-            "displayName": "A. Muldowney",
+            "displayName": "Muldowney",
             "position": "Defender",
             "shirtNo": "5",
             "formationOrder": 5,
             "redCard": true
           },
           {
-            "displayName": "P. Kimlin",
+            "displayName": "Kimlin",
             "position": "Midfielder",
             "shirtNo": "6",
             "formationOrder": 6,
@@ -146,26 +146,26 @@
             "yellowCard": true
           },
           {
-            "displayName": "F. Alexandre",
+            "displayName": "Alexandre",
             "position": "Midfielder",
             "shirtNo": "7",
             "formationOrder": 9
           },
           {
-            "displayName": "C. McLeod",
+            "displayName": "McLeod",
             "position": "Striker",
             "shirtNo": "9",
             "formationOrder": 10,
             "goals": 2
           },
           {
-            "displayName": "J. Wisniewski",
+            "displayName": "Wisniewski",
             "position": "Striker",
             "shirtNo": "10",
             "formationOrder": 11
           },
           {
-            "displayName": "X. Mignot",
+            "displayName": "Mignot",
             "position": "Striker",
             "shirtNo": "11",
             "formationOrder": 8

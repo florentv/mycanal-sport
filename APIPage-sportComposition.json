@@ -1,0 +1,27 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportComposition",
+    "displayName": "Composition Ligue 1",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "A definir",
+      "prop5": "A definir",
+      "prop6": "A definir",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "A definir"
+    }
+  },
+  "configuration": {
+    "sportID": "457e14f6-6244-4fb5-882a-eafc874ac384",
+    "sport" : "football",
+    "competitionID": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
+    
+  },
+  "empty": {
+    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+  }
+}
