@@ -1,0 +1,24 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Résultats Ligue 1",
+    "BOLayoutName": "[TEST tvOS] Résultats Ligue 1",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Test",
+      "prop5": "MyCtvOS - Test - [ME] Resultats Ligue 1",
+      "pageName": "MyCtvOS - Test - [ME] Resultats Ligue 1",
+      "channel": "MyCtvOS",
+      "eVar31": "[TEST tvOS] Résultats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [],
+  "empty": {
+    "displayName": "Aucuns résultats disponibles"
+  }
+}
