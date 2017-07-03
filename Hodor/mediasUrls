@@ -1,0 +1,40 @@
+{
+  "currentPage": {
+    "displayTemplate": "mediaUrls"
+  },
+  "detail": {
+    "informations": {
+      "contentID": "1454612",
+      "consumptionPlatform": "PFV",
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": true,
+      "isInOfferForD2G": true,
+      "title": "Euro Féminin 2017 - Finale",
+      "subtitle": "La réaction de Gaëlle Skrela",
+      "idVideoPub": "1454612",
+      "videoPathPub": "SPORT/BASKET/EURO_FEMININ_2017",
+      "duration": "87000",
+      "noPub": false,
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/2/11/nip-nip-130906-640x360-vwptw.jpg",
+      "sharingURL": "https://mycan.al/pfv/1454612",
+      "fbkWatchTag": "video.other",
+      "videoURLs": [
+        {
+          "videoURL": "http://us-cplus-aka.canal-plus.com/i/geo2/1706/25/nip_NIP_130906_,200k,400k,800k,1500k,.mp4.csmil/master.m3u8",
+          "encryption": "clear"
+        }
+      ]
+    }
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "Usage",
+      "prop4": "Usage - Lecture prog",
+      "prop5": "Usage - Lecture prog - Euro Féminin 2017 - Finale_1454612",
+      "pageName": "Usage - Lecture prog - Euro Féminin 2017 - Finale_1454612",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}

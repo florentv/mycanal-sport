@@ -1,0 +1,192 @@
+{
+  "currentPage": {
+    "displayTemplate": "highlights",
+    "displayName": "Marseille / Lyon",
+    "BOName": "Générique Highlights Ligue 1",
+    "path": "/liveTV/h/temps-forts-marseille-lyon"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode Expert",
+      "prop5": "MyCtvOS - Mode Expert - Temps forts",
+      "pageName": "MyCtvOS - Liste - Versailles",
+      "channel": "MyCtvOS",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "contents": [
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    },
+    {
+      "type": "highlights",
+      "contentID": "8230341",
+      "title": "13' Arrêt exceptionnel de Mandanda !",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/56281355",
+      "onClick": {
+        "displayTemplate": "quicktime",
+        "displayName": "13' Arrêt exceptionnel de Mandanda !",
+        "URLPage": "http://hodor.canalplus.pro/api/v1/detail/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?id=1454612&params[type]=pfv&cache=780000",
+        "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/9a7ffe47969ab699ab68accf302ddcd5/pfv/1454612.json?pfv={FORMAT}&cache=780000",
+        "BOName": "Versailles - S2",
+        "path": "/series/versailles/h/5751633_50001"
+      }
+    }
+  ],
+  "displayParameters": {
+    "imageRatio": "169"
+  }
+}
