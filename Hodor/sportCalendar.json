@@ -30,12 +30,12 @@
               "displayTime": "20h45",
               "homeTeam": {
                 "displayName": "Nancy",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 0
               },
               "awayTeam": {
                 "displayName": "Marseille",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 0
               }
             },
@@ -45,13 +45,13 @@
               "displayTime": "21h00",
               "homeTeam": {
                 "displayName": "Paris SG",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 2,
                 "winner": true
               },
               "awayTeam": {
                 "displayName": "Montpellier",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 0
               }
             },
@@ -61,13 +61,13 @@
               "displayTime": "20h45",
               "homeTeam": {
                 "displayName": "Lorient",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 5,
                 "winner": true
               },
               "awayTeam": {
                 "displayName": "Metz",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 1
               }
             },
@@ -78,12 +78,12 @@
               "homeTeam": {
                 "displayName": "Dijon",
                 "score": 3,
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "winner": true
               },
               "awayTeam": {
                 "displayName": "Angers",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 2
               }
             },
@@ -93,12 +93,12 @@
               "displayTime": "03 septembre",
               "homeTeam": {
                 "displayName": "Caen",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 0
               },
               "awayTeam": {
                 "displayName": "Nantes",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 2,
                 "winner": true
               }
@@ -109,13 +109,13 @@
               "displayTime": "22 avril",
               "homeTeam": {
                 "displayName": "Lille",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 3,
                 "winner": true
               },
               "awayTeam": {
                 "displayName": "Guingamp",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 0
               }
             },
@@ -125,13 +125,13 @@
               "displayTime": "22 avril",
               "homeTeam": {
                 "displayName": "Bordeaux",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 2,
                 "winner": true
               },
               "awayTeam": {
                 "displayName": "SC Bastia",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 0
               }
             },
@@ -141,12 +141,12 @@
               "displayTime": "23 avril",
               "homeTeam": {
                 "displayName": "Toulouse",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 1
               },
               "awayTeam": {
                 "displayName": "Nice",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 1
               }
             },
@@ -156,12 +156,12 @@
               "displayTime": "23 avril",
               "homeTeam": {
                 "displayName": "St. Etienne",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 1
               },
               "awayTeam": {
                 "displayName": "Rennes",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 1
               }
             },
@@ -171,12 +171,12 @@
               "displayTime": "23 avril",
               "homeTeam": {
                 "displayName": "Lyon",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 1
               },
               "awayTeam": {
                 "displayName": "Monaco",
-                "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+                "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
                 "score": 2,
                 "winner": true
               }
@@ -187,6 +187,7 @@
     }
   ],
   "empty": {
-    "displayName": "Aucuns résultats disponibles"
+    "displayName": "Aucuns résultats disponibles",
+    "displayStartover" : ""
   }
 }
