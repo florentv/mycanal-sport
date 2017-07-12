@@ -43,13 +43,13 @@
       "title": "Attaque",
       "contents": [
         {
-          "type": "twoBar",
+          "type": "vsBar",
           "title": "Possession (%)",
           "homeTeamScore": "32.7",
           "awayTeamScore": "67.3"
         },
         {
-          "type": "twoBar",
+          "type": "vsBar",
           "title": "Tirs",
           "homeTeamScore": "6",
           "awayTeamScore": "10",
@@ -60,7 +60,7 @@
           }
         },
         {
-          "type": "twoBar",
+          "type": "vsBar",
           "title": "Passes",
           "homeTeamScore": "326",
           "awayTeamScore": "670",
@@ -71,7 +71,7 @@
           }
         },
         {
-          "type": "twoBar",
+          "type": "vsBar",
           "title": "Hors-jeux",
           "homeTeamScore": "1",
           "awayTeamScore": "5"
@@ -99,13 +99,13 @@
       },
       "contents": [
         {
-          "type": "twoBar",
+          "type": "vsBar",
           "title": "Possession (%)",
           "homeTeamScore": "32.7",
           "awayTeamScore": "67.3"
         },
         {
-          "type": "twoBar",
+          "type": "vsBar",
           "title": "Tirs",
           "homeTeamScore": "6",
           "awayTeamScore": "10",
@@ -116,7 +116,7 @@
           }
         },
         {
-          "type": "twoBar",
+          "type": "vsBar",
           "title": "Passes",
           "homeTeamScore": "326",
           "awayTeamScore": "670",
@@ -127,7 +127,7 @@
           }
         },
         {
-          "type": "twoBar",
+          "type": "vsBar",
           "title": "Hors-jeux",
           "homeTeamScore": "1",
           "awayTeamScore": "5"

@@ -1,4 +1,4 @@
-{
+  {
   "currentPage": {
     "displayTemplate": "sportVitrine",
     "displayName": "Vitrine Ligue 1",
@@ -19,70 +19,24 @@
     {
       "configuration": {
         "global": {
-          "type": "multicam",
-          "onSync": true
-        },
-        "contents": [
-          {
-            "displayName": "GP",
-            "picto": "race",
-            "children": [],
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/971.json?params[type]=live&cache=10800000"
-          },
-          {
-            "displayName": "Mosaique",
-            "picto": "mosaic",
-            "children": [],
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/970.json?params[type]=live&cache=10800000"
-          },
-          {
-            "displayName": "OnBoard",
-            "picto": "onboard",
-            "children": [],
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/972.json?params[type]=live&cache=10800000"
-          },
-          {
-            "displayName": "Stands",
-            "picto": "stand",
-            "children": [],
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/973.json?params[type]=live&cache=10800000"
-          },
-          {
-            "displayName": "Tracking",
-            "picto": "circuit",
-            "children": [],
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/974.json?params[type]=live&cache=10800000"
-          },
-          {
-            "displayName": "Temps",
-            "picto": "time",
-            "children": [],
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/06c5f6c5400c4041f83d2a1a19ab706b/975.json?params[type]=live&cache=10800000"
-          }
-        ]
-      }
-    },
-    {
-      "configuration": {
-        "global": {
-          "type": "sportVitrine"
+          "strateType": "match"
         }
       }
     },
     {
       "configuration": {
         "global": {
-          "type": "statsVitrine",
+          "type": "stats",
           "title": "Attaque"
         },
         "contents": [
           {
-            "statType": "twoBar",
+            "statType": "vsBar",
             "title": "Possession (%)",
             "id": "Posession"
           },
           {
-            "statType": "twoBar",
+            "statType": "vsBar",
             "title": "Tirs",
             "id": "Shot",
             "subScore": {
@@ -91,7 +45,7 @@
             }
           },
           {
-            "statType": "twoBar",
+            "statType": "vsBar",
             "title": "Passes",
             "id": "Cross",
             "subScore": {
@@ -100,12 +54,12 @@
             }
           },
           {
-            "statType": "twoBar",
+            "statType": "vsBar",
             "title": "Hors-jeux",
             "id": "Offsides"
           },
           {
-            "statType": "twoBar",
+            "statType": "vsBar",
             "title": "Corners",
             "id": "Corner Kick"
           }
@@ -119,12 +73,12 @@
         },
         "contents": [
           {
-            "statType": "twoBar",
+            "statType": "vsBar",
             "title": "Fautes",
             "id": "Foul"
           },
           {
-            "statType": "twoBar",
+            "statType": "vsBar",
             "title": "Cartons rouges",
             "id": "Expulsion",
             "withPercentage": true
