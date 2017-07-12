@@ -3,7 +3,7 @@
     "displayTemplate": "highlights",
     "displayName": "Marseille / Lyon",
     "BOName": "Générique Highlights Ligue 1",
-    "path": "/liveTV/h/temps-forts-marseille-lyon"
+    "autorefresh": 30000
   },
   "tracking": {
     "omniture": {
