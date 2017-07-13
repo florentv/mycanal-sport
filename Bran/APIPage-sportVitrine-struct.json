@@ -19,7 +19,7 @@
     {
       "configuration": {
         "global": {
-          "strateType": "match"
+          "type": "sportCalendar"
         }
       }
     },
