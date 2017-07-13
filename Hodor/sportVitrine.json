@@ -11,13 +11,13 @@
       "displayTime": "17h00",
       "homeTeam": {
         "displayName": "Paris Saint-Germain",
-        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+        "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
         "score": 3,
         "winner": true
       },
       "awayTeam": {
         "displayName": "Barcelone",
-        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+        "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
         "score": 2
       }
     },
@@ -25,15 +25,15 @@
       "type": "stats",
       "homeTeam": {
         "displayName": "Paris Saint-Germain",
-        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+        "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
         "color": {
           "primary": "0x239389",
-          "secondary": "0x320990"
+          "secondary": "0x320990" 
         }
       },
       "awayTeam": {
         "displayName": "Barcelone",
-        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+        "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
         "score": 2,
         "color": {
           "primary": "0x239389",
@@ -121,7 +121,7 @@
       "type": "stats",
       "homeTeam": {
         "displayName": "Paris Saint-Germain",
-        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
+        "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
         "color": {
           "primary": "0x239389",
           "secondary": "0x320990"
@@ -129,7 +129,7 @@
       },
       "awayTeam": {
         "displayName": "Barcelone",
-        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
+        "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
         "score": 2,
         "color": {
           "primary": "0x239389",
