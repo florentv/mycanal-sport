@@ -1,4 +1,4 @@
-  {
+{
   "currentPage": {
     "displayTemplate": "sportVitrine",
     "displayName": "Vitrine Ligue 1",
@@ -41,17 +41,20 @@
             "id": "Shot",
             "subScore": {
               "title": "Tirs cadrés",
-              "id": "Shot on Goal"
+              "id": "Shot on Goal",
+              "addPercentage": true
             }
           },
           {
             "statType": "vsBar",
             "title": "Passes",
             "id": "Cross",
-            "subScore": {
-              "title": "Passes réussies",
-              "id": "Cross"
-            }
+            "subScore": [
+              {
+                "title": "Passes réussies",
+                "id": "Cross"
+              }
+            ]
           },
           {
             "statType": "vsBar",
@@ -74,14 +77,13 @@
         "contents": [
           {
             "statType": "vsBar",
-            "title": "Fautes",
+            "title": "Passes",
             "id": "Foul"
           },
           {
             "statType": "vsBar",
             "title": "Cartons rouges",
-            "id": "Expulsion",
-            "withPercentage": true
+            "id": "Expulsion"
           }
         ]
       }
