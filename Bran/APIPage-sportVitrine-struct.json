@@ -19,11 +19,7 @@
     {
       "configuration": {
         "global": {
-<<<<<<< Updated upstream
           "type": "sportCalendar"
-=======
-          "strateType": "sportCalendar"
->>>>>>> Stashed changes
         }
       }
     },
