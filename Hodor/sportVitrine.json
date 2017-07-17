@@ -6,7 +6,7 @@
   "strates": [
     {
       "type": "sportCalendar",
-      "status": 8,
+      "status": "8",
       "displayStatus": "En cours",
       "displayTime": "17h00",
       "homeTeam": {
