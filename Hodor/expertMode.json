@@ -49,7 +49,7 @@
       "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking-F1.json?sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
     },
     {
-      "displayTemplate": "sportVitrine",
+      "displayTemplate": "multicam",
       "displayName": "Multicam",
       "autorefresh" : 90000,
       "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine-multicam.json?sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
