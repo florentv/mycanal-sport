@@ -39,11 +39,13 @@
             "statType": "vsBar",
             "title": "Tirs",
             "id": "Shot",
-            "subScore": {
-              "title": "Tirs cadrés",
-              "id": "Shot on Goal",
-              "addPercentage": true
-            }
+            "subScore": [
+              {
+                "title": "Tirs cadrés",
+                "id": "Shot on Goal",
+                "addPercentage": true
+              }
+            ]
           },
           {
             "statType": "vsBar",
