@@ -123,7 +123,7 @@
         "displayName": "Paris Saint-Germain",
         "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/45.png",
         "color": {
-          "primary": "0x239389",
+          "primary": "0x119833",
           "secondary": "0x320990"
         }
       },
@@ -132,8 +132,8 @@
         "URLImage": "https://storage.googleapis.com/canal_rugby/images/teams/38.png",
         "score": 2,
         "color": {
-          "primary": "0x239389",
-          "secondary": "0x320990"
+          "primary": "0x839828",
+          "secondary": "0x020476"
         }
       },
       "contents": [
