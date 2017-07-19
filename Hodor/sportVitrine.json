@@ -5,7 +5,7 @@
   },
   "strates": [
     {
-      "type": "sportCalendar",
+      "type": "match",
       "status": "8",
       "displayStatus": "En cours",
       "displayTime": "17h00",

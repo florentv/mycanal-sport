@@ -25,6 +25,7 @@
         {
           "events": [
             {
+              "type": "match",
               "status": "8",
               "displayStatus": "En cours",
               "displayTime": "20h45",
@@ -40,6 +41,7 @@
               }
             },
             {
+              "type": "match",
               "status": "8",
               "displayStatus": "En cours",
               "displayTime": "21h00",
@@ -56,6 +58,7 @@
               }
             },
             {
+              "type": "match",
               "status": "14",
               "displayStatus": "Interrompu",
               "displayTime": "20h45",
@@ -72,6 +75,7 @@
               }
             },
             {
+              "type": "match",
               "status": "13",
               "displayStatus": "Terminé",
               "displayTime": "22 avril",
@@ -88,6 +92,7 @@
               }
             },
             {
+              "type": "match",
               "status": "2",
               "displayStatus": "A venir",
               "displayTime": "03 septembre",
@@ -104,6 +109,7 @@
               }
             },
             {
+              "type": "match",
               "status": "2",
               "displayStatus": "Reporté",
               "displayTime": "22 avril",
@@ -120,6 +126,7 @@
               }
             },
             {
+              "type": "match",
               "status": "2",
               "displayStatus": "A venir",
               "displayTime": "22 avril",
@@ -136,6 +143,7 @@
               }
             },
             {
+              "type": "match",
               "status": "2",
               "displayStatus": "A venir",
               "displayTime": "23 avril",
@@ -151,6 +159,7 @@
               }
             },
             {
+              "type": "match",
               "status": "10",
               "displayStatus": "Reporté",
               "displayTime": "23 avril",
@@ -166,6 +175,7 @@
               }
             },
             {
+              "type": "match",
               "status": "7",
               "displayStatus": "Annulé",
               "displayTime": "23 avril",
@@ -188,6 +198,6 @@
   ],
   "empty": {
     "displayName": "Aucuns résultats disponibles",
-    "displayStartover" : ""
+    "displayStartover": ""
   }
 }
