@@ -7,7 +7,7 @@
   "strates": [
     {
       "type": "field",
-      "sportID": "football",
+      "sportType": "football",
       "homeTeam": {
         "formationType": 442,
         "color": {
