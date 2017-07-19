@@ -19,7 +19,7 @@
     {
       "configuration": {
         "global": {
-          "type": "sportCalendar"
+          "type": "match"
         }
       }
     },
@@ -44,6 +44,10 @@
                 "title": "Tirs cadrés",
                 "id": "Shot on Goal",
                 "addPercentage": true
+              },
+              {
+                "title": "Tirs loupés",
+                "id": "Missed Shots"
               }
             ]
           },
@@ -74,7 +78,7 @@
     {
       "configuration": {
         "global": {
-          "type": "statsVitrine"
+          "type": "stats"
         },
         "contents": [
           {
@@ -88,6 +92,29 @@
             "id": "Expulsion"
           }
         ]
+      }
+    },
+    {
+      "configuration": {
+        "global": {
+          "type": "field"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "global": {
+          "type": "playerList",
+          "team": "home"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "global": {
+          "type": "playerList",
+          "team": "away"
+        }
       }
     }
   ],
