@@ -24,7 +24,7 @@
             "position": "Goalkeeper",
             "shirtNo": "1",
             "formationOrder": 1,
-            "id": "0664b6f6-7d4a-4640-84b6-af1a0e1646f9",
+            "id": "0664b6f6-7d4a-4640-84b6-af1a0e1646f9"
           },
           {
             "type": "playerField",
@@ -57,6 +57,7 @@
             "displayName": "Muldowney",
             "position": "Defender",
             "shirtNo": "5",
+            "id": "04fc067e-1187-40a9-9596-ef796cd71saa",
             "formationOrder": 5,
             "redCard": true
           },
@@ -127,6 +128,7 @@
             "type": "playerField",
             "displayName": "Taumalolo",
             "position": "Goalkeeper",
+            "id": "33da236a-42bc-4f93-bf35-4e9df6ea63ad",
             "shirtNo": "1",
             "formationOrder": 1
           },
@@ -134,6 +136,7 @@
             "type": "playerField",
             "displayName": "Jammes",
             "position": "Defender",
+            "id": "33da236a-42bc-4f23-bf35-4e9df6ea61ad",
             "shirtNo": "2",
             "formationOrder": 2
           },
@@ -141,12 +144,14 @@
             "type": "playerField",
             "displayName": "Desmaison",
             "position": "Defender",
+            "id": "00da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "shirtNo": "3",
             "formationOrder": 3
           },
           {
             "type": "playerField",
             "displayName": "Roodt",
+            "id": "01da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
             "shirtNo": "4",
             "formationOrder": 4
@@ -154,6 +159,7 @@
           {
             "type": "playerField",
             "displayName": "Muldowney",
+            "id": "02da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
             "shirtNo": "5",
             "formationOrder": 5,
@@ -162,6 +168,7 @@
           {
             "type": "playerField",
             "displayName": "Kimlin",
+            "id": "44da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "6",
             "formationOrder": 6,
@@ -170,6 +177,7 @@
           {
             "type": "playerField",
             "displayName": "Grice (c)",
+            "id": "55da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "8",
             "formationOrder": 7,
@@ -178,6 +186,7 @@
           {
             "type": "playerField",
             "displayName": "Alexandre",
+            "id": "33so236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "7",
             "formationOrder": 9
@@ -185,6 +194,7 @@
           {
             "type": "playerField",
             "displayName": "McLeod",
+            "id": "21da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "9",
             "formationOrder": 10,
@@ -193,6 +203,7 @@
           {
             "type": "playerField",
             "displayName": "Wisniewski",
+            "id": "22da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "10",
             "formationOrder": 11
@@ -200,6 +211,7 @@
           {
             "type": "playerField",
             "displayName": "Mignot",
+            "id": "23da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "11",
             "formationOrder": 8
@@ -223,16 +235,19 @@
         {
           "type": "substitute",
           "displayName": "Heguy",
+          "id": "23da236a-42bc-4f93-bf35-5e9df6ea61ad",
           "shirtNo": "16"
         },
         {
           "type": "substitute",
           "displayName": "Dardet",
+          "id": "23da236a-43bc-4f93-bf35-4e9df6ea61ad",
           "shirtNo": "17"
         },
         {
           "type": "substitute",
           "displayName": "Capelli",
+          "id": "24da236a-42bc-4f93-bf35-4e9df6ea61ad",
           "shirtNo": "18"
         },
         {

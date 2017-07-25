@@ -2,6 +2,7 @@
   "currentPage": {
     "displayTemplate": "highlights",
     "displayName": "Temps forts Ligue 1",
+    "BOName": "[tvOS] Temps forts Ligue 1",
     "autorefresh": 30000
   },
   "tracking": {
@@ -14,8 +15,5 @@
       "prop12": "Consumer",
       "pageName": "A definir"
     }
-  },
-  "empty": {
-    "displayName": "Aucun résultats disponibles"
   }
 }

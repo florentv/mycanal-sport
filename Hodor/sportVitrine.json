@@ -59,12 +59,12 @@
           "type": "vsBar",
           "title": "Tirs",
           "homeTeam": {
-            "score": 30,
-            "displayName": "30"
+            "score": 0,
+            "displayName": "0"
           },
           "awayTeam": {
-            "score": 20,
-            "displayName": "20"
+            "score": 0,
+            "displayName": "0"
           },
           "subScore": [
             {
