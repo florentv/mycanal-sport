@@ -15,5 +15,8 @@
       "prop12": "Consumer",
       "pageName": "A definir"
     }
-  }
+  },
+  "empty": {
+      "displayName": "Les compositions ne sont pas disponibles pour le moment."
+    }
 }
