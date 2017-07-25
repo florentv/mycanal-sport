@@ -31,7 +31,7 @@
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json?sportID=3&season=2017&competitionID=12&homeTeam=3&awayTeam=23"
     },
     {
-      "displayTemplate": "sportComposition",
+      "displayTemplate": "sportVitrine",
       "displayName": "Compositions",
       "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json?sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
