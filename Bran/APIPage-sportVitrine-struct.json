@@ -19,14 +19,14 @@
     {
       "configuration": {
         "global": {
-          "type": "match"
+          "strateType": "match"
         }
       }
     },
     {
       "configuration": {
         "global": {
-          "type": "stats",
+          "strateType": "stats",
           "title": "Attaque"
         },
         "contents": [
@@ -78,7 +78,7 @@
     {
       "configuration": {
         "global": {
-          "type": "stats"
+          "strateType": "stats"
         },
         "contents": [
           {
@@ -97,14 +97,15 @@
     {
       "configuration": {
         "global": {
-          "type": "field"
+          "strateType": "field",
+          "sport": "football"
         }
       }
     },
     {
       "configuration": {
         "global": {
-          "type": "playerList",
+          "strateType": "playerList",
           "team": "home"
         }
       }
@@ -112,7 +113,7 @@
     {
       "configuration": {
         "global": {
-          "type": "playerList",
+          "strateType": "playerList",
           "team": "away"
         }
       }
