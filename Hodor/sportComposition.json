@@ -85,7 +85,8 @@
             "position": "Midfielder",
             "id": "94980aba-d7a5-44db-8dff-21d3beba7f5c",
             "shirtNo": "7",
-            "formationOrder": 9
+            "formationOrder": 9,
+            "substitute": "out"
           },
           {
             "type": "playerField",
@@ -102,7 +103,8 @@
             "position": "Striker",
             "id": "33da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "shirtNo": "10",
-            "formationOrder": 11
+            "formationOrder": 11,
+            "substitute": "out"
           },
           {
             "type": "playerField",
@@ -154,7 +156,8 @@
             "id": "01da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
             "shirtNo": "4",
-            "formationOrder": 4
+            "formationOrder": 4,
+            "substitute": "out"
           },
           {
             "type": "playerField",
@@ -176,12 +179,15 @@
           },
           {
             "type": "playerField",
-            "title": "Grice (c)",
+            "title": "GricemcField alaoneagain (c)",
             "id": "55da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "8",
             "formationOrder": 7,
-            "yellowCard": true
+            "yellowCard": true,
+            "redCard": true,
+            "goals": 5,
+            "substitute": "out"
           },
           {
             "type": "playerField",
@@ -242,7 +248,8 @@
           "type": "substitute",
           "title": "Dardet",
           "id": "23da236a-43bc-4f93-bf35-4e9df6ea61ad",
-          "shirtNo": "17"
+          "shirtNo": "17",
+          "substitute": "in"
         },
         {
           "type": "substitute",
@@ -254,7 +261,8 @@
           "type": "substitute",
           "title": "Hayes",
           "shirtNo": "19",
-          "yellowCard": 1
+          "yellowCard": true,
+          "substitute": "in"
         },
         {
           "type": "substitute",
@@ -313,10 +321,12 @@
         },
         {
           "type": "substitute",
-          "title": "L. Saseras",
+          "title": "L. Saseras von miguelito",
           "shirtNo": "20",
-          "goals": 1,
-          "redCard": 1
+          "goals": 5,
+          "redCard": true,
+          "yellowCard": true,
+          "substitute": "in"
         },
         {
           "type": "substitute",
@@ -336,8 +346,8 @@
         }
       ]
     }
-    ],
-    "empty": {
-      "displayName": "Les compositions ne sont pas disponibles pour le moment."
-    }
+  ],
+  "empty": {
+    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+  }
 }
