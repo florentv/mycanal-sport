@@ -22,7 +22,7 @@
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json"
     },
     {
-      "displayTemplate": "sportComposition",
+      "displayTemplate": "sportVitrine",
       "displayName": "Compositions",
       "autorefresh" : 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportComposition.json"
