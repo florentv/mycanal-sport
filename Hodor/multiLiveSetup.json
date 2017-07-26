@@ -23,6 +23,11 @@
   "button": {
     "title": "Accéder à la mosaïque"
   },
+  "pageParameters": {
+    "displayAllChannels": true,
+    "displayedPrograms": "now",
+    "displayOnlyFavoriteChannels": true
+  },
   "channels": [
     {
       "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/120X90/CHN43FN_177_20130826.PNG",
