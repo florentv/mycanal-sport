@@ -74,7 +74,7 @@
             "type": "playerField",
             "title": "Grice (c)",
             "position": "Midfielder",
-            "shirtNo": "8",
+            "shirtNo": "7",
             "formationOrder": 7,
             "id": "9fd98b1a-1c65-4996-b2b9-4b9ff430d09e",
             "yellowCard": true
@@ -84,7 +84,7 @@
             "title": "Alexandre",
             "position": "Midfielder",
             "id": "94980aba-d7a5-44db-8dff-21d3beba7f5c",
-            "shirtNo": "7",
+            "shirtNo": "9",
             "formationOrder": 9,
             "substitute": "out"
           },
@@ -93,7 +93,7 @@
             "title": "McLeod",
             "position": "Striker",
             "id": "af4f11c2-b494-4049-a30e-eba00e6eac55",
-            "shirtNo": "9",
+            "shirtNo": "10",
             "formationOrder": 10,
             "goals": 2
           },
@@ -102,7 +102,7 @@
             "title": "Wisniewski",
             "position": "Striker",
             "id": "33da236a-42bc-4f93-bf35-4e9df6ea61ad",
-            "shirtNo": "10",
+            "shirtNo": "11",
             "formationOrder": 11,
             "substitute": "out"
           },
@@ -111,7 +111,7 @@
             "title": "Mignot",
             "position": "Striker",
             "id": "7877af67-7ec2-4cc8-a8a1-e262424a3286",
-            "shirtNo": "11",
+            "shirtNo": "8",
             "formationOrder": 8
           }
         ]
@@ -182,7 +182,7 @@
             "title": "GricemcField alaoneagain (c)",
             "id": "55da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
-            "shirtNo": "8",
+            "shirtNo": "7",
             "formationOrder": 7,
             "yellowCard": true,
             "redCard": true,
@@ -194,7 +194,7 @@
             "title": "Alexandre",
             "id": "33so236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
-            "shirtNo": "7",
+            "shirtNo": "9",
             "formationOrder": 9
           },
           {
@@ -202,7 +202,7 @@
             "title": "McLeod",
             "id": "21da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
-            "shirtNo": "9",
+            "shirtNo": "10",
             "formationOrder": 10,
             "goals": 2
           },
@@ -211,7 +211,7 @@
             "title": "Wisniewski",
             "id": "22da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
-            "shirtNo": "10",
+            "shirtNo": "11",
             "formationOrder": 11
           },
           {
@@ -219,7 +219,7 @@
             "title": "Mignot",
             "id": "23da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
-            "shirtNo": "11",
+            "shirtNo": "8",
             "formationOrder": 8
           }
         ]
