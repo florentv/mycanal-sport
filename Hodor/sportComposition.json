@@ -119,7 +119,7 @@
       "awayTeam": {
         "formationType": "4231",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Toulouse.png",
-        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/maillots/Ligue1%20-%203_Monaco.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/maillots/Ligue1-3-Monaco.png",
         "displayName": "Toulouse",
         "color": {
           "primary": "0x239389",
@@ -233,7 +233,7 @@
           "primary": "0x239389",
           "secondary": "0x320990"
         },
-        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/maillots/Ligue1%20-%203_Caen.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/maillots/Ligue1-3-Caen.png",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
         "displayName": "Marseille"
       },
@@ -291,7 +291,7 @@
       "type": "playerList",
       "team": {
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Toulouse.png",
-        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/maillots/Ligue1%20-%203_Monaco.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/maillots/Ligue1-3-Monaco.png",
         "displayName": "Toulouse",
         "color": {
           "primary": "0x239389",
