@@ -1,0 +1,30 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Vitrine Ligue 1",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "à définir",
+      "prop5": "à définir",
+      "prop6": "à définir",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "à définir"
+    }
+  },
+  "strates": [
+    {
+      "configuration": {
+        "global": {
+          "strateType": "highlights"
+        }
+      }
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune vidéo disponible pour ce match"
+  }
+}
