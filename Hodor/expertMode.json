@@ -22,13 +22,13 @@
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendar.json?sportID=1&season=2017&competitionID=7&roundID=30&sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
+      "URLPage": "http://hodor-dev.canalplus.pro/api/v1/page/b2e4573328bc317b022cf3c16c37f5dc/7093.json?season=2016&competitionID=3821b89e-bc67-4e9b-be86-b5fc9c37b72b&sportID=457e14f6-6244-4fb5-882a-eafc874ac384&roundID=d6b6ca4d-9638-4c75-9454-82deaa49864a&sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json?sportID=3&season=2017&competitionID=12&homeTeam=3&awayTeam=23"
+      "URLPage": "http://hodor-dev.canalplus.pro/api/v1/page/b2e4573328bc317b022cf3c16c37f5dc/7092.json?season=2016&competitionID=3821b89e-bc67-4e9b-be86-b5fc9c37b72b&sportID=457e14f6-6244-4fb5-882a-eafc874ac384&sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b&homeTeam=98b36f7c-b842-4b90-80ec-cdf0833fbb7c&awayTeam=fb732998-ad77-4f19-ac42-28efd49886de"
     },
     {
       "displayTemplate": "sportVitrine",
