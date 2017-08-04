@@ -9,7 +9,7 @@
       "type": "field",
       "sport": "football",
       "homeTeam": {
-        "formationType": "442",
+        "formationType": "343d",
         "color": {
           "primary": "0xe2aa3b",
           "secondary": "0xffffff"
@@ -21,6 +21,7 @@
           {
             "type": "playerField",
             "position": "Goalkeeper",
+            "title": "F. Barthez",
             "shirtNo": "1",
             "formationOrder": 1,
             "id": "0664b6f6-7d4a-4640-84b6-af1a0e1646f9"
@@ -116,7 +117,7 @@
         ]
       },
       "awayTeam": {
-        "formationType": "4231",
+        "formationType": "42121",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Toulouse.png",
         "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1501856493305_Maillots-Ligue_1_Toulouse.png",
         "displayName": "Toulouse",
