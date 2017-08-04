@@ -207,11 +207,13 @@
           },
           {
             "type": "playerField",
-            "title": "Wisniewski",
+            "title": "K. Tafo",
             "id": "22da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "11",
-            "formationOrder": 11
+            "formationOrder": 11,
+            "yellowCard": true,
+            "goals": 2
           },
           {
             "type": "playerField",
