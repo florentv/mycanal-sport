@@ -21,23 +21,23 @@
           {
             "type": "playerField",
             "position": "Goalkeeper",
-            "title": "F. Barthez",
+            "title": "E. Chesnay",
             "shirtNo": "1",
             "formationOrder": 1,
             "id": "0664b6f6-7d4a-4640-84b6-af1a0e1646f9"
           },
           {
             "type": "playerField",
-            "title": "Jammes",
+            "title": "H. Park",
             "position": "Defender",
-            "shirtNo": "2",
+            "shirtNo": "18",
             "formationOrder": 2,
             "goalsCSC": 1,
             "id": "e527196a-cc23-4642-a2b2-6fe6a41febb3"
           },
           {
             "type": "playerField",
-            "title": "Desmaison",
+            "title": "F. Vié",
             "position": "Defender",
             "shirtNo": "3",
             "id": "2c820abd-2710-4a0c-bf9d-d4faf6453d45",
@@ -47,7 +47,7 @@
           },
           {
             "type": "playerField",
-            "title": "Roodt",
+            "title": "B. Got",
             "position": "Defender",
             "shirtNo": "4",
             "id": "04fc067e-1187-40a9-9596-ef796cd71aaa",
@@ -55,7 +55,7 @@
           },
           {
             "type": "playerField",
-            "title": "Muldowney",
+            "title": "JF. Lai",
             "position": "Defender",
             "shirtNo": "5",
             "id": "04fc067e-1187-40a9-9596-ef796cd71saa",
@@ -64,7 +64,7 @@
           },
           {
             "type": "playerField",
-            "title": "Kimlin",
+            "title": "N. El Islam",
             "position": "Midfielder",
             "shirtNo": "6",
             "id": "647e9888-3c32-410c-bac3-7ad61caafa9b",
@@ -73,7 +73,7 @@
           },
           {
             "type": "playerField",
-            "title": "Grice (c)",
+            "title": "B. Got (c)",
             "position": "Midfielder",
             "shirtNo": "7",
             "formationOrder": 7,
@@ -82,7 +82,7 @@
           },
           {
             "type": "playerField",
-            "title": "Alexandre",
+            "title": "M. Rodrigues",
             "position": "Midfielder",
             "id": "94980aba-d7a5-44db-8dff-21d3beba7f5c",
             "shirtNo": "9",
@@ -91,7 +91,7 @@
           },
           {
             "type": "playerField",
-            "title": "McLeod",
+            "title": "A. Rakoto",
             "position": "Striker",
             "id": "af4f11c2-b494-4049-a30e-eba00e6eac55",
             "shirtNo": "10",
@@ -100,7 +100,7 @@
           },
           {
             "type": "playerField",
-            "title": "Wisniewski",
+            "title": "K. Tafo",
             "position": "Striker",
             "id": "33da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "shirtNo": "11",
@@ -109,7 +109,7 @@
           },
           {
             "type": "playerField",
-            "title": "Mignot",
+            "title": "F",
             "position": "Striker",
             "id": "7877af67-7ec2-4cc8-a8a1-e262424a3286",
             "shirtNo": "8",
@@ -129,7 +129,7 @@
         "contents": [
           {
             "type": "playerField",
-            "title": "E. Chesnay",
+            "title": "B. Got",
             "position": "Goalkeeper",
             "id": "33da236a-42bc-4f93-bf35-4e9df6ea63ad",
             "shirtNo": "1",
@@ -137,7 +137,7 @@
           },
           {
             "type": "playerField",
-            "title": "H. Park",
+            "title": "B. Got",
             "position": "Defender",
             "id": "33da236a-42bc-4f23-bf35-4e9df6ea61ad",
             "shirtNo": "2",
@@ -145,7 +145,7 @@
           },
           {
             "type": "playerField",
-            "title": "F. Vié",
+            "title": "B. Got",
             "position": "Defender",
             "id": "00da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "shirtNo": "3",
@@ -153,7 +153,7 @@
           },
           {
             "type": "playerField",
-            "title": "P-L. Naud",
+            "title": "B. Got",
             "id": "01da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
             "shirtNo": "4",
@@ -171,7 +171,7 @@
           },
           {
             "type": "playerField",
-            "title": "M. Rodrigues (c)",
+            "title": "B. Got (c)",
             "id": "44da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "6",
@@ -180,7 +180,7 @@
           },
           {
             "type": "playerField",
-            "title": "N. El Islam",
+            "title": "B. Got",
             "id": "55da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "7",
@@ -191,7 +191,7 @@
           },
           {
             "type": "playerField",
-            "title": "R. Derrien",
+            "title": "B. Got",
             "id": "33so236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "9",
@@ -199,7 +199,7 @@
           },
           {
             "type": "playerField",
-            "title": "V. Toulis",
+            "title": "B. Got",
             "id": "21da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "10",
@@ -208,7 +208,7 @@
           },
           {
             "type": "playerField",
-            "title": "K. Tafo",
+            "title": "B. Got",
             "id": "22da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "11",
@@ -218,7 +218,7 @@
           },
           {
             "type": "playerField",
-            "title": "A. Rakoto",
+            "title": "B. Got",
             "id": "23da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "goals": 2,
