@@ -13,7 +13,7 @@
       "homeTeam": {
         "displayName": "Monaco",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1499419730439_170210_Fanions-FootApp_L1-Monaco.png",
-        "score": 3,
+        "score": 10,
         "winner": true
       },
       "awayTeam": {
@@ -47,12 +47,12 @@
           "type": "vsBar",
           "title": "Possession (%)",
           "homeTeam": {
-            "score": 48.1,
-            "displayName": "48,1"
+            "score": 90,
+            "displayName": "90"
           },
           "awayTeam": {
-            "score": 51.9,
-            "displayName": "51,9"
+            "score": 10,
+            "displayName": "10"
           }
         },
         {
