@@ -9,7 +9,7 @@
       "type": "field",
       "sport": "football",
       "homeTeam": {
-        "formationType": "343d",
+        "formationType": "343",
         "color": {
           "primary": "0xe2aa3b",
           "secondary": "0xffffff"
@@ -32,6 +32,7 @@
             "position": "Defender",
             "shirtNo": "2",
             "formationOrder": 2,
+            "goalsCSC": 1,
             "id": "e527196a-cc23-4642-a2b2-6fe6a41febb3"
           },
           {
@@ -128,7 +129,7 @@
         "contents": [
           {
             "type": "playerField",
-            "title": "Taumalolo",
+            "title": "E. Chesnay",
             "position": "Goalkeeper",
             "id": "33da236a-42bc-4f93-bf35-4e9df6ea63ad",
             "shirtNo": "1",
@@ -136,7 +137,7 @@
           },
           {
             "type": "playerField",
-            "title": "Jammes",
+            "title": "H. Park",
             "position": "Defender",
             "id": "33da236a-42bc-4f23-bf35-4e9df6ea61ad",
             "shirtNo": "2",
@@ -144,7 +145,7 @@
           },
           {
             "type": "playerField",
-            "title": "Desmaison",
+            "title": "F. Vié",
             "position": "Defender",
             "id": "00da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "shirtNo": "3",
@@ -152,7 +153,7 @@
           },
           {
             "type": "playerField",
-            "title": "Roodt",
+            "title": "P-L. Naud",
             "id": "01da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
             "shirtNo": "4",
@@ -161,7 +162,7 @@
           },
           {
             "type": "playerField",
-            "title": "Muldowney",
+            "title": "B. Got",
             "id": "02da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
             "shirtNo": "5",
@@ -170,7 +171,7 @@
           },
           {
             "type": "playerField",
-            "title": "Kimlin",
+            "title": "M. Rodrigues (c)",
             "id": "44da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "6",
@@ -179,19 +180,18 @@
           },
           {
             "type": "playerField",
-            "title": "GricemcField alaoneagain (c)",
+            "title": "N. El Islam",
             "id": "55da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "7",
             "formationOrder": 7,
             "yellowCard": true,
             "redCard": true,
-            "goals": 5,
             "substitute": "out"
           },
           {
             "type": "playerField",
-            "title": "Alexandre",
+            "title": "R. Derrien",
             "id": "33so236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "9",
@@ -199,7 +199,7 @@
           },
           {
             "type": "playerField",
-            "title": "McLeod",
+            "title": "V. Toulis",
             "id": "21da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "10",
@@ -218,9 +218,10 @@
           },
           {
             "type": "playerField",
-            "title": "Mignot",
+            "title": "A. Rakoto",
             "id": "23da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
+            "goals": 2,
             "shirtNo": "55",
             "formationOrder": 8
           }
@@ -264,6 +265,7 @@
           "title": "Hayes",
           "shirtNo": "19",
           "yellowCard": true,
+          "subtitle": "Rep : V. Toulis",
           "substitute": "in"
         },
         {
@@ -323,9 +325,9 @@
         },
         {
           "type": "substitute",
-          "title": "L. Saseras von miguelito",
+          "title": "F. Jouachim",
           "shirtNo": "20",
-          "goals": 5,
+          "goals": 2,
           "redCard": true,
           "yellowCard": true,
           "substitute": "in"
