@@ -1,0 +1,11 @@
+{
+  "currentPage": {
+    "autorefresh": 30000,
+    "displayName": "Composition",
+    "displayTemplate": "sportVitrine"
+  },
+  "strates": [],
+  "empty": {
+    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+  }
+}

@@ -53,6 +53,12 @@
       "displayName": "Calendrier vide",
       "autorefresh" : 90000,
       "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendar-empty.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Composition vide",
+      "autorefresh" : 90000,
+      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition-empty.json"
     }
   ]
 }
