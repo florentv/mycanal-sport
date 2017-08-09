@@ -14,7 +14,7 @@
           "primary": "0xe2aa3b",
           "secondary": "0xffffff"
         },
-        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501856407712_Maillots-Ligue_1_Monaco.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/ccbfee25-eaac-4167-8545-31fca79e05f9/1502294838181_Maillots-Ligue_1_Angers.png",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501860778644_Fanions-L1_L1-Monaco.png",
         "displayName": "Monaco",
         "contents": [
@@ -118,7 +118,7 @@
         ]
       },
       "awayTeam": {
-        "formationType": "343d",
+        "formationType": "433",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Toulouse.png",
         "displayName": "Toulouse",
         "color": {
@@ -128,7 +128,7 @@
         "contents": [
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Lafont",
             "position": "Goalkeeper",
             "id": "33da236a-42bc-4f93-bf35-4e9df6ea63ad",
             "shirtNo": "1",
@@ -136,7 +136,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Amian",
             "position": "Defender",
             "id": "33da236a-42bc-4f23-bf35-4e9df6ea61ad",
             "shirtNo": "2",
@@ -144,7 +144,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Yago",
             "position": "Defender",
             "id": "00da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "shirtNo": "3",
@@ -152,7 +152,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Jullien",
             "id": "01da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
             "shirtNo": "4",
@@ -161,7 +161,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Moubandje",
             "id": "02da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
             "shirtNo": "5",
@@ -170,7 +170,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got (c)",
+            "title": "Blin",
             "id": "44da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "6",
@@ -179,7 +179,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Sangare",
             "id": "55da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "7",
@@ -190,7 +190,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Jean",
             "id": "33so236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
             "shirtNo": "9",
@@ -198,7 +198,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Delort",
             "id": "21da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "10",
@@ -207,7 +207,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Durmaz",
             "id": "22da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "11",
@@ -217,7 +217,7 @@
           },
           {
             "type": "playerField",
-            "title": "B. Got",
+            "title": "Machach",
             "id": "23da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "goals": 2,

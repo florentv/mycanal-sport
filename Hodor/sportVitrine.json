@@ -47,11 +47,11 @@
           "type": "vsBar",
           "title": "Possession (%)",
           "homeTeam": {
-            "score": 90,
+            "score": 10,
             "displayName": "90"
           },
           "awayTeam": {
-            "score": 10,
+            "score": 90,
             "displayName": "10"
           }
         },
