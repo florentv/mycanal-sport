@@ -48,11 +48,11 @@
           "title": "Possession (%)",
           "homeTeam": {
             "score": 10,
-            "displayName": "90"
+            "displayName": "10"
           },
           "awayTeam": {
             "score": 90,
-            "displayName": "10"
+            "displayName": "90"
           }
         },
         {
