@@ -32,15 +32,15 @@
     },
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Compositions",
-      "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json?sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
-    },
-    {
-      "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
       "autorefresh" : 10000,
       "URLPage": "http://hodor.canalplus.pro/api/v1/expertMode/ff8bb6e2aaa15058f16c79b40e65f11a/sportVitrine/id/6863/event/48f218cd-8e78-45a7-b840-b984c2b5e539"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Compositions",
+      "autorefresh" : 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json?sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
     },
     {
       "displayTemplate": "sportRanking",
