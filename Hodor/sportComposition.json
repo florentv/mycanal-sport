@@ -1,6 +1,6 @@
 {
   "currentPage": {
-    "autorefresh": 30000,
+    "autorefresh": 10000,
     "displayName": "Composition",
     "displayTemplate": "sportVitrine"
   },
@@ -11,10 +11,10 @@
       "homeTeam": {
         "formationType": "343",
         "color": {
-          "primary": "0xe2aa3b",
+          "primary": "0x001B50",
           "secondary": "0xffffff"
         },
-        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/ccbfee25-eaac-4167-8545-31fca79e05f9/1502294838181_Maillots-Ligue_1_Angers.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1504099529747_Maillots-Ligue_1_St_Etienne.png",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501860778644_Fanions-L1_L1-Monaco.png",
         "displayName": "Monaco",
         "contents": [

@@ -1,7 +1,7 @@
 {
   "currentPage": {
     "displayTemplate": "sportVitrine",
-    "autorefresh": 30000
+    "autorefresh": 10000
   },
   "strates": [
     {
@@ -28,7 +28,7 @@
         "displayName": "Monaco",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
         "color": {
-          "primary": "0xe2aa3b",
+          "primary": "0xffffff",
           "secondary": "0xffffff"
         }
       },
@@ -37,7 +37,7 @@
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Toulouse.png",
         "score": 2,
         "color": {
-          "primary": "0x8374ba",
+          "primary": "0xe0e0e0",
           "secondary": "0xffffff"
         }
       },
@@ -120,6 +120,7 @@
     },
     {
       "type": "stats",
+      "title": "Défense",
       "homeTeam": {
         "displayName": "Monaco",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1499419730439_170210_Fanions-FootApp_L1-Monaco.png",
