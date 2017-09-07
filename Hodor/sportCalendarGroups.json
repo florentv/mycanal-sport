@@ -20,7 +20,7 @@
   "strates": [
     {
       "type": "sportCalendar",
-      "title": "France Ligue 1 - Match Day 34",
+      "title": "Ligue des Champions - Groupe A",
       "groups": [
         {
           "title" : "Group A",
@@ -210,7 +210,7 @@
     },
     {
       "type": "sportCalendar",
-      "title": "France Ligue 1 - Match Day 34",
+      "title": "Ligue des Champions - Groupe A",
       "groups": [
         {
           "title" : "Group A",
