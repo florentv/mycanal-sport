@@ -22,7 +22,7 @@
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "autorefresh" : 10000,
-      "URLPage": "http://hodor.canalplus.pro/api/v1/page/ff8bb6e2aaa15058f16c79b40e65f11a/6417.json?season=2017&competitionID=3821b89e-bc67-4e9b-be86-b5fc9c37b72b&sportID=457e14f6-6244-4fb5-882a-eafc874ac384&sportEventID=48f218cd-8e78-45a7-b840-b984c2b5e539&roundID=be97c230-d7b6-4f04-b784-d41b5598c35f"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
     },
     {
       "displayTemplate": "sportRanking",
