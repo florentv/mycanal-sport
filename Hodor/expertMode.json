@@ -28,7 +28,7 @@
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "autorefresh" : 10000,
-      "URLPage": "http://hodor.canalplus.pro/api/v1/page/ff8bb6e2aaa15058f16c79b40e65f11a/6418.json?season=2017&competitionID=3821b89e-bc67-4e9b-be86-b5fc9c37b72b&sportID=457e14f6-6244-4fb5-882a-eafc874ac384&sportEventID=48f218cd-8e78-45a7-b840-b984c2b5e539&homeTeam=fb732998-ad77-4f19-ac42-28efd49886de&awayTeam=75f7290e-7a9c-4417-bdc8-7177542a079a"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRankingGroups.json"
     },
     {
       "displayTemplate": "sportVitrine",
