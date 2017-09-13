@@ -8,7 +8,7 @@
     {
       "type": "field",
       "sport": "football",
-      "homeTeam": {
+      "awayTeam": {
         "formationType": "4231",
         "color": {
           "primary": "0x004070",
@@ -115,7 +115,7 @@
           }
         ]
       },
-      "awayTeam": {
+      "homeTeam": {
         "formationType": "4231",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
         "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1504098901361_Maillots-Ligue_1_Metz.png",
@@ -205,8 +205,7 @@
             "id": "22da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "shirtNo": "11",
-            "formationOrder": 11,
-            "substitute": "out"
+            "formationOrder": 11
           },
           {
             "type": "playerField",
@@ -304,14 +303,13 @@
         {
           "type": "substitute",
           "title": "Fernandez",
-          "shirtNo": "10",
-          "substitute": "in"
+          "shirtNo": "10"
         },
         {
           "type": "substitute",
           "title": "Nguette",
           "shirtNo": "11",
-          "substitute": "in"
+          "substitute": "in
         },
         {
           "type": "substitute",
