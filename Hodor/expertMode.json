@@ -38,33 +38,9 @@
     },
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Compositions",
-      "autorefresh" : 30000,
-      "URLPage": "http://hodor-dev.canalplus.pro/api/v1/expertMode/166523035a2c866390395eb500c54ecd/sportVitrine/id/7174/event/af3e8207-eeef-4129-a2a8-46bb3624f5d3?ddddd"
-    },
-    {
-      "displayTemplate": "sportVitrine",
-      "displayName": "Composition Bouchon",
+      "displayName": "Composition",
       "autorefresh" : 90000,
       "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json?sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
-    },
-    {
-      "displayTemplate": "sportRanking",
-      "displayName": "Course F1",
-      "autorefresh" : 30000,
-      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking-F1.json?sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
-    },
-    {
-      "displayTemplate": "sportCalendar",
-      "displayName": "Calendrier vide",
-      "autorefresh" : 90000,
-      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendar-empty.json"
-    },
-    {
-      "displayTemplate": "sportVitrine",
-      "displayName": "Composition vide",
-      "autorefresh" : 90000,
-      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition-empty.json"
     }
   ]
 }
