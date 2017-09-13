@@ -1,221 +1,176 @@
 {
   "currentPage": {
-    "displayTemplate": "sportVitrine",
-    "autorefresh": 10000
+    "displayTemplate": "sportVitrineStats",
+    "displayName": "Statistiques",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats"
+    }
   },
   "strates": [
     {
       "type": "match",
-      "id": "e0c65cce-b52b-4d76-bb7c-50de867e16b2",
+      "id": "67ee81c1-2671-4633-bde5-78d40c50efc4",
       "status": "8",
       "displayStatus": "En cours",
-      "displayTime": "21h00",
+      "displayTime": "08 sept.",
       "homeTeam": {
-        "displayName": "Monaco",
-        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1499419730439_170210_Fanions-FootApp_L1-Monaco.png",
-        "score": 10,
-        "winner": true
+        "displayName": "Metz",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
+        "score": 1
       },
       "awayTeam": {
-        "displayName": "Toulouse",
-        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1499419844849_170210_Fanions-FootApp_L1-Toulouse.png",
-        "score": 1
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+        "score": 2,
+        "winner": true
       }
     },
     {
       "type": "stats",
       "homeTeam": {
-        "displayName": "Monaco",
-        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
+        "displayName": "Metz",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
+        "score": 1,
         "color": {
-          "primary": "0xffffff",
+          "primary": "0x8e0c37",
           "secondary": "0xffffff"
         }
       },
       "awayTeam": {
-        "displayName": "Toulouse",
-        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Toulouse.png",
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
         "score": 2,
+        "winner": true,
         "color": {
-          "primary": "0xe0e0e0",
-          "secondary": "0xffffff"
-        }
-      },
-      "title": "Attaque",
-      "contents": [
-        {
-          "type": "vsBar",
-          "title": "Possession (%)",
-          "homeTeam": {
-            "score": 10,
-            "displayName": "10"
-          },
-          "awayTeam": {
-            "score": 90,
-            "displayName": "90"
-          }
-        },
-        {
-          "type": "vsBar",
-          "title": "Tirs",
-          "homeTeam": {
-            "score": 0,
-            "displayName": "0"
-          },
-          "awayTeam": {
-            "score": 0,
-            "displayName": "0"
-          },
-          "subScore": [
-            {
-              "title": "Tirs cadrés",
-              "homeTeam": {
-                "score": 11,
-                "displayName": "11 (37%)"
-              },
-              "awayTeam": {
-                "score": 2,
-                "displayName": "20 (10%)"
-              }
-            }
-          ]
-        },
-        {
-          "type": "vsBar",
-          "title": "Passes",
-          "homeTeam": {
-            "score": 615,
-            "displayName": "615"
-          },
-          "awayTeam": {
-            "score": 664,
-            "displayName": "664"
-          },
-          "subScore": [
-            {
-              "title": "Passes réussies",
-              "homeTeam": {
-                "score": 523,
-                "displayName": "523 (85%)"
-              },
-              "awayTeam": {
-                "score": 563,
-                "displayName": "563 (85%)"
-              }
-            },
-            {
-              "title": "Passes ratées",
-              "homeTeam": {
-                "score": 96,
-                "displayName": "96 (15%)"
-              },
-              "awayTeam": {
-                "score": 23,
-                "displayName": "23 (15%)"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "stats",
-      "title": "Défense",
-      "homeTeam": {
-        "displayName": "Monaco",
-        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1499419730439_170210_Fanions-FootApp_L1-Monaco.png",
-        "color": {
-          "primary": "0xe2aa3b",
-          "secondary": "0xffffff"
-        }
-      },
-      "awayTeam": {
-        "displayName": "Toulouse",
-        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1499419844849_170210_Fanions-FootApp_L1-Toulouse.png",
-        "score": 2,
-        "color": {
-          "primary": "0x8374ba",
+          "primary": "0x004070",
           "secondary": "0xffffff"
         }
       },
       "contents": [
         {
           "type": "vsBar",
-          "title": "Possession",
+          "title": "Possession (%)",
           "homeTeam": {
-            "score": 48.1,
-            "displayName": "48,15"
+            "displayName": "32",
+            "score": 32
           },
           "awayTeam": {
-            "score": 51.9,
-            "displayName": "51,90"
+            "displayName": "68",
+            "score": 68
           }
         },
         {
           "type": "vsBar",
           "title": "Tirs",
           "homeTeam": {
-            "score": 30,
-            "displayName": "30"
+            "displayName": "5",
+            "score": 5
           },
           "awayTeam": {
-            "score": 20,
-            "displayName": "20"
+            "displayName": "18",
+            "score": 18
           },
           "subScore": [
             {
               "title": "Tirs cadrés",
               "homeTeam": {
-                "score": 11,
-                "displayName": "11 (37%)"
+                "displayName": "1 (14%)",
+                "score": 1
               },
               "awayTeam": {
-                "score": 2,
-                "displayName": "20 (10%)"
+                "displayName": "10 (56%)",
+                "score": 10
               }
             }
           ]
         },
         {
           "type": "vsBar",
-          "title": "Passes",
+          "title": "Coups francs",
           "homeTeam": {
-            "score": 615,
-            "displayName": "615"
+            "displayName": "13",
+            "score": 13
           },
           "awayTeam": {
-            "score": 664,
-            "displayName": "664"
+            "displayName": "13",
+            "score": 13
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Corners",
+          "homeTeam": {
+            "displayName": "4",
+            "score": 4
           },
-          "subScore": [
-            {
-              "title": "Passes réussies",
-              "homeTeam": {
-                "score": 523,
-                "displayName": "523 (85%)"
-              },
-              "awayTeam": {
-                "score": 563,
-                "displayName": "563 (85%)"
-              }
-            },
-            {
-              "title": "Passes ratées",
-              "homeTeam": {
-                "score": 96,
-                "displayName": "96 (15%)"
-              },
-              "awayTeam": {
-                "score": 23,
-                "displayName": "23 (15%)"
-              }
-            }
-          ]
+          "awayTeam": {
+            "displayName": "5",
+            "score": 5
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Hors-jeux",
+          "homeTeam": {
+            "displayName": "3",
+            "score": 3
+          },
+          "awayTeam": {
+            "displayName": "5",
+            "score": 5
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Fautes",
+          "homeTeam": {
+            "displayName": "10",
+            "score": 10
+          },
+          "awayTeam": {
+            "displayName": "7",
+            "score": 7
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Cartons jaunes",
+          "homeTeam": {
+            "displayName": "0",
+            "score": 0
+          },
+          "awayTeam": {
+            "displayName": "1",
+            "score": 1
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Cartons rouges",
+          "homeTeam": {
+            "displayName": "1",
+            "score": 1
+          },
+          "awayTeam": {
+            "displayName": "0",
+            "score": 0
+          }
         }
       ]
     }
   ],
-  "empty": {
-    "displayName": "Aucune data disponible pour le moment"
+  "Empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
   }
 }

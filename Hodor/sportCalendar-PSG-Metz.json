@@ -1,0 +1,195 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Résultats Ligue 1",
+    "BOLayoutName": "[TEST tvOS] Résultats Ligue 1",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Resultats",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Resultats",
+      "channel": "MyCtvOS",
+      "eVar31": "[TEST tvOS] Résultats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "sportCalendar",
+      "title": "Ligue 1 - Journée 5",
+      "groups": [
+        {
+          "events": [
+            {
+              "status": "8",
+              "displayStatus": "En cours",
+              "displayTime": "08 sept.",
+              "homeTeam": {
+                "displayName": "Metz",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
+                "score": 1
+              },
+              "awayTeam": {
+                "displayName": "Paris SG",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+                "score": 2,
+                "winner": true
+              }
+            },
+            {
+              "status": "8",
+              "displayStatus": "En cours",
+              "displayTime": "10 sept.",
+              "homeTeam": {
+                "displayName": "Marseille",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1501860841080_Fanions-L1_L1-Marseille.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Rennes",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1dd6f383-c6ef-448c-af7b-e8603b3fd0d8/1501860717035_Fanions-L1_L1-Rennes.png",
+                "score": 1,
+                "winner": true
+              }
+            }
+            {
+              "status": "8",
+              "displayStatus": "En cours",
+              "displayTime": "08 sept.",
+              "homeTeam": {
+                "displayName": "Lille",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1501860869573_Fanions-L1_L1-Lille.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Bordeaux",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1501860932371_Fanions-L1_L1-Bordeaux.png",
+                "score": 0
+              }
+            },
+            
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "9 sept.",
+              "homeTeam": {
+                "displayName": "Nice",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0f931db7-ca24-46f2-8e12-a9eb755dba47/1501860742810_Fanions-L1_L1-Nice.png",
+                "score": 4,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Monaco",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501860778644_Fanions-L1_L1-Monaco.png",
+                "score": 0
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "9 sept.",
+              "homeTeam": {
+                "displayName": "Caen",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6313389e-778f-4fe6-88c8-dd75ff32f307/1501860902189_Fanions-L1_L1-Caen.png",
+                "score": 2,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Dijon",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/684f949b-d06e-4ddb-8d56-50e20e086493/1501860891324_Fanions-L1_L1-Dijon.png",
+                "score": 1
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "9 sept.",
+              "homeTeam": {
+                "displayName": "Montpellier",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/98b36f7c-b842-4b90-80ec-cdf0833fbb7c/1501860766880_Fanions-L1_L1-Montpellier.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Nantes",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d9b4a833-77c2-4ee4-b011-bb86e85d781b/1501860755562_Fanions-L1_L1-Nantes.png",
+                "score": 1,
+                "winner": true
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "9 sept.",
+              "homeTeam": {
+                "displayName": "Troyes",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/407d4d9d-9c5a-48df-872e-4bb9e47f791d/1501860570213_Fanions-L1_L1-Troyes.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Toulouse",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1501860662331_Fanions-L1_L1-Toulouse.png",
+                "score": 0
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "9 sept.",
+              "homeTeam": {
+                "displayName": "Strasbourg",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/960f6ba4-b685-4703-a434-bcb5294f9147/1501860639261_Fanions-L1_L1-Strasbourg.png",
+                "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Amiens",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d82145d7-1aa3-4fad-a165-652de748a1a8/1501860649841_Fanions-L1_L1-Amiens.png",
+                "score": 1,
+                "winner": true
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "10 sept.",
+              "homeTeam": {
+                "displayName": "St. Etienne",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1501860681832_Fanions-L1_L1-St-Etienne.png",
+                "score": 1
+              },
+              "awayTeam": {
+                "displayName": "Angers",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/ccbfee25-eaac-4167-8545-31fca79e05f9/1501860941916_Fanions-L1_L1-Angers.png",
+                "score": 1
+              }
+            },
+            {
+              "status": "2",
+              "displayStatus": "A venir",
+              "displayTime": "10 sept.",
+              "homeTeam": {
+                "displayName": "Lyon",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1f06c8aa-b711-432f-9a7d-5ae213dee6c0/1501860858813_Fanions-L1_L1-OlympiqueLyonnais.png",
+                "score": 2,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Guingamp",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b7c34c91-edbc-4e53-8e89-686eb2555ef3/1501860879821_Fanions-L1_L1-Guingamp.png",
+                "score": 1
+              }
+            }
+            
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun résultat disponible pour le moment"
+  }
+}
