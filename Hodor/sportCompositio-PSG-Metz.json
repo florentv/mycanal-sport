@@ -83,9 +83,8 @@
             "position": "Midfielder",
             "id": "94980aba-d7a5-44db-8dff-21d3beba7f5c",
             "shirtNo": "9",
-            "goals": 2,
-            "formationOrder": 11,
-            "substitute": "out"
+            "goals": 1,
+            "formationOrder": 11
           },
           {
             "type": "playerField",
@@ -117,7 +116,7 @@
         ]
       },
       "awayTeam": {
-        "formationType": "433",
+        "formationType": "4231",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
         "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1504098901361_Maillots-Ligue_1_Metz.png",
         "displayName": "Metz",
@@ -259,8 +258,7 @@
           "type": "substitute",
           "title": "Lucas Moura",
           "shirtNo": "7",
-          "goals": 1,
-          "substitute": "in"
+          "goals": 1
         },
         {
           "type": "substitute",
