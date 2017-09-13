@@ -40,6 +40,12 @@
       "displayTemplate": "sportVitrine",
       "displayName": "Composition",
       "autorefresh" : 90000,
+      "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCompositio-PSG-Metz.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Composition",
+      "autorefresh" : 90000,
       "URLPage" : "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json?sportEventID=42a76212-d23a-4dd4-96ba-d25ae271352b"
     }
   ]
