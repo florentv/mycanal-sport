@@ -1,0 +1,335 @@
+{
+  "currentPage": {
+    "autorefresh": 10000,
+    "displayName": "Composition",
+    "displayTemplate": "sportVitrine"
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "football",
+      "homeTeam": {
+        "formationType": "343",
+        "color": {
+          "primary": "0x004070",
+          "secondary": "0xffffff"
+        },
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1504098099578_Maillots-Ligue_1_Paris.png",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+        "displayName": "Paris SG",
+        "contents": [
+          {
+            "type": "playerField",
+            "position": "Goalkeeper",
+            "title": "T. Courtois",
+            "shirtNo": "16",
+            "formationOrder": 1,
+            "id": "0664b6f6-7d4a-4640-84b6-af1a0e1646f9"
+          },
+          {
+            "type": "playerField",
+            "title": "Azpilicueta",
+            "position": "Azpilicueta",
+            "shirtNo": "32",
+            "formationOrder": 2,
+            "goalsCSC": 1,
+            "id": "e527196a-cc23-4642-a2b2-6fe6a41febb3"
+          },
+          {
+            "type": "playerField",
+            "title": "A. Christensen",
+            "position": "Defender",
+            "shirtNo": "5",
+            "id": "2c820abd-2710-4a0c-bf9d-d4faf6453d45",
+            "formationOrder": 3
+          },
+          {
+            "type": "playerField",
+            "title": "G. Cahill",
+            "position": "Defender",
+            "shirtNo": "2",
+            "id": "04fc067e-1187-40a9-9596-ef796cd71aaa",
+            "formationOrder": 4
+          },
+          {
+            "type": "playerField",
+            "title": "D. Zappacosta",
+            "position": "Defender",
+            "shirtNo": "20",
+            "id": "04fc067e-1187-40a9-9596-ef796cd71saa",
+            "formationOrder": 5
+          },
+          {
+            "type": "playerField",
+            "title": "N. Kanté",
+            "position": "Midfielder",
+            "shirtNo": "6",
+            "id": "647e9888-3c32-410c-bac3-7ad61caafa9b",
+            "formationOrder": 6,
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Marcos Alonso",
+            "position": "Midfielder",
+            "shirtNo": "25",
+            "formationOrder": 8,
+            "id": "9fd98b1a-1c65-4996-b2b9-4b9ff430d09e",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "M. Batshuayi",
+            "position": "Midfielder",
+            "id": "94980aba-d7a5-44db-8dff-21d3beba7f5c",
+            "shirtNo": "9",
+            "goals": 1,
+            "formationOrder": 10
+          },
+          {
+            "type": "playerField",
+            "title": "Pedro",
+            "position": "Striker",
+            "id": "af4f11c2-b494-4049-a30e-eba00e6eac55",
+            "shirtNo": "10",
+            "formationOrder": 11,
+            "goals": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Willian",
+            "position": "Striker",
+            "id": "33da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "shirtNo": "29",
+            "formationOrder": 9,
+            "goals": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Fàbregas",
+            "position": "Striker",
+            "id": "7877af67-7ec2-4cc8-a8a1-e262424a3286",
+            "shirtNo": "8",
+            "formationOrder": 7,
+            "yellowCard": true
+          }
+        ]
+      },
+      "awayTeam": {
+        "formationType": "4231",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/2d5816ee-35b8-4d4a-bd50-1c0abe0cf7ed/1505231375182_Fanions-LDC_LDC-CelticGlasgow.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/2d5816ee-35b8-4d4a-bd50-1c0abe0cf7ed/1505317648847_Maillots-LDC_Celtic-Glasgow.png",
+        "displayName": "Celtic",
+        "color": {
+          "primary": "0x8e0c37",
+          "secondary": "0x1a1a1a"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "I. Šehić",
+            "position": "Goalkeeper",
+            "id": "33da236a-42bc-4f93-bf35-4e9df6ea63ad",
+            "shirtNo": "13",
+            "formationOrder": 1
+          },
+          {
+            "type": "playerField",
+            "title": "M. Medvedev",
+            "position": "Defender",
+            "id": "33da236a-42bc-4f23-bf35-4e9df6ea61ad",
+            "shirtNo": "56",
+            "formationOrder": 2
+          },
+          {
+            "type": "playerField",
+            "title": "R. Sadıqov",
+            "position": "Defender",
+            "id": "00da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "shirtNo": "14",
+            "formationOrder": 3
+          },
+          {
+            "type": "playerField",
+            "title": "B. Hüseynov",
+            "id": "01da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "position": "Defender",
+            "shirtNo": "5",
+            "formationOrder": 4
+          },
+          {
+            "type": "playerField",
+            "title": "J. Rzeźniczak",
+            "id": "02da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "position": "Defender",
+            "shirtNo": "63",
+            "formationOrder": 5,
+            "redCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Q. Qarayev",
+            "id": "44da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "position": "Midfielder",
+            "shirtNo": "8",
+            "formationOrder": 6,
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "R. Almeyda",
+            "id": "55da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "position": "Midfielder",
+            "shirtNo": "21",
+            "formationOrder": 7
+          },
+          {
+            "type": "playerField",
+            "title": "Míchel ",
+            "id": "33so236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "position": "Midfielder",
+            "shirtNo": "14",
+            "formationOrder": 9
+          },
+          {
+            "type": "playerField",
+            "title": "Pedro Henrique",
+            "id": "21da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "position": "Striker",
+            "shirtNo": "11",
+            "formationOrder": 10
+          },
+          {
+            "type": "playerField",
+            "title": "D. Ndlovu",
+            "id": "22da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "position": "Striker",
+            "shirtNo": "9",
+            "formationOrder": 11
+          },
+          {
+            "type": "playerField",
+            "title": "W. Guerrier",
+            "id": "23da236a-42bc-4f93-bf35-4e9df6ea61ad",
+            "position": "Striker",
+            "goals": 1,
+            "shirtNo": "7",
+            "formationOrder": 8,
+            "substitute": "out"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Remplaçants Paris SG",
+      "type": "playerList",
+      "team": {
+        "color": {
+          "primary": "0x004070",
+          "secondary": "0xffffff"
+        },
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1504098099578_Maillots-Ligue_1_Paris.png",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+        "displayName": "Paris SG"
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "T. Courtois",
+          "id": "23da236a-42bc-4f93-bf35-5e9df6ea61ad",
+          "shirtNo": "1"
+        },
+        {
+          "type": "substitute",
+          "title": "Nkunku",
+          "id": "23da236a-43bc-4f93-bf35-4e9df6ea61ad",
+          "shirtNo": "24",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Lo Celso",
+          "id": "24da236a-42bc-4f93-bf35-4e9df6ea61ad",
+          "shirtNo": "18",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Lucas Moura",
+          "shirtNo": "7",
+          "goals": 1
+        },
+        {
+          "type": "substitute",
+          "title": "Kurzawa",
+          "shirtNo": "20"
+        },
+        {
+          "type": "substitute",
+          "title": "Thiago Silva",
+          "shirtNo": "2"
+        },
+        {
+          "type": "substitute",
+          "title": "Alves",
+          "shirtNo": "32"
+        }
+      ]
+    },
+    {
+      "title": "Remplaçants Metz",
+      "type": "playerList",
+      "team": {
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1504098901361_Maillots-Ligue_1_Metz.png",
+        "displayName": "Metz",
+        "color": {
+          "primary": "0x8e0c37",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Didillon",
+          "shirtNo": "1"
+        },
+        {
+          "type": "substitute",
+          "title": "Udol",
+          "shirtNo": "12",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Fernandez",
+          "shirtNo": "10"
+        },
+        {
+          "type": "substitute",
+          "title": "Nguette",
+          "shirtNo": "11",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Poblete",
+          "shirtNo": "5"
+        },
+        {
+          "type": "substitute",
+          "title": "Diagne",
+          "shirtNo": "3"
+        },
+        {
+          "type": "substitute",
+          "title": "Jouffre",
+          "shirtNo": "8"
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+  }
+}
