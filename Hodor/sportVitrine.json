@@ -32,7 +32,7 @@
       "awayTeam": {
         "displayName": "Paris SG",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
-        "score": 3,
+        "score": 2,
         "winner": true
       }
     },
@@ -78,8 +78,8 @@
             "score": 5
           },
           "awayTeam": {
-            "displayName": "19",
-            "score": 19
+            "displayName": "18",
+            "score": 18
           },
           "subScore": [
             {
@@ -89,8 +89,8 @@
                 "score": 1
               },
               "awayTeam": {
-                "displayName": "11 (58%)",
-                "score": 11
+                "displayName": "10 (56%)",
+                "score": 10
               }
             }
           ]

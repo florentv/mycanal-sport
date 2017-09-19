@@ -22,7 +22,7 @@
             "type": "playerField",
             "position": "Goalkeeper",
             "title": "Areola",
-            "shirtNo": "1",
+            "shirtNo": "16",
             "formationOrder": 1,
             "id": "0664b6f6-7d4a-4640-84b6-af1a0e1646f9"
           },
@@ -30,7 +30,7 @@
             "type": "playerField",
             "title": "Meunier",
             "position": "Defender",
-            "shirtNo": "18",
+            "shirtNo": "12",
             "formationOrder": 2,
             "goalsCSC": 1,
             "id": "e527196a-cc23-4642-a2b2-6fe6a41febb3"
@@ -39,7 +39,7 @@
             "type": "playerField",
             "title": "Marquinhos",
             "position": "Defender",
-            "shirtNo": "3",
+            "shirtNo": "5",
             "id": "2c820abd-2710-4a0c-bf9d-d4faf6453d45",
             "formationOrder": 3
           },
@@ -47,7 +47,7 @@
             "type": "playerField",
             "title": "Kimpembe",
             "position": "Defender",
-            "shirtNo": "4",
+            "shirtNo": "3",
             "id": "04fc067e-1187-40a9-9596-ef796cd71aaa",
             "formationOrder": 4
           },
@@ -55,7 +55,7 @@
             "type": "playerField",
             "title": "Berchiche",
             "position": "Defender",
-            "shirtNo": "5",
+            "shirtNo": "17",
             "id": "04fc067e-1187-40a9-9596-ef796cd71saa",
             "formationOrder": 5
           },
@@ -63,7 +63,7 @@
             "type": "playerField",
             "title": "Thiago Motta",
             "position": "Midfielder",
-            "shirtNo": "6",
+            "shirtNo": "8",
             "id": "647e9888-3c32-410c-bac3-7ad61caafa9b",
             "formationOrder": 6,
             "substitute": "out"
@@ -72,7 +72,7 @@
             "type": "playerField",
             "title": "Rabiot",
             "position": "Midfielder",
-            "shirtNo": "7",
+            "shirtNo": "25",
             "formationOrder": 7,
             "id": "9fd98b1a-1c65-4996-b2b9-4b9ff430d09e",
             "substitute": "out"
@@ -92,15 +92,14 @@
             "position": "Striker",
             "id": "af4f11c2-b494-4049-a30e-eba00e6eac55",
             "shirtNo": "10",
-            "formationOrder": 10,
-            "goals": 1
+            "formationOrder": 10
           },
           {
             "type": "playerField",
             "title": "Mbappe",
             "position": "Striker",
             "id": "33da236a-42bc-4f93-bf35-4e9df6ea61ad",
-            "shirtNo": "11",
+            "shirtNo": "29",
             "formationOrder": 9,
             "goals": 1
           },
@@ -109,7 +108,7 @@
             "title": "Draxler",
             "position": "Striker",
             "id": "7877af67-7ec2-4cc8-a8a1-e262424a3286",
-            "shirtNo": "8",
+            "shirtNo": "23",
             "formationOrder": 8,
             "yellowCard": true
           }
@@ -146,7 +145,7 @@
             "title": "Bisevac",
             "position": "Defender",
             "id": "00da236a-42bc-4f93-bf35-4e9df6ea61ad",
-            "shirtNo": "3",
+            "shirtNo": "6",
             "formationOrder": 3
           },
           {
@@ -162,7 +161,7 @@
             "title": "Assou-Ekotto",
             "id": "02da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Defender",
-            "shirtNo": "5",
+            "shirtNo": "32",
             "formationOrder": 5,
             "redCard": true
           },
@@ -171,7 +170,7 @@
             "title": "Cafu",
             "id": "44da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
-            "shirtNo": "6",
+            "shirtNo": "26",
             "formationOrder": 6,
             "substitute": "out"
           },
@@ -180,7 +179,7 @@
             "title": "Philipps",
             "id": "55da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
-            "shirtNo": "7",
+            "shirtNo": "23",
             "formationOrder": 7
           },
           {
@@ -188,7 +187,7 @@
             "title": "Cohade",
             "id": "33so236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Midfielder",
-            "shirtNo": "9",
+            "shirtNo": "24",
             "formationOrder": 9
           },
           {
@@ -196,7 +195,7 @@
             "title": "Dossevi",
             "id": "21da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
-            "shirtNo": "10",
+            "shirtNo": "17",
             "formationOrder": 10
           },
           {
@@ -204,7 +203,7 @@
             "title": "Roux",
             "id": "22da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
-            "shirtNo": "11",
+            "shirtNo": "9",
             "formationOrder": 11
           },
           {
@@ -213,7 +212,7 @@
             "id": "23da236a-42bc-4f93-bf35-4e9df6ea61ad",
             "position": "Striker",
             "goals": 1,
-            "shirtNo": "55",
+            "shirtNo": "29  ",
             "formationOrder": 8,
             "substitute": "out"
           }

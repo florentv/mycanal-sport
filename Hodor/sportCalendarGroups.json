@@ -20,194 +20,10 @@
   "strates": [
     {
       "type": "sportCalendar",
-      "title": "Ligue des Champions - Groupe A",
+      "title": "Groupe A",
       "groups": [
         {
           "title" : "Group A",
-          "events": [
-            {
-              "type": "match",
-              "id": "974511ac-bf0b-4af7-bde7-7bd98bbf7950",
-              "status": "8",
-              "displayStatus": "En cours",
-              "displayTime": "20h45",
-              "homeTeam": {
-                "displayName": "Monaco",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501860778644_Fanions-L1_L1-Monaco.png",
-                "score": 0
-              },
-              "awayTeam": {
-                "displayName": "Toulouse",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1501860662331_Fanions-L1_L1-Toulouse.png",
-                "score": 0
-              }
-            },
-            {
-              "type": "match",
-              "id": "42a76212-d23a-4dd4-96ba-d25ae271352b",
-              "status": "8",
-              "displayStatus": "En cours",
-              "displayTime": "21h00",
-              "homeTeam": {
-                "displayName": "Paris SG",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 2
-                
-              },
-              "awayTeam": {
-                "displayName": "Montpellier",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 10,
-                "winner": true
-              }
-            },
-            {
-              "type": "match",
-              "id": "aa97199a-9c03-4a44-b9bc-4e90e2cb660a",
-              "status": "14",
-              "displayStatus": "Interrompu",
-              "displayTime": "20h45",
-              "homeTeam": {
-                "displayName": "Lorient",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 5,
-                "winner": true
-              },
-              "awayTeam": {
-                "displayName": "Metz",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 1
-              }
-            },
-
-            {
-              "type": "match",
-              "id": "b76f3e45-8991-48db-8e72-170edbf26dff",
-              "status": "13",
-              "displayStatus": "Terminé",
-              "displayTime": "22 avril",
-              "homeTeam": {
-                "displayName": "Dijon",
-                "score": 3,
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "winner": true
-              },
-              "awayTeam": {
-                "displayName": "Angers",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 2
-              }
-            },
-            {
-              "type": "match",
-              "id": "0a1644c9-5b45-4438-914c-9189c3500ee7",
-              "status": "2",
-              "displayStatus": "A venir",
-              "displayTime": "3 sept.",
-              "homeTeam": {
-                "displayName": "Caen",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 0
-              },
-              "awayTeam": {
-                "displayName": "Nantes",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 2,
-                "winner": true
-              }
-            },
-            {
-              "type": "match",
-              "id": "afcc50bf-f117-4c1f-8c05-05cb51899386",
-              "status": "2",
-              "displayStatus": "Reporté",
-              "displayTime": "22 avril",
-              "homeTeam": {
-                "displayName": "Lille",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 3,
-                "winner": true
-              },
-              "awayTeam": {
-                "displayName": "Guingamp",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 0
-              }
-            },
-            {
-              "type": "match",
-              "id": "7268362f-5375-4328-9949-c7dd24678509",
-              "status": "2",
-              "displayStatus": "A venir",
-              "displayTime": "22 avril",
-              "homeTeam": {
-                "displayName": "Bordeaux",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 2,
-                "winner": true
-              },
-              "awayTeam": {
-                "displayName": "SC Bastia",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 0
-              }
-            },
-            {
-              "type": "match",
-              "id": "9c1fc630-41a7-4d90-930e-4244e39e3eca",
-              "status": "2",
-              "displayStatus": "A venir",
-              "displayTime": "23 avril",
-              "homeTeam": {
-                "displayName": "Toulouse",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 1
-              },
-              "awayTeam": {
-                "displayName": "Nice",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 1
-              }
-            },
-            {
-              "type": "match",
-              "id": "83a9de4d-423a-43e9-8ac9-2c43fff17f23",
-              "status": "10",
-              "displayStatus": "Reporté",
-              "displayTime": "23 avril",
-              "homeTeam": {
-                "displayName": "St. Etienne",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 1
-              },
-              "awayTeam": {
-                "displayName": "Rennes",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 1
-              }
-            },
-            {
-              "type": "match",
-              "id": "e0c65cce-b52b-4d76-bb7c-50de867e16b2",
-              "status": "7",
-              "displayStatus": "Annulé",
-              "displayTime": "23 avril",
-              "homeTeam": {
-                "displayName": "Lyon",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 1
-              },
-              "awayTeam": {
-                "displayName": "Monaco",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/top/static2.canalplus.fr/appli-foot/fanions/170210_Fanions-FootApp_L1-Marseille.png",
-                "score": 2,
-                "winner": true
-              }
-            }
-          ]
-        },
-        {
-          "title" : "Group A bis",
           "events": [
             {
               "type": "match",
@@ -394,7 +210,7 @@
     },
     {
       "type": "sportCalendar",
-      "title": "Ligue des Champions - Groupe A",
+      "title": "Groupe B",
       "groups": [
         {
           "title" : "Group B",
@@ -584,7 +400,6 @@
     }
   ],
   "empty": {
-    "displayName": "Aucuns résultats disponibles",
-    "displayStartover": ""
+    "displayName": "Aucuns résultats disponibles"
   }
 }

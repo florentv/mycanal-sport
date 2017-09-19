@@ -19,7 +19,7 @@
   },
   "strates": [
     {
-      "text": "Groupe A",
+      "text": "Groupe B",
       "events": [
         {
           "title": "Pts",
@@ -29,126 +29,30 @@
       ],
       "contents": [
         {
-          "title": "Lyon",
+          "title": "PSG",
           "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1f06c8aa-b711-432f-9a7d-5ae213dee6c0/1501860858813_Fanions-L1_L1-OlympiqueLyonnais.png",
-          "ranking": "1"
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/f7ae9091-f8d7-4fdd-bd46-4e2e6faf254d/1505231301473_Fanions-LDC_LDC-ParisSG.png",
+          "ranking": "1",
+          "highlight": true
         },
         {
-          "title": "Marseille",
+          "title": "Bayern München",
           "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1501860841080_Fanions-L1_L1-Marseille.png",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/21b185ac-b025-4371-a19e-39613e205216/1505231242692_Fanions-LDC_LDC-FCBayern.png",
           "ranking": "2"
         },
         {
-          "title": "Lille",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1501860869573_Fanions-L1_L1-Lille.png",
+          "title": "Anderlecht",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6440438d-c6d2-4916-9fd5-4c178a740f2d/1505231324214_Fanions-LDC_LDC-RSCAnderlecht.png",
           "ranking": "3"
         },
         {
-          "title": "Guingamp",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b7c34c91-edbc-4e53-8e89-686eb2555ef3/1501860879821_Fanions-L1_L1-Guingamp.png",
-          "ranking": "4"
-        },
-        {
-          "title": "Paris SG",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
-          "ranking": "5"
-        },
-        {
-          "title": "Monaco",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501860778644_Fanions-L1_L1-Monaco.png",
-          "ranking": "6",
+          "title": "Celtic",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/2d5816ee-35b8-4d4a-bd50-1c0abe0cf7ed/1505231375182_Fanions-LDC_LDC-CelticGlasgow.png",
+          "ranking": "4",
           "highlight": true
-        },
-        {
-          "title": "St. Etienne",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1501860681832_Fanions-L1_L1-St-Etienne.png",
-          "ranking": "7"
-        },
-        {
-          "title": "Montpellier",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/98b36f7c-b842-4b90-80ec-cdf0833fbb7c/1501860766880_Fanions-L1_L1-Montpellier.png",
-          "ranking": "8"
-        },
-        {
-          "title": "Bordeaux",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1501860932371_Fanions-L1_L1-Bordeaux.png",
-          "ranking": "9"
-        },
-        {
-          "title": "Angers",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/ccbfee25-eaac-4167-8545-31fca79e05f9/1501860941916_Fanions-L1_L1-Angers.png",
-          "ranking": "10"
-        },
-        {
-          "title": "Rennes",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1dd6f383-c6ef-448c-af7b-e8603b3fd0d8/1501860717035_Fanions-L1_L1-Rennes.png",
-          "ranking": "11"
-        },
-        {
-          "title": "Troyes",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/407d4d9d-9c5a-48df-872e-4bb9e47f791d/1501860570213_Fanions-L1_L1-Troyes.png",
-          "ranking": "12"
-        },
-        {
-          "title": "Toulouse",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1501860662331_Fanions-L1_L1-Toulouse.png",
-          "ranking": "13",
-          "highlight": true
-        },
-        {
-          "title": "Caen",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6313389e-778f-4fe6-88c8-dd75ff32f307/1501860902189_Fanions-L1_L1-Caen.png",
-          "ranking": "14"
-        },
-        {
-          "title": "Nice",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0f931db7-ca24-46f2-8e12-a9eb755dba47/1501860742810_Fanions-L1_L1-Nice.png",
-          "ranking": "15"
-        },
-        {
-          "title": "Metz",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
-          "ranking": "16"
-        },
-        {
-          "title": "Amiens",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d82145d7-1aa3-4fad-a165-652de748a1a8/1501860649841_Fanions-L1_L1-Amiens.png",
-          "ranking": "17"
-        },
-        {
-          "title": "Dijon",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/684f949b-d06e-4ddb-8d56-50e20e086493/1501860891324_Fanions-L1_L1-Dijon.png",
-          "ranking": "18"
-        },
-        {
-          "title": "Nantes",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d9b4a833-77c2-4ee4-b011-bb86e85d781b/1501860755562_Fanions-L1_L1-Nantes.png",
-          "ranking": "19"
-        },
-        {
-          "title": "Strasbourg",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/960f6ba4-b685-4703-a434-bcb5294f9147/1501860639261_Fanions-L1_L1-Strasbourg.png",
-          "ranking": "20"
         }
       ],
       "paging": {
@@ -160,7 +64,7 @@
       }
     },
     {
-      "text": "Groupe B",
+      "text": "Groupe A",
       "events": [
         {
           "title": "Pts",
@@ -170,126 +74,115 @@
       ],
       "contents": [
         {
-          "title": "Lyon",
+          "title": "Manchester United",
           "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1f06c8aa-b711-432f-9a7d-5ae213dee6c0/1501860858813_Fanions-L1_L1-OlympiqueLyonnais.png",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/57ec735f-54f4-4417-aa2d-6a834a7c4fe8/1505231056013_Fanions-LDC_LDC-ManchesterUnited.png",
           "ranking": "1"
         },
         {
-          "title": "Marseille",
+          "title": "CSKA Moskva",
           "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1501860841080_Fanions-L1_L1-Marseille.png",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4ecbeab3-e85b-4f9d-80e7-3c602058d436/1505231217014_Fanions-LDC_LDC-CSKAMoscou.png",
           "ranking": "2"
         },
         {
-          "title": "Lille",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1501860869573_Fanions-L1_L1-Lille.png",
+          "title": "Benfica",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d24de8bb-4d84-4b14-8f1f-726b79bdfc54/1505230996664_Fanions-LDC_LDC-SLBenfica.png",
           "ranking": "3"
         },
         {
-          "title": "Guingamp",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b7c34c91-edbc-4e53-8e89-686eb2555ef3/1501860879821_Fanions-L1_L1-Guingamp.png",
+          "title": "Basel",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e8e94000-7d47-4e46-b6d3-99e7f1f058c4/1505231122771_Fanions-LDC_LDC-FCBale.png",
           "ranking": "4"
-        },
+        }
+      ],
+      "paging": {
+        "iterationType": "index",
+        "indexStart": 0,
+        "indexEnd": 0,
+        "nbContents": 20,
+        "totalAvailableContents": 20
+      }
+    },
+    
+    {
+      "text": "Groupe C",
+      "events": [
         {
-          "title": "Paris SG",
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "title": "Chelsea",
           "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
-          "ranking": "5"
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/dd76ef41-82d2-4790-a851-a2fdf7ac253c/1505231126309_Fanions-LDC_LDC-Chelsea.png",
+          "ranking": "1"
         },
         {
-          "title": "Monaco",
+          "title": "Atlético Madrid",
+          "thirdTitle": "1",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1b471765-8107-4932-85d9-bf1fdb1e3f96/1505231235699_Fanions-LDC_LDC-AtleticoMadrid.png",
+          "ranking": "2"
+        },
+        {
+          "title": "Roma",
+          "thirdTitle": "1",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/de2c7a66-ddd1-4bbb-a90d-e4038090967c/1505231344500_Fanions-LDC_LDC-ASRome.png",
+          "ranking": "3"
+        },
+        {
+          "title": "Qarabağ",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/da72d1a0-f187-49a8-be44-d9846c56c18d/1505231383173_Fanions-LDC_LDC-FKQarabag.png",
+          "ranking": "4"
+        }
+      ],
+      "paging": {
+        "iterationType": "index",
+        "indexStart": 0,
+        "indexEnd": 0,
+        "nbContents": 20,
+        "totalAvailableContents": 20
+      }
+    },
+    {
+      "text": "Groupe D",
+      "events": [
+        {
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "title": "Barcelona",
           "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501860778644_Fanions-L1_L1-Monaco.png",
-          "ranking": "6",
-          "highlight": true
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/8e18e8ec-4af5-495f-ba02-75cf63a6de00/1505231588871_Fanions-LDC_LDC-FCBarcelone.png",
+          "ranking": "1"
         },
         {
-          "title": "St. Etienne",
+          "title": "Sporting CP",
           "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1501860681832_Fanions-L1_L1-St-Etienne.png",
-          "ranking": "7"
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0e853863-4bc7-48e2-a945-f8e998a59dba/1505231751635_Fanions-LDC_LDC-SportingPortugal.png",
+          "ranking": "2"
         },
         {
-          "title": "Montpellier",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/98b36f7c-b842-4b90-80ec-cdf0833fbb7c/1501860766880_Fanions-L1_L1-Montpellier.png",
-          "ranking": "8"
-        },
-        {
-          "title": "Bordeaux",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1501860932371_Fanions-L1_L1-Bordeaux.png",
-          "ranking": "9"
-        },
-        {
-          "title": "Angers",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/ccbfee25-eaac-4167-8545-31fca79e05f9/1501860941916_Fanions-L1_L1-Angers.png",
-          "ranking": "10"
-        },
-        {
-          "title": "Rennes",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1dd6f383-c6ef-448c-af7b-e8603b3fd0d8/1501860717035_Fanions-L1_L1-Rennes.png",
-          "ranking": "11"
-        },
-        {
-          "title": "Troyes",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/407d4d9d-9c5a-48df-872e-4bb9e47f791d/1501860570213_Fanions-L1_L1-Troyes.png",
-          "ranking": "12"
-        },
-        {
-          "title": "Toulouse",
+          "title": "Olympiakos Piraeus",
           "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1501860662331_Fanions-L1_L1-Toulouse.png",
-          "ranking": "13",
-          "highlight": true
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/18d51b3d-6f11-4139-8022-bccd5ff20614/1505231690658_Fanions-LDC_LDC-OlympiacosFC.png",
+          "ranking": "3"
         },
         {
-          "title": "Caen",
+          "title": "Juventus",
           "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6313389e-778f-4fe6-88c8-dd75ff32f307/1501860902189_Fanions-L1_L1-Caen.png",
-          "ranking": "14"
-        },
-        {
-          "title": "Nice",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0f931db7-ca24-46f2-8e12-a9eb755dba47/1501860742810_Fanions-L1_L1-Nice.png",
-          "ranking": "15"
-        },
-        {
-          "title": "Metz",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
-          "ranking": "16"
-        },
-        {
-          "title": "Amiens",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d82145d7-1aa3-4fad-a165-652de748a1a8/1501860649841_Fanions-L1_L1-Amiens.png",
-          "ranking": "17"
-        },
-        {
-          "title": "Dijon",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/684f949b-d06e-4ddb-8d56-50e20e086493/1501860891324_Fanions-L1_L1-Dijon.png",
-          "ranking": "18"
-        },
-        {
-          "title": "Nantes",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d9b4a833-77c2-4ee4-b011-bb86e85d781b/1501860755562_Fanions-L1_L1-Nantes.png",
-          "ranking": "19"
-        },
-        {
-          "title": "Strasbourg",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/960f6ba4-b685-4703-a434-bcb5294f9147/1501860639261_Fanions-L1_L1-Strasbourg.png",
-          "ranking": "20"
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d6f7ba17-1bdc-430e-9f6f-4a0d18962bfc/1505231508017_Fanions-LDC_LDC-Juventus.png",
+          "ranking": "4"
         }
       ],
       "paging": {
