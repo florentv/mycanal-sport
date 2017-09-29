@@ -1,0 +1,1147 @@
+{
+  "eventID": "67ee81c1-2671-4633-bde5-78d40c50efc4",
+  "competition": {
+    "id": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
+    "label": "Ligue 1 Conforama",
+    "competitionTag": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
+    "name": "Ligue 1 Conforama",
+    "season": "2017",
+    "alias": "France Ligue 1",
+    "UUID": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
+    "regionLabel": "",
+    "activeSeason": "",
+    "locales": {
+      "status": "currently-unavailable"
+    }
+  },
+  "round": {
+    "id": "8e04de7d-bfaa-4c08-8932-900567494b13",
+    "competitionID": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
+    "label": "5",
+    "UUID": "8e04de7d-bfaa-4c08-8932-900567494b13"
+  },
+  "awayTeam": {
+    "score": 5,
+    "winner": true,
+    "name": "Paris SG",
+    "globalScore": 0,
+    "vendorID": "Stats.com",
+    "lineup": [
+      {
+        "number": "24",
+        "role": "Substitute",
+        "displayName": "Christopher Nkunku",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Nkunku",
+          "weight": 68,
+          "dateOfBirth": "1997-11-14",
+          "height": 1.78
+        },
+        "id": "cba3a8c3-6fd6-4a48-b357-2d30b89876b4",
+        "fullname": "Christopher Nkunku",
+        "originalID": "880580",
+        "UUID": "cba3a8c3-6fd6-4a48-b357-2d30b89876b4",
+        "shortName": "Christopher Nkunku",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "cba3a8c3-6fd6-4a48-b357-2d30b89876b4",
+            "offset": 84,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "b268a5fc-0b75-4334-8a6e-050d8533a7af",
+            "label": "Christopher Nkunku substituted in for Adrien Rabiot",
+            "replacedPlayer": "Christopher Nkunku",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Adrien Rabiot",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 183,
+            "offensivePlayer": "Christopher Nkunku",
+            "timestamp": "2017-09-08T20:26:09Z"
+          },
+          {
+            "period": 2,
+            "mainActorUUID": "cba3a8c3-6fd6-4a48-b357-2d30b89876b4",
+            "offset": 70,
+            "kind": "Penalty Kick - Good",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 236,
+            "label": "Penalty kick conceded by  Nkunku,  converted by Jonathan Bamba and celebrated by Running Around",
+            "defensivePlayer": "Christopher Nkunku",
+            "offensivePlayer": "Jonathan Bamba",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-24T14:30:42Z"
+          }
+        ]
+      },
+      {
+        "number": "18",
+        "role": "Substitute",
+        "displayName": "Giovani Lo Celso",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Argentina",
+          "shirtName": "Lo Celso",
+          "weight": 69,
+          "dateOfBirth": "1996-04-09",
+          "height": 1.77
+        },
+        "id": "39f9c76a-ab8f-4f4b-88d7-e3230ea9a0f7",
+        "fullname": "Giovani Lo Celso",
+        "originalID": "860891",
+        "UUID": "39f9c76a-ab8f-4f4b-88d7-e3230ea9a0f7",
+        "shortName": "Giovani Lo Celso",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "39f9c76a-ab8f-4f4b-88d7-e3230ea9a0f7",
+            "offset": 78,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "af225d87-7765-4410-ba95-9aabb54107ca",
+            "label": "Giovani Lo Celso substituted in for Thiago Motta",
+            "replacedPlayer": "Giovani Lo Celso",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Thiago Motta",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 173,
+            "offensivePlayer": "Giovani Lo Celso",
+            "timestamp": "2017-09-08T20:20:14Z"
+          }
+        ]
+      },
+      {
+        "number": "7",
+        "role": "Substitute",
+        "displayName": "Lucas Moura",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Brazil",
+          "shirtName": "Lucas Moura",
+          "weight": 72,
+          "dateOfBirth": "1992-08-13",
+          "height": 1.72
+        },
+        "id": "c8d75bbe-17ad-4830-8e8a-0e1987dcc9a0",
+        "fullname": "Lucas Rodrigues Moura da Silva",
+        "originalID": "592561",
+        "UUID": "c8d75bbe-17ad-4830-8e8a-0e1987dcc9a0",
+        "shortName": "Lucas Lucas Moura",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "c8d75bbe-17ad-4830-8e8a-0e1987dcc9a0",
+            "offset": 77,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "63dffa93-5a08-4d47-b81f-10990eb12c44",
+            "label": "Lucas Moura substituted in for Edinson Cavani",
+            "replacedPlayer": "Lucas Moura",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Edinson Cavani",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 172,
+            "offensivePlayer": "Lucas Moura",
+            "timestamp": "2017-09-08T20:20:02Z"
+          },
+          {
+            "period": 2,
+            "mainActorUUID": "c8d75bbe-17ad-4830-8e8a-0e1987dcc9a0",
+            "offset": 87,
+            "kind": "Goal",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 197,
+            "label": "Lucas Moura scored a goal with a Left Foot shot and celebrated by Running Around",
+            "offensivePlayer": "Lucas Moura",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-08T20:29:34Z"
+          }
+        ]
+      },
+      {
+        "number": "20",
+        "role": "Substitute",
+        "displayName": "Layvin Kurzawa",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Kurzawa",
+          "weight": 74,
+          "dateOfBirth": "1992-09-04",
+          "height": 1.82
+        },
+        "id": "e40768a7-4df0-49b2-92b0-95794fed35fc",
+        "fullname": "Layvin Kurzawa",
+        "originalID": "568568",
+        "UUID": "e40768a7-4df0-49b2-92b0-95794fed35fc",
+        "shortName": "Layvin Kurzawa",
+        "liveEvents": []
+      },
+      {
+        "number": "1",
+        "role": "Substitute",
+        "displayName": "Kevin Trapp",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Germany",
+          "shirtName": "Trapp",
+          "weight": 88,
+          "dateOfBirth": "1990-07-08",
+          "height": 1.89
+        },
+        "id": "46d33402-d8eb-48cc-b053-7e079bb55344",
+        "fullname": "Kevin Trapp",
+        "originalID": "480088",
+        "UUID": "46d33402-d8eb-48cc-b053-7e079bb55344",
+        "shortName": "Kevin Trapp",
+        "liveEvents": []
+      },
+      {
+        "number": "2",
+        "role": "Substitute",
+        "displayName": "Thiago Silva",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Brazil",
+          "shirtName": "Thiago Silva",
+          "weight": 79,
+          "dateOfBirth": "1984-09-22",
+          "height": 1.83
+        },
+        "id": "a4eba6bd-681b-4d69-b279-d2caccf2fc40",
+        "fullname": "Thiago Emiliano Da Silva",
+        "originalID": "375843",
+        "UUID": "a4eba6bd-681b-4d69-b279-d2caccf2fc40",
+        "shortName": "Thiago Emiliano Thiago Silva",
+        "liveEvents": []
+      },
+      {
+        "number": "32",
+        "role": "Substitute",
+        "displayName": "Dani Alves",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Brazil",
+          "shirtName": "Alves",
+          "weight": 70,
+          "dateOfBirth": "1983-05-06",
+          "height": 1.72
+        },
+        "id": "2a02be46-1d71-428e-92e7-fd08c145c41a",
+        "fullname": "Daniel Alves da Silva",
+        "originalID": "348634",
+        "UUID": "2a02be46-1d71-428e-92e7-fd08c145c41a",
+        "shortName": "Dani Alves",
+        "liveEvents": []
+      },
+      {
+        "number": "9",
+        "role": "Forward",
+        "displayName": "Edinson Cavani",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Uruguay",
+          "shirtName": "Cavani",
+          "weight": 71,
+          "dateOfBirth": "1987-02-14",
+          "height": 1.84,
+          "formationOrder": 11
+        },
+        "id": "63dffa93-5a08-4d47-b81f-10990eb12c44",
+        "fullname": "Edinson Roberto Gomez Cavani",
+        "originalID": "437146",
+        "UUID": "63dffa93-5a08-4d47-b81f-10990eb12c44",
+        "shortName": "Edinson Cavani",
+        "liveEvents": [
+          {
+            "period": 1,
+            "mainActorUUID": "63dffa93-5a08-4d47-b81f-10990eb12c44",
+            "assistingPlayer": "Neymar",
+            "offset": 31,
+            "kind": "Goal",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 69,
+            "label": "Edinson Cavani scored a goal with a Left Foot shot assisted by Neymar and celebrated by Running Around",
+            "offensivePlayer": "Edinson Cavani",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-08T19:15:59Z"
+          },
+          {
+            "period": 2,
+            "mainActorUUID": "63dffa93-5a08-4d47-b81f-10990eb12c44",
+            "assistingPlayer": "Kylian Mbappe",
+            "offset": 75,
+            "kind": "Goal",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 166,
+            "label": "Edinson Cavani scored a goal with a Right Foot shot assisted by Kylian Mbappe and celebrated by Running Around",
+            "offensivePlayer": "Edinson Cavani",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-08T20:17:13Z"
+          },
+          {
+            "period": 2,
+            "mainActorUUID": "c8d75bbe-17ad-4830-8e8a-0e1987dcc9a0",
+            "offset": 77,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "63dffa93-5a08-4d47-b81f-10990eb12c44",
+            "label": "Lucas Moura substituted in for Edinson Cavani",
+            "replacedPlayer": "Lucas Moura",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Edinson Cavani",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 172,
+            "offensivePlayer": "Lucas Moura",
+            "timestamp": "2017-09-08T20:20:02Z"
+          }
+        ]
+      },
+      {
+        "number": "10",
+        "role": "Forward",
+        "displayName": "Neymar",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Brazil",
+          "shirtName": "Neymar",
+          "weight": 68,
+          "dateOfBirth": "1992-02-05",
+          "height": 1.75,
+          "formationOrder": 10
+        },
+        "id": "a209f725-d114-4ed3-b59e-27110d35f342",
+        "fullname": "Neymar Da Silva Santos Junior",
+        "originalID": "555042",
+        "UUID": "a209f725-d114-4ed3-b59e-27110d35f342",
+        "shortName": "Neymar Neymar",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "a209f725-d114-4ed3-b59e-27110d35f342",
+            "assistingPlayer": "Adrien Rabiot",
+            "offset": 69,
+            "kind": "Goal",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 156,
+            "label": "Neymar scored a goal with a Right Foot shot assisted by Adrien Rabiot and celebrated by Running Around",
+            "offensivePlayer": "Neymar",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-08T20:11:05Z"
+          }
+        ]
+      },
+      {
+        "number": "29",
+        "role": "Forward",
+        "displayName": "Kylian Mbappe",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Mbappe",
+          "weight": 73,
+          "dateOfBirth": "1998-12-20",
+          "height": 1.78,
+          "formationOrder": 9
+        },
+        "id": "a1532e22-9716-455f-8598-57ea9f3a4224",
+        "fullname": "Kylian Mbappe Lottin",
+        "originalID": "904961",
+        "UUID": "a1532e22-9716-455f-8598-57ea9f3a4224",
+        "shortName": "Kylian Mbappe",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "a1532e22-9716-455f-8598-57ea9f3a4224",
+            "offset": 59,
+            "kind": "Goal",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 134,
+            "label": "Kylian Mbappe scored a goal with a Right Foot shot and celebrated by Running Around",
+            "offensivePlayer": "Kylian Mbappe",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-08T20:01:36Z"
+          }
+        ]
+      },
+      {
+        "number": "23",
+        "role": "Midfield",
+        "displayName": "Julian Draxler",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Germany",
+          "shirtName": "Draxler",
+          "weight": 72,
+          "dateOfBirth": "1993-09-20",
+          "height": 1.87,
+          "formationOrder": 8
+        },
+        "id": "9e9ddb74-4944-4cb5-87d3-9b5db07133d5",
+        "fullname": "Julian Draxler",
+        "originalID": "585825",
+        "UUID": "9e9ddb74-4944-4cb5-87d3-9b5db07133d5",
+        "shortName": "Julian Draxler",
+        "liveEvents": [
+          {
+            "period": 1,
+            "mainActorUUID": "9e9ddb74-4944-4cb5-87d3-9b5db07133d5",
+            "offset": 41,
+            "kind": "Caution",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 95,
+            "label": "Yellow card given to Julian Draxler (Reckless Foul)",
+            "offensivePlayer": "Julian Draxler",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-08T19:25:42Z"
+          }
+        ]
+      },
+      {
+        "number": "25",
+        "role": "Midfield",
+        "displayName": "Adrien Rabiot",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Rabiot",
+          "weight": 71,
+          "dateOfBirth": "1995-04-03",
+          "height": 1.88,
+          "formationOrder": 7
+        },
+        "id": "b268a5fc-0b75-4334-8a6e-050d8533a7af",
+        "fullname": "Adrien Rabiot",
+        "originalID": "680111",
+        "UUID": "b268a5fc-0b75-4334-8a6e-050d8533a7af",
+        "shortName": "Adrien Rabiot",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "cba3a8c3-6fd6-4a48-b357-2d30b89876b4",
+            "offset": 84,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "b268a5fc-0b75-4334-8a6e-050d8533a7af",
+            "label": "Christopher Nkunku substituted in for Adrien Rabiot",
+            "replacedPlayer": "Christopher Nkunku",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Adrien Rabiot",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 183,
+            "offensivePlayer": "Christopher Nkunku",
+            "timestamp": "2017-09-08T20:26:09Z"
+          }
+        ]
+      },
+      {
+        "number": "8",
+        "role": "Midfield",
+        "displayName": "Thiago Motta",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Italy",
+          "shirtName": "Thiago Motta",
+          "weight": 83,
+          "dateOfBirth": "1982-08-28",
+          "height": 1.87,
+          "formationOrder": 6
+        },
+        "id": "af225d87-7765-4410-ba95-9aabb54107ca",
+        "fullname": "Thiago Motta Santon Olivares",
+        "originalID": "348502",
+        "UUID": "af225d87-7765-4410-ba95-9aabb54107ca",
+        "shortName": "Thiago Motta",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "39f9c76a-ab8f-4f4b-88d7-e3230ea9a0f7",
+            "offset": 78,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "af225d87-7765-4410-ba95-9aabb54107ca",
+            "label": "Giovani Lo Celso substituted in for Thiago Motta",
+            "replacedPlayer": "Giovani Lo Celso",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Thiago Motta",
+            "teamId": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+            "actionID": 173,
+            "offensivePlayer": "Giovani Lo Celso",
+            "timestamp": "2017-09-08T20:20:14Z"
+          }
+        ]
+      },
+      {
+        "number": "17",
+        "role": "Defender",
+        "displayName": "Yuri Berchiche",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Spain",
+          "shirtName": "Berchiche",
+          "weight": 80,
+          "dateOfBirth": "1990-02-10",
+          "height": 1.81,
+          "formationOrder": 5
+        },
+        "id": "820d21df-f2e3-4002-a22d-f76d0e093e3e",
+        "fullname": "Yuri Berchiche Izeta",
+        "originalID": "495453",
+        "UUID": "820d21df-f2e3-4002-a22d-f76d0e093e3e",
+        "shortName": "Yuri Berchiche",
+        "liveEvents": []
+      },
+      {
+        "number": "3",
+        "role": "Defender",
+        "displayName": "Presnel Kimpembe",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Kimpembe",
+          "weight": 71,
+          "dateOfBirth": "1995-08-13",
+          "height": 1.83,
+          "formationOrder": 4
+        },
+        "id": "8ee4f2fc-824f-49da-a40a-3a36dcad6e74",
+        "fullname": "Presnel Presnel",
+        "originalID": "838037",
+        "UUID": "8ee4f2fc-824f-49da-a40a-3a36dcad6e74",
+        "shortName": "Presnel Kimpembe",
+        "liveEvents": []
+      },
+      {
+        "number": "5",
+        "role": "Defender",
+        "displayName": "Marquinhos",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Brazil",
+          "shirtName": "Marquinhos",
+          "weight": 75,
+          "dateOfBirth": "1994-05-14",
+          "height": 1.83,
+          "formationOrder": 3
+        },
+        "id": "093da675-cc6d-4e16-bc21-e111a92f89bc",
+        "fullname": "Marcos Aoas Correa",
+        "originalID": "655676",
+        "UUID": "093da675-cc6d-4e16-bc21-e111a92f89bc",
+        "shortName": "Marcos Marquinhos",
+        "liveEvents": []
+      },
+      {
+        "number": "12",
+        "role": "Defender",
+        "displayName": "Thomas Meunier",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Belgium",
+          "shirtName": "Meunier",
+          "weight": 82,
+          "dateOfBirth": "1991-09-12",
+          "height": 1.9,
+          "formationOrder": 2
+        },
+        "id": "cc942ba3-77bc-431f-80bb-6eec1ed2e059",
+        "fullname": "Thomas Meunier",
+        "originalID": "603583",
+        "UUID": "cc942ba3-77bc-431f-80bb-6eec1ed2e059",
+        "shortName": "Thomas Meunier",
+        "liveEvents": []
+      },
+      {
+        "number": "16",
+        "role": "Goalkeeper",
+        "displayName": "Alphonse Areola",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Areola",
+          "weight": 94,
+          "dateOfBirth": "1993-02-27",
+          "height": 1.95,
+          "formationOrder": 1
+        },
+        "id": "7c733f98-7d10-4dbf-937d-d4d9139f3c99",
+        "fullname": "Alphonse Areola",
+        "originalID": "551519",
+        "UUID": "7c733f98-7d10-4dbf-937d-d4d9139f3c99",
+        "shortName": "Alphonse Areola",
+        "liveEvents": []
+      }
+    ],
+    "id": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+    "teamTag": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+    "originalID": "6409",
+    "label": "Paris SG",
+    "formation": "4231",
+    "media": {
+      "image": {
+        "logo": {
+          "src": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+          "format": "image/png"
+        },
+        "jersey": {
+          "src": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1504098099578_Maillots-Ligue_1_Paris.png",
+          "format": "image/png"
+        }
+      },
+      "colours": {
+        "primary": {
+          "src": "004070",
+          "format": "hex"
+        },
+        "secondary": {
+          "src": "ffffff",
+          "format": "hex"
+        }
+      }
+    },
+    "UUID": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+    "isActive": false
+  },
+  "typeMatch": null,
+  "vendorID": "Stats.com",
+  "timeConfirmed": true,
+  "startDateTime": "2017-09-08T18:45:00Z",
+  "statusID": "13",
+  "context": {
+    "phase": "",
+    "round": "Journée 5"
+  },
+  "homeTeam": {
+    "score": 1,
+    "winner": false,
+    "name": "Metz",
+    "globalScore": 0,
+    "vendorID": "Stats.com",
+    "lineup": [
+      {
+        "number": "12",
+        "role": "Substitute",
+        "displayName": "Matthieu Udol",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Udol",
+          "weight": 68,
+          "dateOfBirth": "1996-03-20",
+          "height": 1.78
+        },
+        "id": "d9e38b0f-ab05-47fc-a10b-f1a7c35b3132",
+        "fullname": "Matthieu Udol",
+        "originalID": "881318",
+        "UUID": "d9e38b0f-ab05-47fc-a10b-f1a7c35b3132",
+        "shortName": "Matthieu Udol",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "d9e38b0f-ab05-47fc-a10b-f1a7c35b3132",
+            "offset": 60,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "5ede958e-61e0-4d44-bd19-799c10ae5a34",
+            "label": "Matthieu Udol substituted in for Carlos Cafu",
+            "replacedPlayer": "Matthieu Udol",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Cafu",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 135,
+            "offensivePlayer": "Matthieu Udol",
+            "timestamp": "2017-09-08T20:02:48Z"
+          }
+        ]
+      },
+      {
+        "number": "1",
+        "role": "Substitute",
+        "displayName": "Thomas Didillon",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Didillon",
+          "weight": 84,
+          "dateOfBirth": "1995-11-28",
+          "height": 1.93
+        },
+        "id": "cfab20c5-a2ee-49ef-8f6b-44b9c5fb9223",
+        "fullname": "Thomas Didillon",
+        "originalID": "795102",
+        "UUID": "cfab20c5-a2ee-49ef-8f6b-44b9c5fb9223",
+        "shortName": "Thomas Didillon",
+        "liveEvents": []
+      },
+      {
+        "number": "10",
+        "role": "Substitute",
+        "displayName": "Brian Fernandez",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Argentina",
+          "shirtName": "Fernandez",
+          "weight": 70,
+          "dateOfBirth": "1994-09-26",
+          "height": 1.71
+        },
+        "id": "44d167d7-a0c1-40d8-bd48-2ab1c2ce0d18",
+        "fullname": "Brian Leonel Fernandez",
+        "originalID": "696702",
+        "UUID": "44d167d7-a0c1-40d8-bd48-2ab1c2ce0d18",
+        "shortName": "Brian Fernandez",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "44d167d7-a0c1-40d8-bd48-2ab1c2ce0d18",
+            "offset": 76,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "97ecb770-2a47-4692-b65b-c18131647506",
+            "label": "Brian Fernandez substituted in for Nolan Roux",
+            "replacedPlayer": "Brian Fernandez",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Nolan Roux",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 167,
+            "offensivePlayer": "Brian Fernandez",
+            "timestamp": "2017-09-08T20:18:09Z"
+          }
+        ]
+      },
+      {
+        "number": "11",
+        "role": "Substitute",
+        "displayName": "Opa Nguette",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Nguette",
+          "weight": 73,
+          "dateOfBirth": "1994-07-08",
+          "height": 1.81
+        },
+        "id": "a0e74071-ba8d-4e5e-a746-21e2f6e94845",
+        "fullname": "Opa Nguette",
+        "originalID": "696603",
+        "UUID": "a0e74071-ba8d-4e5e-a746-21e2f6e94845",
+        "shortName": "Opa Nguette",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "a0e74071-ba8d-4e5e-a746-21e2f6e94845",
+            "offset": 55,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "deb6cb94-c166-43df-904e-89492b951ea2",
+            "label": "Opa Nguette substituted in for Emmanuel Riviere",
+            "replacedPlayer": "Opa Nguette",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Emmanuel Riviere",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 123,
+            "offensivePlayer": "Opa Nguette",
+            "timestamp": "2017-09-08T19:57:28Z"
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "role": "Substitute",
+        "displayName": "Geronimo Poblete",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Argentina",
+          "shirtName": "Poblete",
+          "weight": 63,
+          "dateOfBirth": "1993-01-02",
+          "height": 1.73
+        },
+        "id": "0e1fbdd7-80f4-4bc7-8839-4feb509ba065",
+        "fullname": "Geronimo Gaston Poblete",
+        "originalID": "606608",
+        "UUID": "0e1fbdd7-80f4-4bc7-8839-4feb509ba065",
+        "shortName": "Geronimo Poblete",
+        "liveEvents": []
+      },
+      {
+        "number": "3",
+        "role": "Substitute",
+        "displayName": "Fallou Diagne",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Senegal",
+          "shirtName": "Diagne",
+          "weight": 78,
+          "dateOfBirth": "1989-08-14",
+          "height": 1.85
+        },
+        "id": "3bda03cf-2702-4b5f-8ae8-b3b8464f9459",
+        "fullname": "Fallou Diagne",
+        "originalID": "535404",
+        "UUID": "3bda03cf-2702-4b5f-8ae8-b3b8464f9459",
+        "shortName": "Fallou Diagne",
+        "liveEvents": []
+      },
+      {
+        "number": "8",
+        "role": "Substitute",
+        "displayName": "Yann Jouffre",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Jouffre",
+          "weight": 74,
+          "dateOfBirth": "1984-07-23",
+          "height": 1.76
+        },
+        "id": "87a5d08b-1076-4a25-af47-76e2b629ddec",
+        "fullname": "Yann Jouffre",
+        "originalID": "370758",
+        "UUID": "87a5d08b-1076-4a25-af47-76e2b629ddec",
+        "shortName": "Yann Jouffre",
+        "liveEvents": []
+      },
+      {
+        "number": "9",
+        "role": "Forward",
+        "displayName": "Nolan Roux",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Roux",
+          "weight": 81,
+          "dateOfBirth": "1988-03-01",
+          "height": 1.82,
+          "formationOrder": 11
+        },
+        "id": "97ecb770-2a47-4692-b65b-c18131647506",
+        "fullname": "Nolan Roux",
+        "originalID": "503121",
+        "UUID": "97ecb770-2a47-4692-b65b-c18131647506",
+        "shortName": "Nolan Roux",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "44d167d7-a0c1-40d8-bd48-2ab1c2ce0d18",
+            "offset": 76,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "97ecb770-2a47-4692-b65b-c18131647506",
+            "label": "Brian Fernandez substituted in for Nolan Roux",
+            "replacedPlayer": "Brian Fernandez",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Nolan Roux",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 167,
+            "offensivePlayer": "Brian Fernandez",
+            "timestamp": "2017-09-08T20:18:09Z"
+          }
+        ]
+      },
+      {
+        "number": "17",
+        "role": "Midfield",
+        "displayName": "Matthieu Dossevi",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Togo",
+          "shirtName": "Dossevi",
+          "weight": 65,
+          "dateOfBirth": "1988-02-12",
+          "height": 1.72,
+          "formationOrder": 10
+        },
+        "id": "745ef320-a562-4027-8768-4ea6a99088b7",
+        "fullname": "Matthieu Dossevi",
+        "originalID": "443513",
+        "UUID": "745ef320-a562-4027-8768-4ea6a99088b7",
+        "shortName": "Matthieu Dossevi",
+        "liveEvents": []
+      },
+      {
+        "number": "24",
+        "role": "Midfield",
+        "displayName": "Renaud Cohade",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Cohade",
+          "weight": 74,
+          "dateOfBirth": "1984-09-29",
+          "height": 1.8,
+          "formationOrder": 9
+        },
+        "id": "3da95dc2-8bb2-45cc-8d2f-9b3114c9ef4e",
+        "fullname": "Renaud Cohade",
+        "originalID": "372628",
+        "UUID": "3da95dc2-8bb2-45cc-8d2f-9b3114c9ef4e",
+        "shortName": "Renaud Cohade",
+        "liveEvents": []
+      },
+      {
+        "number": "29",
+        "role": "Forward",
+        "displayName": "Emmanuel Riviere",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Riviere",
+          "weight": 76,
+          "dateOfBirth": "1990-03-03",
+          "height": 1.82,
+          "formationOrder": 8
+        },
+        "id": "deb6cb94-c166-43df-904e-89492b951ea2",
+        "fullname": "Emmanuel Riviere",
+        "originalID": "471079",
+        "UUID": "deb6cb94-c166-43df-904e-89492b951ea2",
+        "shortName": "Emmanuel Riviere",
+        "liveEvents": [
+          {
+            "period": 1,
+            "mainActorUUID": "deb6cb94-c166-43df-904e-89492b951ea2",
+            "assistingPlayer": "Matthieu Dossevi",
+            "offset": 37,
+            "kind": "Goal",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 89,
+            "label": "Emmanuel Riviere scored a goal with a Header shot assisted by Matthieu Dossevi and celebrated by Running Around",
+            "offensivePlayer": "Emmanuel Riviere",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-08T19:21:28Z"
+          },
+          {
+            "period": 2,
+            "mainActorUUID": "a0e74071-ba8d-4e5e-a746-21e2f6e94845",
+            "offset": 55,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "deb6cb94-c166-43df-904e-89492b951ea2",
+            "label": "Opa Nguette substituted in for Emmanuel Riviere",
+            "replacedPlayer": "Opa Nguette",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Emmanuel Riviere",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 123,
+            "offensivePlayer": "Opa Nguette",
+            "timestamp": "2017-09-08T19:57:28Z"
+          }
+        ]
+      },
+      {
+        "number": "23",
+        "role": "Defender",
+        "displayName": "Chris Philipps",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Luxembourg",
+          "shirtName": "Philipps",
+          "weight": 80,
+          "dateOfBirth": "1994-03-08",
+          "height": 1.82,
+          "formationOrder": 7
+        },
+        "id": "4a0cf662-d346-428b-9665-b2fb07b195a6",
+        "fullname": "Chris Philipps",
+        "originalID": "704882",
+        "UUID": "4a0cf662-d346-428b-9665-b2fb07b195a6",
+        "shortName": "Chris Philipps",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "4a0cf662-d346-428b-9665-b2fb07b195a6",
+            "offset": 77,
+            "kind": "Penalty Kick - Good",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 237,
+            "label": "Penalty kick conceded by Chris Philipps,  converted by Jonathan Bamba and celebrated by Running Around",
+            "defensivePlayer": "Chris Philipps",
+            "offensivePlayer": "Jonathan Bamba",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-24T14:38:42Z"
+          }
+        ]
+      },
+      {
+        "number": "26",
+        "role": "Midfield",
+        "displayName": "Cafu",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Portugal",
+          "shirtName": "Cafu",
+          "weight": 84,
+          "dateOfBirth": "1993-02-26",
+          "height": 1.83,
+          "formationOrder": 6
+        },
+        "id": "5ede958e-61e0-4d44-bd19-799c10ae5a34",
+        "fullname": "Carlos Miguel Ribeiro Dias",
+        "originalID": "705674",
+        "UUID": "5ede958e-61e0-4d44-bd19-799c10ae5a34",
+        "shortName": "Carlos Cafu",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "d9e38b0f-ab05-47fc-a10b-f1a7c35b3132",
+            "offset": 60,
+            "kind": "Substitution",
+            "replacingPlayerUUID": "5ede958e-61e0-4d44-bd19-799c10ae5a34",
+            "label": "Matthieu Udol substituted in for Carlos Cafu",
+            "replacedPlayer": "Matthieu Udol",
+            "additionalMinutes": 0,
+            "replacingPlayer": "Cafu",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 135,
+            "offensivePlayer": "Matthieu Udol",
+            "timestamp": "2017-09-08T20:02:48Z"
+          }
+        ]
+      },
+      {
+        "number": "32",
+        "role": "Defender",
+        "displayName": "Benoit Assou-Ekotto",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Cameroon",
+          "shirtName": "Assou-Ekotto",
+          "weight": 70,
+          "dateOfBirth": "1984-03-24",
+          "height": 1.78,
+          "formationOrder": 5
+        },
+        "id": "eaab92db-0c5b-4a59-8293-fb7752e49907",
+        "fullname": "Benoit Assou-Ekotto",
+        "originalID": "346150",
+        "UUID": "eaab92db-0c5b-4a59-8293-fb7752e49907",
+        "shortName": "Benoit Assou-Ekotto",
+        "liveEvents": [
+          {
+            "period": 2,
+            "mainActorUUID": "eaab92db-0c5b-4a59-8293-fb7752e49907",
+            "replacingPlayer": "Benoit Assou-Ekotto",
+            "offset": 56,
+            "kind": "Expulsion",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "replacingPlayerUUID": "eaab92db-0c5b-4a59-8293-fb7752e49907",
+            "actionID": 128,
+            "label": "Red card given to Benoit Assou-Ekotto (Reckless Foul)",
+            "offensivePlayer": "Benoit Assou-Ekotto",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-08T19:58:04Z"
+          }
+        ]
+      },
+      {
+        "number": "21",
+        "role": "Defender",
+        "displayName": "Moussa Niakhate",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "France",
+          "shirtName": "Niakhate",
+          "weight": 82,
+          "dateOfBirth": "1996-03-08",
+          "height": 1.9,
+          "formationOrder": 4
+        },
+        "id": "7680c9b0-6927-4c82-98df-f7eabf7b25b6",
+        "fullname": "Moussa Niakhate",
+        "originalID": "881330",
+        "UUID": "7680c9b0-6927-4c82-98df-f7eabf7b25b6",
+        "shortName": "Moussa Niakhate",
+        "liveEvents": []
+      },
+      {
+        "number": "6",
+        "role": "Defender",
+        "displayName": "Milan Bisevac",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Serbia",
+          "shirtName": "Bisevac",
+          "weight": 81,
+          "dateOfBirth": "1983-08-31",
+          "height": 1.85,
+          "formationOrder": 3
+        },
+        "id": "6061bbee-62d2-44a8-a9e0-2f57fd143e52",
+        "fullname": "Milan Bisevac",
+        "originalID": "347921",
+        "UUID": "6061bbee-62d2-44a8-a9e0-2f57fd143e52",
+        "shortName": "Milan Bisevac",
+        "liveEvents": []
+      },
+      {
+        "number": "25",
+        "role": "Defender",
+        "displayName": "Ivan Balliu",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Spain",
+          "shirtName": "Balliu",
+          "weight": 63,
+          "dateOfBirth": "1992-01-01",
+          "height": 1.72,
+          "formationOrder": 2
+        },
+        "id": "3ab7a458-6e59-4549-92b1-879594c26c59",
+        "fullname": "Ivan Balliu Campeny",
+        "originalID": "595989",
+        "UUID": "3ab7a458-6e59-4549-92b1-879594c26c59",
+        "shortName": "Ivan Balliu",
+        "liveEvents": []
+      },
+      {
+        "number": "16",
+        "role": "Goalkeeper",
+        "displayName": "Eiji Kawashima",
+        "vendorID": "Stats.com",
+        "details": {
+          "country": "Japan",
+          "shirtName": "Kawashima",
+          "weight": 74,
+          "dateOfBirth": "1983-03-20",
+          "height": 1.85,
+          "formationOrder": 1
+        },
+        "id": "6f54a4d8-d08c-498c-bacf-533b6c741f2c",
+        "fullname": "Eiji Kawashima",
+        "originalID": "395310",
+        "UUID": "6f54a4d8-d08c-498c-bacf-533b6c741f2c",
+        "shortName": "Eiji Kawashima",
+        "liveEvents": []
+      }
+    ],
+    "id": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+    "teamTag": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+    "originalID": "7383",
+    "label": "Metz",
+    "formation": "4231",
+    "media": {
+      "image": {
+        "logo": {
+          "src": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
+          "format": "image/png"
+        },
+        "jersey": {
+          "src": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1504098901361_Maillots-Ligue_1_Metz.png",
+          "format": "image/png"
+        }
+      },
+      "colours": {
+        "primary": {
+          "src": "8e0c37",
+          "format": "hex"
+        },
+        "secondary": {
+          "src": "ffffff",
+          "format": "hex"
+        }
+      }
+    },
+    "UUID": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+    "isActive": false
+  },
+  "originalID": "1916012",
+  "UUID": "67ee81c1-2671-4633-bde5-78d40c50efc4",
+  "sport": {
+    "id": "457e14f6-6244-4fb5-882a-eafc874ac384",
+    "label": "soccer",
+    "UUID": "457e14f6-6244-4fb5-882a-eafc874ac384"
+  },
+  "status": "Terminé"
+}
