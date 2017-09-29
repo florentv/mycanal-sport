@@ -951,6 +951,19 @@
             "offensivePlayer": "Jonathan Bamba",
             "additionalMinutes": 0,
             "timestamp": "2017-09-24T14:38:42Z"
+          },
+          {
+            "period": 2,
+            "mainActorUUID": "4a0cf662-d346-428b-9665-b2fb07b195a6",
+            "offset": 77,
+            "kind": "Penalty Kick - Good",
+            "teamId": "39d3ca1c-be9d-4689-a897-e62f4163c546",
+            "actionID": 238,
+            "label": "Penalty kick conceded by Chris Philipps,  converted by Jonathan Bamba and celebrated by Running Around",
+            "defensivePlayer": "Chris Philipps",
+            "offensivePlayer": "Jonathan Bamba",
+            "additionalMinutes": 0,
+            "timestamp": "2017-09-24T14:39:42Z"
           }
         ]
       },
