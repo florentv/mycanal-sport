@@ -170,7 +170,7 @@
       ]
     }
   ],
-  "Empty": {
+  "empty": {
     "displayName": "Aucune statistiques disponible pour le moment"
   }
 }
