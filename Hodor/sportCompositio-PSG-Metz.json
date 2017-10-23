@@ -229,7 +229,8 @@
         },
         "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1504098099578_Maillots-Ligue_1_Paris.png",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
-        "displayName": "Paris SG"
+        "displayName": "Paris SG",
+        "isHome": true
       },
       "contents": [
         {
