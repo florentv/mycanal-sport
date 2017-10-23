@@ -70,7 +70,8 @@
             "position": "Midfield",
             "shirtNo": "19",
             "formationOrder": 7,
-            "id": "92a2bad6-8546-4cc2-bb69-ecc6fa850d80"
+            "id": "92a2bad6-8546-4cc2-bb69-ecc6fa850d80",
+            "goals": 1
           },
           {
             "type": "playerField",
@@ -140,7 +141,8 @@
             "shirtNo": "10",
             "formationOrder": 11,
             "id": "a209f725-d114-4ed3-b59e-27110d35f342",
-            "yellowCard": true
+            "yellowCard": true,
+            "goals": 1
           },
           {
             "type": "playerField",
