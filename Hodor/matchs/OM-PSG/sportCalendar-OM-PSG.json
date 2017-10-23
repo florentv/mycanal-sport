@@ -26,11 +26,7 @@
         {
           "events": [
             {
-<<<<<<< HEAD
               "status": "2",
-=======
-              "status": "8",
->>>>>>> 763b4822e1f43f3d17528289406a6a042218dc24
               "displayStatus": "En cours",
               "displayTime": "22 oct.",
               "homeTeam": {
