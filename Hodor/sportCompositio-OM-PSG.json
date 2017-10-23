@@ -38,8 +38,7 @@
             "shirtNo": "11",
             "formationOrder": 11,
             "id": "3802eb6d-4f59-4e79-b055-854c6671d5ca",
-            "yellowCard": true,
-            "substitute": "out"
+            "yellowCard": true
           },
           {
             "type": "playerField",
@@ -47,8 +46,7 @@
             "position": "Forward",
             "shirtNo": "5",
             "formationOrder": 10,
-            "id": "c426b1f6-1de5-4d39-86be-45886924acd2",
-            "yellowCard": true
+            "id": "c426b1f6-1de5-4d39-86be-45886924acd2"
           },
           {
             "type": "playerField",
@@ -56,8 +54,7 @@
             "position": "Forward",
             "shirtNo": "10",
             "formationOrder": 9,
-            "id": "76148327-b084-42b3-9fce-b32ac1cde3d9",
-            "substitute": "out"
+            "id": "76148327-b084-42b3-9fce-b32ac1cde3d9"
           },
           {
             "type": "playerField",
@@ -65,8 +62,7 @@
             "position": "Forward",
             "shirtNo": "26",
             "formationOrder": 8,
-            "id": "dfb0b06e-17e1-4f09-a837-7f2ead4425a6",
-            "substitute": "out"
+            "id": "dfb0b06e-17e1-4f09-a837-7f2ead4425a6"
           },
           {
             "type": "playerField",
@@ -144,8 +140,7 @@
             "shirtNo": "10",
             "formationOrder": 11,
             "id": "a209f725-d114-4ed3-b59e-27110d35f342",
-            "yellowCard": true,
-            "redCard": true
+            "yellowCard": true
           },
           {
             "type": "playerField",
@@ -162,8 +157,7 @@
             "shirtNo": "29",
             "formationOrder": 9,
             "id": "a1532e22-9716-455f-8598-57ea9f3a4224",
-            "yellowCard": true,
-            "substitute": "out"
+            "yellowCard": true
           },
           {
             "type": "playerField",
@@ -179,8 +173,7 @@
             "position": "Midfield",
             "shirtNo": "8",
             "formationOrder": 7,
-            "id": "af225d87-7765-4410-ba95-9aabb54107ca",
-            "substitute": "out"
+            "id": "af225d87-7765-4410-ba95-9aabb54107ca"
           },
           {
             "type": "playerField",
