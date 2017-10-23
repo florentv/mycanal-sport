@@ -147,12 +147,12 @@
           "type": "vsBar",
           "title": "Cartons jaunes",
           "homeTeam": {
-            "displayName": "0",
-            "score": 0
-          },
-          "awayTeam": {
             "displayName": "1",
             "score": 1
+          },
+          "awayTeam": {
+            "displayName": "2",
+            "score": 2
           }
         },
         {
