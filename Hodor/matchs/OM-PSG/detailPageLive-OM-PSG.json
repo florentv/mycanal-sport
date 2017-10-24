@@ -137,7 +137,7 @@
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",
           "autorefresh" : 10000,
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/expertMode-OM-PSG.json"
+          "URLPage": "http://hodor.canalplus.pro/api/v1/expertMode/bd22dcfa8cdcfbf780c04ae9f50e71dc/associatedContentId/6018/event/20db02d5-b52c-421e-b9a1-2e0865ba99cb"
         }
       }
     ]
