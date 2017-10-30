@@ -9,12 +9,12 @@
       "channel": "mycanaliOS",
       "prop4": "mycanaliOS - Sport",
       "prop5": "mycanaliOS - Sport - Event",
-      "prop6": "mycanaliOS - Sport - Event - PSG / Barcelone - 173",
+      "prop6": "mycanaliOS - Sport - Event - La Rochelle / Racing 92",
       "eVar12": "GENERIQUE LDC Match Live",
       "prop10": "Contenu",
       "prop11": "Autres",
       "prop12": "Consumer",
-      "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone"
+      "pageName": "mycanaliOS - Sport - Event - La Rochelle / Racing 92"
     }
   },
   "rubriques": [
@@ -28,7 +28,7 @@
       "displayTemplate": "sportVitrine",
       "displayName": "Composition",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rubgy-sportComposition.json"
     },
     {
       "displayTemplate": "sportCalendar",
