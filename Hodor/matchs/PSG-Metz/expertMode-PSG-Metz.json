@@ -22,25 +22,25 @@
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
       "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-Metz/sportVitrine-PSG-Metz.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Composition",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-Metz/sportCompositio-PSG-Metz.json"
     },
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendar-PSG-Metz.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-Metz/sportCalendar-PSG-Metz.json"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "autorefresh": 10000,
-      "URLPage": "http://hodor.canalplus.pro/api/v1/page/bd22dcfa8cdcfbf780c04ae9f50e71dc/6418.json?season=2017&competitionID=3821b89e-bc67-4e9b-be86-b5fc9c37b72b&sportID=457e14f6-6244-4fb5-882a-eafc874ac384&sportEventID=67ee81c1-2671-4633-bde5-78d40c50efc4&homeTeam=39d3ca1c-be9d-4689-a897-e62f4163c546&awayTeam=fb732998-ad77-4f19-ac42-28efd49886de"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-Metz/sportRanking-PSG-Metz.json"
     }
   ]
 }

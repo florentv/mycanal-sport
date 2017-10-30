@@ -72,8 +72,8 @@
           "type": "vsBar",
           "title": "Tirs",
           "homeTeam": {
-            "score": 6,
-            "displayName": "6"
+            "score": 4,
+            "displayName": "4"
           },
           "awayTeam": {
             "score": 4,
