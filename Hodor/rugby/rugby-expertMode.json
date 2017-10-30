@@ -34,7 +34,7 @@
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendar.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rubgy-sportCalendar.json"
     },
     {
       "displayTemplate": "sportRanking",
