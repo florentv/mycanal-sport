@@ -24,8 +24,10 @@
       "homeTeam": {
         "displayName": "La Rochelle",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0b2a5c20-b7b9-41ef-975b-dc90a13bb28b/1509117986250_150904_Fanions-RugbyApp_Top14-LaRochelle.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0b2a5c20-b7b9-41ef-975b-dc90a13bb28b/1510934759459_Maillots-TOP14_La-Rochelle_2x.png",
         "color": {
-          "primary": "0xFFD437"
+          "primary": "0xFFD437",
+          "secondary": "0xFFCC00"
         },
         "contents": [
           {
@@ -144,8 +146,10 @@
       "awayTeam": {
         "displayName": "Racing 92",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/11df255e-fe91-4a7c-bb38-fe633a4473da/1509117965096_150904_Fanions-RugbyApp_Top14-Racing.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/11df255e-fe91-4a7c-bb38-fe633a4473da/1510934783408_Maillots-TOP14_Racing92_2x.png",
         "color": {
-          "primary": "0xACD9F2"
+          "primary": "0xACD9F2",
+          "secondary": "0x000000"
         },
         "contents": [
           {
