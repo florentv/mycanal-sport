@@ -261,6 +261,7 @@
     },
     {
       "type": "playerList",
+      "sport": "rugby",
       "title": "Remplaçants La Rochelle",
       "team": {
         "displayName": "La Rochelle",
@@ -280,7 +281,8 @@
           "type": "substitute",
           "title": "Goillot",
           "shirtNo": "20",
-          "contentID": "d27b04bf-2770-41ef-8d6b-dc1ef2138cc5"
+          "contentID": "d27b04bf-2770-41ef-8d6b-dc1ef2138cc5",
+          "tries": 5
         },
         {
           "type": "substitute",
@@ -292,7 +294,9 @@
           "type": "playerField",
           "title": "Amosa",
           "shirtNo": "19",
-          "contentID": "d787d787-41bb-4f51-9a10-65ce0f115960"
+          "contentID": "d787d787-41bb-4f51-9a10-65ce0f115960",
+          "yellowCard": true,
+          "tries": 1
         },
         {
           "type": "playerField",
@@ -322,6 +326,7 @@
     },
     {
       "type": "playerList",
+      "sport": "rugby",
       "title": "Remplaçants Racing 92",
       "team": {
         "displayName": "Racing 92",
@@ -341,7 +346,8 @@
           "type": "playerField",
           "title": "Claassen",
           "shirtNo": "22",
-          "contentID": "80d2676f-244e-4310-a145-14664ed34b54"
+          "contentID": "80d2676f-244e-4310-a145-14664ed34b54",
+          "tries": 1
         },
         {
           "type": "playerField",
@@ -367,7 +373,8 @@
           "title": "Carizza",
           "shirtNo": "19",
           "contentID": "6dfb78e5-2572-42d3-b56c-ae1518f31ce6",
-          "substitute": "in"
+          "substitute": "in",
+          "tries": 2
         },
         {
           "type": "playerField",
