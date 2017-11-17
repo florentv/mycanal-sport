@@ -296,7 +296,7 @@
           "contentID": "d0b2a793-31ee-4af2-8292-03590dc48378"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Amosa",
           "shirtNo": "19",
           "contentID": "d787d787-41bb-4f51-9a10-65ce0f115960",
@@ -304,25 +304,25 @@
           "tries": 1
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Eaton",
           "shirtNo": "18",
           "contentID": "6e7a5747-44ac-49e4-b701-4cbf65fd86d3"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Rattez",
           "shirtNo": "22",
           "contentID": "fe5b06fe-684d-4517-a2fc-340c370831b0"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Priso",
           "shirtNo": "17",
           "contentID": "928755b9-7b9e-4e6d-a441-dff3636e3db5"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Pelo",
           "shirtNo": "23",
           "contentID": "4af732ba-efb3-427d-9680-513fe68ea2e3"
