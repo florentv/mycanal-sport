@@ -338,39 +338,39 @@
       },
       "contents": [
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Maka",
           "shirtNo": "18",
           "contentID": "0fe5bf89-332c-4b80-8965-d011def6cda2"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Claassen",
           "shirtNo": "22",
           "contentID": "80d2676f-244e-4310-a145-14664ed34b54",
           "tries": 1
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Dupichot",
           "shirtNo": "21",
           "contentID": "f160443e-114f-40fb-b7b0-e765ad3c735a",
           "substitute": "in"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Szarzewski",
           "shirtNo": "16",
           "contentID": "326103cf-750b-4ed3-9b3c-1e1300ae461e"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Iribaren",
           "shirtNo": "20",
           "contentID": "d059a1ef-afbe-4ec8-a4e3-4c1b05edee00"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Carizza",
           "shirtNo": "19",
           "contentID": "6dfb78e5-2572-42d3-b56c-ae1518f31ce6",
@@ -378,13 +378,13 @@
           "tries": 2
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Kakovin",
           "shirtNo": "17",
           "contentID": "a4741bd2-5ea8-4ad3-977e-1cbe30cee4b7"
         },
         {
-          "type": "playerField",
+          "type": "substitute",
           "title": "Gomes Sa",
           "shirtNo": "23",
           "contentID": "87129ec2-6865-413b-ab7a-addff03dd5a3"
