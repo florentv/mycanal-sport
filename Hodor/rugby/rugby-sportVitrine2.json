@@ -1,0 +1,357 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Statistiques",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Top 14",
+      "prop6": "MyCtvOS - Mode expert - Top 14 - Statistiques",
+      "eVar31": "[ME] Stats Top 14",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Top 14 - Statistiques"
+    }
+  },
+  "strates": [
+    {
+      "type": "match",
+      "id": "5319bb1f-fec3-4d09-ac24-08348b445351",
+      "status": "31",
+      "displayStatus": "Terminé",
+      "displayTime": "19 nov.",
+      "homeTeam": {
+        "displayName": "Toulon",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
+        "score": 29
+      },
+      "awayTeam": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+        "score": 40,
+        "winner": true
+      }
+    },
+    {
+      "type": "stats",
+      "title": "Général",
+      "homeTeam": {
+        "displayName": "Toulon",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
+        "score": 29
+      },
+      "awayTeam": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+        "score": 40,
+        "winner": true
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Possession (%)",
+          "homeTeam": {
+            "score": 30,
+            "displayName": "30"
+          },
+          "awayTeam": {
+            "score": 70,
+            "displayName": "70"
+          },
+          "subScore": [
+            {
+              "title": "22 adverse (%)",
+              "homeTeam": {
+                "score": 2,
+                "displayName": "2"
+              },
+              "awayTeam": {
+                "score": 17,
+                "displayName": "17"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Occupation (%)",
+          "homeTeam": {
+            "score": 30,
+            "displayName": "30"
+          },
+          "awayTeam": {
+            "score": 70,
+            "displayName": "70"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Essais",
+          "homeTeam": {
+            "score": 5,
+            "displayName": "5"
+          },
+          "awayTeam": {
+            "score": 4,
+            "displayName": "4"
+          },
+          "subScore": [
+            {
+              "title": "Transformations",
+              "homeTeam": {
+                "score": 3,
+                "displayName": "3 (75%)"
+              },
+              "awayTeam": {
+                "score": 4,
+                "displayName": "4 (100%)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Pénalités",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 6,
+            "displayName": "6"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Drops",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Attaque",
+      "homeTeam": {
+        "displayName": "Toulon",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
+        "score": 29
+      },
+      "awayTeam": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+        "score": 40,
+        "winner": true
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Franchissements",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 4,
+            "displayName": "4"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Mètres parcourus avec le ballon",
+          "homeTeam": {
+            "score": 478,
+            "displayName": "478"
+          },
+          "awayTeam": {
+            "score": 878,
+            "displayName": "878"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Passes",
+          "homeTeam": {
+            "score": 107,
+            "displayName": "107"
+          },
+          "awayTeam": {
+            "score": 163,
+            "displayName": "163"
+          },
+          "subScore": [
+            {
+              "title": "Passes manquées",
+              "homeTeam": {
+                "score": 5,
+                "displayName": "5 (5%)"
+              },
+              "awayTeam": {
+                "score": 5,
+                "displayName": "5 (3%)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Défense",
+      "homeTeam": {
+        "displayName": "Toulon",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
+        "score": 29
+      },
+      "awayTeam": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+        "score": 40,
+        "winner": true
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Plaquages",
+          "homeTeam": {
+            "score": 229,
+            "displayName": "229"
+          },
+          "awayTeam": {
+            "score": 109,
+            "displayName": "109"
+          },
+          "subScore": [
+            {
+              "title": "Plaquages manqués",
+              "homeTeam": {
+                "score": 31,
+                "displayName": "31 (14%)"
+              },
+              "awayTeam": {
+                "score": 5,
+                "displayName": "5 (5%)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Turnovers",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Phases groupées",
+      "homeTeam": {
+        "displayName": "Toulon",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
+        "score": 29
+      },
+      "awayTeam": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+        "score": 40,
+        "winner": true
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Mêlées perdues",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "subScore": [
+            {
+              "title": "Mêlées",
+              "homeTeam": {
+                "score": 6,
+                "displayName": "6"
+              },
+              "awayTeam": {
+                "score": 6,
+                "displayName": "6"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Touches perdues",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "subScore": [
+            {
+              "title": "Touches",
+              "homeTeam": {
+                "score": 9,
+                "displayName": "9 (900%)"
+              },
+              "awayTeam": {
+                "score": 7,
+                "displayName": "7 (700%)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Rucks perdus",
+          "homeTeam": {
+            "score": 2,
+            "displayName": "2"
+          },
+          "awayTeam": {
+            "score": 3,
+            "displayName": "3"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Mauls perdus",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 1,
+            "displayName": "1"
+          }
+        }
+      ]
+    }
+  ],
+  "Empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  }
+}
