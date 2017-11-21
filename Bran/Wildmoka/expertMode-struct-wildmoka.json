@@ -1,0 +1,44 @@
+{
+  "type": "expertMode",
+  "contentID": "329",
+  "displayName": "Mode Expert Ligue 1",
+  "title": "Mode Expert",
+  "subtitle": "Appui long pour activer",
+  "autorefresh": 30000,
+  "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+  "sportID": "2",
+  "sportCompetitionID": "1",
+  "rubriques": [
+    {
+      "displayTemplate": "highlights",
+      "displayName": "Temps forts",
+      "autorefresh": 30000,
+      "display": "auto",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/highlights.json?sportEventID=8e04de7d-bfaa-4c08-8932-900567494b13"
+    },
+    {
+      "displayTemplate": "sportCalendar",
+      "displayName": "Calendrier",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportCalendar.json"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Compositions",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportComposition.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Statistiques",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/vitrineStats.json"
+    }
+  ]
+}
