@@ -98,20 +98,7 @@
           "awayTeam": {
             "score": 4,
             "displayName": "4"
-          },
-          "subScore": [
-            {
-              "title": "Transformations",
-              "homeTeam": {
-                "score": 3,
-                "displayName": "3 (75%)"
-              },
-              "awayTeam": {
-                "score": 4,
-                "displayName": "4 (100%)"
-              }
-            }
-          ]
+          }
         },
         {
           "type": "vsBar",
@@ -199,6 +186,17 @@
               "awayTeam": {
                 "score": 5,
                 "displayName": "5 (3%)"
+              }
+            },
+            {
+              "title": "Passes réussies",
+              "homeTeam": {
+                "score": 45,
+                "displayName": "45"
+              },
+              "awayTeam": {
+                "score": 89,
+                "displayName": "89"
               }
             }
           ]

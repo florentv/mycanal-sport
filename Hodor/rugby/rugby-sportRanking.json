@@ -1,0 +1,146 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportRanking",
+    "displayName": "Classement",
+    "BOLayoutName": "[TEST tvOS] Classement Top 14",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Top 14",
+      "prop6": "MyCtvOS - Mode expert - Top 14 - Classement",
+      "pageName": "MyCtvOS - Mode expert - Top 14 - Classement",
+      "channel": "MyCtvOS",
+      "eVar31": "[TEST tvOS] Classement Top 14",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "sportRanking",
+      "text": " ",
+      "events": [
+        {
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "contentID": "a60e3497-4cc8-4d8d-affb-af1084896994",
+          "title": "CA Brive",
+          "thirdTitle": "9",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a60e3497-4cc8-4d8d-affb-af1084896994/1511014063349_Fanions-Top14_Top14-Brive.png",
+          "ranking": "13"
+        },
+        {
+          "contentID": "bed73b68-e9f7-44c5-849b-6c5ed6b2165d",
+          "title": "Agen",
+          "thirdTitle": "10",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/bed73b68-e9f7-44c5-849b-6c5ed6b2165d/1511014028410_Fanions-Top14_Top14-Agen.png",
+          "ranking": "12"
+        },
+        {
+          "contentID": "88b93d2f-5e1e-45c0-a764-61dd683d9d70",
+          "title": "Stade Francais",
+          "thirdTitle": "14",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/88b93d2f-5e1e-45c0-a764-61dd683d9d70/1511014107329_Fanions-Top14_Top14-Stade-Francais.png",
+          "ranking": "11"
+        },
+        {
+          "contentID": "91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94",
+          "title": "ASM Clermont",
+          "thirdTitle": "18",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94/1511012959690_Fanions-Top14_Top14-Clermont.png",
+          "ranking": "10"
+        },
+        {
+          "contentID": "267e322d-1f52-407c-9640-62e3bb0d0da6",
+          "title": "Section Paloise",
+          "thirdTitle": "19",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/267e322d-1f52-407c-9640-62e3bb0d0da6/1511013946809_Fanions-Top14_Top14-Pau.png",
+          "ranking": "9"
+        },
+        {
+          "contentID": "8429b079-f4e4-4048-844d-f772e5894b61",
+          "title": "Castres Olympique",
+          "thirdTitle": "21",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/8429b079-f4e4-4048-844d-f772e5894b61/1511013992951_Fanions-Top14_Top14-Castre.png",
+          "ranking": "8"
+        },
+        {
+          "contentID": "cf771edd-be21-46df-8b44-3bbcb69fadca",
+          "title": "Oyonnax",
+          "thirdTitle": "7",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/cf771edd-be21-46df-8b44-3bbcb69fadca/1511014139459_Fanions-Top14_Top14-Oyonnax.png",
+          "ranking": "14"
+        },
+        {
+          "contentID": "656b3526-b999-47f1-9a36-afd98c1fb36b",
+          "title": "Union Bordeaux-Begles",
+          "thirdTitle": "23",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/656b3526-b999-47f1-9a36-afd98c1fb36b/1511013900688_Fanions-Top14_Top14-Bordeaux.png",
+          "ranking": "7"
+        },
+        {
+          "contentID": "a0672b05-e97e-4cfa-9ad0-e50238f9361a",
+          "title": "Lyon OU",
+          "thirdTitle": "33",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a0672b05-e97e-4cfa-9ad0-e50238f9361a/1511013098170_Fanions-Top14_Top14-Lyon.png",
+          "ranking": "1"
+        },
+        {
+          "contentID": "28209f09-301c-43a9-af05-769af260480b",
+          "title": "Racing 92",
+          "thirdTitle": "24",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+          "ranking": "6",
+          "highlight": true
+        },
+        {
+          "contentID": "e495c938-4e99-44dd-9547-b1224bc3d714",
+          "title": "Toulon",
+          "thirdTitle": "25",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
+          "ranking": "5",
+          "highlight": true
+        },
+        {
+          "contentID": "e41b572a-bad0-46ec-947d-3a9395ef265c",
+          "title": "Stade Toulousain",
+          "thirdTitle": "28",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e41b572a-bad0-46ec-947d-3a9395ef265c/1511013724361_Fanions-Top14_Top14-Toulouse.png",
+          "ranking": "4"
+        },
+        {
+          "contentID": "6c861694-063f-4ab0-8851-9140e77a25e6",
+          "title": "La Rochelle",
+          "thirdTitle": "30",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6c861694-063f-4ab0-8851-9140e77a25e6/1511013656788_Fanions-Top14_Top14-LaRochelle.png",
+          "ranking": "3"
+        },
+        {
+          "contentID": "940a434e-0502-49d4-8075-144caec133fd",
+          "title": "Montpellier Herault",
+          "thirdTitle": "32",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/940a434e-0502-49d4-8075-144caec133fd/1511013619556_Fanions-Top14_Top14-Montpellier.png",
+          "ranking": "2"
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
+      "paging": {
+        "iterationType": "index",
+        "indexEnd": 0
+      }
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun classement disponible pour le moment"
+  }
+}
