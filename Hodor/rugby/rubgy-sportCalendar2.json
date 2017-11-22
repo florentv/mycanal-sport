@@ -1,0 +1,161 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Résultats",
+    "BOLayoutName": "[TEST tvOS] Résultats LDC",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Live TV",
+      "prop5": "MyCtvOS - Live TV - Mode Expert",
+      "prop6": "MyCtvOS - Live TV - Mode Expert - Resultats Rugby",
+      "pageName": "MyCtvOS - Live TV - Mode Expert - Resultats Rugby",
+      "channel": "MyCtvOS",
+      "eVar31": "[TEST tvOS] Résultats LDC",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "sportCalendar",
+      "title": "TOP 14 - Round 7",
+      "groups": [
+        {
+          "events": [
+            {
+              "id": "ec6b828d-0cec-43bf-8750-beb92f129b91",
+              "type": "match",
+              "status": "8",
+              "displayStatus": "En cours",
+              "displayTime": "08 oct.",
+              "homeTeam": {
+                "displayName": "La Rochelle",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0b2a5c20-b7b9-41ef-975b-dc90a13bb28b/1509117986250_150904_Fanions-RugbyApp_Top14-LaRochelle.png",
+                "score": 34,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Racing 92",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/11df255e-fe91-4a7c-bb38-fe633a4473da/1509117965096_150904_Fanions-RugbyApp_Top14-Racing.png",
+                "score": 12
+              }
+            },
+            {
+              "id": "90f73891-9925-4dd9-acdf-1978d870ad6c",
+              "type": "match",
+              "status": "8",
+              "displayStatus": "En cours",
+              "displayTime": "08 oct.",
+              "homeTeam": {
+                "displayName": "Stade Toulousain",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a1467a2a-006f-4324-b3e6-9d084b5270a2/1509117920103_150904_Fanions-RugbyApp_Top14-Toulouse.png",
+                "score": 28,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "ASM Clermont",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e4ca1eaa-b99b-4657-a05b-3456b2aaa7a0/1509117908981_150904_Fanions-RugbyApp_Top14-Clermont.png",
+                "score": 18
+              }
+            },
+            {
+              "id": "903146dc-765a-4099-89ca-f41ac0070291",
+              "type": "match",
+              "status": "8",
+              "displayStatus": "En cours",
+              "displayTime": "07 oct.",
+              "homeTeam": {
+                "displayName": "Stade Francais",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e4a14dbd-e745-45c5-980a-720bd8642d23/1509117938772_150904_Fanions-RugbyApp_Top14-Stade-Francais.png",
+                "score": 10,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Montpellier Herault",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e14684b5-af38-415f-883f-005b9dd21d97/1509118029711_150904_Fanions-RugbyApp_Top14-Montpellier.png",
+                "score": 9
+              }
+            },
+            {
+              "id": "7df34809-3cf5-4898-9b67-005443851330",
+              "type": "match",
+              "status": "30",
+              "displayStatus": "Final",
+              "displayTime": "07 oct.",
+              "homeTeam": {
+                "displayName": "Union Bordeaux-Begles",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a6fd6014-9d35-4560-be41-23e191913d81/1509117974868_150904_Fanions-RugbyApp_Top14-Bordeaux.png",
+                "score": 30,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Toulon",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/123f9891-38d2-4850-92bc-46d6a71acc52/1509117948391_150904_Fanions-RugbyApp_Top14-Toulon.png",
+                "score": 27
+              }
+            },
+            {
+              "id": "8351ed99-7bba-4dfc-8c55-9c41f8878682",
+              "type": "match",
+              "status": "30",
+              "displayStatus": "Final",
+              "displayTime": "07 oct.",
+              "homeTeam": {
+                "displayName": "Oyonnax",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/c81a7923-3c10-41c0-84fb-678fe6c99bdf/1509118009458_150904_Fanions-RugbyApp_Top14-Oyonnax.png",
+                "score": 16
+              },
+              "awayTeam": {
+                "displayName": "Section Paloise",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/8d7db185-35e4-4270-87ea-75cf5ecc7cbb/1509118019424_150904_Fanions-RugbyApp_Top14-Pau.png",
+                "score": 19,
+                "winner": true
+              }
+            },
+            {
+              "id": "38d6cb1b-36ad-4622-abd0-91d707b046d7",
+              "type": "match",
+              "status": "30",
+              "displayStatus": "Final",
+              "displayTime": "07 oct.",
+              "homeTeam": {
+                "displayName": "CA Brive",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/aa40e99f-023f-4526-9612-bf0546d9b7d3/1509117890036_150904_Fanions-RugbyApp_Top14-Brive.png",
+                "score": 27,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Castres Olympique",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/7a9dbdfd-4e91-4af0-9051-dcd5ccfd262e/1509117899432_150904_Fanions-RugbyApp_Top14-Castre.png",
+                "score": 22
+              }
+            },
+            {
+              "id": "9ad3077d-b4d2-41b2-b9c2-d033b4a2dc0a",
+              "type": "match",
+              "status": "30",
+              "displayStatus": "Final",
+              "displayTime": "07 oct.",
+              "homeTeam": {
+                "displayName": "Agen",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3c722720-f591-4f52-85ab-f0c4e73126a4/1509117875029_150904_Fanions-RugbyApp_Top14-Agen.png",
+                "score": 6
+              },
+              "awayTeam": {
+                "displayName": "Lyon OU",
+                "score": 25,
+                "winner": true
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun résultat pour le moment"
+  }
+}

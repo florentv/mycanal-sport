@@ -1,0 +1,408 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Compositions",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode Expert",
+      "prop5": "MyCtvOS - Mode Expert - Top 14",
+      "prop6": "MyCtvOS - Mode Expert - Top 14 - Compositions",
+      "eVar31": "[ME] Compositions Rugby",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode Expert - Top 14 - Compositions"
+    }
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "rugby",
+      "homeTeam": {
+        "displayName": "La Rochelle",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0b2a5c20-b7b9-41ef-975b-dc90a13bb28b/1509117986250_150904_Fanions-RugbyApp_Top14-LaRochelle.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0b2a5c20-b7b9-41ef-975b-dc90a13bb28b/1510934759459_Maillots-TOP14_La-Rochelle_2x.png",
+        "color": {
+          "primary": "0xFFD437",
+          "secondary": "0xFFCC00"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Vito",
+            "shirtNo": "8",
+            "contentID": "f57217a5-3a6c-47ca-907f-2dd42a355403",
+            "formationOrder": 8
+          },
+          {
+            "type": "playerField",
+            "title": "Bales",
+            "shirtNo": "9",
+            "contentID": "fcc3a323-afa2-4661-82b3-c4398f7188a0",
+            "formationOrder": 9
+          },
+          {
+            "type": "playerField",
+            "title": "Doumayrou",
+            "shirtNo": "13",
+            "contentID": "15f4815d-61fb-4072-bb6e-1be01a646341",
+            "formationOrder": 13
+          },
+          {
+            "type": "playerField",
+            "title": "Corbel",
+            "shirtNo": "1",
+            "contentID": "2cd4cb2e-0a5f-4500-a988-09d3585df8fd",
+            "formationOrder": 1,
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Orioli",
+            "shirtNo": "2",
+            "contentID": "e381bb1c-3bb6-41b6-a9d3-e1778f78ce3a",
+            "formationOrder": 2
+          },
+          {
+            "type": "playerField",
+            "title": "Atonio",
+            "shirtNo": "3",
+            "contentID": "9f0ee47d-522d-4d3b-9c18-d19d55028b69",
+            "formationOrder": 3,
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Sazy",
+            "shirtNo": "4",
+            "contentID": "e45336d5-bb9a-4f07-91b7-f83b9c72fd55",
+            "formationOrder": 4
+          },
+          {
+            "type": "playerField",
+            "title": "Qovu",
+            "shirtNo": "5",
+            "contentID": "71d22f68-06f1-4441-86d5-66220ba5e869",
+            "formationOrder": 5
+          },
+          {
+            "type": "playerField",
+            "title": "Sinzelle",
+            "shirtNo": "11",
+            "contentID": "2c94c807-7e46-462d-bb24-d9df36b76f4e",
+            "formationOrder": 11,
+            "tries": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Lamboley",
+            "shirtNo": "6",
+            "contentID": "da37f2d6-2f7f-4a66-bfc8-9926bd45a669",
+            "formationOrder": 6
+          },
+          {
+            "type": "playerField",
+            "title": "James",
+            "shirtNo": "10",
+            "contentID": "1818a49d-24c6-40ac-9636-c86bcc683c72",
+            "formationOrder": 10,
+            "redCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Lacroix",
+            "shirtNo": "14",
+            "contentID": "16b4e19b-cd9f-4791-9ddf-01638179b780",
+            "formationOrder": 14,
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Gourdon",
+            "shirtNo": "7",
+            "contentID": "01deef2c-1b86-490a-a54c-d8f302af85f1",
+            "formationOrder": 7,
+            "redCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Murimurivalu",
+            "shirtNo": "15",
+            "contentID": "a177a374-e26d-4ee9-97a5-a736d1362b94",
+            "formationOrder": 15,
+            "tries": 2
+          },
+          {
+            "type": "playerField",
+            "title": "Aguillon",
+            "shirtNo": "12",
+            "contentID": "a2512f12-8b45-485b-84a8-0123b807fa2f",
+            "formationOrder": 12,
+            "yellowCard": true
+          }
+        ]
+      },
+      "awayTeam": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/11df255e-fe91-4a7c-bb38-fe633a4473da/1509117965096_150904_Fanions-RugbyApp_Top14-Racing.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/11df255e-fe91-4a7c-bb38-fe633a4473da/1510934783408_Maillots-TOP14_Racing92_2x.png",
+        "color": {
+          "primary": "0xACD9F2",
+          "secondary": "0x000000"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Chat",
+            "shirtNo": "2",
+            "contentID": "8af4d32c-473e-49c5-a751-023dd4993b70",
+            "formationOrder": 2
+          },
+          {
+            "type": "playerField",
+            "title": "Nakarawa",
+            "shirtNo": "5",
+            "contentID": "98103781-5f96-4e8f-8a81-d302fc3e3b5f",
+            "formationOrder": 5
+          },
+          {
+            "type": "playerField",
+            "title": "Rokocoko",
+            "shirtNo": "11",
+            "contentID": "21769ecb-eb27-445b-b9ec-9b3d58f32c2b",
+            "formationOrder": 11
+          },
+          {
+            "type": "playerField",
+            "title": "Johnston",
+            "shirtNo": "3",
+            "contentID": "f64266f7-e92e-4f5a-b83b-20e8302a3e21",
+            "formationOrder": 3
+          },
+          {
+            "type": "playerField",
+            "title": "Chouzenoux",
+            "shirtNo": "7",
+            "contentID": "44d6418f-4440-4339-9834-055d5e94b3f2",
+            "formationOrder": 7
+          },
+          {
+            "type": "playerField",
+            "title": "Imhoff",
+            "shirtNo": "15",
+            "contentID": "135a1c4d-43a5-4e25-8841-f920fd7da056",
+            "formationOrder": 15
+          },
+          {
+            "type": "playerField",
+            "title": "le Roux",
+            "shirtNo": "4",
+            "contentID": "a0ddbd47-1269-4da7-8856-74d7e36a0b02",
+            "formationOrder": 4
+          },
+          {
+            "type": "playerField",
+            "title": "Faaoso",
+            "shirtNo": "8",
+            "contentID": "219888e4-dd7a-45d2-8b5f-0463618e0620",
+            "formationOrder": 8
+          },
+          {
+            "type": "playerField",
+            "title": "Vulivuli",
+            "shirtNo": "12",
+            "contentID": "99db44e0-7f8e-4db0-b1f9-ab070ded6d8f",
+            "formationOrder": 12,
+            "tries": 2,
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Afatia",
+            "shirtNo": "1",
+            "contentID": "ca4d3ae8-66f5-4cfc-af40-3a2fca7b41b1",
+            "formationOrder": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Chauveau",
+            "shirtNo": "9",
+            "contentID": "eca7bdbc-8540-4d4b-9303-975fe39c12b3",
+            "formationOrder": 9
+          },
+          {
+            "type": "playerField",
+            "title": "Tuitavake",
+            "shirtNo": "13",
+            "contentID": "73cabc2b-9dea-4f2d-bf08-80ae2b3ff5c7",
+            "formationOrder": 13
+          },
+          {
+            "type": "playerField",
+            "title": "Nyanga",
+            "shirtNo": "6",
+            "contentID": "f3da82ae-75ad-48ee-95d5-9be24ddf6005",
+            "formationOrder": 6,
+            "redCard": true,
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Machenaud",
+            "shirtNo": "10",
+            "contentID": "08719105-07c2-4bb4-ae14-24dd17675ae0",
+            "formationOrder": 10
+          },
+          {
+            "type": "playerField",
+            "title": "Thomas",
+            "shirtNo": "14",
+            "contentID": "7ebf0e2d-8e8e-4f4e-b2f4-57727f9b6056",
+            "formationOrder": 14
+          }
+        ]
+      }
+    },
+    {
+      "type": "playerList",
+      "sport": "rugby",
+      "title": "Remplaçants La Rochelle",
+      "team": {
+        "displayName": "La Rochelle",
+        "isHome": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0b2a5c20-b7b9-41ef-975b-dc90a13bb28b/1509117986250_150904_Fanions-RugbyApp_Top14-LaRochelle.png",
+        "color": {
+          "primary": "0xFFD437"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Bourgarit",
+          "shirtNo": "16",
+          "contentID": "c8ca50e5-e485-4f32-b3d0-f55d5ab3cebe"
+        },
+        {
+          "type": "substitute",
+          "title": "Goillot",
+          "shirtNo": "20",
+          "contentID": "d27b04bf-2770-41ef-8d6b-dc1ef2138cc5",
+          "tries": 5
+        },
+        {
+          "type": "substitute",
+          "title": "Jordaan",
+          "shirtNo": "21",
+          "contentID": "d0b2a793-31ee-4af2-8292-03590dc48378"
+        },
+        {
+          "type": "substitute",
+          "title": "Amosa",
+          "shirtNo": "19",
+          "contentID": "d787d787-41bb-4f51-9a10-65ce0f115960",
+          "yellowCard": true,
+          "tries": 1
+        },
+        {
+          "type": "substitute",
+          "title": "Eaton",
+          "shirtNo": "18",
+          "contentID": "6e7a5747-44ac-49e4-b701-4cbf65fd86d3"
+        },
+        {
+          "type": "substitute",
+          "title": "Rattez",
+          "shirtNo": "22",
+          "contentID": "fe5b06fe-684d-4517-a2fc-340c370831b0",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Priso",
+          "shirtNo": "17",
+          "contentID": "928755b9-7b9e-4e6d-a441-dff3636e3db5"
+        },
+        {
+          "type": "substitute",
+          "title": "Pelo",
+          "shirtNo": "23",
+          "contentID": "4af732ba-efb3-427d-9680-513fe68ea2e3"
+        }
+      ]
+    },
+    {
+      "type": "playerList",
+      "sport": "rugby",
+      "title": "Remplaçants Racing 92",
+      "team": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/11df255e-fe91-4a7c-bb38-fe633a4473da/1509117965096_150904_Fanions-RugbyApp_Top14-Racing.png",
+        "color": {
+          "primary": "0xACD9F2"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Maka",
+          "shirtNo": "18",
+          "contentID": "0fe5bf89-332c-4b80-8965-d011def6cda2"
+        },
+        {
+          "type": "substitute",
+          "title": "Claassen",
+          "shirtNo": "22",
+          "contentID": "80d2676f-244e-4310-a145-14664ed34b54",
+          "tries": 1
+        },
+        {
+          "type": "substitute",
+          "title": "Dupichot",
+          "shirtNo": "21",
+          "contentID": "f160443e-114f-40fb-b7b0-e765ad3c735a",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Szarzewski",
+          "shirtNo": "16",
+          "contentID": "326103cf-750b-4ed3-9b3c-1e1300ae461e",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Iribaren",
+          "shirtNo": "20",
+          "contentID": "d059a1ef-afbe-4ec8-a4e3-4c1b05edee00",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Carizza",
+          "shirtNo": "19",
+          "contentID": "6dfb78e5-2572-42d3-b56c-ae1518f31ce6",
+          "substitute": "in",
+          "tries": 2
+        },
+        {
+          "type": "substitute",
+          "title": "Kakovin",
+          "shirtNo": "17",
+          "contentID": "a4741bd2-5ea8-4ad3-977e-1cbe30cee4b7"
+        },
+        {
+          "type": "substitute",
+          "title": "Gomes Sa",
+          "shirtNo": "23",
+          "contentID": "87129ec2-6865-413b-ab7a-addff03dd5a3"
+        }
+      ]
+    }
+  ],
+  "Empty": {
+    "displayName": "Aucune composition disponible pour le moment"
+  }
+}
