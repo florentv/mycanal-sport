@@ -42,25 +42,33 @@
       "homeTeam": {
         "displayName": "Toulon",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
-        "score": 29
+        "score": 29,
+        "color": {
+          "primary": "0xCA051D",
+          "secondary": "0xffffff"
+        }
       },
       "awayTeam": {
         "displayName": "Racing 92",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
         "score": 40,
-        "winner": true
+        "winner": true,
+        "color": {
+          "primary": "0xACD9F2",
+          "secondary": "0x000000"
+        }
       },
       "contents": [
         {
           "type": "vsBar",
           "title": "Possession (%)",
           "homeTeam": {
-            "score": 39,
-            "displayName": "39"
+            "score": 40,
+            "displayName": "40"
           },
           "awayTeam": {
-            "score": 61,
-            "displayName": "61"
+            "score": 60,
+            "displayName": "60"
           },
           "subScore": [
             {
@@ -70,8 +78,8 @@
                 "displayName": "3 (8%)"
               },
               "awayTeam": {
-                "score": 14,
-                "displayName": "14 (23%)"
+                "score": 15,
+                "displayName": "15 (25%)"
               }
             }
           ]
@@ -80,12 +88,12 @@
           "type": "vsBar",
           "title": "Occupation (%)",
           "homeTeam": {
-            "score": 35,
-            "displayName": "35"
+            "score": 30,
+            "displayName": "30"
           },
           "awayTeam": {
-            "score": 65,
-            "displayName": "65"
+            "score": 70,
+            "displayName": "70"
           }
         },
         {
@@ -145,60 +153,68 @@
       "homeTeam": {
         "displayName": "Toulon",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
-        "score": 29
+        "score": 29,
+        "color": {
+          "primary": "0xCA051D",
+          "secondary": "0xffffff"
+        }
       },
       "awayTeam": {
         "displayName": "Racing 92",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
         "score": 40,
-        "winner": true
+        "winner": true,
+        "color": {
+          "primary": "0xACD9F2",
+          "secondary": "0x000000"
+        }
       },
       "contents": [
         {
           "type": "vsBar",
           "title": "Franchissements",
           "homeTeam": {
-            "score": 1,
-            "displayName": "1"
+            "score": 2,
+            "displayName": "2"
           },
           "awayTeam": {
-            "score": 4,
-            "displayName": "4"
+            "score": 5,
+            "displayName": "5"
           }
         },
         {
           "type": "vsBar",
           "title": "Mètres parcourus avec le ballon",
           "homeTeam": {
-            "score": 478,
-            "displayName": "478"
+            "score": 578,
+            "displayName": "578"
           },
           "awayTeam": {
-            "score": 878,
-            "displayName": "878"
+            "score": 985.2,
+            "displayName": "985,2"
           }
         },
         {
           "type": "vsBar",
           "title": "Passes",
           "homeTeam": {
-            "score": 107,
-            "displayName": "107"
+            "score": 105,
+            "displayName": "105"
           },
           "awayTeam": {
-            "score": 163,
-            "displayName": "163"
+            "score": 157,
+            "displayName": "157"
           },
           "subScore": [
             {
               "title": "Passes manquées",
               "homeTeam": {
-                "score": 5,
-                "displayName": "5 (5%)"
+                "score": 7,
+                "displayName": "7 (7%)"
               },
               "awayTeam": {
-                "score": 5,
-                "displayName": "5 (3%)"
+                "score": 12,
+                "displayName": "12 (8%)"
               }
             }
           ]
@@ -211,36 +227,44 @@
       "homeTeam": {
         "displayName": "Toulon",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
-        "score": 29
+        "score": 29,
+        "color": {
+          "primary": "0xCA051D",
+          "secondary": "0xffffff"
+        }
       },
       "awayTeam": {
         "displayName": "Racing 92",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
         "score": 40,
-        "winner": true
+        "winner": true,
+        "color": {
+          "primary": "0xACD9F2",
+          "secondary": "0x000000"
+        }
       },
       "contents": [
         {
           "type": "vsBar",
           "title": "Plaquages",
           "homeTeam": {
-            "score": 229,
-            "displayName": "229"
+            "score": 199,
+            "displayName": "199"
           },
           "awayTeam": {
-            "score": 109,
-            "displayName": "109"
+            "score": 102,
+            "displayName": "102"
           },
           "subScore": [
             {
               "title": "Plaquages manqués",
               "homeTeam": {
-                "score": 31,
-                "displayName": "31 (14%)"
+                "score": 29,
+                "displayName": "29 (15%)"
               },
               "awayTeam": {
-                "score": 5,
-                "displayName": "5 (5%)"
+                "score": 17,
+                "displayName": "17 (17%)"
               }
             }
           ]
@@ -249,12 +273,12 @@
           "type": "vsBar",
           "title": "Turnovers",
           "homeTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 4,
+            "displayName": "4"
           },
           "awayTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 4,
+            "displayName": "4"
           }
         }
       ]
@@ -265,13 +289,21 @@
       "homeTeam": {
         "displayName": "Toulon",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
-        "score": 29
+        "score": 29,
+        "color": {
+          "primary": "0xCA051D",
+          "secondary": "0xffffff"
+        }
       },
       "awayTeam": {
         "displayName": "Racing 92",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
         "score": 40,
-        "winner": true
+        "winner": true,
+        "color": {
+          "primary": "0xACD9F2",
+          "secondary": "0x000000"
+        }
       },
       "contents": [
         {
@@ -303,23 +335,23 @@
           "type": "vsBar",
           "title": "Touches perdues",
           "homeTeam": {
-            "score": 1,
-            "displayName": "1"
+            "score": 2,
+            "displayName": "2"
           },
           "awayTeam": {
-            "score": 1,
-            "displayName": "1"
+            "score": 2,
+            "displayName": "2"
           },
           "subScore": [
             {
               "title": "Touches",
               "homeTeam": {
-                "score": 9,
-                "displayName": "9 (900%)"
+                "score": 11,
+                "displayName": "11 (550%)"
               },
               "awayTeam": {
-                "score": 7,
-                "displayName": "7 (700%)"
+                "score": 6,
+                "displayName": "6 (300%)"
               }
             }
           ]
@@ -332,8 +364,8 @@
             "displayName": "2"
           },
           "awayTeam": {
-            "score": 3,
-            "displayName": "3"
+            "score": 4,
+            "displayName": "4"
           }
         },
         {
