@@ -14,7 +14,7 @@
       "pageName": "A definir"
     }
   },
-  "configuration2": {
+  "configuration": {
     "contents": [
       {
         "configuration": {
@@ -24,18 +24,10 @@
           "onClickBehaviour": "player",
           "PFSParameters": {
             "listType": "sport"
-          },
-          "displayLogo": true,
-          "showDisplayMode": "show"
+          }
         }
       }
     ]
-  },
-  "configuration": {
-    "maxContentNumber": "48",
-    "PFS": "wildmoka",
-    "displayRubrique": "auto",
-    "onClickBehaviour": "player"
   },
   "empty": {
     "displayName": "Les compositions ne sont pas disponibles pour le moment."
