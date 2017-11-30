@@ -21,7 +21,6 @@
   "strates": [
     {
       "type": "sportRanking",
-      "text": " ",
       "events": [
         {
           "title": "Pts",
