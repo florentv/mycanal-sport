@@ -75,11 +75,11 @@
               "title": "22 adverse (%)",
               "homeTeam": {
                 "score": 3,
-                "displayName": "3 (8%)"
+                "displayName": "3"
               },
               "awayTeam": {
                 "score": 15,
-                "displayName": "15 (25%)"
+                "displayName": "15"
               }
             }
           ]
