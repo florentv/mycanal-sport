@@ -316,20 +316,7 @@
           "awayTeam": {
             "score": 0,
             "displayName": "0"
-          },
-          "subScore": [
-            {
-              "title": "Mêlées",
-              "homeTeam": {
-                "score": 6,
-                "displayName": "6"
-              },
-              "awayTeam": {
-                "score": 6,
-                "displayName": "6"
-              }
-            }
-          ]
+          }
         },
         {
           "type": "vsBar",
@@ -341,20 +328,7 @@
           "awayTeam": {
             "score": 2,
             "displayName": "2"
-          },
-          "subScore": [
-            {
-              "title": "Touches",
-              "homeTeam": {
-                "score": 11,
-                "displayName": "11 (550%)"
-              },
-              "awayTeam": {
-                "score": 6,
-                "displayName": "6 (300%)"
-              }
-            }
-          ]
+          }
         },
         {
           "type": "vsBar",
