@@ -137,7 +137,7 @@
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",
           "autorefresh" : 10000,
-          "URLPage": "http://hodor-dev.canalplus.pro/api/v1/expertMode/b2e4573328bc317b022cf3c16c37f5dc/associatedContentId/5633/event/ec6b828d-0cec-43bf-8750-beb92f129b91"
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rugby-expertMode.json"
         }
       }
     ]

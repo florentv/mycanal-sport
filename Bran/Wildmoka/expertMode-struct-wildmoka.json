@@ -13,7 +13,7 @@
       "displayTemplate": "highlights",
       "displayName": "Temps forts",
       "autorefresh": 30000,
-      "display": "auto",
+      "displayMode": "autoWildmoka",
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/highlights.json?sportEventID=8e04de7d-bfaa-4c08-8932-900567494b13"
     },
     {

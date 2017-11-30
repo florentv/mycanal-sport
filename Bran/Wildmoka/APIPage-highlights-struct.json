@@ -1,0 +1,18 @@
+{
+  "currentPage": {
+    "displayTemplate": "highlights",
+    "displayName": "Temps forts"
+  },
+  "configuration": {
+    "contents": [
+      {
+        "configuration": {
+          "maxContentNumber": "48",
+          "PFS": "wildmoka",
+          "displayRubrique": "auto",
+          "onClickBehaviour": "player"
+        }
+      }
+    ]
+  }
+}
