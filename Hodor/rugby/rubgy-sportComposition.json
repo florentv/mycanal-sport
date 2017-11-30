@@ -44,9 +44,7 @@
             "position": "Scrum Half",
             "shirtNo": "9",
             "formationOrder": 9,
-            "contentID": "8802d405-f28c-43b8-a179-289e8cfd7a6e",
-            "tries": 1,
-            "yellowCard": true
+            "contentID": "8802d405-f28c-43b8-a179-289e8cfd7a6e"
           },
           {
             "type": "playerField",
@@ -86,8 +84,7 @@
             "position": "Flanker",
             "shirtNo": "6",
             "formationOrder": 6,
-            "contentID": "152e9d82-9a20-4c22-ae09-710f5360572b",
-            "redCard": true
+            "contentID": "152e9d82-9a20-4c22-ae09-710f5360572b"
           },
           {
             "type": "playerField",
@@ -202,9 +199,7 @@
             "position": "Centre",
             "shirtNo": "13",
             "formationOrder": 13,
-            "contentID": "101067d2-88f2-4658-9717-fcf5a2f07fc0",
-            "yellowCard": true,
-            "redCard": true
+            "contentID": "101067d2-88f2-4658-9717-fcf5a2f07fc0"
           },
           {
             "type": "playerField",
@@ -212,9 +207,7 @@
             "position": "Full Back",
             "shirtNo": "15",
             "formationOrder": 15,
-            "contentID": "d142c868-5fab-44cb-bf77-ecbf05873a99",
-            "substitute": "out",
-            "tries": 1
+            "contentID": "d142c868-5fab-44cb-bf77-ecbf05873a99"
           },
           {
             "type": "playerField",
@@ -254,8 +247,7 @@
             "position": "Lock",
             "shirtNo": "4",
             "formationOrder": 4,
-            "contentID": "7e82814a-d434-45ea-90bd-4f4e564a94fc",
-            "tries": 5
+            "contentID": "7e82814a-d434-45ea-90bd-4f4e564a94fc"
           },
           {
             "type": "playerField",
@@ -311,9 +303,7 @@
           "position": "Substitute",
           "shirtNo": "22",
           "formationOrder": 16,
-          "contentID": "59c88309-71cc-4cce-858c-4b02fc593ecc",
-          "tries": 3,
-          "substitute": "in"
+          "contentID": "59c88309-71cc-4cce-858c-4b02fc593ecc"
         },
         {
           "type": "substitute",
@@ -337,9 +327,7 @@
           "position": "Substitute",
           "shirtNo": "21",
           "formationOrder": 16,
-          "contentID": "7dc6adb8-0386-4b59-9c11-c701237d06f0",
-          "substitute": "in",
-          "yellowCard": true
+          "contentID": "7dc6adb8-0386-4b59-9c11-c701237d06f0"
         },
         {
           "type": "substitute",

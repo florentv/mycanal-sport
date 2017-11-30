@@ -14,28 +14,20 @@
       "pageName": "A definir"
     }
   },
-  "configuration2": {
+  "configuration": {
     "contents": [
       {
         "configuration": {
           "maxContentNumber": "100",
           "PFS": "wildmoka",
-          "displayRubrique": "auto",
           "onClickBehaviour": "player",
           "PFSParameters": {
-            "listType": "sport"
-          },
-          "displayLogo": true,
-          "showDisplayMode": "show"
+            "listID": "1444589",
+            "listType": "standard"
+          }
         }
       }
     ]
-  },
-  "configuration": {
-    "maxContentNumber": "48",
-    "PFS": "wildmoka",
-    "displayRubrique": "auto",
-    "onClickBehaviour": "player"
   },
   "empty": {
     "displayName": "Les compositions ne sont pas disponibles pour le moment."

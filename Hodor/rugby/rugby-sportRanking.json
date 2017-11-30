@@ -7,12 +7,12 @@
   },
   "tracking": {
     "omniture": {
-      "prop4": "MyCtvOS - Mode expert",
-      "prop5": "MyCtvOS - Mode expert - Top 14",
-      "prop6": "MyCtvOS - Mode expert - Top 14 - Classement",
-      "pageName": "MyCtvOS - Mode expert - Top 14 - Classement",
-      "channel": "MyCtvOS",
-      "eVar31": "[TEST tvOS] Classement Top 14",
+      "prop4": "MyCtvAndroid - Mode expert",
+      "prop5": "MyCtvAndroid - Mode expert - Top 14",
+      "prop6": "MyCtvAndroid - Mode expert - Top 14 - Classement",
+      "pageName": "MyCtvAndroid - Mode expert - Top 14 - Classement",
+      "channel": "MyCtvAndroid",
+      "eVar31": "[TEST Android] Classement Top 14",
       "prop10": "Contenu",
       "prop11": "Autres",
       "prop12": "Consumer"
