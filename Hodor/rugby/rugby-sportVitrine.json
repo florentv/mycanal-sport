@@ -100,8 +100,8 @@
           "type": "vsBar",
           "title": "Essais",
           "homeTeam": {
-            "score": 4,
-            "displayName": "4"
+            "score": 0,
+            "displayName": "0"
           },
           "awayTeam": {
             "score": 4,
