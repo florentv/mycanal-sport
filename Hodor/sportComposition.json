@@ -9,7 +9,7 @@
       "type": "field",
       "sport": "football",
       "homeTeam": {
-        "formationType": "343",
+        "formationType": "3331",
         "color": {
           "primary": "0x001B50",
           "secondary": "0xffffff"
@@ -118,7 +118,7 @@
         ]
       },
       "awayTeam": {
-        "formationType": "433",
+        "formationType": "5131",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
         "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1504098901361_Maillots-Ligue_1_Metz.png",
         "displayName": "Metz",
