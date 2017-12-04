@@ -1,7 +1,8 @@
 {
   "currentPage": {
     "displayTemplate": "highlights",
-    "displayName": "Temps forts"
+    "displayName": "Temps forts",
+    "autorefresh": 30000
   },
   "tracking": {
     "omniture": {
@@ -18,13 +19,11 @@
     "contents": [
       {
         "configuration": {
+          "contentType": "sport",
           "maxContentNumber": "100",
           "PFS": "wildmoka",
           "displayRubrique": "auto",
           "onClickBehaviour": "player",
-          "PFSParameters": {
-            "listType": "sport"
-          }
         }
       }
     ]
