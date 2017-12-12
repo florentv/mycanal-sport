@@ -98,7 +98,8 @@
           "title": "Guingamp",
           "thirdTitle": "22",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b7c34c91-edbc-4e53-8e89-686eb2555ef3/1501860879821_Fanions-L1_L1-Guingamp.png",
-          "ranking": "10"
+          "ranking": "10",
+          "highlight": true
         },
         {
           "contentID": "d82145d7-1aa3-4fad-a165-652de748a1a8",
@@ -119,23 +120,22 @@
           "title": "Dijon",
           "thirdTitle": "21",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/684f949b-d06e-4ddb-8d56-50e20e086493/1501860891324_Fanions-L1_L1-Dijon.png",
-          "ranking": "13"
+          "ranking": "13",
+          "highlight": true
         },
         {
           "contentID": "3db5e20d-71fc-416c-9b68-6d8ca1bcff83",
           "title": "Bordeaux",
           "thirdTitle": "20",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1501860932371_Fanions-L1_L1-Bordeaux.png",
-          "ranking": "14",
-          "highlight": true
+          "ranking": "14"
         },
         {
           "contentID": "75f7290e-7a9c-4417-bdc8-7177542a079a",
           "title": "St. Etienne",
           "thirdTitle": "20",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1501860681832_Fanions-L1_L1-St-Etienne.png",
-          "ranking": "15",
-          "highlight": true
+          "ranking": "15"
         },
         {
           "contentID": "a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b",
