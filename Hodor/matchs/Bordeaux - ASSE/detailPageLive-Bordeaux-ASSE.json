@@ -24,7 +24,7 @@
       "type": "live",
       "contentID": "ANT_1182633_294",
       "duration": "1800000",
-      "title": "Paris-SG / Lyon",
+      "title": "Bordeaux / Saint-Etienne",
       "thirdTitle": "CANAL+ SPORT - Lundi 20 mars - 16h40",
       "editorialTitle": "Ligue 1, France, 2017, 30 min",
       "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/47757916",
@@ -137,7 +137,7 @@
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",
           "autorefresh" : 10000,
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/OM-PSG/expertMode-OM-PSG.json"
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/Bordeaux%20-%20ASSE/expertMode-Bordeaux-ASSE.json"
         }
       }
     ]
