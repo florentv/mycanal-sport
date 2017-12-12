@@ -1,0 +1,369 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Compositions",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode Expert",
+      "prop5": "MyCtvOS - Mode Expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode Expert - Ligue 1 - Compositions Ligue 1",
+      "eVar31": "[ME] Compositions Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode Expert - Ligue 1 - Compositions Ligue 1"
+    }
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "football",
+      "homeTeam": {
+        "displayName": "Bordeaux",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1501860932371_Fanions-L1_L1-Bordeaux.png",
+        "formationType": "4231",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1507900131941_Maillots-Ligue_1_Bordeaux_2x.png",
+        "color": {
+          "primary": "0x001b50",
+          "secondary": "0xffffff"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Mendy",
+            "position": "Forward",
+            "shirtNo": "15",
+            "formationOrder": 11,
+            "goals": 2,
+            "contentID": "44c48478-0990-44e3-b982-eaa1134f4986"
+          },
+          {
+            "type": "playerField",
+            "title": "Cafu",
+            "position": "Forward",
+            "shirtNo": "22",
+            "formationOrder": 10,
+            "contentID": "401b07b1-9c73-4f9e-b981-c784b5391531",
+            "yellowCard": true,
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Vada",
+            "position": "Midfield",
+            "shirtNo": "23",
+            "formationOrder": 9,
+            "contentID": "68fde0c1-f08a-4c8d-bb0d-1a78856b8c50",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Malcom",
+            "position": "Forward",
+            "shirtNo": "7",
+            "formationOrder": 8,
+            "goals": 1,
+            "contentID": "7afadd99-29c3-467a-9963-ecbbe040055f",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Lerager",
+            "position": "Midfield",
+            "shirtNo": "19",
+            "formationOrder": 7,
+            "contentID": "0ea7f615-6fd0-4c83-ba61-e2e00c10b8c6"
+          },
+          {
+            "type": "playerField",
+            "title": "Otavio",
+            "position": "Midfield",
+            "shirtNo": "5",
+            "formationOrder": 6,
+            "contentID": "d023ee5d-dd72-4ba9-8807-04d1b3a19099"
+          },
+          {
+            "type": "playerField",
+            "title": "Sabaly",
+            "position": "Defender",
+            "shirtNo": "20",
+            "formationOrder": 5,
+            "contentID": "d23ca246-4179-4a63-ac93-55377db29844"
+          },
+          {
+            "type": "playerField",
+            "title": "Jovanovic",
+            "position": "Defender",
+            "shirtNo": "4",
+            "formationOrder": 4,
+            "contentID": "ab37653f-d32a-4203-938a-da1d9c77028c"
+          },
+          {
+            "type": "playerField",
+            "title": "Toulalan",
+            "position": "Defender",
+            "shirtNo": "14",
+            "formationOrder": 3,
+            "contentID": "987ff36c-e6b0-4235-9462-16911aaec732"
+          },
+          {
+            "type": "playerField",
+            "title": "Gajic",
+            "position": "Defender",
+            "shirtNo": "2",
+            "formationOrder": 2,
+            "contentID": "1b4c8f76-f0c2-45e5-8145-4dd30e5bfb02"
+          },
+          {
+            "type": "playerField",
+            "title": "Costil",
+            "position": "Goalkeeper",
+            "shirtNo": "1",
+            "formationOrder": 1,
+            "contentID": "ec0158a6-ead5-41aa-ac11-782f3a13ec55"
+          }
+        ]
+      },
+      "awayTeam": {
+        "displayName": "St. Etienne",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1501860681832_Fanions-L1_L1-St-Etienne.png",
+        "formationType": "532",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1507899284956_Maillots-Ligue_1_St-Etienne_2x.png",
+        "color": {
+          "primary": "0x60b572",
+          "secondary": "0xffffff"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Bamba",
+            "position": "Forward",
+            "shirtNo": "14",
+            "formationOrder": 11,
+            "contentID": "8dde15f7-6b16-4d44-94f4-46dc462e2654"
+          },
+          {
+            "type": "playerField",
+            "title": "Diony",
+            "position": "Forward",
+            "shirtNo": "9",
+            "formationOrder": 10,
+            "contentID": "cb67aca7-61cf-4bef-a49d-dc6c812b77a8",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Pajot",
+            "position": "Midfield",
+            "shirtNo": "5",
+            "formationOrder": 9,
+            "contentID": "581b9b4f-feaa-4ca6-bd69-8c5ead3cb29d",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Hernani",
+            "position": "Midfield",
+            "shirtNo": "20",
+            "formationOrder": 8,
+            "contentID": "1f13a7ae-9275-41c1-ba79-6cd250c3fd87"
+          },
+          {
+            "type": "playerField",
+            "title": "Diousse",
+            "position": "Midfield",
+            "shirtNo": "8",
+            "formationOrder": 7,
+            "contentID": "0170bf06-15ba-40e3-9894-acd66e4e5a31"
+          },
+          {
+            "type": "playerField",
+            "title": "Janko",
+            "position": "Defender",
+            "shirtNo": "15",
+            "formationOrder": 6,
+            "contentID": "edf04193-817c-4caa-951f-70cab958711e",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Pogba",
+            "position": "Defender",
+            "shirtNo": "19",
+            "formationOrder": 5,
+            "contentID": "cf498c5f-7df0-4176-a66d-2b15663d1a19",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Perrin",
+            "position": "Defender",
+            "shirtNo": "24",
+            "formationOrder": 4,
+            "contentID": "83739442-c41e-4d15-bdbc-809e2ddac1a7"
+          },
+          {
+            "type": "playerField",
+            "title": "Theophile-Catherine",
+            "position": "Defender",
+            "shirtNo": "2",
+            "formationOrder": 3,
+            "contentID": "5148f798-cf52-4984-a4af-5d89da1d4b95"
+          },
+          {
+            "type": "playerField",
+            "title": "Dabo",
+            "position": "Midfield",
+            "shirtNo": "7",
+            "formationOrder": 2,
+            "contentID": "6a29348b-89df-4c33-b97f-1ab4aa6cecd8",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Ruffier",
+            "position": "Goalkeeper",
+            "shirtNo": "16",
+            "formationOrder": 1,
+            "contentID": "b132c16f-c480-44c1-a4b5-361f4cc3651f"
+          }
+        ]
+      }
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Bordeaux",
+      "team": {
+        "displayName": "Bordeaux",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1501860932371_Fanions-L1_L1-Bordeaux.png",
+        "formationType": "4231",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1507900131941_Maillots-Ligue_1_Bordeaux_2x.png",
+        "color": {
+          "primary": "0x001b50",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Taha",
+          "position": "Substitute",
+          "shirtNo": "33",
+          "contentID": "5da61070-fbee-493c-9c44-62a0ff790187",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Youssouf",
+          "position": "Substitute",
+          "shirtNo": "32",
+          "contentID": "a5939627-c76c-4b22-b10e-84f31b3fb828",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Matheus Pereira",
+          "position": "Substitute",
+          "shirtNo": "17",
+          "contentID": "2e251b4d-a1cb-4549-bf1b-3ac2f19ef5c1"
+        },
+        {
+          "type": "substitute",
+          "title": "Prior",
+          "position": "Substitute",
+          "shirtNo": "30",
+          "contentID": "2ec52269-3678-4219-9a8c-c65571564049"
+        },
+        {
+          "type": "substitute",
+          "title": "Pellenard",
+          "position": "Substitute",
+          "shirtNo": "21",
+          "contentID": "1a3a4c3d-23f9-4fe6-a353-a179dad69af7"
+        },
+        {
+          "type": "substitute",
+          "title": "Sankhare",
+          "position": "Substitute",
+          "shirtNo": "13",
+          "contentID": "9d2887a9-bb05-4c65-8d14-5abd52d4d889"
+        },
+        {
+          "type": "substitute",
+          "title": "Plasil",
+          "position": "Substitute",
+          "shirtNo": "18",
+          "contentID": "66a3ef3a-0532-4e88-8743-c862e9ad6dd7",
+          "substitute": "in"
+        }
+      ]
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants St. Etienne",
+      "team": {
+        "displayName": "St. Etienne",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1501860681832_Fanions-L1_L1-St-Etienne.png",
+        "formationType": "532",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1507899284956_Maillots-Ligue_1_St-Etienne_2x.png",
+        "color": {
+          "primary": "0x60b572",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Goncalves",
+          "position": "Substitute",
+          "shirtNo": "33",
+          "contentID": "cf463880-7776-40c7-9590-421df2c348b2",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Pierre-Gabriel",
+          "position": "Substitute",
+          "shirtNo": "29",
+          "contentID": "be1eb3ab-ae54-475e-b0e3-dd3e2c8bb147",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Maiga",
+          "position": "Substitute",
+          "shirtNo": "13",
+          "contentID": "8e892fbd-a203-4665-95bd-7341c66bc5b5"
+        },
+        {
+          "type": "substitute",
+          "title": "Soderlund",
+          "position": "Substitute",
+          "shirtNo": "23",
+          "contentID": "dbff1fac-2a5f-412b-ac90-cdf34c977688",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "M'Bengue",
+          "position": "Substitute",
+          "shirtNo": "12",
+          "contentID": "fedebe93-bafa-4dee-8268-805f3a10b393"
+        },
+        {
+          "type": "substitute",
+          "title": "Moulin",
+          "position": "Substitute",
+          "shirtNo": "30",
+          "contentID": "8e55d53e-2b14-4305-831a-1e3a0a98a0a6"
+        }
+      ]
+    }
+  ],
+  "Empty": {
+    "displayName": "Aucune composition disponible pour le moment"
+  }
+}
