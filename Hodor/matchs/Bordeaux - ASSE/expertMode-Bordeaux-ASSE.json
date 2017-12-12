@@ -21,26 +21,26 @@
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
-      "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/OM-PSG/sportVitrine-OM-PSG.json"
+      "autorefresh": 60000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/Bordeaux%20-%20ASSE/sportVitrine-Bordeaux-ASSE.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Composition",
-      "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/OM-PSG/sportCompositio-OM-PSG.json"
+      "autorefresh": 60000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/Bordeaux%20-%20ASSE/sportCompositio-Bordeaux-ASSE.json"
     },
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/OM-PSG/sportCalendar-OM-PSG.json"
+      "autorefresh": 60000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/Bordeaux%20-%20ASSE/sportCalendar-Bordeaux-ASSE.json"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/OM-PSG/sportRanking-OM-PSG.json"
+      "autorefresh": 60000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/Bordeaux%20-%20ASSE/sportRanking-Bordeaux-ASSE.json"
     }
   ]
 }
