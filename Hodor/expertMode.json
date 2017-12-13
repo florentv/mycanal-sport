@@ -40,7 +40,7 @@
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRankingGroups.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-Metz/sportRanking-PSG-Metz.json"
     }
   ]
 }
