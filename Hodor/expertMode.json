@@ -28,13 +28,13 @@
       "displayTemplate": "sportVitrine",
       "displayName": "Composition",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-Metz/sportCompositio-PSG-Metz.json"
     },
     {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendar.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-Metz/sportCalendar-PSG-Metz.json"
     },
     {
       "displayTemplate": "sportRanking",
