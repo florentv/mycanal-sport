@@ -2,7 +2,8 @@
   "currentPage": {
     "displayTemplate": "sportVitrineStats",
     "displayName": "Statistiques",
-    "autorefresh": 5000
+    "autorefresh": 5000,
+    "pullToRefresh": true
   },
   "tracking": {
     "omniture": {

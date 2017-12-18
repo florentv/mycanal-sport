@@ -3,6 +3,7 @@
     "displayTemplate": "sportRanking",
     "displayName": "Classement",
     "BOLayoutName": "[TEST tvOS] Classement Ligue 1",
+    "pullToRefresh": true,
     "autorefresh": 30000
   },
   "tracking": {
