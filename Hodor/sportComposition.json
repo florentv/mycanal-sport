@@ -9,7 +9,7 @@
       "type": "field",
       "sport": "football",
       "homeTeam": {
-        "formationType": "3331",
+        "formationType": "433",
         "color": {
           "primary": "0x001B50",
           "secondary": "0xffffff"
