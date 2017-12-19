@@ -167,8 +167,8 @@
               }
             },
             {
-              "status": "8",
-              "displayStatus": "En cours",
+              "status": "2",
+              "displayStatus": "A venir",
               "displayTime": "10 sept.",
               "homeTeam": {
                 "displayName": "Marseille",
