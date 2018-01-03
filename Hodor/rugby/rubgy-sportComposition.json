@@ -76,7 +76,8 @@
             "position": "Centre",
             "shirtNo": "12",
             "formationOrder": 12,
-            "contentID": "12321c6a-78c8-47f0-8ed2-8eb88e42b922"
+            "contentID": "12321c6a-78c8-47f0-8ed2-8eb88e42b922",
+            "tries": 1
           },
           {
             "type": "playerField",
@@ -124,7 +125,8 @@
             "position": "Lock",
             "shirtNo": "5",
             "formationOrder": 5,
-            "contentID": "95a3d61f-1b0b-4a30-b3a2-52aff9769504"
+            "contentID": "95a3d61f-1b0b-4a30-b3a2-52aff9769504",
+            "redCard": true
           },
           {
             "type": "playerField",
@@ -132,7 +134,8 @@
             "position": "Number 8",
             "shirtNo": "8",
             "formationOrder": 8,
-            "contentID": "813722ea-3055-4ea5-9e0f-d083d52e32fb"
+            "contentID": "813722ea-3055-4ea5-9e0f-d083d52e32fb",
+            "substitute": "out"
           },
           {
             "type": "playerField",
@@ -343,7 +346,8 @@
           "position": "Substitute",
           "shirtNo": "17",
           "formationOrder": 16,
-          "contentID": "a73599f6-50f8-47aa-a627-8467be3d60a4"
+          "contentID": "a73599f6-50f8-47aa-a627-8467be3d60a4",
+          "substitute": "in"
         },
         {
           "type": "substitute",
