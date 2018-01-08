@@ -77,7 +77,7 @@
             "shirtNo": "12",
             "formationOrder": 12,
             "contentID": "12321c6a-78c8-47f0-8ed2-8eb88e42b922",
-            "tries": 1
+            "tries": 2
           },
           {
             "type": "playerField",
@@ -338,7 +338,8 @@
           "position": "Substitute",
           "shirtNo": "23",
           "formationOrder": 16,
-          "contentID": "c57e09cf-a2e2-48fb-a296-a1a0f60aca9d"
+          "contentID": "c57e09cf-a2e2-48fb-a296-a1a0f60aca9d",
+          "tries": 3
         },
         {
           "type": "substitute",
