@@ -19,10 +19,10 @@
   },
   "rubriques": [
     {
-      "displayTemplate": "contentGrid",
+      "displayTemplate": "highlights",
       "displayName": "Temps forts",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/contentGrid.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/highlights.json"
     },
     {
       "displayTemplate": "sportVitrine",
