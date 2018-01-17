@@ -18,7 +18,7 @@
     }
   },
   "rubriques": [
-    
+    {
       "displayTemplate": "multicam",
       "displayName": "Multicam",
       "autorefresh": 30000,
