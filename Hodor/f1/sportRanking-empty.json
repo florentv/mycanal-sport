@@ -1,0 +1,25 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportRanking",
+    "displayName": "Classement",
+    "BOLayoutName": "[TEST tvOS] Classement Ligue 1",
+    "pullToRefresh": true,
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Classement",
+      "pageName": "MyCtvOS - Mode expert - Classement",
+      "channel": "MyCtvOS",
+      "eVar31": "[TEST tvOS] Classement Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [],
+  "empty": {
+    "displayName": "Aucun classement disponible pour le moment"
+  }
+}
