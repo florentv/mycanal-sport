@@ -25,6 +25,12 @@
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/highlights.json"
     },
     {
+      "displayTemplate": "highlights",
+      "displayName": "Temps forts vide",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/highlights-empty.json"
+    },
+    {
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
       "autorefresh": 5000,
