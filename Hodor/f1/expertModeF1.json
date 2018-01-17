@@ -18,23 +18,23 @@
     }
   },
   "rubriques": [
-    {
-      "displayTemplate": "sportVitrine",
-      "displayName": "Statistiques",
-      "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json"
-    },
-    {
-      "displayTemplate": "sportVitrine",
-      "displayName": "Composition",
+    
+      "displayTemplate": "multicam",
+      "displayName": "Multicam",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/highlights.json"
     },
     {
-      "displayTemplate": "sportCalendar",
-      "displayName": "Calendrier",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendar.json"
+      "displayTemplate": "highlights",
+      "displayName": "Temps forts",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/highlights.json"
+    },
+    {
+      "displayTemplate": "highlights",
+      "displayName": "Temps forts vide",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/highlights-empty.json"
     },
     {
       "displayTemplate": "sportRanking",
