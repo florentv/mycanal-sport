@@ -40,7 +40,13 @@
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/sportRanking-F1.json"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement vide",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/sportRanking-empty.json"
     }
   ]
 }
