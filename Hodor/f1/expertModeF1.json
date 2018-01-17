@@ -39,7 +39,7 @@
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
-      "autorefresh": 10000,
+      "autorefresh": 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json"
     }
   ]
