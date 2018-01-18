@@ -1,0 +1,36 @@
+{
+  "currentPage": {
+    "displayTemplate": "mediaUrls"
+  },
+  "detail": {
+    "informations": {
+      "contentID": "2615611562",
+      "consumptionPlatform": "wildmoka",
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": true,
+      "isInOfferForD2G": false,
+      "isInOfferForVoD": true,
+      "title": "test vidéo Wildmoka",
+      "duration": "120000",
+      "noPub": true,
+      "URLImage": "http://friggclipblob.blob.core.windows.net/clips13/6f339c947bac48653d69239613311f9df4f945a9.jpg",
+      "videoURLs": [
+        {
+          "videoURL": "http://friggclipblob.blob.core.windows.net/clips13/3dee88dc4e3025b764e395a68131821270ae19cd.m3u8",
+          "encryption": "clear"
+        }
+      ]
+    }
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCiOS",
+      "prop4": "MyCiOS - Lecture prog",
+      "prop5": "MyCiOS - Lecture prog - Problème de fétichisme_1474869",
+      "pageName": "MyCiOS - Lecture prog - Problème de fétichisme_1474869",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}
