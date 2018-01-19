@@ -25,7 +25,7 @@
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rugby-sportVitrine.json"
     },
     {
-      "displayTemplate": "multicam",
+      "displayTemplate": "sportVitrine",
       "displayName": "Composition",
       "autorefresh": 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rubgy-sportComposition.json"
