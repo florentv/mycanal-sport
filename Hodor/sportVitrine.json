@@ -63,24 +63,24 @@
           "type": "vsBar",
           "title": "Possession (%)",
           "homeTeam": {
-            "displayName": "32",
-            "score": 32
+            "displayName": "95",
+            "score": 95
           },
           "awayTeam": {
-            "displayName": "68",
-            "score": 68
+            "displayName": "5",
+            "score": 5
           }
         },
         {
           "type": "vsBar",
           "title": "Tirs",
           "homeTeam": {
-            "displayName": "5",
-            "score": 5
-          },
-          "awayTeam": {
             "displayName": "18",
             "score": 18
+          },
+          "awayTeam": {
+            "displayName": "5",
+            "score": 5
           },
           "subScore": [
             {

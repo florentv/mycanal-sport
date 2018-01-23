@@ -137,7 +137,7 @@
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",
           "autorefresh" : 10000,
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/expertMode.json"
+          "URLPage": "http://hodor.canalplus.pro/api/v1/expertMode/1fa9e7f377c57c198d354114c40e7aec/associatedContentId/6018/event/f65131d1-946e-467c-b96e-b503eb50dac2"
         }
       }
     ]
