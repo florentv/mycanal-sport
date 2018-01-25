@@ -4,16 +4,7 @@
     "displayName": "Temps forts",
     "autorefresh": 30000
   },
-  "contents": [],
-  "paging": {
-    "iterationType": "id",
-    "idStart": "YXJyYXljb25uZWN0aW9uOjA=",
-    "idEnd": "YXJyYXljb25uZWN0aW9uOjIx",
-    "nbContents": 22,
-    "hasNextPage": false,
-    "hasPreviousPage": false,
-    "URLPage": "http://hodor.canalplus.pro/api/v1/page/535c3ed24fdc16411fd9062687ad8d8b/6971.json?cache=600000&after=YXJyYXljb25uZWN0aW9uOjIx"
-  },
+  "strates": {},
   "empty": {
     "displayName": "Aucun temps fort disponible pour le moment"
   }
