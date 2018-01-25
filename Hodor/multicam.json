@@ -20,15 +20,18 @@
   "multicam": [
     {
       "displayName": "onBoard",
-      "EpgId": "972"
+      "EpgId": "972",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
     },
     {
       "displayName": "Stands",
-      "EpgId": "973"
+      "EpgId": "973",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
     },
     {
       "displayName": "Tracking",
-      "EpgId": "974"
+      "EpgId": "974",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
     },
     {
       "displayName": "Chronos",
