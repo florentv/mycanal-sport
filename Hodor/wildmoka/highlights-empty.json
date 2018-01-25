@@ -4,7 +4,7 @@
     "displayName": "Temps forts",
     "autorefresh": 30000
   },
-  "strates": {},
+  "strates": [],
   "empty": {
     "displayName": "Aucun temps fort disponible pour le moment"
   }
