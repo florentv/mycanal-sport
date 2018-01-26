@@ -15,26 +15,19 @@
       "pageName": "A definir"
     }
   },
-  "strates": [
-    {
-      "configuration": {
-        "global": {
-          "strateType": "highlights"
-        },
-        "contents": [
-          {
-            "contentType": "sport",
-            "configuration": {
-              "maxContentNumber": "100",
-              "PFS": "wildmoka",
-              "displayRubrique": "auto",
-              "onClickBehaviour": "player"
-            }
-          }
-        ]
+  "configuration": {
+    "contents": [
+      {
+        "configuration": {
+          "contentType": "sport",
+          "maxContentNumber": "100",
+          "PFS": "wildmoka",
+          "displayRubrique": "auto",
+          "onClickBehaviour": "player",
+        }
       }
-    }
-  ],
+    ]
+  },
   "empty": {
     "displayName": "Les compositions ne sont pas disponibles pour le moment."
   }
