@@ -1,7 +1,8 @@
 {
   "currentPage": {
     "displayTemplate": "highlights",
-    "displayName": "Temps forts"
+    "displayName": "Temps forts",
+    "autorefresh": 30000
   },
   "tracking": {
     "omniture": {

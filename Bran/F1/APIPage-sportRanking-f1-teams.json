@@ -1,7 +1,7 @@
 {
   "currentPage": {
     "displayTemplate": "sportRanking",
-    "displayName": "Classement Ligue 1",
+    "displayName": "Classement Saison Equipes F1",
     "autorefresh": 30000
   },
   "tracking": {
