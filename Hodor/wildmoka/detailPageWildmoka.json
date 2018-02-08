@@ -34,7 +34,7 @@
       "isInOfferForVoD": true,
       "publicationDate": "Jeudi 8 fevrier à 00h00",
       "consumptionPlatform": "wildmoka",
-      "URLMedias": "http://hodor.canalplus.pro/api/v1/getMediaUrl/17650026b2ac96f54f8bf0cf5757064e/pfv/1480766.json?pfv={FORMAT}&cache=780000",
+      "URLMedias": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/mediasUrls.json",
       "noPub": true
     }
   }
