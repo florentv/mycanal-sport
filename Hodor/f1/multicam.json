@@ -19,7 +19,7 @@
   },
   "strates": [
     {
-      "type": "sportRanking",
+      "type": "multicam",
       "contents": [
         {
           "displayName": "onBoard",
