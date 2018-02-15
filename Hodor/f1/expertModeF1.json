@@ -22,7 +22,7 @@
       "displayTemplate": "multicam",
       "displayName": "Multicam",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/multicam.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/multicam.json"
     },
     {
       "displayTemplate": "highlights",
@@ -47,6 +47,12 @@
       "displayName": "Classement vide",
       "autorefresh": 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/sportRanking-empty.json"
+    },
+    {
+      "displayTemplate": "multicam",
+      "displayName": "Multicam NEW",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/multicam-new.json"
     }
   ]
 }

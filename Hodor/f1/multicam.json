@@ -1,0 +1,56 @@
+{
+  "currentPage": {
+    "displayTemplate": "multicam",
+    "displayName": "Multicam",
+    "pullToRefresh": true,
+    "BOLayoutName": "[TEST tvOS] Multicam F1"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Multicam",
+      "pageName": "MyCtvOS - Mode expert - Multicam",
+      "channel": "MyCtvOS",
+      "eVar31": "[TEST tvOS] Multicam F1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "sportRanking",
+      "contents": [
+        {
+          "displayName": "onBoard",
+          "EpgId": "301",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Stands",
+          "EpgId": "177",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "onBoard",
+          "EpgId": "972",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Stands",
+          "EpgId": "973",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Tracking",
+          "EpgId": "974",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Chronos",
+          "EpgId": "975"
+        }
+      ]
+    }
+  ]
+}
