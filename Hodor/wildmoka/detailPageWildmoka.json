@@ -1,0 +1,41 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "81' But de Neymar",
+    "path": "/guide/programme/1511421478-paris-sg-lyon.html"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Prog",
+      "prop5": "MyCtvOS - Prog - Fiche",
+      "prop6": "MyCtvOS - Prog - Fiche - Sport",
+      "prop7": "MyCtvOS - Prog - Fiche - Sport - 81' But de Neymar",
+      "pageName": "MyCtvOS - Prog - Fiche - Sport - 81' But de Neymar",
+      "prop10": "Contenu",
+      "prop11": "Clair",
+      "prop12": "Consumer",
+      "eVar30": "Football",
+      "eVar39": "1511421478"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "wildmoka",
+      "contentID": "1511421478",
+      "duration": "152000",
+      "title": "81' But de Neymar",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/2ab8f7d02f7e1f3e448e0be3375d4b1b7cf04607.jpg",
+      "HD": true,
+      "UHD": false,
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": false,
+      "isInOfferForD2G": false,
+      "isInOfferForVoD": true,
+      "publicationDate": "Jeudi 8 fevrier à 00h00",
+      "consumptionPlatform": "wildmoka",
+      "URLMedias": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/mediasUrls.json",
+      "noPub": true
+    }
+  }
+}
