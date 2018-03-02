@@ -21,7 +21,7 @@
   "strates": [
     {
       "type": "sportRanking",
-      "title": "Classement Saison 2017",
+      "text": "Classement Saison 2017",
       "events": [
         {
           "title": "Pts",
