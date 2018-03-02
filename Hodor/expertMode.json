@@ -31,6 +31,12 @@
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json"
     },
     {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Composition Rugby",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rubgy-sportComposition.json"
+    },
+    {
       "displayTemplate": "sportCalendar",
       "displayName": "Calendrier",
       "autorefresh": 10000,
@@ -41,6 +47,12 @@
       "displayName": "Classement",
       "autorefresh": 10000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement groupes",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
     }
   ]
 }
