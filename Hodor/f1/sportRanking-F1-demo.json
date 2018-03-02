@@ -102,32 +102,25 @@
           "ranking": "10"
         },
         {
-          "title": "Massa",
-          "subtitle": "Williams",
-          "thirdTitle": "43",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/98b36f7c-b842-4b90-80ec-cdf0833fbb7c/1501860766880_Fanions-L1_L1-Montpellier.png",
-          "ranking": "11"
-        },
-        {
           "title": "Stroll",
           "subtitle": "Williams",
           "thirdTitle": "40",
           "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/62/5/pilotes-2018_0011_stroll.30625.png",
-          "ranking": "12"
+          "ranking": "11"
         },
         {
           "title": "Grosjean",
           "subtitle": "Haas F1 Team",
           "thirdTitle": "28",
           "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/63/1/pilotes-2018_0005_grosjean.30631.png",
-          "ranking": "13"
+          "ranking": "12"
         },
         {
           "title": "Magnussen",
           "subtitle": "Haas F1 Team",
           "thirdTitle": "19",
           "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/62/3/pilotes-2018_0004_magnussen.30623.png",
-          "ranking": "14"
+          "ranking": "13"
         }
       ],
       "paging": {
