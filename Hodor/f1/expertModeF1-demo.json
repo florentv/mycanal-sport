@@ -34,7 +34,7 @@
       "displayTemplate": "sportRanking",
       "displayName": "Pilotes",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/sportRanking-F1-demo.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/sportRanking-F1-demo2.json"
     }
   ]
 }

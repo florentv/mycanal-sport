@@ -1,0 +1,148 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportRanking",
+    "displayName": "Classement",
+    "BOLayoutName": "[TEST tvOS] Classement Ligue 1",
+    "pullToRefresh": true,
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Classement",
+      "pageName": "MyCtvOS - Mode expert - Classement",
+      "channel": "MyCtvOS",
+      "eVar31": "[TEST tvOS] Classement Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "sportRanking",
+      "text": "Classement Saison 2017",
+      "events": [
+        {
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "title": "Hamilton",
+          "thirdTitle": "363",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/65/2/pilotes-2018_0019_hamilton.30652.png",
+          "ranking": "1"
+        },
+        {
+          "title": "Vettel",
+          "thirdTitle": "317",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/67/1/pilotes-2018_0017_vettel.30671.png",
+          "ranking": "2"
+        },
+        {
+          "title": "Bottas",
+          "thirdTitle": "305",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/67/2/pilotes-2018_0018_bottas.30672.png",
+          "ranking": "3"
+        },
+        {
+          "title": "Räikkönen",
+          "thirdTitle": "205",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/67/0/pilotes-2018_0016_raikkinen.30670.png",
+          "ranking": "4"
+        },
+        {
+          "title": "Ricciardo",
+          "thirdTitle": "200",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/66/9/pilotes-2018_0015_ricciardo.30669.png",
+          "ranking": "5"
+        },
+        {
+          "title": "Verstappen",
+          "thirdTitle": "168",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/66/8/pilotes-2018_0014_verstappen.30668.png",
+          "ranking": "6"
+        },
+        {
+          "title": "Perez",
+          "thirdTitle": "100",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/66/7/pilotes-2018_0013_perez.30667.png",
+          "ranking": "7"
+        },
+        {
+          "title": "Ocon",
+          "thirdTitle": "87",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/66/6/pilotes-2018_0012_ocon.30666.png",
+          "ranking": "8"
+        },
+        {
+          "title": "Sainz Jr.",
+          "thirdTitle": "54",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/66/2/pilotes-2018_0008_sainz.30662.png",
+          "ranking": "9"
+        },
+        {
+          "title": "Hülkenberg",
+          "thirdTitle": "43",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/66/3/pilotes-2018_0009_hulkenberg.30663.png",
+          "ranking": "10"
+        },
+        {
+          "title": "Stroll",
+          "thirdTitle": "40",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/66/5/pilotes-2018_0011_stroll.30665.png",
+          "ranking": "11"
+        },
+        {
+          "title": "Grosjean",
+          "thirdTitle": "28",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/65/9/pilotes-2018_0005_grosjean.30659.png",
+          "ranking": "12"
+        },
+        {
+          "title": "Magnussen",
+          "thirdTitle": "19",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/65/8/pilotes-2018_0004_magnussen.30658.png",
+          "ranking": "13"
+        },
+        {
+          "title": "Ericsson",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/65/5/pilotes-2018_0001_ericsson.30655.png",
+          "ranking": "14"
+        },
+        {
+          "title": "Vandoorne",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/65/5/pilotes-2018_0001_ericsson.30655.png",
+          "ranking": "15"
+        },
+        {
+          "title": "Alonso",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/65/7/pilotes-2018_0003_alonso.30657.png",
+          "ranking": "16"
+        },
+        {
+          "title": "Gasly",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/66/1/pilotes-2018_0007_gasly.30661.png",
+          "ranking": "17"
+        }
+      ],
+      "paging": {
+        "iterationType": "index",
+        "indexStart": 0,
+        "indexEnd": 0,
+        "nbContents": 20,
+        "totalAvailableContents": 20
+      }
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun classement disponible pour le moment"
+  }
+}
