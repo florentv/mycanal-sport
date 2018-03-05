@@ -47,7 +47,8 @@
             "shirtNo": "5",
             "formationOrder": 10,
             "id": "c426b1f6-1de5-4d39-86be-45886924acd2",
-            "yellowCard": true
+            "yellowCard": true,
+            "substitute": "out"
           },
           {
             "type": "playerField",
@@ -87,8 +88,7 @@
             "position": "Defender",
             "shirtNo": "18",
             "formationOrder": 5,
-            "id": "ff2325e3-a32e-4c5b-b1ca-54a14422a6e4",
-            "yellowCard": true
+            "id": "ff2325e3-a32e-4c5b-b1ca-54a14422a6e4"
           },
           {
             "type": "playerField",
@@ -113,8 +113,7 @@
             "position": "Defender",
             "shirtNo": "2",
             "formationOrder": 2,
-            "id": "7887eff7-f750-4d50-9260-f7e780016de7",
-            "substitute": "out"
+            "id": "7887eff7-f750-4d50-9260-f7e780016de7"
           },
           {
             "type": "playerField",
@@ -151,7 +150,6 @@
             "shirtNo": "9",
             "formationOrder": 10,
             "id": "63dffa93-5a08-4d47-b81f-10990eb12c44",
-            "goals": 1,
             "yellowCard": true
           },
           {
@@ -161,8 +159,7 @@
             "shirtNo": "29",
             "formationOrder": 9,
             "id": "a1532e22-9716-455f-8598-57ea9f3a4224",
-            "goals": 1,
-            "substitute": "out"
+            "goals": 1
           },
           {
             "type": "playerField",
@@ -178,8 +175,6 @@
             "position": "Midfield",
             "shirtNo": "19",
             "formationOrder": 7,
-            "yellowCard": true,
-            "substitute": "out",
             "id": "af225d87-7765-4410-ba95-9aabb54107ca"
           },
           {
@@ -221,7 +216,6 @@
             "position": "Defender",
             "shirtNo": "32",
             "formationOrder": 2,
-            "yellowCard": true,
             "id": "cc942ba3-77bc-431f-80bb-6eec1ed2e059"
           },
           {
