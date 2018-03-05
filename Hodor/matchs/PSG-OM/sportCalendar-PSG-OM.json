@@ -2,7 +2,7 @@
   "currentPage": {
     "displayTemplate": "sportCalendar",
     "displayName": "Résultats Ligue 1",
-    "BOLayoutName": "[TEST tvOS] Résultats Ligue 1",
+    "BOLayoutName": "[ME] Résultats Ligue 1",
     "autorefresh": 30000
   },
   "tracking": {
@@ -12,7 +12,7 @@
       "prop6": "MyCtvOS - Mode expert - Ligue 1 - Resultats",
       "pageName": "MyCtvOS - Mode expert - Ligue 1 - Resultats",
       "channel": "MyCtvOS",
-      "eVar31": "[TEST tvOS] Résultats Ligue 1",
+      "eVar31": "[ME] Résultats Ligue 1",
       "prop10": "Contenu",
       "prop11": "Autres",
       "prop12": "Consumer"
@@ -21,48 +21,89 @@
   "strates": [
     {
       "type": "sportCalendar",
-      "title": "Ligue 1 Conforama - Journée 10",
+      "title": "Ligue 1 Conforama - Journée 27",
       "groups": [
         {
           "events": [
             {
+              "id": "e1abc839-12d3-496e-9500-7b822ae8e94d",
+              "type": "match",
               "status": "8",
               "displayStatus": "En cours",
-              "displayTime": "22 oct.",
+              "displayTime": "25 fév.",
+              "homeTeam": {
+                "displayName": "Paris SG",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1511891457988_Fanions-L1_L1-PSG.png",
+                "score": 2,
+                "winner": true
+              },
               "awayTeam": {
                 "displayName": "Marseille",
                 "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1501860841080_Fanions-L1_L1-Marseille.png",
                 "score": 0
-              },
-              "homeTeam": {
-                "displayName": "Paris SG",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
-                "score": 2
               }
             },
             {
+              "id": "8cb7559c-736a-4a68-b136-caa9fbacd7c2",
+              "type": "match",
               "status": "13",
               "displayStatus": "Terminé",
-              "displayTime": "20 oct.",
+              "displayTime": "23 fév.",
               "homeTeam": {
-                "displayName": "St. Etienne",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1501860681832_Fanions-L1_L1-St-Etienne.png",
+                "displayName": "Strasbourg",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/960f6ba4-b685-4703-a434-bcb5294f9147/1501860639261_Fanions-L1_L1-Strasbourg.png",
                 "score": 0
               },
               "awayTeam": {
                 "displayName": "Montpellier",
                 "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/98b36f7c-b842-4b90-80ec-cdf0833fbb7c/1501860766880_Fanions-L1_L1-Montpellier.png",
-                "score": 1,
+                "score": 0
+              }
+            },
+            {
+              "id": "0fbedab9-746c-46c7-a1ea-f64ec9ef991a",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "24 fév.",
+              "homeTeam": {
+                "displayName": "Toulouse",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1501860662331_Fanions-L1_L1-Toulouse.png",
+                "score": 3
+              },
+              "awayTeam": {
+                "displayName": "Monaco",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501860778644_Fanions-L1_L1-Monaco.png",
+                "score": 3
+              }
+            },
+            {
+              "id": "318498f1-1fec-48e9-a5e3-e5e4ba1a750a",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "24 fév.",
+              "homeTeam": {
+                "displayName": "Lille",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1501860869573_Fanions-L1_L1-Lille.png",
+                "score": 1
+              },
+              "awayTeam": {
+                "displayName": "Angers",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/ccbfee25-eaac-4167-8545-31fca79e05f9/1501860941916_Fanions-L1_L1-Angers.png",
+                "score": 2,
                 "winner": true
               }
             },
             {
+              "id": "5a3a4fdd-10a7-4bce-a951-233525de682f",
+              "type": "match",
               "status": "13",
               "displayStatus": "Terminé",
-              "displayTime": "21 oct.",
+              "displayTime": "24 fév.",
               "homeTeam": {
-                "displayName": "Monaco",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/825e8a84-b7f6-413a-883a-7e8c040ed04b/1501860778644_Fanions-L1_L1-Monaco.png",
+                "displayName": "Dijon",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/684f949b-d06e-4ddb-8d56-50e20e086493/1501860891324_Fanions-L1_L1-Dijon.png",
                 "score": 2,
                 "winner": true
               },
@@ -73,115 +114,90 @@
               }
             },
             {
+              "id": "b2126d41-00fc-417f-93f0-bd6ec63ed6c9",
+              "type": "match",
               "status": "13",
               "displayStatus": "Terminé",
-              "displayTime": "21 oct.",
+              "displayTime": "24 fév.",
               "homeTeam": {
-                "displayName": "Angers",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/ccbfee25-eaac-4167-8545-31fca79e05f9/1501860941916_Fanions-L1_L1-Angers.png",
-                "score": 0
+                "displayName": "Guingamp",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b7c34c91-edbc-4e53-8e89-686eb2555ef3/1501860879821_Fanions-L1_L1-Guingamp.png",
+                "score": 2
               },
               "awayTeam": {
-                "displayName": "Toulouse",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a88a89ab-bcdc-49ba-b3c9-6ed6657adc0b/1501860662331_Fanions-L1_L1-Toulouse.png",
-                "score": 1,
-                "winner": true
+                "displayName": "Metz",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
+                "score": 2
               }
             },
             {
+              "id": "b34454ce-71c5-4ba1-b8d9-0654a63bcd89",
+              "type": "match",
               "status": "13",
               "displayStatus": "Terminé",
-              "displayTime": "21 oct.",
+              "displayTime": "24 fév.",
               "homeTeam": {
                 "displayName": "Rennes",
                 "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1dd6f383-c6ef-448c-af7b-e8603b3fd0d8/1501860717035_Fanions-L1_L1-Rennes.png",
-                "score": 1,
+                "score": 2,
                 "winner": true
               },
               "awayTeam": {
-                "displayName": "Lille",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1501860869573_Fanions-L1_L1-Lille.png",
+                "displayName": "Troyes",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/407d4d9d-9c5a-48df-872e-4bb9e47f791d/1501860570213_Fanions-L1_L1-Troyes.png",
                 "score": 0
               }
             },
             {
+              "id": "8cd031dc-7286-4338-b425-af3b8a2b3c85",
+              "type": "match",
               "status": "13",
               "displayStatus": "Terminé",
-              "displayTime": "21 oct.",
+              "displayTime": "24 fév.",
               "homeTeam": {
                 "displayName": "Nantes",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d9b4a833-77c2-4ee4-b011-bb86e85d781b/1501860755562_Fanions-L1_L1-Nantes.png",
-                "score": 2,
-                "winner": true
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d9b4a833-77c2-4ee4-b011-bb86e85d781b/1511864222971_Fanions-L1_L1-Nantes.png",
+                "score": 0
               },
               "awayTeam": {
-                "displayName": "Guingamp",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b7c34c91-edbc-4e53-8e89-686eb2555ef3/1501860879821_Fanions-L1_L1-Guingamp.png",
-                "score": 1
-              }
-            },
-            {
-              "status": "13",
-              "displayStatus": "Terminé",
-              "displayTime": "21 oct.",
-              "homeTeam": {
-                "displayName": "Metz",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/39d3ca1c-be9d-4689-a897-e62f4163c546/1501860823230_Fanions-L1_L1-Metz.png",
-                "score": 1
-              },
-              "awayTeam": {
-                "displayName": "Dijon",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/684f949b-d06e-4ddb-8d56-50e20e086493/1501860891324_Fanions-L1_L1-Dijon.png",
-                "score": 2,
-                "winner": true
-              }
-            },
-            {
-              "status": "13",
-              "displayStatus": "Terminé",
-              "displayTime": "21 oct.",
-              "homeTeam": {
                 "displayName": "Amiens",
                 "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d82145d7-1aa3-4fad-a165-652de748a1a8/1501860649841_Fanions-L1_L1-Amiens.png",
                 "score": 1,
                 "winner": true
-              },
-              "awayTeam": {
+              }
+            },
+            {
+              "id": "621aff58-7235-45ae-98c9-c1e25bbed45b",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "25 fév.",
+              "homeTeam": {
                 "displayName": "Bordeaux",
                 "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3db5e20d-71fc-416c-9b68-6d8ca1bcff83/1501860932371_Fanions-L1_L1-Bordeaux.png",
                 "score": 0
+              },
+              "awayTeam": {
+                "displayName": "Nice",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/9b5f1b5c-9455-46bd-8e51-e2b5c5037780/1508680924792_Fanions-L1_L1-Nice.png",
+                "score": 0
               }
             },
             {
+              "id": "4dc97d1c-902b-4651-9836-4cc7202cf08e",
+              "type": "match",
               "status": "13",
               "displayStatus": "Terminé",
-              "displayTime": "22 oct.",
+              "displayTime": "25 fév.",
               "homeTeam": {
-                "displayName": "Nice",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/9b5f1b5c-9455-46bd-8e51-e2b5c5037780/1508680924792_Fanions-L1_L1-Nice.png",
+                "displayName": "Lyon",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1f06c8aa-b711-432f-9a7d-5ae213dee6c0/1501860858813_Fanions-L1_L1-OlympiqueLyonnais.png",
                 "score": 1
               },
               "awayTeam": {
-                "displayName": "Strasbourg",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/960f6ba4-b685-4703-a434-bcb5294f9147/1501860639261_Fanions-L1_L1-Strasbourg.png",
-                "score": 2,
-                "winner": true
-              }
-            },
-            {
-              "status": "13",
-              "displayStatus": "Terminé",
-              "displayTime": "22 oct.",
-              "homeTeam": {
-                "displayName": "Troyes",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/407d4d9d-9c5a-48df-872e-4bb9e47f791d/1501860570213_Fanions-L1_L1-Troyes.png",
-                "score": 0
-              },
-              "awayTeam": {
-                "displayName": "Lyon",
-                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1f06c8aa-b711-432f-9a7d-5ae213dee6c0/1501860858813_Fanions-L1_L1-OlympiqueLyonnais.png",
-                "score": 5,
-                "winner": true
+                "displayName": "St. Etienne",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/75f7290e-7a9c-4417-bdc8-7177542a079a/1501860681832_Fanions-L1_L1-St-Etienne.png",
+                "score": 1
               }
             }
           ]
