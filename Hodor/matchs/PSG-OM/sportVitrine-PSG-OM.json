@@ -1,0 +1,174 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Statistiques",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats"
+    }
+  },
+  "strates": [
+    {
+      "type": "match",
+      "id": "20db02d5-b52c-421e-b9a1-2e0865ba99cb",
+      "status": "8",
+      "displayStatus": "En cours",
+      "displayTime": "22 oct.",
+      "homeTeam": {
+        "displayName": "Marseille",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1501860841080_Fanions-L1_L1-Marseille.png",
+        "score": 1
+      },
+      "awayTeam": {
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+        "score": 1
+      }
+    },
+    {
+      "type": "stats",
+      "homeTeam": {
+        "displayName": "Marseille",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1501860841080_Fanions-L1_L1-Marseille.png",
+        "score": 1,
+        "color": {
+          "primary": "0xffffff",
+          "secondary": "0xffffff"
+        }
+      },
+      "awayTeam": {
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+        "score": 1,
+        "color": {
+          "primary": "0x00508C",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Possession (%)",
+          "homeTeam": {
+            "score": 41,
+            "displayName": "41"
+          },
+          "awayTeam": {
+            "score": 59,
+            "displayName": "59"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Tirs",
+          "homeTeam": {
+            "score": 4,
+            "displayName": "4"
+          },
+          "awayTeam": {
+            "score": 4,
+            "displayName": "4"
+          },
+          "subScore": [
+            {
+              "title": "Tirs cadrés",
+              "homeTeam": {
+                "score": 1,
+                "displayName": "1 (25%)"
+              },
+              "awayTeam": {
+                "score": 2,
+                "displayName": "2 (50%)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Coups francs",
+          "homeTeam": {
+            "score": 10,
+            "displayName": "10"
+          },
+          "awayTeam": {
+            "score": 12,
+            "displayName": "12"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Corners",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 2,
+            "displayName": "2"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Hors-jeux",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 1,
+            "displayName": "1"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Fautes",
+          "homeTeam": {
+            "score": 11,
+            "displayName": "11"
+          },
+          "awayTeam": {
+            "score": 8,
+            "displayName": "8"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Cartons jaunes",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 1,
+            "displayName": "1"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Cartons rouges",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "Empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  }
+}

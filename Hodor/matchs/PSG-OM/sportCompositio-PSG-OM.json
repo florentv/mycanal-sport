@@ -1,0 +1,377 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Compositions",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode Expert",
+      "prop5": "MyCtvOS - Mode Expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode Expert - Ligue 1 - Compositions Ligue 1",
+      "eVar31": "[ME] Compositions Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode Expert - Ligue 1 - Compositions Ligue 1"
+    }
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "football",
+      "awayTeam": {
+        "displayName": "Marseille",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1501860841080_Fanions-L1_L1-Marseille.png",
+        "formationType": "4231",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1507898921575_Maillots-Ligue_1_Marseille_2x.png",
+        "color": {
+          "primary": "0xffffff",
+          "secondary": "0xffffff"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Germain",
+            "position": "Forward",
+            "shirtNo": "28",
+            "formationOrder": 11,
+            "id": "3802eb6d-4f59-4e79-b055-854c6671d5ca",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Ocampos",
+            "position": "Forward",
+            "shirtNo": "5",
+            "formationOrder": 10,
+            "id": "c426b1f6-1de5-4d39-86be-45886924acd2",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Payet",
+            "position": "Forward",
+            "shirtNo": "10",
+            "formationOrder": 9,
+            "id": "76148327-b084-42b3-9fce-b32ac1cde3d9"
+          },
+          {
+            "type": "playerField",
+            "title": "Thauvin",
+            "position": "Forward",
+            "shirtNo": "26",
+            "formationOrder": 8,
+            "id": "dfb0b06e-17e1-4f09-a837-7f2ead4425a6"
+          },
+          {
+            "type": "playerField",
+            "title": "Luiz Gustavo",
+            "position": "Midfield",
+            "shirtNo": "19",
+            "formationOrder": 7,
+            "id": "92a2bad6-8546-4cc2-bb69-ecc6fa850d80"
+          },
+          {
+            "type": "playerField",
+            "title": "Zambo Anguissa",
+            "position": "Midfield",
+            "shirtNo": "29",
+            "formationOrder": 6,
+            "id": "2ffbfcb3-bda5-4498-88d6-69a08e9aa87b"
+          },
+          {
+            "type": "playerField",
+            "title": "Amavi",
+            "position": "Defender",
+            "shirtNo": "18",
+            "formationOrder": 5,
+            "id": "ff2325e3-a32e-4c5b-b1ca-54a14422a6e4",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Rolando",
+            "position": "Defender",
+            "shirtNo": "6",
+            "formationOrder": 4,
+            "id": "bac76a53-d4e5-4144-a74a-c0870c977c30",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Rami",
+            "position": "Defender",
+            "shirtNo": "23",
+            "formationOrder": 3,
+            "id": "fa7d5d7d-4cb1-4653-941b-af2f4e09eff8"
+          },
+          {
+            "type": "playerField",
+            "title": "Sakai",
+            "position": "Defender",
+            "shirtNo": "2",
+            "formationOrder": 2,
+            "id": "7887eff7-f750-4d50-9260-f7e780016de7",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Pelé",
+            "position": "Goalkeeper",
+            "shirtNo": "16",
+            "formationOrder": 1,
+            "id": "8b6ad118-6cb7-4fbb-aadb-48dc1d9b44c9"
+          }
+        ]
+      },
+      "homeTeam": {
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+        "formationType": "433",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1507899759981_Maillots-Ligue_1_Paris_2x.png",
+        "color": {
+          "primary": "0x004070",
+          "secondary": "0xffffff"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Neymar",
+            "position": "Forward",
+            "shirtNo": "10",
+            "formationOrder": 11,
+            "id": "a209f725-d114-4ed3-b59e-27110d35f342"
+          },
+          {
+            "type": "playerField",
+            "title": "Cavani",
+            "position": "Forward",
+            "shirtNo": "9",
+            "formationOrder": 10,
+            "id": "63dffa93-5a08-4d47-b81f-10990eb12c44",
+            "goals": 1,
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Mbappe",
+            "position": "Forward",
+            "shirtNo": "29",
+            "formationOrder": 9,
+            "id": "a1532e22-9716-455f-8598-57ea9f3a4224",
+            "goals": 1,
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Rabiot",
+            "position": "Midfield",
+            "shirtNo": "25",
+            "formationOrder": 8,
+            "id": "b268a5fc-0b75-4334-8a6e-050d8533a7af"
+          },
+          {
+            "type": "playerField",
+            "title": "Diarra",
+            "position": "Midfield",
+            "shirtNo": "19",
+            "formationOrder": 7,
+            "yellowCard": true,
+            "id": "af225d87-7765-4410-ba95-9aabb54107ca"
+          },
+          {
+            "type": "playerField",
+            "title": "Lo Celso",
+            "position": "Midfield",
+            "shirtNo": "18",
+            "formationOrder": 6,
+            "id": "2a0185dc-1f2e-44a0-96df-3279c1efb25a"
+          },
+          {
+            "type": "playerField",
+            "title": "Kurzawa",
+            "position": "Defender",
+            "shirtNo": "20",
+            "formationOrder": 5,
+            "id": "e40768a7-4df0-49b2-92b0-95794fed35fc"
+          },
+          {
+            "type": "playerField",
+            "title": "Thiago Silva",
+            "position": "Defender",
+            "shirtNo": "2",
+            "formationOrder": 4,
+            "yellowCard": true,
+            "id": "a4eba6bd-681b-4d69-b279-d2caccf2fc40"
+          },
+          {
+            "type": "playerField",
+            "title": "Marquinhos",
+            "position": "Defender",
+            "shirtNo": "5",
+            "formationOrder": 3,
+            "id": "093da675-cc6d-4e16-bc21-e111a92f89bc"
+          },
+          {
+            "type": "playerField",
+            "title": "Alves",
+            "position": "Defender",
+            "shirtNo": "32",
+            "formationOrder": 2,
+            "yellowCard": true,
+            "id": "cc942ba3-77bc-431f-80bb-6eec1ed2e059"
+          },
+          {
+            "type": "playerField",
+            "title": "Areola",
+            "position": "Goalkeeper",
+            "shirtNo": "16",
+            "formationOrder": 1,
+            "id": "7c733f98-7d10-4dbf-937d-d4d9139f3c99"
+          }
+        ]
+      }
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Paris SG",
+      "team": {
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
+        "formationType": "433",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1507899759981_Maillots-Ligue_1_Paris_2x.png",
+        "color": {
+          "primary": "0x004070",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Di Maria",
+          "position": "Substitute",
+          "shirtNo": "11",
+          "id": "8f500627-59fe-4c9e-b0cd-b280227a7297",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Trapp",
+          "position": "Substitute",
+          "shirtNo": "1",
+          "id": "46d33402-d8eb-48cc-b053-7e079bb55344"
+        },
+        {
+          "type": "substitute",
+          "title": "Berchiche",
+          "position": "Substitute",
+          "shirtNo": "17",
+          "id": "820d21df-f2e3-4002-a22d-f76d0e093e3e"
+        },
+        {
+          "type": "substitute",
+          "title": "Pastore",
+          "position": "Substitute",
+          "shirtNo": "27",
+          "id": "a6e089e5-d335-4a2d-8ddb-a2ec615c336e"
+        },
+        {
+          "type": "substitute",
+          "title": "Kimpembe",
+          "position": "Substitute",
+          "shirtNo": "3",
+          "id": "8ee4f2fc-824f-49da-a40a-3a36dcad6e74"
+        },
+        {
+          "type": "substitute",
+          "title": "Lo Celso",
+          "position": "Substitute",
+          "shirtNo": "18",
+          "id": "39f9c76a-ab8f-4f4b-88d7-e3230ea9a0f7"
+        },
+        {
+          "type": "substitute",
+          "title": "Draxler",
+          "position": "Substitute",
+          "shirtNo": "23",
+          "id": "9e9ddb74-4944-4cb5-87d3-9b5db07133d5",
+          "substitute": "in"
+        }
+      ]
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Marseille",
+      "team": {
+        "displayName": "Marseille",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1501860841080_Fanions-L1_L1-Marseille.png",
+        "formationType": "4231",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4d69fa50-3e1f-4ffb-9614-1f06690ccbbb/1507898921575_Maillots-Ligue_1_Marseille_2x.png",
+        "color": {
+          "primary": "0xffffff",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Escales",
+          "position": "Substitute",
+          "shirtNo": "40",
+          "id": "6ce37c94-ea29-49d0-a173-063715a38251"
+        },
+        {
+          "type": "substitute",
+          "title": "Sarr",
+          "position": "Substitute",
+          "shirtNo": "17",
+          "id": "b30ff4f0-dc48-40d0-8e0e-78cf3d508c53",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "N'Jie",
+          "position": "Substitute",
+          "shirtNo": "14",
+          "id": "95dfdd35-621b-4ca0-9e1f-5b04ccb83b46",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Sanson",
+          "position": "Substitute",
+          "shirtNo": "8",
+          "id": "ae647f0d-d799-4b66-81b9-616eff9f116b",
+          "yellowCard": true,
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Lopez",
+          "position": "Substitute",
+          "shirtNo": "27",
+          "id": "db116d2a-eea6-47fd-8246-c541a1bab9e1"
+        },
+        {
+          "type": "substitute",
+          "title": "Germain",
+          "position": "Substitute",
+          "shirtNo": "28",
+          "id": "eda3e427-91b2-4a7e-8cdc-11aa4681fc3e"
+        },
+        {
+          "type": "substitute",
+          "title": "Kamara",
+          "position": "Substitute",
+          "shirtNo": "4",
+          "id": "16cbbb1e-2a45-4eb3-89af-f67022c03f6b"
+        }
+      ]
+    }
+  ],
+  "Empty": {
+    "displayName": "Aucune composition disponible pour le moment"
+  }
+}

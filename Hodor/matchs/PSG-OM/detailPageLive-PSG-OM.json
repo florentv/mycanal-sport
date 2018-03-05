@@ -1,0 +1,145 @@
+  {
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "Paris-SG / Lyon",
+    "path": "/guide/programme/8224596-paris-sg-lyon.html"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Prog",
+      "prop5": "MyCtvOS - Prog - Fiche",
+      "prop6": "MyCtvOS - Prog - Fiche - Sport",
+      "prop7": "MyCtvOS - Prog - Fiche - Sport - Paris-SG / Lyon",
+      "pageName": "MyCtvOS - Prog - Fiche - Sport - Paris-SG / Lyon",
+      "prop10": "Contenu",
+      "prop11": "Crypte",
+      "prop12": "Consumer",
+      "eVar30": "Football",
+      "eVar39": "8224596"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "live",
+      "contentID": "ANT_1182633_294",
+      "duration": "1800000",
+      "title": "Paris-SG / Lyon",
+      "thirdTitle": "CANAL+ SPORT - Lundi 20 mars - 16h40",
+      "editorialTitle": "Ligue 1, France, 2017, 30 min",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/47757916",
+      "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_177_20130826.PNG",
+      "fbkWatchTag": "video.other",
+      "summary": "Javier Pastore et les Parisiens, qui courent toujours après le leader monégasque, ont partiellement pansé leur plaie européenne la semaine dernière en s'imposant à Lorient (1-2). Les hommes d'Unai Emery savent qu'il leur faudra encore récolter trois points pour continuer à mettre la pression sur les joueurs de la Principauté. Avec Edinson Cavani en fer de lance de son attaque, le PSG accueille une formation lyonnaise revigorée par sa qualification en quart de finale de la Ligue Europa, acquise jeudi dernier face à l'AS Roma.",
+      "summaryMedium": "Javier Pastore et les Parisiens, qui courent toujours après le leader monégasque, ont partiellement pansé leur plaie européenne la semaine dernière en s'imposant à Lorient (1-2). Les hommes d'Unai Emery savent qu'il leur faudra encore récolter trois points pour continuer à mettre la pression sur les joueurs de la Principauté. Avec Edinson Cavani en fer de lance de son attaque, le PSG accueille une formation lyonnaise revigorée par sa qualification en quart de finale de la Ligue Europa, acquise jeudi dernier face à l'AS Roma.",
+      "sharingURL": "http://preprod.mycan.al/epg/8224596",
+      "HD": true,
+      "genre": "Sport",
+      "subGenre": "Football",
+      "availability": "Lundi 20 mars - 16h40",
+      "CSA": 1,
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": true,
+      "isRecordable": false,
+      "EpgId": 177,
+      "URLChannelMetadata": "http://hodor-rec.canalplus.pro/api/v1/channelmetadata/a888d820653360d636ebd505e0035f3d/177.json?pastDuration=28800&futureDuration=28800",
+      "URLVitrine": "http://hodor-rec.canalplus.pro/api/v1/highlight/a888d820653360d636ebd505e0035f3d/epg/8224596.json?id=8224596&params[type]=epg&cache=780000&contentType=multiple",
+      "startTime": 1490024400,
+      "endTime": 1490030400,
+      "programID": 8224596,
+      "diffusionID": 155302783,
+      "audioLanguage": "VF",
+      "consumptionPlatform": "HAPI",
+      "productId": "ANT_1182633_294",
+      "URLMedias": "http://hodor-rec.canalplus.pro/api/v1/getMediaUrl/a888d820653360d636ebd505e0035f3d/okapi/ANT_1182633_294.json?operator={operator}",
+      "rediffusions": true,
+      "channelName": "CANAL+ SPORT",
+      "parentTitle": "Football - Championnat de France Ligue 1"
+    },
+    "otherEpisodes": {
+      "label": "Episodes",
+      "contents": [
+        {
+          "type": "TBD",
+          "contentID": "5586611",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/2233",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 1",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 1",
+            "URLPage": "http://hodor-rec.canalplus.pro/api/v1/detail/a888d820653360d636ebd505e0035f3d/epg/5586611.json?id=5586611&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/5586611-football-championnat-de-france-ligue-1.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "5614724",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/25752450",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 1",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 1",
+            "URLPage": "http://hodor-rec.canalplus.pro/api/v1/detail/a888d820653360d636ebd505e0035f3d/epg/5614724.json?id=5614724&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/5614724-football-championnat-de-france-ligue-1.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "5784624",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/25752450",
+          "CSA": 1,
+          "title": "Football - Championnat de France Ligue 1",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Championnat de France Ligue 1",
+            "URLPage": "http://hodor-rec.canalplus.pro/api/v1/detail/a888d820653360d636ebd505e0035f3d/epg/5784624.json?id=5784624&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/5784624-football-championnat-de-france-ligue-1.html"
+          }
+        }
+      ]
+    },
+    "diffusions": [
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_381_20170112.PNG",
+        "diffusionDate": "Lundi 20 mars - 18h00",
+        "channelName": "BEIN SPORTS 1"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_177_20130826.PNG",
+        "diffusionDate": "Mardi 21 mars - 00h10",
+        "channelName": "CANAL+ SPORT"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_381_20170112.PNG",
+        "diffusionDate": "Mardi 21 mars - 00h30",
+        "channelName": "BEIN SPORTS 1"
+      }
+    ],
+    "displayLiveNotifications" : [
+      {
+      "URLImage" : "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+      "onClick": {
+          "displayTemplate": "liveNotifications",
+          "displayName": "Notifications Ligue 1",
+          "autorefresh" : 10000,
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/liveNotifications.json?sportEventID=178"
+        }
+      }
+    ],
+    "displayExpertMode": [
+      {
+        "title": "Mode Expert",
+        "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+        "subtitle": "Appui long sur la Surface Touch",
+        "onClick": {
+          "displayTemplate": "expertMode",
+          "displayName": "Mode Expert Ligue 1",
+          "autorefresh" : 10000,
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-OM/expertMode-PSG-OM.json"
+        }
+      }
+    ]
+  }
+}
