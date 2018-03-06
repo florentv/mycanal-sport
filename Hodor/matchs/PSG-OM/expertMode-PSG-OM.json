@@ -32,7 +32,7 @@
     },
     {
       "displayTemplate": "sportCalendar",
-      "displayName": "Calendrier",
+      "displayName": "Résultats",
       "autorefresh": 10000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-OM/sportCalendar-PSG-OM.json"
     },
