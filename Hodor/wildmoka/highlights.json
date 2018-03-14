@@ -15,9 +15,9 @@
           "URLImage": "http://hls-od-sport-canalplus.akamaized.net/clips13/2ab8f7d02f7e1f3e448e0be3375d4b1b7cf04607.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "36' But exceptionnel de Valère Germain !",
-            "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/detailPageWildmoka.json",
-            "URLMedias": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/mediasUrls.json",
+            "displayName": "45' Vidéo Hodor Dev",
+            "URLPage": "https://hodor-dev.canalplus.pro/api/v1/detail/e830031c59d3d6c820cf7867ae671598/wildmoka/862136041.json?params[contentType]=sport",
+            "URLMedias": "https://hodor-dev.canalplus.pro/api/v1/getMediaUrl/e830031c59d3d6c820cf7867ae671598/wildmoka/862136041.json?contentType=sport",
             "path": "/sport/la-reaction-de-gaelle-skrela-euro-feminin-2017-finale/p/1454612"
           }
         },
