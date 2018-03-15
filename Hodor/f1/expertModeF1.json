@@ -44,9 +44,21 @@
     },
     {
       "displayTemplate": "sportRanking",
-      "displayName": "Classement",
+      "displayName": "Classement Course",
       "autorefresh": 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/sportRanking-F1.json"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Pilotes",
+      "autorefresh": 30000,
+      "URLPage": "http://hodor-dev.canalplus.pro/api/v1/mycanal/page/e830031c59d3d6c820cf7867ae671598/100612.json?season=2017&competitionID=3f931f97-33f4-4d05-b3f6-0b73c36881f9&sportID=a9250538-e07a-4c9e-8be7-8e01491f8fa4&sportEventID=5876c0f1-c95f-4d5e-95b5-5855be812ffa"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Equipes",
+      "autorefresh": 30000,
+      "URLPage": "http://hodor-dev.canalplus.pro/api/v1/mycanal/page/e830031c59d3d6c820cf7867ae671598/100613.json?season=2017&competitionID=3f931f97-33f4-4d05-b3f6-0b73c36881f9&sportID=a9250538-e07a-4c9e-8be7-8e01491f8fa4&sportEventID=5876c0f1-c95f-4d5e-95b5-5855be812ffa"
     },
     {
       "displayTemplate": "sportRanking",

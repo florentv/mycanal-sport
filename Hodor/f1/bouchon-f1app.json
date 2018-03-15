@@ -1,0 +1,19 @@
+{
+  "currentPage": {
+    "displayTemplate": "stub",
+    "displayName": "Informations",
+    "BOName": "[iOS Information] Arrêt de la CRA",
+    "path": "/pid6795-ios-information-arret-de-la-cra.html"
+  },
+  "title": "Retrouvez la F1 sur myCANAL",
+  "button": {
+    "title": "Continuer sur myCANAL",
+    "onClick": {
+      "displayTemplate": "externalSite",
+      "URLWebsite": "https://itunes.apple.com/fr/app/mycanal-la-tv-by-canal-en-direct-et-replay/id694580816?mt=8",
+      "URLPage": "http://rugby-service.mycanal.fr/page/86e57d61a14a3d423384e9d539e82dc4/6795.json?ddddddd"
+    }
+  },
+  "text": "Nous arrêtons la CANAL F1 App pour concentrer tous nos efforts sur myCANAL et vous apporter la meilleure expérience F1 possible.\r\n\r\nPour les abonnés, retrouvez tous les lives et replay sur myCANAL et profitez de la nouvelle expérience Mode Expert F1 disponible à partir du GP de Bahrein.\r\n\r\nPour les non abonnés, toutes les vidéos de l'actualité F1 sont aussi disponibles dans l'app myCANAL.\r\n\r\nBonne reprise à tous !",
+  "URLImage": "http:\/\/media.mycanal.fr\/image\/36\/7\/img-pas-de-session.8367.png"
+}
