@@ -130,14 +130,14 @@
     ],
     "displayExpertMode": [
       {
-        "title": "Multicam, temps forts, classements...utili",
+        "title": "Multicam, temps forts, classements...",
         "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
         "subtitle": "Appui long sur la Surface Touch",
         "onClick": {
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",
           "autorefresh" : 10000,
-          "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/expertMode/5dd6605e61a30d072363d413d548a6b9/associatedContentId/8412/event/80ff1173-0eb7-45ff-adec-3654a2200338"
+          "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/expertMode/5dd6605e61a30d072363d413d548a6b9/associatedContentId/8412/event/e7d05c20-3d4c-469f-8322-5ff5fedb5888"
         }
       }
     ]
