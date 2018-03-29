@@ -17,7 +17,20 @@
       "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone"
     }
   },
-  "rubriques": [],
+  "rubriques": [
+{
+      "displayTemplate": "sportVitrine",
+      "displayName": "Statistiques",
+      "autorefresh": 5000,
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/expertMode/15125e96bdeb77500d9eb2fb899edff8/sportVitrine/id/6905"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Composition",
+      "autorefresh": 30000,
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/page/15125e96bdeb77500d9eb2fb899edff8/100634.json"
+    }
+  ],
   "empty": {
     "displayName": "Le Mode Expert n'est pas disponible pour le moment."
   }
