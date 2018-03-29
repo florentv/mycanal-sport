@@ -32,7 +32,7 @@
       "homeTeam": {
         "displayName": "Paris SG",
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fb732998-ad77-4f19-ac42-28efd49886de/1501860729746_Fanions-L1_L1-PSG.png",
-        "score": 2
+        "score": 3
       }
     },
     {
@@ -72,8 +72,8 @@
           "type": "vsBar",
           "title": "Tirs",
           "homeTeam": {
-            "score": 7,
-            "displayName": "7"
+            "score": 8,
+            "displayName": "8"
           },
           "awayTeam": {
             "score": 10,
@@ -83,8 +83,8 @@
             {
               "title": "Tirs cadrés",
               "homeTeam": {
-                "score": 1,
-                "displayName": "1 (14%)"
+                "score": 2,
+                "displayName": "2 (25%)"
               },
               "awayTeam": {
                 "score": 4,

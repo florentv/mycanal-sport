@@ -19,28 +19,28 @@
   },
   "rubriques": [
     {
-      "displayTemplate": "sportVitrine",
-      "displayName": "Statistiques",
+      "displayTemplate": "sportCalendar",
+      "displayName": "Résultats",
       "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-OM/sportVitrine-PSG-OM.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-OM/sportCalendar-PSG-OM.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Compositions",
-      "autorefresh": 30000,
+      "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-OM/sportCompositio-PSG-OM.json"
-    },
-    {
-      "displayTemplate": "sportCalendar",
-      "displayName": "Résultats",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-OM/sportCalendar-PSG-OM.json"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
-      "autorefresh": 10000,
+      "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-OM/sportRanking-PSG-OM.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Statistiques",
+      "autorefresh": 5000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/PSG-OM/sportVitrine-PSG-OM.json"
     }
   ]
 }
