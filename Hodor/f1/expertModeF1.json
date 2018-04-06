@@ -31,6 +31,12 @@
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/multicam-new.json"
     },
     {
+      "displayTemplate": "multicam",
+      "displayName": "Multicam NEW",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/multicam-new-1.json"
+    },
+    {
       "displayTemplate": "highlights",
       "displayName": "Temps forts",
       "autorefresh": 30000,
