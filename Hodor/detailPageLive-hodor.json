@@ -1,587 +1,588 @@
 {
-"currentPage": {
-"displayTemplate": "detailPage",
-"displayName": "Monaco / Nantes",
-"path": "/guide/programme/9721268-monaco-nantes.html"
-},
-"tracking": {
-"omniture": {
-"channel": "MyCtvOS",
-"prop4": "MyCtvOS - Prog",
-"prop5": "MyCtvOS - Prog - Fiche",
-"prop6": "MyCtvOS - Prog - Fiche - Sport",
-"prop7": "MyCtvOS - Prog - Fiche - Sport - Monaco / Nantes",
-"pageName": "MyCtvOS - Prog - Fiche - Sport - Monaco / Nantes",
-"prop10": "Contenu",
-"prop11": "Crypte",
-"prop12": "Consumer",
-"eVar30": "Football",
-"eVar39": "9721268"
-}
-},
-"detail": {
-"informations": {
-"type": "EPG",
-"contentID": "9721268",
-"duration": "9000000",
-"title": "Monaco / Nantes",
-"thirdTitle": "CANAL+ - Samedi 7 avril - 17h00",
-"editorialTitle": "France, 2018, 2h30",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69700903",
-"URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_301_20170719.PNG",
-"fbkWatchTag": "video.other",
-"summary": "Ligue 1 Conforama. 32e journée.",
-"summaryMedium": "Ligue 1 Conforama. 32e journée.",
-"sharingURL": "https://mycan.al/epg/9721268",
-"HD": false,
-"UHD": false,
-"genre": "Sport",
-"subGenre": "Football",
-"availability": "Samedi 7 avril - 17h00",
-"CSA": 1,
-"availableInD2GOnDevice": true,
-"isRecordable": true,
-"EpgId": 301,
-"URLChannelMetadata": "https://hodor.canalplus.pro/api/v1/mycanal/channelmetadata/1e378f0e0f63bdeadbe8b2297a4c3a2c/301.json?pastDuration=28800&futureDuration=28800",
-"URLVitrine": "https://hodor.canalplus.pro/api/v1/mycanal/highlight/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721268.json?id=9721268&params[type]=epg&cache=780000&contentType=multiple&previousPageName=MyCtvOS - Prog - Fiche - Sport - Monaco / Nantes",
-"startTime": 1523113200,
-"endTime": 1523120400,
-"recordUrl": "https://service.mycanal.fr/record/25e4005582d34dc53cae235c5c266fa1/174102699.json?params[ead]={ead}",
-"programID": 9721268,
-"diffusionID": 174102699,
-"audioLanguage": "VF",
-"onClickOnLiveTV": {
-"displayTemplate": "gabaritList",
-"displayName": "Live TV",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/1e378f0e0f63bdeadbe8b2297a4c3a2c/2872.json?channel=301",
-"EpgId": 301
-},
-"rediffusions": true,
-"channelName": "CANAL+",
-"parentTitle": "Football - Ligue 1 Conforama"
-},
-"otherEpisodes": {
-"label": "Episodes",
-"contents": [
-{
-"type": "TBD",
-"contentID": "8990254",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/8990254.json?id=8990254&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/8990254-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9001192",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1524",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9001192.json?id=9001192&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9001192-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9025653",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9025653.json?id=9025653&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9025653-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9109456",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9109456.json?id=9109456&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9109456-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9237496",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/64005657",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9237496.json?id=9237496&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9237496-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9250341",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9250341.json?id=9250341&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9250341-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9271530",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/64574328",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9271530.json?id=9271530&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9271530-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9347922",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9347922.json?id=9347922&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9347922-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9476812",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9476812.json?id=9476812&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9476812-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9563676",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67200154",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9563676.json?id=9563676&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9563676-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9565103",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9565103.json?id=9565103&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9565103-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9668584",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1524",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9668584.json?id=9668584&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9668584-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9649894",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/68758548",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9649894.json?id=9649894&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9649894-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9682690",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9682690.json?id=9682690&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9682690-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9649891",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/68952610",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9649891.json?id=9649891&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9649891-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9697969",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69526070",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9697969.json?id=9697969&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9697969-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9698008",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69527918",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9698008.json?id=9698008&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9698008-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9698034",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69528242",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9698034.json?id=9698034&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9698034-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9698012",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69404400",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9698012.json?id=9698012&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9698012-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9717320",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69668653",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9717320.json?id=9717320&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9717320-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9718300",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69663314",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9718300.json?id=9718300&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9718300-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9721268",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69700903",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721268.json?id=9721268&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9721268-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9721267",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69323638",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721267.json?id=9721267&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9721267-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9756374",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9756374.json?id=9756374&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9756374-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9756378",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9756378.json?id=9756378&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9756378-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9743708",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69699569",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9743708.json?id=9743708&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9743708-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9721280",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721280.json?id=9721280&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9721280-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9721281",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721281.json?id=9721281&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9721281-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9721285",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69663315",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721285.json?id=9721285&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9721285-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9746838",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69699575",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746838.json?id=9746838&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9746838-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9776913",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9776913.json?id=9776913&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9776913-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9776906",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9776906.json?id=9776906&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9776906-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9746837",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69666823",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746837.json?id=9746837&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9746837-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9746856",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746856.json?id=9746856&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9746856-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9746857",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746857.json?id=9746857&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9746857-football-ligue-1-conforama.html"
-}
-},
-{
-"type": "TBD",
-"contentID": "9746859",
-"URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69616758",
-"CSA": 1,
-"title": "Football - Ligue 1 Conforama",
-"onClick": {
-"displayTemplate": "detailPage",
-"displayName": "Football - Ligue 1 Conforama",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746859.json?id=9746859&params[type]=epg&cache=780000&liveTVPageID=2872",
-"path": "/guide/programme/9746859-football-ligue-1-conforama.html"
-}
-}
-]
-},
-"diffusions": [
-{
-"URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_301_20170719.PNG",
-"diffusionDate": "Samedi 7 avril - 17h00",
-"channelName": "CANAL+"
-},
-{
-"URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_601_20170719.PNG",
-"diffusionDate": "Samedi 7 avril - 17h00",
-"channelName": "CANAL+"
-},
-{
-"URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_381_20170112.PNG",
-"diffusionDate": "Dimanche 8 avril - 00h00",
-"channelName": "BEIN SPORTS 1"
-},
-{
-"URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_177_20130826.PNG",
-"diffusionDate": "Dimanche 8 avril - 08h40",
-"channelName": "CANAL+ SPORT"
-},
-{
-"URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_381_20170112.PNG",
-"diffusionDate": "Dimanche 8 avril - 11h30",
-"channelName": "BEIN SPORTS 1"
-}
-],
-"displayLiveNotifications": [
-{
-"URLImage": "/image/22/9/mobile_640x283.18229.jpg",
-"onClick": {
-"displayTemplate": "liveNotifications",
-"displayName": "Notifications Ligue 1",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/liveNotifications/1e378f0e0f63bdeadbe8b2297a4c3a2c/associatedContentId/6340/event/d7cbebdf-942e-4a59-a7eb-5e8be0fefcaa",
-"autorefresh": 5000
-}
-}
-],
-"displayExpertMode": [
-{
-"URLImage": "/image/00/0/vignettemultilive-12.0.png",
-"title": "Mode Expert disponible",
-"onClick": {
-"displayTemplate": "expertMode",
-"displayName": "Mode Expert Ligue 1",
-"URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/1e378f0e0f63bdeadbe8b2297a4c3a2c/associatedContentId/6018/event/d7cbebdf-942e-4a59-a7eb-5e8be0fefcaa",
-"autorefresh": 30000
-}
-}
-]
-}
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "Monaco / Nantes",
+    "path": "/guide/programme/9721268-monaco-nantes.html"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Prog",
+      "prop5": "MyCtvOS - Prog - Fiche",
+      "prop6": "MyCtvOS - Prog - Fiche - Sport",
+      "prop7": "MyCtvOS - Prog - Fiche - Sport - Monaco / Nantes",
+      "pageName": "MyCtvOS - Prog - Fiche - Sport - Monaco / Nantes",
+      "prop10": "Contenu",
+      "prop11": "Crypte",
+      "prop12": "Consumer",
+      "eVar30": "Football",
+      "eVar39": "9721268"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "EPG",
+      "contentID": "9721268",
+      "duration": "9000000",
+      "title": "Monaco / Nantes",
+      "thirdTitle": "CANAL+ - Samedi 7 avril - 17h00",
+      "editorialTitle": "France, 2018, 2h30",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69700903",
+      "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_301_20170719.PNG",
+      "fbkWatchTag": "video.other",
+      "summary": "Ligue 1 Conforama. 32e journée.",
+      "summaryMedium": "Ligue 1 Conforama. 32e journée.",
+      "sharingURL": "https://mycan.al/epg/9721268",
+      "HD": false,
+      "UHD": false,
+      "genre": "Sport",
+      "subGenre": "Football",
+      "availability": "Samedi 7 avril - 17h00",
+      "CSA": 1,
+      "availableInD2GOnDevice": true,
+      "isRecordable": true,
+      "EpgId": 301,
+      "URLChannelMetadata": "https://hodor.canalplus.pro/api/v1/mycanal/channelmetadata/1e378f0e0f63bdeadbe8b2297a4c3a2c/301.json?pastDuration=28800&futureDuration=28800",
+      "URLVitrine": "https://hodor.canalplus.pro/api/v1/mycanal/highlight/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721268.json?id=9721268&params[type]=epg&cache=780000&contentType=multiple&previousPageName=MyCtvOS - Prog - Fiche - Sport - Monaco / Nantes",
+      "startTime": 1523113200,
+      "endTime": 1523120400,
+      "recordUrl": "https://service.mycanal.fr/record/25e4005582d34dc53cae235c5c266fa1/174102699.json?params[ead]={ead}",
+      "programID": 9721268,
+      "diffusionID": 174102699,
+      "audioLanguage": "VF",
+      "onClickOnLiveTV": {
+        "displayTemplate": "gabaritList",
+        "displayName": "Live TV",
+        "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/1e378f0e0f63bdeadbe8b2297a4c3a2c/2872.json?channel=301",
+        "EpgId": 301
+      },
+      "rediffusions": true,
+      "channelName": "CANAL+",
+      "parentTitle": "Football - Ligue 1 Conforama"
+    },
+    "otherEpisodes": {
+      "label": "Episodes",
+      "contents": [
+        {
+          "type": "TBD",
+          "contentID": "8990254",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/8990254.json?id=8990254&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8990254-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9001192",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1524",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9001192.json?id=9001192&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9001192-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9025653",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9025653.json?id=9025653&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9025653-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9109456",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9109456.json?id=9109456&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9109456-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9237496",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/64005657",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9237496.json?id=9237496&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9237496-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9250341",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9250341.json?id=9250341&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9250341-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9271530",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/64574328",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9271530.json?id=9271530&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9271530-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9347922",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9347922.json?id=9347922&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9347922-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9476812",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9476812.json?id=9476812&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9476812-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9563676",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67200154",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9563676.json?id=9563676&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9563676-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9565103",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9565103.json?id=9565103&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9565103-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9668584",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1524",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9668584.json?id=9668584&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9668584-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9649894",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/68758548",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9649894.json?id=9649894&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9649894-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9682690",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9682690.json?id=9682690&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9682690-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9649891",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/68952610",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9649891.json?id=9649891&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9649891-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9697969",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69526070",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9697969.json?id=9697969&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9697969-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9698008",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69527918",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9698008.json?id=9698008&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9698008-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9698034",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69528242",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9698034.json?id=9698034&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9698034-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9698012",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69404400",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9698012.json?id=9698012&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9698012-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9717320",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69668653",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9717320.json?id=9717320&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9717320-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9718300",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69663314",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9718300.json?id=9718300&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9718300-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9721268",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69700903",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721268.json?id=9721268&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9721268-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9721267",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69323638",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721267.json?id=9721267&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9721267-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9756374",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9756374.json?id=9756374&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9756374-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9756378",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9756378.json?id=9756378&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9756378-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9743708",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69699569",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9743708.json?id=9743708&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9743708-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9721280",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721280.json?id=9721280&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9721280-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9721281",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721281.json?id=9721281&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9721281-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9721285",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69663315",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9721285.json?id=9721285&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9721285-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9746838",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69699575",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746838.json?id=9746838&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9746838-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9776913",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9776913.json?id=9776913&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9776913-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9776906",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9776906.json?id=9776906&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9776906-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9746837",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69666823",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746837.json?id=9746837&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9746837-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9746856",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746856.json?id=9746856&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9746856-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9746857",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67237714",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746857.json?id=9746857&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9746857-football-ligue-1-conforama.html"
+          }
+        },
+        {
+          "type": "TBD",
+          "contentID": "9746859",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69616758",
+          "CSA": 1,
+          "title": "Football - Ligue 1 Conforama",
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Football - Ligue 1 Conforama",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/1e378f0e0f63bdeadbe8b2297a4c3a2c/epg/9746859.json?id=9746859&params[type]=epg&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9746859-football-ligue-1-conforama.html"
+          }
+        }
+      ]
+    },
+    "diffusions": [
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_301_20170719.PNG",
+        "diffusionDate": "Samedi 7 avril - 17h00",
+        "channelName": "CANAL+"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_601_20170719.PNG",
+        "diffusionDate": "Samedi 7 avril - 17h00",
+        "channelName": "CANAL+"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_381_20170112.PNG",
+        "diffusionDate": "Dimanche 8 avril - 00h00",
+        "channelName": "BEIN SPORTS 1"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_177_20130826.PNG",
+        "diffusionDate": "Dimanche 8 avril - 08h40",
+        "channelName": "CANAL+ SPORT"
+      },
+      {
+        "URLLogo": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_381_20170112.PNG",
+        "diffusionDate": "Dimanche 8 avril - 11h30",
+        "channelName": "BEIN SPORTS 1"
+      }
+    ],
+    "displayLiveNotifications": [
+      {
+        "URLImage": "/image/22/9/mobile_640x283.18229.jpg",
+        "onClick": {
+          "displayTemplate": "liveNotifications",
+          "displayName": "Notifications Ligue 1",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/liveNotifications/1e378f0e0f63bdeadbe8b2297a4c3a2c/associatedContentId/6340/event/d7cbebdf-942e-4a59-a7eb-5e8be0fefcaa",
+          "autorefresh": 5000
+        }
+      }
+    ],
+    "displayExpertMode": [
+      {
+        "URLImage": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/00/0/vignettemultilive-12.0.png",
+        "title": "Mode Expert",
+        "subtitle" : "Appui long sur le pavé tactile",
+        "onClick": {
+          "displayTemplate": "expertMode",
+          "displayName": "Mode Expert Ligue 1",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/1e378f0e0f63bdeadbe8b2297a4c3a2c/associatedContentId/6018/event/d7cbebdf-942e-4a59-a7eb-5e8be0fefcaa",
+          "autorefresh": 30000
+        }
+      }
+    ]
+  }
 }
