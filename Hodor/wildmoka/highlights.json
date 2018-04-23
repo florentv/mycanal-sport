@@ -3,7 +3,7 @@
     "displayTemplate": "highlights",
     "displayName": "Temps forts",
     "autorefresh": 30000,
-    "path": "/fonctionnalites/mode-expert/f1/pid100578-me-temps-forts-sport-auto.html"
+    "path": "/fonctionnalites/mode-expert/pid100797-ligue-1-temps-forts.html"
   },
   "strates": [
     {
@@ -11,236 +11,80 @@
       "contents": [
         {
           "type": "videoHighlights",
-          "contentID": "3363392629",
-          "title": "Vettel sur le podium",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/9641b1abe4d780d1e20e630ed79783d74164d261.jpg",
+          "contentID": "3712472341",
+          "title": "68' : But Ocampos",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/040cb51f9509e6fed4185bad116cc52b567fd0bd.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "Vettel sur le podium",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363392629.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363392629.json?params[contentType]=sport",
-            "path": "/sport/vettel-sur-le-podium/p/3363392629"
+            "displayName": "68' : But Ocampos",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712472341.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712472341.json?params[contentType]=sport",
+            "path": "/sport/68-but-ocampos/p/3712472341"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3363303677",
-          "title": "Vettel premier succès",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/cb54136a438d89376eecd489530c4a25ef783a16.jpg",
+          "contentID": "3712350416",
+          "title": "54' : But de Benzia",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/f0a3be3a8f4d9404743fbfde48e0b7ad87c10681.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "Vettel premier succès",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363303677.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363303677.json?params[contentType]=sport",
-            "path": "/sport/vettel-premier-succes/p/3363303677"
+            "displayName": "54' : But de Benzia",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712350416.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712350416.json?params[contentType]=sport",
+            "path": "/sport/54-but-de-benzia/p/3712350416"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3363262117",
-          "title": "La première pour Vettel",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/88114066ee725273d265b4e74422eae3d448e0f0.jpg",
+          "contentID": "3712049944",
+          "title": "38' : Doublé de Mitroglou ",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/46e692acdc486a4c66f0712017d45a2ceb903668.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "La première pour Vettel",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363262117.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363262117.json?params[contentType]=sport",
-            "path": "/sport/la-premiere-pour-vettel/p/3363262117"
+            "displayName": "38' : Doublé de Mitroglou ",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712049944.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712049944.json?params[contentType]=sport",
+            "path": "/sport/38-double-de-mitroglou/p/3712049944"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3363169241",
-          "title": "Lewis à l'attaque !",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/983ee043de78790cfc6a4499d8826d0b26fcc18f.jpg",
+          "contentID": "3712017311",
+          "title": "35' : But Mitroglou",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/4be99ba54de4408d15b73d9b395c9923e0216a5b.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "Lewis à l'attaque !",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363169241.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363169241.json?params[contentType]=sport",
-            "path": "/sport/lewis-a-l-attaque/p/3363169241"
+            "displayName": "35' : But Mitroglou",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712017311.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712017311.json?params[contentType]=sport",
+            "path": "/sport/35-but-mitroglou/p/3712017311"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3363099940",
-          "title": "Abandon Grosjean",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/84043edb201965dc55ae62cdb451a5dc01436f10.jpg",
+          "contentID": "3711972456",
+          "title": "30' : Penalty transformé par Thauvin ",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/1d0b0b96c0dfcf2d4d7b68bf0d03cf3fac13d97b.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "Abandon Grosjean",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363099940.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3363099940.json?params[contentType]=sport",
-            "path": "/sport/abandon-grosjean/p/3363099940"
+            "displayName": "30' : Penalty transformé par Thauvin ",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711972456.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711972456.json?params[contentType]=sport",
+            "path": "/sport/30-penalty-transforme-par-thauvin/p/3711972456"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3362938203",
-          "title": "Nouveau départ",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/74f12ccb4cc596baeaa8af38f76f2f17e8071650.jpg",
+          "contentID": "3711816917",
+          "title": "12' : But Thauvin",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/ef0c3247d5a362d53bcf75d5731fb2049c0e4989.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "Nouveau départ",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362938203.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362938203.json?params[contentType]=sport",
-            "path": "/sport/nouveau-depart/p/3362938203"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362982921",
-          "title": "Abandon pour Gasly",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/faebf5aee6cce67574faf3be67f9405d6670e179.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Abandon pour Gasly",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362982921.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362982921.json?params[contentType]=sport",
-            "path": "/sport/abandon-pour-gasly/p/3362982921"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362882061",
-          "title": "Vettel passe en pole",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/f83f71fdbcad0eca6f1061f002db8263e2577808.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Vettel passe en pole",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362882061.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362882061.json?params[contentType]=sport",
-            "path": "/sport/vettel-passe-en-pole/p/3362882061"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362841952",
-          "title": "Abandon Grosjean",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/71c62b64a60d2da51f72666bea35eb4420446fd5.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Abandon Grosjean",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362841952.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362841952.json?params[contentType]=sport",
-            "path": "/sport/abandon-grosjean/p/3362841952"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362799818",
-          "title": "Arrêt au stand",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/8cbaeb613ca80d4e24c019fc0b0a2f7dccd2d0bc.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Arrêt au stand",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362799818.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362799818.json?params[contentType]=sport",
-            "path": "/sport/arret-au-stand/p/3362799818"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362729805",
-          "title": "Verstappen tète à queue",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/f083c74b6452e5df8f71d64abe874aa6b9fe2fbb.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Verstappen tète à queue",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362729805.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362729805.json?params[contentType]=sport",
-            "path": "/sport/verstappen-tete-a-queue/p/3362729805"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362608044",
-          "title": "Premier abandon",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/865d4b1b1a5d30931c2edb1d9b722ba3a1654b13.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Premier abandon",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362608044.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362608044.json?params[contentType]=sport",
-            "path": "/sport/premier-abandon/p/3362608044"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362553947",
-          "title": "GP d'Australie 2018 le départ",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/1547d8d2b8a6d64b0a5c6d6324ed2a84f528d198.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "GP d'Australie 2018 le départ",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362553947.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362553947.json?params[contentType]=sport",
-            "path": "/sport/gp-d-australie-2018-le-depart/p/3362553947"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362460090",
-          "title": "GP d'Australie 2018",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/461366d4142da5216c2bb7130593f202ec438ea7.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "GP d'Australie 2018",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362460090.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362460090.json?params[contentType]=sport",
-            "path": "/sport/gp-d-australie-2018/p/3362460090"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362407814",
-          "title": "GP d'Australie 2018",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/d4def0d420093b986326ce859389f68cefa56af6.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "GP d'Australie 2018",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362407814.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362407814.json?params[contentType]=sport",
-            "path": "/sport/gp-d-australie-2018/p/3362407814"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362317426",
-          "title": "GP d'Australie 2018",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/369d8585fb126c242b7fbd64ec1d14142f20f6e7.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "GP d'Australie 2018",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362317426.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362317426.json?params[contentType]=sport",
-            "path": "/sport/gp-d-australie-2018/p/3362317426"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362265345",
-          "title": "GP d'Australie 2018",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/b33fdd924fe762141bd0ecb22b601bd2f3b5b209.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "GP d'Australie 2018",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362265345.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362265345.json?params[contentType]=sport",
-            "path": "/sport/gp-d-australie-2018/p/3362265345"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "3362182962",
-          "title": "GP d'Australie 2018",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/5f5d2035d0d33b68f9045c6929f179aff944fa1b.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "GP d'Australie 2018",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362182962.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3362182962.json?params[contentType]=sport",
-            "path": "/sport/gp-d-australie-2018/p/3362182962"
+            "displayName": "12' : But Thauvin",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711816917.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711816917.json?params[contentType]=sport",
+            "path": "/sport/12-but-thauvin/p/3711816917"
           }
         }
       ]
@@ -252,12 +96,11 @@
   "tracking": {
     "omniture": {
       "prop4": "MyCtvOS - Mode expert",
-      "prop5": "MyCtvOS - Mode expert - F1",
-      "prop6": "MyCtvOS - Mode expert - F1 - Temps forts",
-      "prop7": "MyCtvOS - Mode expert - F1 - Temps forts - [ME] Temps forts Sport Auto",
-      "pageName": "MyCtvOS - Mode expert - F1 - Temps forts - [ME] Temps forts Sport Auto",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Temps forts",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Temps forts",
       "channel": "MyCtvOS",
-      "eVar31": "[ME] Temps forts Sport Auto",
+      "eVar31": "[ME] Temps forts Sport auto",
       "prop10": "Contenu",
       "prop11": "Autres",
       "prop12": "Consumer"
