@@ -1,11 +1,74 @@
 {
   "currentPage": {
-    "autorefresh": 30000,
-    "displayName": "Composition",
-    "displayTemplate": "sportVitrine"
+    "displayTemplate": "sportVitrine",
+    "displayName": "Compositions",
+    "autorefresh": 30000
   },
-  "strates": [],
-  "empty": {
-    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCiOS - Mode Expert",
+      "prop5": "MyCiOS - Mode Expert - Champions",
+      "prop6": "MyCiOS - Mode Expert - Champions - Compositions",
+      "pageName": "MyCiOS - Mode Expert - Champions - Compositions",
+      "channel": "MyCiOS",
+      "eVar31": "[ME] Compositions Champions",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "football",
+      "homeTeam": {
+        "displayName": "Liverpool",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b2d21adf-c6a4-4c12-b8ee-03b35bb95833/1505233815093_Fanions-LDC_LDC-Liverpool.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/58074b70-9220-4ab2-b680-507e10a454cc/1508165449862_Maillots-LDC_Liverpool_2x.png",
+        "color": {
+          "primary": "0xd00027",
+          "secondary": "0xffffff"
+        }
+      },
+      "awayTeam": {
+        "displayName": "Roma",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/de2c7a66-ddd1-4bbb-a90d-e4038090967c/1505231344500_Fanions-LDC_LDC-ASRome.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fe7442aa-58ce-4399-82fb-d16d53440e32/1508160750038_Maillots-LDC_ASRome_2x.png",
+        "color": {
+          "primary": "0xFFFFFF",
+          "secondary": "0x322872"
+        }
+      }
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Liverpool",
+      "team": {
+        "displayName": "Liverpool",
+        "isHome": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b2d21adf-c6a4-4c12-b8ee-03b35bb95833/1505233815093_Fanions-LDC_LDC-Liverpool.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/58074b70-9220-4ab2-b680-507e10a454cc/1508165449862_Maillots-LDC_Liverpool_2x.png",
+        "color": {
+          "primary": "0xd00027",
+          "secondary": "0xffffff"
+        }
+      }
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Roma",
+      "team": {
+        "displayName": "Roma",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/de2c7a66-ddd1-4bbb-a90d-e4038090967c/1505231344500_Fanions-LDC_LDC-ASRome.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fe7442aa-58ce-4399-82fb-d16d53440e32/1508160750038_Maillots-LDC_ASRome_2x.png",
+        "color": {
+          "primary": "0xFFFFFF",
+          "secondary": "0x322872"
+        }
+      }
+    }
+  ],
+  "Empty": {
+    "displayName": "Aucune composition disponible pour le moment"
   }
 }
