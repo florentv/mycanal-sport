@@ -25,11 +25,13 @@
     {
       "displayName": "Stands",
       "EpgId": 973,
-      "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+      "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
+      "keepMainAudio" : true
     },
     {
       "displayName": "Tracking",
-      "EpgId": 974
+      "EpgId": 974,
+      "keepMainAudio" : true
     },
     {
       "displayName": "Temps",
