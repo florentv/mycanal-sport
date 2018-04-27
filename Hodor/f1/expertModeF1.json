@@ -40,7 +40,7 @@
       "displayTemplate": "highlights",
       "displayName": "Temps forts",
       "autorefresh": 30000,
-      "URLPage": "http://hodor-dev.canalplus.pro/api/v1/mycanal/expertMode/e830031c59d3d6c820cf7867ae671598/highlights/100594/events/3259dea0-c3a3-48e9-ae29-b7bc2b8612e5"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/highlights.json"
     },
     {
       "displayTemplate": "highlights",
@@ -58,13 +58,13 @@
       "displayTemplate": "sportRanking",
       "displayName": "Pilotes",
       "autorefresh": 30000,
-      "URLPage": "http://hodor-dev.canalplus.pro/api/v1/mycanal/page/e830031c59d3d6c820cf7867ae671598/100612.json?season=2017&competitionID=3f931f97-33f4-4d05-b3f6-0b73c36881f9&sportID=a9250538-e07a-4c9e-8be7-8e01491f8fa4&sportEventID=5876c0f1-c95f-4d5e-95b5-5855be812ffa"
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/page/15125e96bdeb77500d9eb2fb899edff8/100634.json?season=2018&competitionID=f2e3d3f0-d36f-4158-9d60-3bd8ab5ba83d&sportID=a750aa08-38d3-4b90-9f65-9d1fa89cbdd0&sportEventID=30cb406e-1b57-4526-920c-e841ccda0b13"
     },
     {
       "displayTemplate": "sportRanking",
       "displayName": "Equipes",
       "autorefresh": 30000,
-      "URLPage": "http://hodor-dev.canalplus.pro/api/v1/mycanal/page/e830031c59d3d6c820cf7867ae671598/100613.json?season=2017&competitionID=3f931f97-33f4-4d05-b3f6-0b73c36881f9&sportID=a9250538-e07a-4c9e-8be7-8e01491f8fa4&sportEventID=5876c0f1-c95f-4d5e-95b5-5855be812ffa"
+      "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/page/15125e96bdeb77500d9eb2fb899edff8/100635.json?season=2018&competitionID=f2e3d3f0-d36f-4158-9d60-3bd8ab5ba83d&sportID=a750aa08-38d3-4b90-9f65-9d1fa89cbdd0&sportEventID=30cb406e-1b57-4526-920c-e841ccda0b13"
     },
     {
       "displayTemplate": "sportRanking",
