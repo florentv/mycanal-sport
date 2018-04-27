@@ -579,7 +579,7 @@
         "onClick": {
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Ligue 1",
-          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/1e378f0e0f63bdeadbe8b2297a4c3a2c/associatedContentId/6018/event/d7cbebdf-942e-4a59-a7eb-5e8be0fefcaa",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/1e378f0e0f63bdeadbe8b2297a4c3a2c/associatedContentId/6018/event/98e925e4-56ea-4386-b366-79ca1cff7473",
           "autorefresh": 30000
         }
       }
