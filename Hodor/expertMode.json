@@ -50,6 +50,12 @@
     },
     {
       "displayTemplate": "sportCalendar",
+      "displayName": "Calendrier Groupes",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
+    },
+    {
+      "displayTemplate": "sportCalendar",
       "displayName": "Classement groupes",
       "autorefresh": 10000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
