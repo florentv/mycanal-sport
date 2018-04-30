@@ -1,0 +1,16 @@
+{
+  "currentPage": {
+    "autorefresh": 30000,
+    "displayTemplate": "sportCalendar",
+    "displayName": "Résultats Ligue 1"
+  },
+  "configuration": {
+    "sportID": "457e14f6-6244-4fb5-882a-eafc874ac384",
+    "competitionID": "3821b89e-bc67-4e9b-be86-b5fc9c37b72b",
+    "calendarType": "schedule",
+    "nbDaysAfterToday" : 3
+  },
+  "empty": {
+    "displayName": "Aucun résultat disponible pour le moment"
+  }
+}
