@@ -1,0 +1,165 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Statistiques",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode Expert",
+      "prop5": "MyCtvOS - Mode Expert - Champions",
+      "prop6": "MyCtvOS - Mode Expert - Champions - Statistiques",
+      "pageName": "MyCtvOS - Mode Expert - Champions - Statistiques",
+      "channel": "MyCtvOS",
+      "eVar31": "[ME] Stats Champions",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "match",
+      "id": "863c9c37-e400-45e7-80d1-6ff0808b1425",
+      "status": "8",
+      "displayStatus": "En cours",
+      "displayTime": "26 mai",
+      "homeTeam": {
+        "displayName": "Real Madrid",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/515e8dc2-40e6-4314-a5d2-f2ca2b0bc754/1505234287033_Fanions-LDC_LDC-RealMadrid.png"
+      },
+      "awayTeam": {
+        "displayName": "Liverpool",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b2d21adf-c6a4-4c12-b8ee-03b35bb95833/1505233815093_Fanions-LDC_LDC-Liverpool.png"
+      }
+    },
+    {
+      "type": "stats",
+      "homeTeam": {
+        "displayName": "Real Madrid",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/515e8dc2-40e6-4314-a5d2-f2ca2b0bc754/1505234287033_Fanions-LDC_LDC-RealMadrid.png",
+        "color": {
+          "primary": "0xffffff",
+          "secondary": "0x027691"
+        }
+      },
+      "awayTeam": {
+        "displayName": "Liverpool",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b2d21adf-c6a4-4c12-b8ee-03b35bb95833/1505233815093_Fanions-LDC_LDC-Liverpool.png",
+        "color": {
+          "primary": "0xd00027",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Possession (%)",
+          "contentID": "PossessionPercentage",
+          "homeTeam": {
+            "score": 54,
+            "displayName": "54"
+          },
+          "awayTeam": {
+            "score": 46,
+            "displayName": "46"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Tirs",
+          "contentID": "Shot",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "subScore": [
+            {
+              "title": "Tirs cadrés",
+              "homeTeam": {
+                "score": 0,
+                "displayName": "0"
+              },
+              "awayTeam": {
+                "score": 1,
+                "displayName": "1"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Corners",
+          "contentID": "Corner Kick",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Hors-jeux",
+          "contentID": "Offside",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Fautes",
+          "contentID": "Foul",
+          "homeTeam": {
+            "score": 2,
+            "displayName": "2"
+          },
+          "awayTeam": {
+            "score": 1,
+            "displayName": "1"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Cartons jaunes",
+          "contentID": "Caution",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Cartons rouges",
+          "contentID": "Expulsion",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  }
+}
