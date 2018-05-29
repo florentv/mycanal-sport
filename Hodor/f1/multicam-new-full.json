@@ -22,13 +22,63 @@
       "type": "multicam",
       "contents": [
         {
-          "displayName": "onBoard",
+          "displayName": "CANAL+",
           "EpgId": "301",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
         },
         {
-          "displayName": "Stands",
+          "displayName": "C+ Sport",
           "EpgId": "177",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Eurosport 1",
+          "EpgId": "101",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Golf+",
+          "EpgId": "378",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Bein Sport 1",
+          "EpgId": "381 ",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Bein Sport 2",
+          "EpgId": "384",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Eurosport 2",
+          "EpgId": "436",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "L'Equipe",
+          "EpgId": "451",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Bein Sport 3",
+          "EpgId": "516",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Equidia",
+          "EpgId": "540",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Extreme Sports",
+          "EpgId": "541",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+        },
+        {
+          "displayName": "Inforsport+",
+          "EpgId": "551",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
         }
       ]
