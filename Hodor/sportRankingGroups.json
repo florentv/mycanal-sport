@@ -2,22 +2,71 @@
   "currentPage": {
     "displayTemplate": "sportRanking",
     "displayName": "Classement",
-    "BOLayoutName": "[TEST tvOS] Classement Ligue 1",
+    "BOLayoutName": "[ME] Classement Coupe du Monde 2018",
     "autorefresh": 30000
   },
   "tracking": {
     "omniture": {
       "prop4": "MyCtvOS - Mode expert",
-      "prop5": "MyCtvOS - Mode expert - Classement",
-      "pageName": "MyCtvOS - Mode expert - Classement",
+      "prop5": "MyCtvOS - Mode expert - CDM 2018",
+      "prop6": "MyCtvOS - Mode expert - CDM 2018 - Classement",
+      "pageName": "MyCtvOS - Mode expert - CDM 2018 - Classement",
       "channel": "MyCtvOS",
-      "eVar31": "[TEST tvOS] Classement Ligue 1",
+      "eVar31": "[ME] Classement Coupe du Monde 2018",
       "prop10": "Contenu",
       "prop11": "Autres",
       "prop12": "Consumer"
     }
   },
   "strates": [
+    {
+      "type": "sportRanking",
+      "text": "Groupe A",
+      "events": [
+        {
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "contentID": "bfe533c2-8adb-4913-a160-11236f341926",
+          "title": "Manchester United",
+          "thirdTitle": "15",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/57ec735f-54f4-4417-aa2d-6a834a7c4fe8/1505231056013_Fanions-LDC_LDC-ManchesterUnited.png",
+          "ranking": "1"
+        },
+        {
+          "contentID": "fde77104-8cdc-46ac-945e-d31ce7396173",
+          "title": "FC Basel",
+          "thirdTitle": "12",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/fde77104-8cdc-46ac-945e-d31ce7396173/1508158363034_Fanions-LDC_LDC-FCBale.png",
+          "ranking": "2"
+        },
+        {
+          "contentID": "96bedd80-cabc-4d4a-bbd9-17796b35fd68",
+          "title": "CSKA Moscow",
+          "thirdTitle": "9",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4ecbeab3-e85b-4f9d-80e7-3c602058d436/1505231217014_Fanions-LDC_LDC-CSKAMoscou.png",
+          "ranking": "3"
+        },
+        {
+          "contentID": "dda52500-0f06-4187-8342-768fa80baa28",
+          "title": "Benfica",
+          "thirdTitle": "0",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d24de8bb-4d84-4b14-8f1f-726b79bdfc54/1505230996664_Fanions-LDC_LDC-SLBenfica.png",
+          "ranking": "4"
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
+      "paging": {
+        "iterationType": "index",
+        "indexEnd": 0
+      }
+    },
     {
       "type": "sportRanking",
       "text": "Groupe B",
@@ -30,85 +79,44 @@
       ],
       "contents": [
         {
-          "title": "PSG",
-          "thirdTitle": "3",
+          "contentID": "0d00196a-a007-429e-88ce-5d988c4ec08c",
+          "title": "Paris SG",
+          "thirdTitle": "15",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/f7ae9091-f8d7-4fdd-bd46-4e2e6faf254d/1505231301473_Fanions-LDC_LDC-ParisSG.png",
-          "ranking": "1",
-          "highlight": true
+          "ranking": "1"
         },
         {
-          "title": "Bayern München",
-          "thirdTitle": "3",
+          "contentID": "94987a04-6316-4266-8f8c-28f8f90db2c4",
+          "title": "Bayern Munich",
+          "thirdTitle": "15",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/21b185ac-b025-4371-a19e-39613e205216/1505231242692_Fanions-LDC_LDC-FCBayern.png",
           "ranking": "2"
         },
         {
-          "title": "Anderlecht",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6440438d-c6d2-4916-9fd5-4c178a740f2d/1505231324214_Fanions-LDC_LDC-RSCAnderlecht.png",
-          "ranking": "3"
-        },
-        {
+          "contentID": "b0f066ed-f2a3-47a9-89f0-ced31649c832",
           "title": "Celtic",
-          "thirdTitle": "0",
+          "thirdTitle": "3",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/2d5816ee-35b8-4d4a-bd50-1c0abe0cf7ed/1505231375182_Fanions-LDC_LDC-CelticGlasgow.png",
-          "ranking": "4",
-          "highlight": true
-        }
-      ],
-      "paging": {
-        "iterationType": "index",
-        "indexStart": 0,
-        "indexEnd": 0,
-        "nbContents": 20,
-        "totalAvailableContents": 20
-      }
-    },
-    {
-      "text": "Groupe A",
-      "events": [
-        {
-          "title": "Pts",
-          "id": "pts",
-          "type": "main"
-        }
-      ],
-      "contents": [
-        {
-          "title": "Manchester United",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/57ec735f-54f4-4417-aa2d-6a834a7c4fe8/1505231056013_Fanions-LDC_LDC-ManchesterUnited.png",
-          "ranking": "1"
-        },
-        {
-          "title": "CSKA Moskva",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/4ecbeab3-e85b-4f9d-80e7-3c602058d436/1505231217014_Fanions-LDC_LDC-CSKAMoscou.png",
-          "ranking": "2"
-        },
-        {
-          "title": "Benfica",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d24de8bb-4d84-4b14-8f1f-726b79bdfc54/1505230996664_Fanions-LDC_LDC-SLBenfica.png",
           "ranking": "3"
         },
         {
-          "title": "Basel",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e8e94000-7d47-4e46-b6d3-99e7f1f058c4/1505231122771_Fanions-LDC_LDC-FCBale.png",
+          "contentID": "1f797818-36ed-487f-a763-b7ff6b262f32",
+          "title": "Anderlecht",
+          "thirdTitle": "3",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6440438d-c6d2-4916-9fd5-4c178a740f2d/1505231324214_Fanions-LDC_LDC-RSCAnderlecht.png",
           "ranking": "4"
         }
       ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
       "paging": {
         "iterationType": "index",
-        "indexStart": 0,
-        "indexEnd": 0,
-        "nbContents": 20,
-        "totalAvailableContents": 20
+        "indexEnd": 0
       }
     },
-    
     {
+      "type": "sportRanking",
       "text": "Groupe C",
       "events": [
         {
@@ -119,39 +127,44 @@
       ],
       "contents": [
         {
-          "title": "Chelsea",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/dd76ef41-82d2-4790-a851-a2fdf7ac253c/1505231126309_Fanions-LDC_LDC-Chelsea.png",
+          "contentID": "fe7442aa-58ce-4399-82fb-d16d53440e32",
+          "title": "Roma",
+          "thirdTitle": "11",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/de2c7a66-ddd1-4bbb-a90d-e4038090967c/1505231344500_Fanions-LDC_LDC-ASRome.png",
           "ranking": "1"
         },
         {
-          "title": "Atlético Madrid",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1b471765-8107-4932-85d9-bf1fdb1e3f96/1505231235699_Fanions-LDC_LDC-AtleticoMadrid.png",
+          "contentID": "ce190bcc-c866-4a01-aea0-831c50ffed7c",
+          "title": "Chelsea",
+          "thirdTitle": "11",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/dd76ef41-82d2-4790-a851-a2fdf7ac253c/1505231126309_Fanions-LDC_LDC-Chelsea.png",
           "ranking": "2"
         },
         {
-          "title": "Roma",
-          "thirdTitle": "1",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/de2c7a66-ddd1-4bbb-a90d-e4038090967c/1505231344500_Fanions-LDC_LDC-ASRome.png",
+          "contentID": "4cb71185-b0a1-434e-b59d-a640232f77e7",
+          "title": "Atletico Madrid",
+          "thirdTitle": "7",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1b471765-8107-4932-85d9-bf1fdb1e3f96/1505231235699_Fanions-LDC_LDC-AtleticoMadrid.png",
           "ranking": "3"
         },
         {
-          "title": "Qarabağ",
-          "thirdTitle": "0",
+          "contentID": "045e8bb0-f6d0-464c-80cb-919d0774c83b",
+          "title": "FK Qarabag",
+          "thirdTitle": "2",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/da72d1a0-f187-49a8-be44-d9846c56c18d/1505231383173_Fanions-LDC_LDC-FKQarabag.png",
           "ranking": "4"
         }
       ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
       "paging": {
         "iterationType": "index",
-        "indexStart": 0,
-        "indexEnd": 0,
-        "nbContents": 20,
-        "totalAvailableContents": 20
+        "indexEnd": 0
       }
     },
     {
+      "type": "sportRanking",
       "text": "Groupe D",
       "events": [
         {
@@ -162,36 +175,234 @@
       ],
       "contents": [
         {
-          "title": "Barcelona",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/8e18e8ec-4af5-495f-ba02-75cf63a6de00/1505231588871_Fanions-LDC_LDC-FCBarcelone.png",
+          "contentID": "54258af6-0e3c-4130-b698-f48c083074a3",
+          "title": "Barcelone",
+          "thirdTitle": "14",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/54258af6-0e3c-4130-b698-f48c083074a3/1508159502268_Fanions-LDC_LDC-FCBarcelone.png",
           "ranking": "1"
         },
         {
-          "title": "Sporting CP",
-          "thirdTitle": "3",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0e853863-4bc7-48e2-a945-f8e998a59dba/1505231751635_Fanions-LDC_LDC-SportingPortugal.png",
+          "contentID": "08c4f70b-a9de-4a16-944d-2db37b90cde9",
+          "title": "Juventus",
+          "thirdTitle": "11",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d6f7ba17-1bdc-430e-9f6f-4a0d18962bfc/1505231508017_Fanions-LDC_LDC-Juventus.png",
           "ranking": "2"
         },
         {
-          "title": "Olympiakos Piraeus",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/18d51b3d-6f11-4139-8022-bccd5ff20614/1505231690658_Fanions-LDC_LDC-OlympiacosFC.png",
+          "contentID": "79dbd2b2-bedc-41df-bc39-102a1b64ff59",
+          "title": "Sporting CP",
+          "thirdTitle": "7",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0e853863-4bc7-48e2-a945-f8e998a59dba/1505231751635_Fanions-LDC_LDC-SportingPortugal.png",
           "ranking": "3"
         },
         {
-          "title": "Juventus",
-          "thirdTitle": "0",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d6f7ba17-1bdc-430e-9f6f-4a0d18962bfc/1505231508017_Fanions-LDC_LDC-Juventus.png",
+          "contentID": "c1e54879-97a4-4fd1-8c8c-92c3d9ea1316",
+          "title": "Olympiacos",
+          "thirdTitle": "1",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/18d51b3d-6f11-4139-8022-bccd5ff20614/1505231690658_Fanions-LDC_LDC-OlympiacosFC.png",
           "ranking": "4"
         }
       ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
       "paging": {
         "iterationType": "index",
-        "indexStart": 0,
-        "indexEnd": 0,
-        "nbContents": 20,
-        "totalAvailableContents": 20
+        "indexEnd": 0
+      }
+    },
+    {
+      "type": "sportRanking",
+      "text": "Groupe E",
+      "events": [
+        {
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "contentID": "58074b70-9220-4ab2-b680-507e10a454cc",
+          "title": "Liverpool",
+          "thirdTitle": "12",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b2d21adf-c6a4-4c12-b8ee-03b35bb95833/1505233815093_Fanions-LDC_LDC-Liverpool.png",
+          "ranking": "1",
+          "highlight": true
+        },
+        {
+          "contentID": "3a088504-8c93-4664-89d7-1a91cd27537a",
+          "title": "FC Séville",
+          "thirdTitle": "9",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/3a088504-8c93-4664-89d7-1a91cd27537a/1512553255302_Fanions-LDC_LDC-SevillaFC.png",
+          "ranking": "2"
+        },
+        {
+          "contentID": "95c512aa-d6df-46ca-bda6-fe5845c51885",
+          "title": "Spartak Moscow",
+          "thirdTitle": "6",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/95c512aa-d6df-46ca-bda6-fe5845c51885/1508159649814_Fanions-LDC_LDC-Spartak-Moscou.png",
+          "ranking": "3"
+        },
+        {
+          "contentID": "82cd146e-3463-42ad-9f3b-1b2f310e602e",
+          "title": "Maribor",
+          "thirdTitle": "3",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/82cd146e-3463-42ad-9f3b-1b2f310e602e/1512552967735_Fanions-LDC_LDC-NKMaribor.png",
+          "ranking": "4"
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
+      "paging": {
+        "iterationType": "index",
+        "indexEnd": 0
+      }
+    },
+    {
+      "type": "sportRanking",
+      "text": "Groupe F",
+      "events": [
+        {
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "contentID": "e691bdcb-d417-4e12-9723-46767a6906d9",
+          "title": "Manchester City",
+          "thirdTitle": "15",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d2d87114-34d8-45f3-80d7-093cdded0203/1505233965023_Fanions-LDC_LDC-ManchesterCity.png",
+          "ranking": "1"
+        },
+        {
+          "contentID": "a96afacd-4940-496d-ba40-a33fe2d38e82",
+          "title": "Shakhtar Donetsk",
+          "thirdTitle": "12",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6e71b5a6-10c9-4ab8-821a-e36cf7f39fcc/1505233913580_Fanions-LDC_LDC-ShakhtarDonetsk.png",
+          "ranking": "2"
+        },
+        {
+          "contentID": "2da21ef4-2607-4ba1-8547-10143482a098",
+          "title": "Napoli",
+          "thirdTitle": "6",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/5e480b6e-fc10-4eb2-8844-117f420e6644/1505234014735_Fanions-LDC_LDC-Napoli.png",
+          "ranking": "3"
+        },
+        {
+          "contentID": "444280be-c453-4bd3-8aaf-af39ef61d164",
+          "title": "Feyenoord",
+          "thirdTitle": "3",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/30c52bed-526a-43b9-b779-11ce48e2c504/1505234065876_Fanions-LDC_LDC-FeyenoordRotterdam.png",
+          "ranking": "4"
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
+      "paging": {
+        "iterationType": "index",
+        "indexEnd": 0
+      }
+    },
+    {
+      "type": "sportRanking",
+      "text": "Groupe G",
+      "events": [
+        {
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "contentID": "df71d160-bbb0-46cc-9a19-31d2e9ddabae",
+          "title": "Besiktas",
+          "thirdTitle": "14",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/c9c1e6c3-b255-4d96-9668-d730c3869156/1505234245473_Fanions-LDC_LDC-Besiktas.png",
+          "ranking": "1"
+        },
+        {
+          "contentID": "d833c5b0-1bf9-4e0f-b110-dddc93155cc4",
+          "title": "FC Porto",
+          "thirdTitle": "10",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/adb0c8c9-21f4-4994-9824-da64519c108c/1505234156002_Fanions-LDC_LDC-FCPorto.png",
+          "ranking": "2"
+        },
+        {
+          "contentID": "cbc6b01f-4e6e-4ea3-8b8f-875f46f0f5f4",
+          "title": "RB Leipzig",
+          "thirdTitle": "7",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/cbc6b01f-4e6e-4ea3-8b8f-875f46f0f5f4/1508157809652_Fanions-LDC_LDC-RBLeipzig.png",
+          "ranking": "3"
+        },
+        {
+          "contentID": "0a521b38-a583-43c5-b801-50507614b8d0",
+          "title": "Monaco",
+          "thirdTitle": "2",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/7f4689be-c6d7-45fe-bd5a-cddb3282104b/1505233728254_Fanions-LDC_LDC-Monaco.png",
+          "ranking": "4"
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
+      "paging": {
+        "iterationType": "index",
+        "indexEnd": 0
+      }
+    },
+    {
+      "type": "sportRanking",
+      "text": "Groupe H",
+      "events": [
+        {
+          "title": "Pts",
+          "id": "pts",
+          "type": "main"
+        }
+      ],
+      "contents": [
+        {
+          "contentID": "20f8244a-c031-4333-a588-1162d7c14693",
+          "title": "Tottenham Hotspur",
+          "thirdTitle": "16",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/b050fccb-cb95-43eb-9ecd-7ec72794d454/1505234208210_Fanions-LDC_LDC-TottenhamHotspur.png",
+          "ranking": "1"
+        },
+        {
+          "contentID": "7ad14b09-0944-4de5-9430-71e7b7709db0",
+          "title": "Real Madrid",
+          "thirdTitle": "13",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/515e8dc2-40e6-4314-a5d2-f2ca2b0bc754/1505234287033_Fanions-LDC_LDC-RealMadrid.png",
+          "ranking": "2",
+          "highlight": true
+        },
+        {
+          "contentID": "a8a41623-f405-4412-b8cc-0e478994bf3d",
+          "title": "Borussia Dortmund",
+          "thirdTitle": "2",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/2ad350cb-3aa7-4efc-a72e-f3b680cae243/1505234248066_Fanions-LDC_LDC-BorussiaDortmund.png",
+          "ranking": "3"
+        },
+        {
+          "contentID": "67f8d5ea-5ae2-4b60-b13e-864c721214f5",
+          "title": "APOEL",
+          "thirdTitle": "2",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/67f8d5ea-5ae2-4b60-b13e-864c721214f5/1508160117676_Fanions-LDC_LDC-ApoelNicosie.png",
+          "ranking": "4"
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169"
+      },
+      "paging": {
+        "iterationType": "index",
+        "indexEnd": 0
       }
     }
   ],
