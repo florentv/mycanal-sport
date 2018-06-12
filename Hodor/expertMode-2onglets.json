@@ -1,0 +1,77 @@
+{
+  "currentPage": {
+    "displayTemplate": "expertMode",
+    "displayName": "Mode Expert Ligue 1",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "mycanaliOS",
+      "prop4": "mycanaliOS - Sport",
+      "prop5": "mycanaliOS - Sport - Event",
+      "prop6": "mycanaliOS - Sport - Event - PSG / Barcelone - 173",
+      "eVar12": "GENERIQUE LDC Match Live",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone"
+    }
+  },
+  "rubriques": [
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Statistiques",
+      "autorefresh": 5000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Composition",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Composition Rugby",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rubgy-sportComposition.json"
+    },
+    {
+      "displayTemplate": "sportCalendar",
+      "displayName": "Résultats",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendar.json"
+    },
+    {
+      "displayTemplate": "sportCalendar",
+      "displayName": "Calendrier",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarSchedule.json"
+    },
+    {
+      "displayTemplate": "sportCalendar",
+      "displayName": "Calendrier Groupes",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
+    },
+    {
+      "displayTemplate": "sportCalendar",
+      "displayName": "Classement groupes",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement Groupes",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRankingGroups.json"
+    }
+    
+  ]
+}
