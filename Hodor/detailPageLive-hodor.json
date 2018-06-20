@@ -578,8 +578,8 @@
         "subtitle" : "Appui long sur le pavé tactile",
         "onClick": {
           "displayTemplate": "expertMode",
-          "displayName": "Mode Expert Ligue 1",
-          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/1e378f0e0f63bdeadbe8b2297a4c3a2c/associatedContentId/6018/event/3cc0b00f-8a27-446f-bab2-27880b7d66fc",
+          "displayName": "Mode Expert Top 14",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/024f191bc6c33e4a43b45277d9f8e807/associatedContentId/6784/event/a90d049e-8e19-4a25-a0db-838fdb6648dc",
           "autorefresh": 30000
         }
       }
