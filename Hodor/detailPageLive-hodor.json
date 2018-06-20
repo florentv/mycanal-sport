@@ -573,7 +573,7 @@
     ],
     "displayExpertMode": [
       {
-        "URLImage": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/48/5/pictomodeexpert.36485.png",
+        "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/48/4/pictomodeexpert-3x.36484.png",
         "title": "Mode Expert",
         "subtitle" : "Appui long sur le pavé tactile",
         "onClick": {
