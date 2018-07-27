@@ -1,0 +1,37 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrineStats",
+    "displayName": "Statistiques",
+    "autorefresh": 5000,
+    "pullToRefresh": true
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats"
+    }
+  },
+  "strates": [
+    {
+      "type": "survey",
+      "surveyType": "rating",
+      "surveyTag": "noteDuMatch",
+      "contentID": "67ee81c1-78ddheke",
+      "status": "created",
+      "startDate": 188899933,
+      "title": "Note du match",
+      "text": "Notez le match",
+      "URLImage": "..."
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  }
+}

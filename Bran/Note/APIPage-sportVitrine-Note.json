@@ -1,0 +1,67 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Vitrine Ligue 1",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "à définir",
+      "prop5": "à définir",
+      "prop6": "à définir",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "à définir"
+    }
+  },
+  "strates": [
+    {
+      "configuration": {
+        "global": {
+          "strateType": "survey",
+          "surveyType": "rating",
+          "title": "Note du match",
+          "text": "Notez le match",
+          "URLImage": "https://...",
+          "description": "Retrouvez les résultats des votes lors du CANAL Football Club",
+          "textResults": "Votre note du match"
+        },
+        "extra": {
+          "button": {
+            "title": "Noter",
+            "onClick": {
+              "displayTemplate": "rating",
+              "displayName": "Note du match"
+            }
+          }
+        }
+      }
+    },
+    {
+      "configuration": {
+        "global": {
+          "strateType": "survey",
+          "surveyType": "manOfTheGame",
+          "title": "Homme du match",
+          "text": "Votez pour l'homme du match",
+          "URLImage": "https://...",
+          "description": "Retrouvez les résultats des votes lors du CANAL Football Club",
+          "textResults": "Vous avez choisi"
+        },
+        "extra": {
+          "button": {
+            "title": "Voter",
+            "onClick": {
+              "displayTemplate": "rating",
+              "displayName": "Note du match"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "empty": {
+    "displayName": "Pas de résultats disponibles"
+  }
+}

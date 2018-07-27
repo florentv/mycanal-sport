@@ -1,0 +1,59 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrineStats",
+    "displayName": "Statistiques",
+    "autorefresh": 5000,
+    "pullToRefresh": true
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats"
+    }
+  },
+  "strates": [
+    {
+      "type": "survey",
+      "contentID": "1234",
+      "title": "Note du match",
+      "contents": [
+        {
+          "type": "rating",
+          "contentID": "67ee81c1-78ddheke",
+          "status": "closed",
+          "description": "Retrouvez les résultats des votes lors du Canal Football Club",
+          "result": [
+            {
+              "type": "mean",
+              "value": "12,4"
+            },
+            {
+              "type": "nbVoters",
+              "value": "300478"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune note disponible pour le moment"
+  }
+}
+
+/* 
+
+##### Remarques #####
+
+- Pour le moment, pas d'affichage des résultats.
+- La description peut changer en fonction du match. Par conséquent, il vaut mieux que ce soit intégré au contenu "Note" et paramétré côté Intellicore.
+
+
+/*

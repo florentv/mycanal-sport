@@ -1,0 +1,61 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Statistiques",
+    "autorefresh": 5000,
+    "pullToRefresh": true
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats"
+    }
+  },
+  "strates": [
+    {
+      "type": "survey",
+      "contentID": "1234",
+      "title": "Note du match",
+      "contents": [
+        {
+          "text": "Notez le match",
+          "contentID": "67ee81c1-78ddheke",
+          "URLImage": "...",
+          "startDate": 188899933,
+          "status": "created",
+          "type": "rating"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "contentID": "1234",
+      "contents": [
+        {
+          "text": "Retrouvez les résultats des votes lors du Canal Football Club"
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  }
+}
+
+/* 
+
+##### Remarques #####
+
+- Bien spécifié comment on remplit le champ "type" : surveyType ou surveyTag (demander à Intellicore la liste des tags)
+- Spécifié comment est créé le startDate
+- Faire un ticket Bran et Hodor pour récupérer un "contentID" pour chaque strate
+
+
+/*

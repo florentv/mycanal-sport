@@ -1,0 +1,434 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrineStats",
+    "displayName": "Statistiques",
+    "autorefresh": 5000,
+    "pullToRefresh": true
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats"
+    }
+  },
+  "strates": [
+    {
+      "type": "survey",
+      "surveyType": "players",
+      "contentID": "67ee82c1-78cdheke",
+      "status": "ongoing",
+      "startDate": 188899933,
+      "values": [
+        {
+          "homeTeam": {
+            "displayName": "Russie",
+            "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1ac299fd-6c14-4a9d-b960-601d031bb166/1527757570533_Fanions-CDM_CDM-Russie.png",
+            "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/1ac299fd-6c14-4a9d-b960-601d031bb166/1528114610876_Maillots-CDM-foot_Russie.png",
+            "color": {
+              "primary": "0xc30b25",
+              "secondary": "0xffffff"
+            },
+            "contents": [
+              {
+                "type": "playerField",
+                "title": "Samedov",
+                "position": "Midfield",
+                "shirtNo": "19",
+                "formationOrder": 8,
+                "contentID": "ed3e0e5d-bf0e-4aa1-a264-5095fc789125",
+                "substitute": "out"
+              },
+              {
+                "type": "playerField",
+                "title": "Ignashevich",
+                "position": "Defender",
+                "shirtNo": "4",
+                "formationOrder": 4,
+                "contentID": "50549c0d-3517-40aa-bff9-f3638cb90e8c"
+              },
+              {
+                "type": "playerField",
+                "title": "Akinfeev",
+                "position": "Goalkeeper",
+                "shirtNo": "1",
+                "formationOrder": 1,
+                "contentID": "af3b601f-7573-4c80-9a69-8e2d1be1ccb9"
+              },
+              {
+                "type": "playerField",
+                "title": "Dzagoev",
+                "position": "Midfield",
+                "shirtNo": "9",
+                "formationOrder": 9,
+                "contentID": "7bf37fd6-f371-4bf0-8ae8-9ae2084c4bd5",
+                "substitute": "out"
+              },
+              {
+                "type": "playerField",
+                "title": "Zhirkov",
+                "position": "Midfield",
+                "shirtNo": "18",
+                "formationOrder": 5,
+                "contentID": "a0b121ab-081b-4cc6-94aa-dec577d2f725"
+              },
+              {
+                "type": "playerField",
+                "title": "Fernandes",
+                "position": "Defender",
+                "shirtNo": "2",
+                "formationOrder": 2,
+                "contentID": "2995cd42-9afe-4851-ae0c-c384f51deed0"
+              },
+              {
+                "type": "playerField",
+                "title": "Smolov",
+                "position": "Forward",
+                "shirtNo": "10",
+                "formationOrder": 11,
+                "contentID": "c2d6b086-fb39-4c54-a9a1-f9a1c32ba6b5",
+                "substitute": "out"
+              },
+              {
+                "type": "playerField",
+                "title": "Gazinskii",
+                "position": "Midfield",
+                "shirtNo": "8",
+                "formationOrder": 6,
+                "goals": 1,
+                "contentID": "1d338870-efc9-4835-a5d7-57a83ab94014"
+              },
+              {
+                "type": "playerField",
+                "title": "Golovin",
+                "position": "Midfield",
+                "shirtNo": "17",
+                "formationOrder": 10,
+                "goals": 1,
+                "contentID": "22c06c72-259e-4044-8baf-ee080c9e20f9",
+                "yellowCard": true
+              },
+              {
+                "type": "playerField",
+                "title": "Zobnin",
+                "position": "Midfield",
+                "shirtNo": "11",
+                "formationOrder": 7,
+                "contentID": "8dbd5b00-58bc-4e1c-aee7-9b4ec1d48363"
+              },
+              {
+                "type": "playerField",
+                "title": "Kutepov",
+                "position": "Defender",
+                "shirtNo": "3",
+                "formationOrder": 3,
+                "contentID": "ed4ea0f4-be99-412b-b7c5-45d118cfd78f"
+              },
+              {
+                "goals": 1,
+                "type": "substitute",
+                "title": "Dzyuba",
+                "position": "Substitute",
+                "shirtNo": "22",
+                "contentID": "1e8c0a6a-e4dd-4d5f-9786-65625c77afd0",
+                "substitute": "in"
+              },
+              {
+                "type": "substitute",
+                "title": "Kuziaev",
+                "position": "Substitute",
+                "shirtNo": "7",
+                "contentID": "b5d057d5-c234-4b99-b20b-93cf726e7be8",
+                "substitute": "in"
+              },
+              {
+                "goals": 2,
+                "type": "substitute",
+                "title": "Cheryshev",
+                "position": "Substitute",
+                "shirtNo": "6",
+                "contentID": "e01cd178-4bbe-4a7a-a1f5-f3b3bf5aa3d7",
+                "substitute": "in"
+              },
+              {
+                "type": "substitute",
+                "title": "Semenov",
+                "position": "Substitute",
+                "shirtNo": "5",
+                "contentID": "505c8bdf-a8cc-45d7-aed8-cee7aec2ac69"
+              },
+              {
+                "type": "substitute",
+                "title": "Miranchuk Al.",
+                "position": "Substitute",
+                "shirtNo": "15",
+                "contentID": "64cd5972-7687-4826-81ed-42f2af99c705"
+              },
+              {
+                "type": "substitute",
+                "title": "Granat",
+                "position": "Substitute",
+                "shirtNo": "14",
+                "contentID": "8db18148-6e58-435d-91aa-054d184a2a99"
+              },
+              {
+                "type": "substitute",
+                "title": "Smolnikov",
+                "position": "Substitute",
+                "shirtNo": "23",
+                "contentID": "a34383b9-4b72-4565-9418-f25df5cbab60"
+              },
+              {
+                "type": "substitute",
+                "title": "Erokhin",
+                "position": "Substitute",
+                "shirtNo": "21",
+                "contentID": "23e4eab0-adf5-430e-b0a4-a867edb42100"
+              },
+              {
+                "type": "substitute",
+                "title": "Kudriashov",
+                "position": "Substitute",
+                "shirtNo": "13",
+                "contentID": "b1f90b1d-121c-4884-afdc-7dda60e7e5bb"
+              },
+              {
+                "type": "substitute",
+                "title": "Lunev",
+                "position": "Substitute",
+                "shirtNo": "12",
+                "contentID": "10a237bb-df16-4618-84b4-4463bc37a232"
+              },
+              {
+                "type": "substitute",
+                "title": "Gabulov",
+                "position": "Substitute",
+                "shirtNo": "20",
+                "contentID": "ef36d8c9-8f53-422d-8206-19a32cb1d6f3"
+              },
+              {
+                "type": "substitute",
+                "title": "Miranchuck An.",
+                "position": "Substitute",
+                "shirtNo": "16",
+                "contentID": "ffac4549-881d-4ec5-b1a5-c13c9f3915fe"
+              }
+            ]
+          }
+        },
+        {
+          "awayTeam": {
+            "displayName": "Arabie saoudite",
+            "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e57eb7e5-f3ee-441a-8306-71a53e2c325c/1527757604716_Fanions-CDM_CDM-ArabieSaoudite.png",
+            "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e57eb7e5-f3ee-441a-8306-71a53e2c325c/1528114599493_Maillots-CDM-foot_ArabieSaoudite.png",
+            "color": {
+              "primary": "0xffffff",
+              "secondary": "0x488c59"
+            },
+            "contents": [
+              {
+                "type": "playerField",
+                "title": "Salman",
+                "position": "Midfield",
+                "shirtNo": "7",
+                "formationOrder": 8,
+                "contentID": "e8c27792-306b-4496-9861-55bb10e7ea21"
+              },
+              {
+                "type": "playerField",
+                "title": "Yasir",
+                "position": "Midfield",
+                "shirtNo": "14",
+                "formationOrder": 7,
+                "contentID": "891e42fe-b263-465b-b386-64622cb84e45",
+                "substitute": "out"
+              },
+              {
+                "type": "playerField",
+                "title": "Salem",
+                "position": "Midfield",
+                "shirtNo": "18",
+                "formationOrder": 6,
+                "contentID": "bddcba26-2f6e-4060-ba38-2d62665a3272"
+              },
+              {
+                "type": "playerField",
+                "title": "Omar",
+                "position": "Defender",
+                "shirtNo": "5",
+                "formationOrder": 4,
+                "contentID": "230cc11e-7676-4f32-8c56-b3f6f2819a87"
+              },
+              {
+                "type": "playerField",
+                "title": "Osama",
+                "position": "Defender",
+                "shirtNo": "3",
+                "formationOrder": 3,
+                "contentID": "ebe25579-3cdb-449b-8776-464b52f4bf94"
+              },
+              {
+                "type": "playerField",
+                "title": "Alburayk",
+                "position": "Defender",
+                "shirtNo": "6",
+                "formationOrder": 2,
+                "contentID": "06a295d9-1c75-491a-b771-231492c9184f"
+              },
+              {
+                "type": "playerField",
+                "title": "Yahia",
+                "position": "Midfield",
+                "shirtNo": "8",
+                "formationOrder": 10,
+                "contentID": "d0cc51ba-da22-460a-a140-2e49cb4150b3",
+                "substitute": "out"
+              },
+              {
+                "type": "playerField",
+                "title": "Taiseer",
+                "position": "Midfield",
+                "shirtNo": "17",
+                "formationOrder": 9,
+                "contentID": "a1a629a6-9eed-4302-9307-ec77f38530c5",
+                "yellowCard": true
+              },
+              {
+                "type": "playerField",
+                "title": "Abdullah",
+                "position": "Goalkeeper",
+                "shirtNo": "1",
+                "formationOrder": 1,
+                "contentID": "9dcc8e17-8156-4cea-85df-54bb929d643c"
+              },
+              {
+                "type": "playerField",
+                "title": "Alshahrani",
+                "position": "Defender",
+                "shirtNo": "13",
+                "formationOrder": 5,
+                "contentID": "e8676072-5a15-4d03-a76e-e4912dc76f9d"
+              },
+              {
+                "type": "playerField",
+                "title": "Alsahlawi",
+                "position": "Forward",
+                "shirtNo": "10",
+                "formationOrder": 11,
+                "contentID": "ca6e5f1e-844e-433a-93f6-8ac2fa1fe749",
+                "substitute": "out"
+              },
+              {
+                "type": "substitute",
+                "title": "Hatan",
+                "position": "Substitute",
+                "shirtNo": "9",
+                "contentID": "1f23323e-532e-4adb-885f-cf93fe31a0ce",
+                "substitute": "in"
+              },
+              {
+                "type": "substitute",
+                "title": "Almuwallad",
+                "position": "Substitute",
+                "shirtNo": "19",
+                "contentID": "cc68eb59-4b05-46df-a97c-b2cd2d45c551",
+                "substitute": "in"
+              },
+              {
+                "type": "substitute",
+                "title": "Muhannad",
+                "position": "Substitute",
+                "shirtNo": "20",
+                "contentID": "0d919f02-ce74-43fa-a290-60aa4810fbf7",
+                "substitute": "in"
+              },
+              {
+                "type": "substitute",
+                "title": "Alowais",
+                "position": "Substitute",
+                "shirtNo": "22",
+                "contentID": "1c526c5e-2479-4c85-b72e-83199384407e"
+              },
+              {
+                "type": "substitute",
+                "title": "Ali",
+                "position": "Substitute",
+                "shirtNo": "4",
+                "contentID": "29cf007c-b155-4bbf-9482-882969e1d4f2"
+              },
+              {
+                "type": "substitute",
+                "title": "Kanno",
+                "position": "Substitute",
+                "shirtNo": "12",
+                "contentID": "06a46362-b49b-4363-884b-5a7799271c59"
+              },
+              {
+                "type": "substitute",
+                "title": "Mansour",
+                "position": "Substitute",
+                "shirtNo": "2",
+                "contentID": "b42b3302-5b73-487b-84aa-75c89e3a4969"
+              },
+              {
+                "type": "substitute",
+                "title": "Alkhaibari",
+                "position": "Substitute",
+                "shirtNo": "15",
+                "contentID": "728b6493-55eb-47d2-8cd3-e061aed48cf5"
+              },
+              {
+                "type": "substitute",
+                "title": "Motaz",
+                "position": "Substitute",
+                "shirtNo": "23",
+                "contentID": "8c5bd951-a0b1-434b-b133-3d0af852d0e4"
+              },
+              {
+                "type": "substitute",
+                "title": "Hussain",
+                "position": "Substitute",
+                "shirtNo": "16",
+                "contentID": "68bbdb74-a763-478c-8d22-3dd37cefcc3b"
+              },
+              {
+                "type": "substitute",
+                "title": "Abdulmalek",
+                "position": "Substitute",
+                "shirtNo": "11",
+                "contentID": "7f137631-c64c-4166-981f-04615e5287e4"
+              },
+              {
+                "type": "substitute",
+                "title": "Almosailem",
+                "position": "Substitute",
+                "shirtNo": "21",
+                "contentID": "1564490b-0529-4155-ae07-57a59e4330bb"
+              }
+            ]
+          }
+        }
+      ],
+      "title": "Homme du match",
+      "text": "Votez pour l'homme du match",
+      "textVoted": "Vous avez choisi",
+      "URLImage": "...",
+      "button": {
+        "title": " Voter",
+        "onClick": {
+          "displayTemplate": "surveyPlayers",
+          "displayName": "Note du match"
+        }
+      }
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "currentPage": {
+    "displayTemplate": "timeline",
+    "displayName": "Timeline",
+    "autorefresh": 60000
+  },
+  "contents": [
+    {
+      "text": "Donner votre note du match",
+      "title": "Note du Match",
+      "date": 3222289,
+      "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/48/4/pictomodeexpert-3x.36484.png",
+      "timingNotifications": 30000,
+      "onClick": {
+          "displayTemplate": "expertMode",
+          "displayName": "Mode Expert Ligue 1",
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/expertMode-Note.json?defaultPageID=100101",
+          "autorefresh": 30000
+        }
+    }
+  ]
+}

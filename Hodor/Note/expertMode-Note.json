@@ -20,22 +20,22 @@
   "rubriques": [
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Statistiques",
+      "displayName": "Note",
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json"
     },
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Composition",
-      "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json",
+      "displayName": "Statistiques",
+      "autorefresh": 5000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json",
       "default": true
     },
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Composition Rugby",
+      "displayName": "Composition",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rubgy-sportComposition.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json"
     },
     {
       "displayTemplate": "sportCalendar",
@@ -48,30 +48,7 @@
       "displayName": "Calendrier",
       "autorefresh": 10000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarSchedule.json"
-    },
-    {
-      "displayTemplate": "sportCalendar",
-      "displayName": "Calendrier Groupes",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
-    },
-    {
-      "displayTemplate": "sportCalendar",
-      "displayName": "Classement groupes",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
-    },
-    {
-      "displayTemplate": "sportRanking",
-      "displayName": "Classement",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json"
-    },
-    {
-      "displayTemplate": "sportRanking",
-      "displayName": "Classement Groupes",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRankingGroups.json"
     }
+    
   ]
 }
