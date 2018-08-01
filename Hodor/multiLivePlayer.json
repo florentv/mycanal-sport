@@ -1,0 +1,36 @@
+{
+  "currentPage": {
+    "displayTemplate": "multilivePlayer",
+    "displayName": "Multi-Live Player",
+    "BOName": "Multi-Live Player",
+    "BOLayoutName": "[Mobile sauf webapp] Multi-live Player",
+    "path": "/fonctionnalites/multi-live/player.html"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Multi-Live",
+      "prop5": "MyCtvOS - Multi-Live - Accueil",
+      "prop6": "MyCtvOS - Multi-Live - Accueil - Sport",
+      "pageName": "MyCtvOS - Multi-Live - Accueil - Sport",
+      "channel": "MyCtvOS",
+      "eVar31": "[Mobile sauf webapp] Multi-live Sport",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "channels": [
+  	{
+  		"EpgId": 370
+  	},
+  	{
+  		"EpgId": 177
+  	},
+  	{
+  		"EpgId": 381
+  	},
+  	{
+  		"EpgId": 228
+  	}
+  ]
+}
