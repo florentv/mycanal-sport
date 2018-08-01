@@ -338,7 +338,13 @@
     "onClick": {
       "displayTemplate": "multilivePlayer",
       "displayName": "Multi-Live Mosaïque",
-      "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/multilive/96bb6b03c6decabaff4f26383feb0370/id/7805?params[epgids]=123,324,76,47"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/multiLivePlayer.json"
     }
   }
 }
+
+/* ##### Remarques #####
+
+URLPage du multilivePlayer : "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/multilive/96bb6b03c6decabaff4f26383feb0370/id/7805?params[epgids]=123,324,76,47"
+
+*/
