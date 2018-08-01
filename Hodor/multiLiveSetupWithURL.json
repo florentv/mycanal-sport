@@ -1,0 +1,344 @@
+{
+  "currentPage": {
+    "displayTemplate": "multiliveSetup",
+    "displayName": "Multi-Live",
+    "BOName": "Multi-Live Sport",
+    "BOLayoutName": "[Mobile sauf webapp] Multi-live Sport",
+    "path": "/fonctionnalites/multi-live/pid6164-multi-live-sport.html"
+  },
+  "title": "Multi-Live",
+  "text": "Sélectionnez 2 à 4 programmes à voir en simultané",
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Multi-Live",
+      "prop5": "MyCtvOS - Multi-Live - Accueil",
+      "prop6": "MyCtvOS - Multi-Live - Accueil - Sport",
+      "pageName": "MyCtvOS - Multi-Live - Accueil - Sport",
+      "channel": "MyCtvOS",
+      "eVar31": "[Mobile sauf webapp] Multi-live Sport",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "channels": [
+    {
+      "EpgId": 177,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_177_20130826.PNG",
+      "Name": "CANAL+ SPORT",
+      "DVR": true,
+      "contents": [
+        {
+          "idDiffusion": "181164150",
+          "contentID": "10045932",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73472279",
+          "title": "Sport Reporter",
+          "subtitle": "Doc. Sport",
+          "startTime": 1533114000,
+          "endTime": 1533119100,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Sport Reporter",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10045932.json?id=10045932&params[type]=epg&idDiffusion=181164150&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10045932-sport-reporter.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 551,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_551_20160609.PNG",
+      "Name": "INFOSPORT+",
+      "contents": [
+        {
+          "idDiffusion": "182775237",
+          "contentID": "10175821",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1665",
+          "title": "Journal en langue des signes",
+          "subtitle": "Sport",
+          "startTime": 1533114000,
+          "endTime": 1533114900,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Journal en langue des signes",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10175821.json?id=10175821&params[type]=epg&idDiffusion=182775237&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10175821-journal-en-langue-des-signes.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 101,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_101_20151114.PNG",
+      "Name": "EUROSPORT 1",
+      "DVR": true,
+      "contents": [
+        {
+          "idDiffusion": "181593294",
+          "contentID": "10090197",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73438030",
+          "title": "Cyclisme - Tour de France 2018",
+          "subtitle": "12e étape : Bourg-St-Maurice Les Arcs - Alpe d'Huez (175,5 km)",
+          "startTime": 1533114000,
+          "endTime": 1533119400,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Cyclisme - Tour de France 2018",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10090197.json?id=10090197&params[type]=epg&idDiffusion=181593294&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10090197-cyclisme-tour-de-france-2018.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 436,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_436_20151114.PNG",
+      "Name": "EUROSPORT 2",
+      "DVR": true,
+      "contents": [
+        {
+          "idDiffusion": "181593612",
+          "contentID": "10068038",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73749364",
+          "title": "Watts",
+          "subtitle": "Mag. Sport",
+          "startTime": 1533114000,
+          "endTime": 1533117600,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Watts",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10068038.json?id=10068038&params[type]=epg&idDiffusion=181593612&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10068038-watts.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 573,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_573_20150527.PNG",
+      "Name": "OM TV",
+      "contents": [
+        {
+          "idDiffusion": "179195760",
+          "contentID": "10165582",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/24427903",
+          "title": "OMtv",
+          "subtitle": "Mag. Football",
+          "startTime": 1533110400,
+          "endTime": 1533117600,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "OMtv",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10165582.json?id=10165582&params[type]=epg&idDiffusion=179195760&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10165582-omtv.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 572,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_572_20180320.PNG",
+      "Name": "OL TV",
+      "contents": [
+        {
+          "idDiffusion": "183551445",
+          "contentID": "10191920",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1676",
+          "title": "Ligue 1",
+          "subtitle": "Football",
+          "startTime": 1533108300,
+          "endTime": 1533114900,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Ligue 1",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10191920.json?id=10191920&params[type]=epg&idDiffusion=183551445&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10191920-ligue-1.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 574,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_574_20150602.PNG",
+      "Name": "ONZEO",
+      "contents": [
+        {
+          "idDiffusion": "180265224",
+          "contentID": "7402335",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39470414",
+          "title": "Lens / Red Star",
+          "startTime": 1533108000,
+          "endTime": 1533114300,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Lens / Red Star",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/7402335.json?id=7402335&params[type]=epg&idDiffusion=180265224&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/7402335-lens-red-star.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 548,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_548_20171116.PNG",
+      "Name": "GIRONDINS TV",
+      "DVR": true,
+      "contents": [
+        {
+          "idDiffusion": "182948374",
+          "contentID": "9423935",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60474196",
+          "title": "Troyes / Bordeaux",
+          "startTime": 1533108600,
+          "endTime": 1533114600,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Troyes / Bordeaux",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/9423935.json?id=9423935&params[type]=epg&idDiffusion=182948374&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9423935-troyes-bordeaux.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 612,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_612_20150918.PNG",
+      "Name": "AB MOTEURS",
+      "contents": [
+        {
+          "idDiffusion": "181585698",
+          "contentID": "10134760",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73393781",
+          "title": "Sport Mécanique - Overton's 400",
+          "startTime": 1533113700,
+          "endTime": 1533117000,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Sport Mécanique - Overton's 400",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10134760.json?id=10134760&params[type]=epg&idDiffusion=181585698&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10134760-sport-mecanique-overton-s-400.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 540,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_540_20180108.PNG",
+      "Name": "EQUIDIA",
+      "DVR": true,
+      "contents": [
+        {
+          "idDiffusion": "181496250",
+          "contentID": "10130549",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/62727148",
+          "title": "Pronos",
+          "subtitle": "Mag. Equitation",
+          "startTime": 1533114000,
+          "endTime": 1533115800,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Pronos",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10130549.json?id=10130549&params[type]=epg&idDiffusion=181496250&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10130549-pronos.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 381,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_381_20170112.PNG",
+      "Name": "BEIN SPORTS 1",
+      "DVR": true,
+      "contents": [
+        {
+          "idDiffusion": "182367857",
+          "contentID": "10119114",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/44783488",
+          "title": "Chelsea (Gbr) / Inter Milan (Ita)",
+          "startTime": 1533110400,
+          "endTime": 1533117600,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Chelsea (Gbr) / Inter Milan (Ita)",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10119114.json?id=10119114&params[type]=epg&idDiffusion=182367857&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10119114-chelsea-gbr-inter-milan-ita.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 384,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_384_20170112.PNG",
+      "Name": "BEIN SPORTS 2",
+      "DVR": true,
+      "contents": [
+        {
+          "idDiffusion": "182367948",
+          "contentID": "9348224",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/60273669",
+          "title": "Juventus Turin / AS Roma",
+          "startTime": 1533110400,
+          "endTime": 1533117600,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Juventus Turin / AS Roma",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/9348224.json?id=9348224&params[type]=epg&idDiffusion=182367948&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/9348224-juventus-turin-as-roma.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 516,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_516_20170112.PNG",
+      "Name": "BEIN SPORTS 3",
+      "DVR": true,
+      "contents": [
+        {
+          "idDiffusion": "181653261",
+          "contentID": "10137670",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1857",
+          "title": "Basket-ball - Dallas Wings / Chicago Sky",
+          "startTime": 1533114000,
+          "endTime": 1533121200,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Basket-ball - Dallas Wings / Chicago Sky",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10137670.json?id=10137670&params[type]=epg&idDiffusion=181653261&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10137670-basket-ball-dallas-wings-chicago-sky.html"
+          }
+        }
+      ]
+    },
+    {
+      "EpgId": 451,
+      "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/640X480/CHN43FN_451_20161024.PNG",
+      "Name": "L'EQUIPE",
+      "contents": [
+        {
+          "idDiffusion": "181998114",
+          "contentID": "10150201",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1777",
+          "title": "Sport - Masters 2018",
+          "subtitle": "5e manche. 1re demi-finale",
+          "startTime": 1533112200,
+          "endTime": 1533117600,
+          "onClick": {
+            "displayTemplate": "liveTVPremium",
+            "displayName": "Sport - Masters 2018",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/96bb6b03c6decabaff4f26383feb0370/epg/10150201.json?id=10150201&params[type]=epg&idDiffusion=181998114&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10150201-sport-masters-2018.html"
+          }
+        }
+      ]
+    }
+  ],
+  "button": {
+    "title": "Accéder à la mosaique",
+    "onClick": {
+      "displayTemplate": "multilivePlayer",
+      "displayName": "Multi-Live Mosaïque",
+      "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/multilive/96bb6b03c6decabaff4f26383feb0370/id/7805?params[epgids]=123,324,76,47"
+    }
+  }
+}
