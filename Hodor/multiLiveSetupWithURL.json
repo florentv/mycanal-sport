@@ -342,9 +342,3 @@
     }
   }
 }
-
-/* ##### Remarques #####
-
-URLPage du multilivePlayer : "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/multilive/96bb6b03c6decabaff4f26383feb0370/id/7805?params[epgids]=123,324,76,47"
-
-*/
