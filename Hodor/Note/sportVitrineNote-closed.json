@@ -28,6 +28,8 @@
           "type": "rating",
           "contentID": "67ee81c1-78ddheke",
           "status": "closed",
+          "URLImage": "...",
+          "URLLogo": "...",
           "description": "Retrouvez les résultats des votes lors du Canal Football Club",
           "result": [
             {

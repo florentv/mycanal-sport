@@ -19,7 +19,8 @@
       "displayTemplate": "sportRanking",
       "displayName": "Classement",
       "autorefresh" : 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Bran/sportRanking.json",
+      "default": true
     },
     {
       "displayTemplate": "sportVitrine",

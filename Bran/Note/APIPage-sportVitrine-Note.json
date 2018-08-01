@@ -23,7 +23,9 @@
           "surveyType": "rating",
           "title": "Note du match",
           "text": "Notez le match",
+          "textVoted" : "Votre note du match :",
           "URLImage": "https://...",
+          "URLLogo": "https://...",
           "description": "Retrouvez les résultats des votes lors du CANAL Football Club",
           "textResults": "Votre note du match"
         },

@@ -28,18 +28,10 @@
           "text": "Notez le match",
           "contentID": "67ee81c1-78ddheke",
           "URLImage": "...",
+          "URLLogo": "...",
           "startDate": 188899933,
           "status": "created",
           "type": "rating"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "contentID": "1234",
-      "contents": [
-        {
-          "text": "Retrouvez les résultats des votes lors du Canal Football Club"
         }
       ]
     }
