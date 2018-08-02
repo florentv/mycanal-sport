@@ -1,10 +1,10 @@
 {
   "currentPage": {
-    "displayTemplate": "multiliveSetup",
-    "displayName": "Multi-Live",
-    "BOName": "Multi-Live Favoris",
+    "displayTemplate": "multilivePlayer",
+    "displayName": "Multi-Live Player",
+    "BOName": "Multi-Live Player",
     "BOLayoutName": "[tvOS] Multi-live Favoris",
-    "path": "/live-tv/fonctionnalites/pid6395-multi-live-favoris.html"
+    "path": "/live-tv/fonctionnalites/pid6395-multi-live-player.html"
   },
   "tracking": {
     "omniture": {
@@ -29,13 +29,7 @@
       "prop12": "Consumer"
     }
   },
-  "title": "Multi-Live",
-  "text": "Sélectionnez 2 à 4 programmes à voir en simultané",
-  "button": {
-    "title": "Accéder à la mosaïque"
-  },
-  "thematicID": "0$g$a$",
-  "favoriteChannels": {
-    "isActive": true
+  "configuration": {
+    "withStreamsSync": true
   }
 }

@@ -1,0 +1,49 @@
+{
+  "currentPage": {
+    "displayTemplate": "multiliveSetup",
+    "displayName": "Multi-Live",
+    "BOName": "Multi-Live Favoris",
+    "BOLayoutName": "[tvOS] Multi-live Favoris",
+    "path": "/live-tv/fonctionnalites/pid6395-multi-live-favoris.html"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Multi-Live",
+      "prop5": "MyCtvOS - Multi-Live - Accueil",
+      "prop6": "MyCtvOS - Multi-Live - Accueil - Favoris",
+      "eVar31": "[tvOS] Multi-live Favoris",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Multi-Live - Accueil - Favoris"
+    },
+    "variables": {
+      "channel": "MyCtvOS",
+      "level1": "Multi-Live",
+      "level2": "Accueil",
+      "level3": "Favoris",
+      "eVar31": "[tvOS] Multi-live Favoris",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "title": "Multi-Live",
+  "text": "Sélectionnez 2 à 4 programmes à voir en simultané",
+  "button": {
+    "title": "Accéder à la mosaïque",
+    "onClick": {
+      "displayTemplate": "multilivePlayer",
+      "displayName": "Multi-Live Player",
+      "URLPage": "https://bran...",
+      "BOName": "Multi-live Player",
+      "BOLayoutName": "[iOS] Multi-Live Player",
+      "path": "/live-tv/fonctionnalites/pid6395-multi-live-player.html"
+    }
+  },
+  "thematicID": "0$g$a$",
+  "favoriteChannels": {
+    "isActive": true
+  }
+}
