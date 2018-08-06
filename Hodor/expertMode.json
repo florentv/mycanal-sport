@@ -45,12 +45,6 @@
     },
     {
       "displayTemplate": "sportCalendar",
-      "displayName": "Calendrier",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarSchedule.json"
-    },
-    {
-      "displayTemplate": "sportCalendar",
       "displayName": "Calendrier Groupes",
       "autorefresh": 10000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
@@ -66,12 +60,6 @@
       "displayName": "Classement",
       "autorefresh": 10000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json"
-    },
-    {
-      "displayTemplate": "sportRanking",
-      "displayName": "Classement Groupes",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRankingGroups.json"
     }
   ]
 }
