@@ -33,7 +33,7 @@
           "button": {
             "title": "Noter",
             "onClick": {
-              "displayTemplate": "rating",
+              "displayTemplate": "surveyRating",
               "displayName": "Note du match"
             }
           }
@@ -55,7 +55,7 @@
           "button": {
             "title": "Voter",
             "onClick": {
-              "displayTemplate": "rating",
+              "displayTemplate": "surveyRating",
               "displayName": "Note du match"
             }
           }

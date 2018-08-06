@@ -19,6 +19,9 @@
       "prop12": "Consumer"
     }
   },
+  "pageParameters": {
+    "withStreamsSync": true
+  },
   "channels": [
   	{
   		"EpgId": 370
