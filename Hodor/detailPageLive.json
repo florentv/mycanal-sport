@@ -131,7 +131,7 @@
     "displayExpertMode": [
       {
         "title": "Mode Expert disponible",
-        "URLImage": "http://media.mycanal.fr/image/05/6/circuit-australie_ipad_calendrier_462_x_260.8056.png",
+        "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/48/4/pictomodeexpert-3x.36484.png",
         "subtitle": "Appui long sur la Surface Touch",
         "onClick": {
           "displayTemplate": "expertMode",
