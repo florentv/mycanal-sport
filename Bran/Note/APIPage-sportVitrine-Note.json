@@ -24,6 +24,7 @@
           "title": "Note du match",
           "text": "Notez le match",
           "textVoted" : "Votre note du match :",
+          "textMaxVote": "/ 20",
           "URLImage": "https://...",
           "URLLogo": "https://...",
           "description": "Retrouvez les résultats des votes lors du CANAL Football Club",

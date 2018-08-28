@@ -1,0 +1,43 @@
+{
+  "currentPage": {
+    "displayTemplate": "highlights",
+    "displayName": "Temps forts",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "A definir",
+      "prop5": "A definir",
+      "prop6": "A definir",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "A definir"
+    }
+  },
+  "strates": [
+    {
+      "configuration": {
+        "global": {
+          "strateType": "highlights"
+        },
+        "contents": [
+          {
+            "contentType": "automatic",
+            "configuration": {
+              "maxContentNumber": "100",
+              "PFS": "pfv",
+              "onClickBehaviour": "player",
+              "PFSParameters": {
+                "listID": "1444589"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "empty": {
+    "displayName": "Les compositions ne sont pas disponibles pour le moment."
+  }
+}
