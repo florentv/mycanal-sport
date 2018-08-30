@@ -60,6 +60,12 @@
       "displayName": "Classement",
       "autorefresh": 10000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Note",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote.json"
     }
   ]
 }

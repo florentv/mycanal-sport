@@ -21,7 +21,7 @@
   "strates": [
     {
       "type": "survey",
-      "contentID": "1234",
+      "contentID": "1",
       "title": "Note du match",
       "contents": [
         {
