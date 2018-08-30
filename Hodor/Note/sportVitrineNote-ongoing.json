@@ -27,12 +27,14 @@
         {
           "type": "rating",
           "contentID": "67ee81c1-78ddheke",
+          "startTime" : 1287394,
           "text": "Notez le match",
           "URLImage": "...",
           "URLLogo": "...",
           "status": "ongoing",
           "textMaxVote": "/ 20",
           "textVoted": "Votre note du match",
+          "description": "Retrouvez le résultat du vote lors du Canal Football Club",
           "values": [
             {
               "id": 1,
