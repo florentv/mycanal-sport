@@ -50,10 +50,10 @@
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
     },
     {
-      "displayTemplate": "sportCalendar",
+      "displayTemplate": "sportRanking",
       "displayName": "Classement groupes",
       "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportCalendarGroups.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRankingGroups.json"
     },
     {
       "displayTemplate": "sportRanking",
