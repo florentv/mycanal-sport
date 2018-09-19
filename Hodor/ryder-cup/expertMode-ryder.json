@@ -22,20 +22,20 @@
       "displayTemplate": "highlights",
       "displayName": "Temps forts",
       "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Ryder%20Cup/highlights-ryder-holes.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/ryder-cup/highlights-ryder-holes.json"
     },
     {
       "displayTemplate": "highlights",
       "displayName": "Parcours",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Ryder%20Cup/highlights-ryder-holes.json",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/ryder-cup/highlights-ryder-holes.json",
       "default": true
     },
     {
       "displayTemplate": "highlights",
       "displayName": "Portraits",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Ryder%20Cup/highlights-ryder-portraitss.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/ryder-cup/highlights-ryder-portraitss.json"
     }
   ]
 }
