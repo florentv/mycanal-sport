@@ -1,0 +1,109 @@
+{
+  "currentPage": {
+    "displayTemplate": "highlights",
+    "displayName": "Temps forts",
+    "autorefresh": 30000,
+    "path": "/fonctionnalites/mode-expert/pid100797-ligue-1-temps-forts.html"
+  },
+  "strates": [
+    {
+      "type": "highlights",
+      "contents": [
+        {
+          "type": "videoHighlights",
+          "contentID": "3712472341",
+          "title": "Survol du trou n°1",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/media.canal-plus.com/wwwplus/image/1/6/14/nip-nip-159021-640x360-r2nyo.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Survol du trou n°1",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/87bf05416f849e5b5c18dfcb660aaae3/pfv/1507243.json?id=1507243&params[type]=pfv&cache=780000",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/87bf05416f849e5b5c18dfcb660aaae3/pfv/1507243.json?pfv={FORMAT}&cache=780000",
+            "path": "/sport/68-but-ocampos/p/3712472341"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "3712350416",
+          "title": "54' : But de Benzia",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/f0a3be3a8f4d9404743fbfde48e0b7ad87c10681.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "54' : But de Benzia",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712350416.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712350416.json?params[contentType]=sport",
+            "path": "/sport/54-but-de-benzia/p/3712350416"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "3712049944",
+          "title": "38' : Doublé de Mitroglou ",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/46e692acdc486a4c66f0712017d45a2ceb903668.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "38' : Doublé de Mitroglou ",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712049944.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712049944.json?params[contentType]=sport",
+            "path": "/sport/38-double-de-mitroglou/p/3712049944"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "3712017311",
+          "title": "35' : But Mitroglou",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/4be99ba54de4408d15b73d9b395c9923e0216a5b.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "35' : But Mitroglou",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712017311.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712017311.json?params[contentType]=sport",
+            "path": "/sport/35-but-mitroglou/p/3712017311"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "3711972456",
+          "title": "30' : Penalty transformé par Thauvin ",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/1d0b0b96c0dfcf2d4d7b68bf0d03cf3fac13d97b.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "30' : Penalty transformé par Thauvin ",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711972456.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711972456.json?params[contentType]=sport",
+            "path": "/sport/30-penalty-transforme-par-thauvin/p/3711972456"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "3711816917",
+          "title": "12' : But Thauvin",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/ef0c3247d5a362d53bcf75d5731fb2049c0e4989.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "12' : But Thauvin",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711816917.json?params[contentType]=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711816917.json?params[contentType]=sport",
+            "path": "/sport/12-but-thauvin/p/3711816917"
+          }
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune vidéo disponible pour le moment"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Temps forts",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Temps forts",
+      "channel": "MyCtvOS",
+      "eVar31": "[ME] Temps forts Sport auto",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}
