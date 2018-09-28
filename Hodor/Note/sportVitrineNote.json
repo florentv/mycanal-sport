@@ -25,29 +25,31 @@
       "title": "Note du match",
       "contents": [
         {
-          "text": "Notez le match",
+          "type": "rating",
           "contentID": "67ee81c1-78ddheke",
+          "status": "1",
+          "displayStatus": "A venir",
+          "text": "Notez le match", 
           "URLImage": "...",
           "URLLogo": "...",
-          "startDate": 188899933,
-          "status": "created",
-          "type": "rating"
+          "startDate": 188899933
         }
       ]
     },
      {
-      "type": "survey",
+      "type": "survey", 
       "contentID": "2",
       "title": "Note du match",
       "contents": [
         {
           "type": "rating",
+          "status": "2",
+          "displayStatus": "En cours",
           "contentID": "67ee81c1-78ddheke",
           "startTime" : 1287394,
           "text": "Notez le match",
           "URLImage": "...",
           "URLLogo": "...",
-          "status": "ongoing",
           "textMaxVote": "/ 20",
           "textVoted": "Votre note du match",
           "description": "Retrouvez le résultat du vote lors du Canal Football Club",
@@ -151,19 +153,16 @@
         {
           "type": "rating",
           "contentID": "67ee81c1-78ddheke",
-          "status": "closed",
+          "status": "3",
           "displayStatus": "Terminé",
           "URLImage": "...",
           "URLLogo": "...",
           "description": "Retrouvez les résultats des votes lors du Canal Football Club",
+          "numberOfVotes" : "30 456",
           "result": [
             {
-              "type": "mean",
-              "value": "12,4"
-            },
-            {
-              "type": "nbVoters",
-              "value": "300478"
+              "value": "mean",
+              "text": "12,4"
             }
           ]
         }
