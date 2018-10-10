@@ -1,0 +1,176 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Statistiques",
+    "autorefresh": 5000,
+    "pullToRefresh": true
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats"
+    }
+  },
+  "strates": [
+    {
+      "type": "survey",
+      "contentID": "1",
+      "title": "Note du match",
+      "contents": [
+        {
+          "type": "rating",
+          "contentID": "67ee81c1-78ddheke",
+          "status": "1",
+          "displayStatus": "A venir",
+          "text": "Notez le match", 
+          "URLImage": "...",
+          "URLLogo": "...",
+          "startDate": 188899933
+        }
+      ]
+    },
+     {
+      "type": "survey", 
+      "contentID": "2",
+      "title": "Note du match",
+      "contents": [
+        {
+          "type": "rating",
+          "status": "2",
+          "displayStatus": "En cours",
+          "contentID": "67ee81c1-78ddheke",
+          "startTime" : 1287394,
+          "endTime" : 12478,
+          "text": "Notez le match",
+          "URLImage": "...",
+          "URLLogo": "...",
+          "textMaxVote": "/ 20",
+          "textVoted": "Votre note du match",
+          "description": "Retrouvez le résultat du vote lors du Canal Football Club",
+          "values": [
+            {
+              "value": 1,
+              "text": "1"
+            },
+            {
+              "value": 2,
+              "text": "2"
+            },
+            {
+              "value": 3,
+              "text": "3"
+            },
+             {
+              "value": 4,
+              "text": "4"
+            },
+            {
+              "value": 5,
+              "text": "5"
+            },
+            {
+              "value": 6,
+              "text": "6"
+            },
+             {
+              "value": 7,
+              "text": "7"
+            },
+            {
+              "value": 8,
+              "text": "8"
+            },
+            {
+              "value": 9,
+              "text": "9"
+            },
+             {
+              "value": 10,
+              "text": "10"
+            },
+            {
+              "value": 11,
+              "text": "11"
+            },
+            {
+              "value": 12,
+              "text": "12"
+            },
+             {
+              "value": 13,
+              "text": "13"
+            },
+            {
+              "value": 14,
+              "text": "14"
+            },
+            {
+              "value": 15,
+              "text": "15"
+            },
+             {
+              "value": 16,
+              "text": "16"
+            },
+            {
+              "value": 17,
+              "text": "17"
+            },
+            {
+              "value": 18,
+              "text": "18"
+            },
+             {
+              "value": 19,
+              "text": "19"
+            },
+            {
+              "value": 20,
+              "text": "20"
+            }
+          ],
+          "button": {
+            "title": " Noter",
+            "onClick": {
+              "displayTemplate": "surveyRatin g",
+              "displayName": "Note du match"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "survey",
+      "contentID": "3",
+      "title": "Note du match",
+      "contents": [
+        {
+          "type": "rating",
+          "contentID": "67ee81c1-78ddheke",
+          "status": "3",
+          "displayStatus": "Terminé",
+          "URLImage": "...",
+          "URLLogo": "...",
+          "description": "Retrouvez les résultats des votes lors du Canal Football Club",
+          "numberOfVotes" : "30 456",
+          "result": [
+            {
+              "value": "mean",
+              "text": "12,4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  }
+}
