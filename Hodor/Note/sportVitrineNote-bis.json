@@ -1,0 +1,128 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Statistiques",
+    "autorefresh": 5000,
+    "pullToRefresh": true
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats"
+    }
+  },
+  "strates": [
+    {
+      "type": "survey",
+      "contentID": "1",
+      "title": "Note du match",
+      "contents": [
+        {
+          "type": "rating",
+          "contentID": "67ee81c1-78ddheke",
+          "status": 2,
+          "URLImage": "...",
+          "startDate": 188899933,
+          "endDate": 2900909,
+          "layouts": [
+            {
+              "layoutID": "0",
+              "title": "Notez le match",
+              "URLLogo": "...",
+              "action": {
+                "type": "countdown"
+              }
+            },
+            {
+              "layoutID": "1",
+              "title": "Notez le match",
+              "URLLogo": "...",
+              "action": {
+                "type": "button",
+                "title": "Noter",
+                "rate": {
+                  "textMaxVote": "/ 20",
+                  "description": "Votre note du match",
+                  "button": {
+                    "title": "Valider"
+                  },
+                  "values": [
+                    {
+                      "value": 1,
+                      "text": "1"
+                    },
+                    {
+                      "value": 2,
+                      "text": "2",
+                      "default": true
+                    },
+                    {
+                      "value": 3,
+                      "text": "3"
+                    },
+                    {
+                      "value": 4,
+                      "text": "4"
+                    },
+                    {
+                      "value": 5,
+                      "text": "5"
+                    },
+                    {
+                      "value": 6,
+                      "text": "6"
+                    }
+                  ]
+                },
+                "onClick": {
+                  "displayTemplate": "surveyRating",
+                  "displayName": "Note du match"
+                }
+              }
+            },
+            {
+              "layoutID": "2",
+              "title": "Vous avez noté le match : ",
+              "URLLogo": "...",
+              "description": "Retrouvez les résultats des votes lors du Canal Football Club",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/ 20"
+              }
+            },
+            {
+              "layoutID": "3",
+              "title": "Vous avez noté le match : ",
+              "URLLogo": "...",
+              "description": "Retrouvez les résultats des votes lors du Canal Football Club",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/ 20"
+              }
+            },
+            {
+              "layoutID": "4",
+              "title": "Notez le match",
+              "URLLogo": "...",
+              "description": "Retrouvez les résultats des votes lors du Canal Football Club",
+              "action": {
+                "type": "label",
+                "title": " Terminé"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  }
+}
