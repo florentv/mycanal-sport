@@ -22,7 +22,7 @@
       "displayTemplate": "sportVitrine",
       "displayName": "Note",
       "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrineNote-new.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-new.json"
     },
     {
       "displayTemplate": "sportVitrine",
