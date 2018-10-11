@@ -28,7 +28,7 @@
             "title": "Noter",
             "rate": {
               "textMaxVote": "/ 20",
-              "description": "Votre note du match",
+              "description": "Sélectionner une note sur 20 ",
               "button": {
                 "title": "Valider"
               },
