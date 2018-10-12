@@ -44,13 +44,11 @@
               "layoutID": "1",
               "title": "Notez le match",
               "URLLogo": "...",
-              "action": {
-                "type": "button",
-                "title": "Noter",
-                "rate": {
+              "rate": {
                   "textMaxVote": "/ 20",
-                  "description": "Votre note du match",
-                  "button": {
+                  "title": "Votre note du match",
+                  "action": {
+                    "type": "button",
                     "title": "Valider"
                   },
                   "values": [
@@ -81,11 +79,14 @@
                     }
                   ]
                 },
+              "action": {
+                "type": "button",
+                "title": "Noter"
+                },
                 "onClick": {
                   "displayTemplate": "surveyRating",
                   "displayName": "Note du match"
                 }
-              }
             },
             {
               "layoutID": "2",
