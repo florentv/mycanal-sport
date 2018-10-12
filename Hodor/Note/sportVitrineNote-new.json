@@ -45,48 +45,48 @@
               "title": "Notez le match",
               "URLLogo": "...",
               "rate": {
-                  "textMaxVote": "/ 20",
-                  "title": "Votre note du match",
-                  "action": {
-                    "type": "button",
-                    "title": "Valider"
-                  },
-                  "values": [
-                    {
-                      "value": 1,
-                      "text": "1"
-                    },
-                    {
-                      "value": 2,
-                      "text": "2",
-                      "default": true
-                    },
-                    {
-                      "value": 3,
-                      "text": "3"
-                    },
-                    {
-                      "value": 4,
-                      "text": "4"
-                    },
-                    {
-                      "value": 5,
-                      "text": "5"
-                    },
-                    {
-                      "value": 6,
-                      "text": "6"
-                    }
-                  ]
+                "textMaxVote": "/ 20",
+                "title": "Votre note du match",
+                "action": {
+                  "type": "button",
+                  "title": "Valider"
                 },
+                "values": [
+                  {
+                    "value": 1,
+                    "text": "1"
+                  },
+                  {
+                    "value": 2,
+                    "text": "2",
+                    "default": true
+                  },
+                  {
+                    "value": 3,
+                    "text": "3"
+                  },
+                  {
+                    "value": 4,
+                    "text": "4"
+                  },
+                  {
+                    "value": 5,
+                    "text": "5"
+                  },
+                  {
+                    "value": 6,
+                    "text": "6"
+                  }
+                ]
+              },
               "action": {
                 "type": "button",
-                "title": "Noter"
-                },
+                "title": "Noter",
                 "onClick": {
                   "displayTemplate": "surveyRating",
                   "displayName": "Note du match"
                 }
+              }
             },
             {
               "layoutID": "2",
