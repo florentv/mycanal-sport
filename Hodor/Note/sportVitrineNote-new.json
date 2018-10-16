@@ -1,7 +1,7 @@
 {
   "currentPage": {
     "displayTemplate": "sportVitrine",
-    "displayName": "Statistiques",
+    "displayName": "Note",
     "autorefresh": 5000,
     "pullToRefresh": true
   },
@@ -22,7 +22,7 @@
     {
       "type": "survey",
       "contentID": "1",
-      "title": "Note du match",
+      "title": "Note du match (facultatif)",
       "contents": [
         {
           "type": "rating",
@@ -124,6 +124,6 @@
     }
   ],
   "empty": {
-    "displayName": "Aucune statistiques disponible pour le moment"
+    "displayName": "Aucun sondage disponible pour le moment"
   }
 }
