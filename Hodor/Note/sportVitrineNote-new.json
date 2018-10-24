@@ -107,7 +107,7 @@
               "description": "Retrouvez les résultats des votes lors du Canal Football Club",
               "action": {
                 "type": "userNote",
-                "textMaxVote": "/ 20"
+                "textMaxVote": " / 20"
               }
             },
             {
