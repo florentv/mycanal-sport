@@ -35,7 +35,7 @@
             {
               "layoutID": "0",
               "title": "Notez le match",
-              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/99/0/notedumatch.42990.png",
+              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/99/0/notedumatch.42990.png",
               "description": "Retrouvez les résultats des votes lors du Canal Football Club",
               "action": {
                 "type": "countdown"
@@ -44,7 +44,7 @@
             {
               "layoutID": "1",
               "title": "Notez le match",
-              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/99/0/notedumatch.42990.png",
+              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/99/0/notedumatch.42990.png",
               "description": "Retrouvez les résultats des votes lors du Canal Football Club",
               "rate": {
                 "textMaxVote": "/ 20",
@@ -93,7 +93,7 @@
             {
               "layoutID": "2",
               "title": "Vous avez noté le match : ",
-              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/99/0/notedumatch.42990.png",
+              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/99/0/notedumatch.42990.png",
               "description": "Retrouvez les résultats des votes lors du Canal Football Club",
               "action": {
                 "type": "userNote",
@@ -103,7 +103,7 @@
             {
               "layoutID": "3",
               "title": "Vous avez noté le match : ",
-              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/99/0/notedumatch.42990.png",
+              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/99/0/notedumatch.42990.png",
               "description": "Retrouvez les résultats des votes lors du Canal Football Club",
               "action": {
                 "type": "userNote",
@@ -113,7 +113,7 @@
             {
               "layoutID": "4",
               "title": "Notez le match",
-              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/99/0/notedumatch.42990.png",
+              "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/99/0/notedumatch.42990.png",
               "description": "Retrouvez les résultats des votes lors du Canal Football Club",
               "action": {
                 "type": "label",
