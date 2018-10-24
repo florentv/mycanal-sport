@@ -47,7 +47,7 @@
               "URLLogo": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/99/0/notedumatch.42990.png",
               "description": "Retrouvez les résultats des votes lors du Canal Football Club",
               "rate": {
-                "textMaxVote": "/ 20",
+                "textMaxVote": " / 20",
                 "title": "Votre note du match",
                 "action": {
                   "type": "button",
@@ -97,7 +97,7 @@
               "description": "Retrouvez les résultats des votes lors du Canal Football Club",
               "action": {
                 "type": "userNote",
-                "textMaxVote": "/ 20"
+                "textMaxVote": " / 20"
               }
             },
             {
