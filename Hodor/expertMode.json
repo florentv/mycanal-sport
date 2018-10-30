@@ -32,6 +32,12 @@
       "default": true
     },
     {
+      "displayTemplate": "multicam",
+      "displayName": "Multicam",
+      "autorefresh": 10000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/multicam.json"
+    },
+    {
       "displayTemplate": "sportVitrine",
       "displayName": "Composition",
       "autorefresh": 30000,
