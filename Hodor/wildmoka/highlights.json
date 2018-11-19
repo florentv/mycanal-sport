@@ -3,7 +3,7 @@
     "displayTemplate": "highlights",
     "displayName": "Temps forts",
     "autorefresh": 30000,
-    "path": "/fonctionnalites/mode-expert/pid100797-ligue-1-temps-forts.html"
+    "path": "/fonctionnalites/mode-expert/f1/pid100578-temps-forts-f1.html"
   },
   "strates": [
     {
@@ -11,99 +11,175 @@
       "contents": [
         {
           "type": "videoHighlights",
-          "contentID": "3712472341",
-          "title": "68' : But Ocampos",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/040cb51f9509e6fed4185bad116cc52b567fd0bd.jpg",
+          "contentID": "6412835524",
+          "title": "Verstappen dépasse Hamilton !",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/c3301b733f0b6be392704b3427d66556a31322a5.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "68' : But Ocampos",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712472341.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712472341.json?params[contentType]=sport",
-            "path": "/sport/68-but-ocampos/p/3712472341"
+            "displayName": "Verstappen dépasse Hamilton !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412835524.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412835524.json?params%5BcontentType%5D=sport",
+            "path": "/sport/verstappen-depasse-hamilton/p/6412835524"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3712350416",
-          "title": "54' : But de Benzia",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/f0a3be3a8f4d9404743fbfde48e0b7ad87c10681.jpg",
+          "contentID": "6412895014",
+          "title": "Tête-à-queue de Verstappen après un accrochage avec Ocon !",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/c3301b733f0b6be392704b3427d66556a31322a5.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "54' : But de Benzia",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712350416.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712350416.json?params[contentType]=sport",
-            "path": "/sport/54-but-de-benzia/p/3712350416"
+            "displayName": "Tête-à-queue de Verstappen après un accrochage avec Ocon !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412895014.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412895014.json?params%5BcontentType%5D=sport",
+            "path": "/sport/tete-a-queue-de-verstappen-apres-un-accrochage-avec-ocon/p/6412895014"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3712049944",
-          "title": "38' : Doublé de Mitroglou ",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/46e692acdc486a4c66f0712017d45a2ceb903668.jpg",
+          "contentID": "6412941840",
+          "title": "Tête-à-queue de Verstappen après un accrochage avec Ocon !",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/e7fa20a8a61c2dcc98f00f63f6e61fe1923884fd.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "38' : Doublé de Mitroglou ",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712049944.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712049944.json?params[contentType]=sport",
-            "path": "/sport/38-double-de-mitroglou/p/3712049944"
+            "displayName": "Tête-à-queue de Verstappen après un accrochage avec Ocon !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412941840.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412941840.json?params%5BcontentType%5D=sport",
+            "path": "/sport/tete-a-queue-de-verstappen-apres-un-accrochage-avec-ocon/p/6412941840"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3712017311",
-          "title": "35' : But Mitroglou",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/4be99ba54de4408d15b73d9b395c9923e0216a5b.jpg",
+          "contentID": "6412599555",
+          "title": "Ericsson va devoir s'arrêter après un tête-à-queue",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/aa527424cf1202c308b7a476ac908f3a2ee9fd4c.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "35' : But Mitroglou",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712017311.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3712017311.json?params[contentType]=sport",
-            "path": "/sport/35-but-mitroglou/p/3712017311"
+            "displayName": "Ericsson va devoir s'arrêter après un tête-à-queue",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412599555.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412599555.json?params%5BcontentType%5D=sport",
+            "path": "/sport/ericsson-va-devoir-s-arreter-apres-un-tete-a-queue/p/6412599555"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3711972456",
-          "title": "30' : Penalty transformé par Thauvin ",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/1d0b0b96c0dfcf2d4d7b68bf0d03cf3fac13d97b.jpg",
+          "contentID": "6412464983",
+          "title": "Un Verstappen survolté dépasse Bottas !",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/5fe189449ce4d6394f1cd79fa6e1d1761d41bb8a.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "30' : Penalty transformé par Thauvin ",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711972456.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711972456.json?params[contentType]=sport",
-            "path": "/sport/30-penalty-transforme-par-thauvin/p/3711972456"
+            "displayName": "Un Verstappen survolté dépasse Bottas !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412464983.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412464983.json?params%5BcontentType%5D=sport",
+            "path": "/sport/un-verstappen-survolte-depasse-bottas/p/6412464983"
           }
         },
         {
           "type": "videoHighlights",
-          "contentID": "3711816917",
-          "title": "12' : But Thauvin",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/ef0c3247d5a362d53bcf75d5731fb2049c0e4989.jpg",
+          "contentID": "6412380693",
+          "title": "Verstappen dépasse les deux Ferrari l'une après l'autre !",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/aa1b47c1129074bd3883518c5870775d57ab95a0.jpg",
           "onClick": {
             "displayTemplate": "quicktime",
-            "displayName": "12' : But Thauvin",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711816917.json?params[contentType]=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/15125e96bdeb77500d9eb2fb899edff8/wildmoka/3711816917.json?params[contentType]=sport",
-            "path": "/sport/12-but-thauvin/p/3711816917"
+            "displayName": "Verstappen dépasse les deux Ferrari l'une après l'autre !",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412380693.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412380693.json?params%5BcontentType%5D=sport",
+            "path": "/sport/verstappen-depasse-les-deux-ferrari-l-une-apres-l-autre/p/6412380693"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "6412337404",
+          "title": "Le départ du Grand Prix",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/19d54f0fc5611724fa7a27481781f38c077e9624.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Le départ du Grand Prix",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412337404.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412337404.json?params%5BcontentType%5D=sport",
+            "path": "/sport/le-depart-du-grand-prix/p/6412337404"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "6412290659",
+          "title": "La grille de départ",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/adef920329f730d2c27e9741a5a711573cbd0523.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "La grille de départ",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412290659.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412290659.json?params%5BcontentType%5D=sport",
+            "path": "/sport/la-grille-de-depart/p/6412290659"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "6412151101",
+          "title": "Retour sur la séance de qualifications",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/8e474ddcb6f02029b1310fe23339446fef341d01.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Retour sur la séance de qualifications",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412151101.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412151101.json?params%5BcontentType%5D=sport",
+            "path": "/sport/retour-sur-la-seance-de-qualifications/p/6412151101"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "6411991215",
+          "title": "\"Le Tour de Franck\" du Grand Prix du Brésil",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/b9d5c9c97819a6c391fad9c8e27057b115b90169.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "\"Le Tour de Franck\" du Grand Prix du Brésil",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6411991215.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6411991215.json?params%5BcontentType%5D=sport",
+            "path": "/sport/le-tour-de-franck-du-grand-prix-du-bresil/p/6411991215"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "6411911946",
+          "title": "Un point sur les transferts pour la saison prochaine",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/d16f78ba4bb6599865661fac0caff7be7bbb4e6a.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Un point sur les transferts pour la saison prochaine",
+            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6411911946.json?params%5BcontentType%5D=sport",
+            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6411911946.json?params%5BcontentType%5D=sport",
+            "path": "/sport/un-point-sur-les-transferts-pour-la-saison-prochaine/p/6411911946"
           }
         }
-      ]
+      ],
+      "paging": {
+        "iterationType": "index",
+        "indexStart": 0,
+        "indexEnd": 10,
+        "nbContents": 11,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "totalAvailableContents": 11
+      }
     }
   ],
-  "empty": {
-    "displayName": "Aucune vidéo disponible pour le moment"
-  },
   "tracking": {
     "omniture": {
       "prop4": "MyCtvOS - Mode expert",
-      "prop5": "MyCtvOS - Mode expert - Ligue 1",
-      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Temps forts",
-      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Temps forts",
+      "prop5": "MyCtvOS - Mode expert - F1",
+      "prop6": "MyCtvOS - Mode expert - F1 - Temps forts",
+      "prop7": "MyCtvOS - Mode expert - F1 - Temps forts - Temps forts F1",
+      "pageName": "MyCtvOS - Mode expert - F1 - Temps forts - Temps forts F1",
       "channel": "MyCtvOS",
-      "eVar31": "[ME] Temps forts Sport auto",
+      "eVar31": "[ME] Temps forts Sport Auto",
       "prop10": "Contenu",
       "prop11": "Autres",
       "prop12": "Consumer"
     }
+  },
+  "sportEventId": "918fdeb6-8526-4bc8-8ff4-6bfc87ec8eb4",
+  "empty": {
+    "displayName": "Aucune vidéo disponible pour le moment"
   }
 }
