@@ -1,0 +1,454 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Compositions",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Top 14",
+      "prop6": "MyCtvOS - Mode expert - Top 14 - Compositions",
+      "eVar31": "[ME] Compositions Top 14",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "MyCtvOS - Mode expert - Top 14 - Compositions"
+    }
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "rugby",
+      "homeTeam": {
+        "displayName": "Toulon",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1512038877753_Maillots-TOP14_Toulon_2x.png",
+        "color": {
+          "primary": "0xCA051D",
+          "secondary": "0xffffff"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Pietersen",
+            "position": "Wing",
+            "shirtNo": "14",
+            "formationOrder": 14,
+            "contentID": "84bbaa5f-0210-4aef-926e-10ff9ec45699"
+          },
+          {
+            "type": "playerField",
+            "title": "Mathewson",
+            "position": "Scrum Half",
+            "shirtNo": "9",
+            "formationOrder": 9,
+            "contentID": "8802d405-f28c-43b8-a179-289e8cfd7a6e"
+          },
+          {
+            "type": "playerField",
+            "title": "Wisniewski",
+            "position": "Fly Half",
+            "shirtNo": "10",
+            "formationOrder": 10,
+            "contentID": "cff25e0b-7e7c-4fb1-99aa-4e4e3ec85c46"
+          },
+          {
+            "type": "playerField",
+            "title": "Isa",
+            "position": "Flanker",
+            "shirtNo": "7",
+            "formationOrder": 7,
+            "contentID": "e97c182e-cf71-46f1-8dde-80a2438984db"
+          },
+          {
+            "type": "playerField",
+            "title": "Etrillard",
+            "position": "Hooker",
+            "shirtNo": "2",
+            "formationOrder": 2,
+            "contentID": "06ce4c97-6b53-4e62-81f4-e076843bfdaf"
+          },
+          {
+            "type": "playerField",
+            "title": "Nonu",
+            "position": "Centre",
+            "shirtNo": "12",
+            "formationOrder": 12,
+            "contentID": "12321c6a-78c8-47f0-8ed2-8eb88e42b922",
+            "tries": 2
+          },
+          {
+            "type": "playerField",
+            "title": "Lakafia",
+            "position": "Flanker",
+            "shirtNo": "6",
+            "formationOrder": 6,
+            "contentID": "152e9d82-9a20-4c22-ae09-710f5360572b"
+          },
+          {
+            "type": "playerField",
+            "title": "Fresia",
+            "position": "Prop",
+            "shirtNo": "1",
+            "formationOrder": 1,
+            "contentID": "b584d1f0-589c-4c7f-861e-e5ba6f28d460"
+          },
+          {
+            "type": "playerField",
+            "title": "Setiano",
+            "position": "Prop",
+            "shirtNo": "3",
+            "formationOrder": 3,
+            "contentID": "9418e197-1a3e-4aab-89f3-5fe7910c2895"
+          },
+          {
+            "type": "playerField",
+            "title": "Rebbadj",
+            "position": "Lock",
+            "shirtNo": "4",
+            "formationOrder": 4,
+            "contentID": "28cdc9f1-6709-42d0-921f-9823000fe218"
+          },
+          {
+            "type": "playerField",
+            "title": "Fekitoa",
+            "position": "Centre",
+            "shirtNo": "13",
+            "formationOrder": 13,
+            "contentID": "f09e41e3-f8c4-49a5-be0a-62c53b9390ef"
+          },
+          {
+            "type": "playerField",
+            "title": "Gorgodze",
+            "position": "Lock",
+            "shirtNo": "5",
+            "formationOrder": 5,
+            "contentID": "95a3d61f-1b0b-4a30-b3a2-52aff9769504",
+            "redCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Manoa",
+            "position": "Number 8",
+            "shirtNo": "8",
+            "formationOrder": 8,
+            "contentID": "813722ea-3055-4ea5-9e0f-d083d52e32fb",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Ashton",
+            "position": "Full Back",
+            "shirtNo": "15",
+            "formationOrder": 15,
+            "contentID": "f49237bf-a834-42d3-a398-590e2b7dcfaf"
+          },
+          {
+            "type": "playerField",
+            "title": "Radradra",
+            "position": "Wing",
+            "shirtNo": "11",
+            "formationOrder": 11,
+            "contentID": "a3edd0a8-09dd-4592-b141-5fe0b10e30ad"
+          }
+        ]
+      },
+      "awayTeam": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1512038852371_Maillots-TOP14_Racing92_2x.png",
+        "color": {
+          "primary": "0xACD9F2",
+          "secondary": "0x000000"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Maka",
+            "position": "Lock",
+            "shirtNo": "5",
+            "formationOrder": 5,
+            "contentID": "ba525718-1da7-4696-91a3-f279f090c714"
+          },
+          {
+            "type": "playerField",
+            "title": "Szarzewski",
+            "position": "Hooker",
+            "shirtNo": "2",
+            "formationOrder": 2,
+            "contentID": "bd0b1862-923f-4ac6-a900-0e4628e21349"
+          },
+          {
+            "type": "playerField",
+            "title": "Palu",
+            "position": "Flanker",
+            "shirtNo": "6",
+            "formationOrder": 6,
+            "contentID": "87863fb8-780d-4805-9776-1b93813bab6a"
+          },
+          {
+            "type": "playerField",
+            "title": "Dupichot",
+            "position": "Wing",
+            "shirtNo": "14",
+            "formationOrder": 14,
+            "contentID": "5f0dff76-66d0-4abc-a583-86705e6e4ca2"
+          },
+          {
+            "type": "playerField",
+            "title": "Rokocoko",
+            "position": "Centre",
+            "shirtNo": "13",
+            "formationOrder": 13,
+            "contentID": "101067d2-88f2-4658-9717-fcf5a2f07fc0"
+          },
+          {
+            "type": "playerField",
+            "title": "Dulin",
+            "position": "Full Back",
+            "shirtNo": "15",
+            "formationOrder": 15,
+            "contentID": "d142c868-5fab-44cb-bf77-ecbf05873a99"
+          },
+          {
+            "type": "playerField",
+            "title": "Lambie",
+            "position": "Fly Half",
+            "shirtNo": "10",
+            "formationOrder": 10,
+            "contentID": "70a10450-a0da-4ad4-abd7-a430e9f8ba9f"
+          },
+          {
+            "type": "playerField",
+            "title": "Andreu",
+            "position": "Wing",
+            "shirtNo": "11",
+            "formationOrder": 11,
+            "contentID": "0b3ec239-1048-48fe-92f5-1418e6f960d8"
+          },
+          {
+            "type": "playerField",
+            "title": "Vulivuli",
+            "position": "Centre",
+            "shirtNo": "12",
+            "formationOrder": 12,
+            "contentID": "bb97d2dc-baf0-46b9-badd-3b98592542bf"
+          },
+          {
+            "type": "playerField",
+            "title": "Iribaren",
+            "position": "Scrum Half",
+            "shirtNo": "9",
+            "formationOrder": 9,
+            "contentID": "95a4d470-0daf-4730-8703-f8bd6a3b8f19"
+          },
+          {
+            "type": "playerField",
+            "title": "Carizza",
+            "position": "Lock",
+            "shirtNo": "4",
+            "formationOrder": 4,
+            "contentID": "7e82814a-d434-45ea-90bd-4f4e564a94fc"
+          },
+          {
+            "type": "playerField",
+            "title": "Nyanga",
+            "position": "Flanker",
+            "shirtNo": "7",
+            "formationOrder": 7,
+            "contentID": "45d47791-2ccc-4fc0-a515-7660c7abb29b"
+          },
+          {
+            "type": "playerField",
+            "title": "Claassen",
+            "position": "Number 8",
+            "shirtNo": "8",
+            "formationOrder": 8,
+            "contentID": "db36d16c-b011-4a2a-becb-1fe60d05321e"
+          },
+          {
+            "type": "playerField",
+            "title": "Ben Arous",
+            "position": "Prop",
+            "shirtNo": "1",
+            "formationOrder": 1,
+            "contentID": "d98e55b9-56d4-420e-b040-4ac7014de46d"
+          },
+          {
+            "type": "playerField",
+            "title": "Tameifuna",
+            "position": "Prop",
+            "shirtNo": "3",
+            "formationOrder": 3,
+            "contentID": "83c03e7b-c6a4-4150-9b52-7440a34a724f"
+          }
+        ]
+      }
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Toulon",
+      "team": {
+        "displayName": "Toulon",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1511014183544_Fanions-Top14_Top14-Toulon.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1512038877753_Maillots-TOP14_Toulon_2x.png",
+        "color": {
+          "primary": "0xCA051D",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Meric",
+          "position": "Substitute",
+          "shirtNo": "22",
+          "formationOrder": 16,
+          "contentID": "59c88309-71cc-4cce-858c-4b02fc593ecc"
+        },
+        {
+          "type": "substitute",
+          "title": "Soury",
+          "position": "Substitute",
+          "shirtNo": "16",
+          "formationOrder": 16,
+          "contentID": "7b10e82f-2726-43df-96f9-12b6dc42a3fd"
+        },
+        {
+          "type": "substitute",
+          "title": "Kruger",
+          "position": "Substitute",
+          "shirtNo": "18",
+          "formationOrder": 16,
+          "contentID": "54de09c7-d740-4618-ad97-8528fe67b740"
+        },
+        {
+          "type": "substitute",
+          "title": "Clerc",
+          "position": "Substitute",
+          "shirtNo": "21",
+          "formationOrder": 16,
+          "contentID": "7dc6adb8-0386-4b59-9c11-c701237d06f0"
+        },
+        {
+          "type": "substitute",
+          "title": "van der Merwe",
+          "position": "Substitute",
+          "shirtNo": "23",
+          "formationOrder": 16,
+          "contentID": "c57e09cf-a2e2-48fb-a296-a1a0f60aca9d",
+          "tries": 3
+        },
+        {
+          "type": "substitute",
+          "title": "Delboulbes",
+          "position": "Substitute",
+          "shirtNo": "17",
+          "formationOrder": 16,
+          "contentID": "a73599f6-50f8-47aa-a627-8467be3d60a4",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Carbonel",
+          "position": "Substitute",
+          "shirtNo": "20",
+          "formationOrder": 16,
+          "contentID": "1fcaa85b-7424-4c74-a44c-59240b9d4d1c"
+        },
+        {
+          "type": "substitute",
+          "title": "Fernandez Lobbe",
+          "position": "Substitute",
+          "shirtNo": "19",
+          "formationOrder": 16,
+          "contentID": "56f76840-f0ea-420f-897a-96301c9a88d3"
+        }
+      ]
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Racing 92",
+      "team": {
+        "displayName": "Racing 92",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1512038852371_Maillots-TOP14_Racing92_2x.png",
+        "color": {
+          "primary": "0xACD9F2",
+          "secondary": "0x000000"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Afatia",
+          "position": "Substitute",
+          "shirtNo": "17",
+          "formationOrder": 16,
+          "contentID": "8a5dcfd2-c3fa-463b-86b9-16d5149b8081"
+        },
+        {
+          "type": "substitute",
+          "title": "Tales",
+          "position": "Substitute",
+          "shirtNo": "21",
+          "formationOrder": 16,
+          "contentID": "30cc1d40-2ef8-4bd3-bc96-ecdd68d9653e"
+        },
+        {
+          "type": "substitute",
+          "title": "Lauret",
+          "position": "Substitute",
+          "shirtNo": "19",
+          "formationOrder": 16,
+          "contentID": "66b73c7d-3417-462f-87e5-882f1fd3f108"
+        },
+        {
+          "type": "substitute",
+          "title": "Ducalcon",
+          "position": "Substitute",
+          "shirtNo": "23",
+          "formationOrder": 16,
+          "contentID": "f6618bb5-9ca3-4f45-8126-6ba16d3c2ded"
+        },
+        {
+          "type": "substitute",
+          "title": "Fa'aso'o",
+          "position": "Substitute",
+          "shirtNo": "18",
+          "formationOrder": 16,
+          "contentID": "92735478-9295-4182-b5e3-8c4c5576d178"
+        },
+        {
+          "type": "substitute",
+          "title": "Machenaud",
+          "position": "Substitute",
+          "shirtNo": "20",
+          "formationOrder": 16,
+          "contentID": "e6c52bee-17dd-4af8-89de-b2aba45ffb8e"
+        },
+        {
+          "type": "substitute",
+          "title": "Paris",
+          "position": "Substitute",
+          "shirtNo": "22",
+          "formationOrder": 16,
+          "contentID": "ffead1db-a62b-4d8c-95f0-3ecc8df43415"
+        },
+        {
+          "type": "substitute",
+          "title": "Baubigny",
+          "position": "Substitute",
+          "shirtNo": "16",
+          "formationOrder": 16,
+          "contentID": "6a21685f-2814-4d31-855c-c79ff5a78b40"
+        }
+      ]
+    }
+  ],
+  "Empty": {
+    "displayName": "Aucune composition disponible pour le moment"
+  }
+}

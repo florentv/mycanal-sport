@@ -1,0 +1,167 @@
+{
+  "currentPage": {
+    "displayTemplate": "expertMode",
+    "displayName": "Mode Expert Formations",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "mycanaliOS",
+      "prop4": "mycanaliOS - Sport",
+      "prop5": "mycanaliOS - Sport - Event",
+      "prop6": "mycanaliOS - Sport - Event - PSG / Barcelone - 173",
+      "eVar12": "GENERIQUE LDC Match Live",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "mycanaliOS - Sport - Event - PSG / Barcelone"
+    }
+  },
+  "rubriques": [
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "433 numéros",
+      "autorefresh": 30000,
+      "default": true,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/433.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "433",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-433.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Rugby",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/rugby-composition.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "442",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-442.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "343",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-343.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "451",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-451.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "532",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-532.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "541",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-541.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "352",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-352.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "4411",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4411.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "4231",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4231.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "4222",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4222.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "4141",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4141.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "4321",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4321.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "3421",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3421.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "3412",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3412.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "3142",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3142.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "4132",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4132.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "4240",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4240.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "3511",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3511.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "41212",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-41212.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "343 diamond",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-343-diamond.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "5131",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-5131.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "3331",
+      "autorefresh": 30000,
+      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3331.json"
+    }
+  ]
+}

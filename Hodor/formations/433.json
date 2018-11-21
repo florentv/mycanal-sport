@@ -1,0 +1,376 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Compositions",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode Expert",
+      "prop5": "MyCtvOS - Mode Expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode Expert - Ligue 1 - Compositions Ligue 1",
+      "pageName": "MyCtvOS - Mode Expert - Ligue 1 - Compositions Ligue 1",
+      "channel": "MyCtvOS",
+      "eVar31": "[ME] Compositions Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "football",
+      "homeTeam": {
+        "displayName": "Amiens",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d82145d7-1aa3-4fad-a165-652de748a1a8/1501860649841_Fanions-L1_L1-Amiens.png",
+        "formationType": "433",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d82145d7-1aa3-4fad-a165-652de748a1a8/1507902685871_Maillots-Ligue_1_Amiens_2x.png",
+        "color": {
+          "primary": "0xf7f7f7",
+          "secondary": "0x373737"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Konate",
+            "position": "Forward",
+            "shirtNo": "11",
+            "formationOrder": 11,
+            "goals": 2,
+            "contentID": "b40df580-8e53-48c5-91b9-0ec197739b64"
+          },
+          {
+            "type": "playerField",
+            "title": "Manzala",
+            "position": "Forward",
+            "shirtNo": "9",
+            "formationOrder": 10,
+            "contentID": "d454f829-5084-46a0-b8ce-f8c346f2e051",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Kakuta",
+            "position": "Midfield",
+            "shirtNo": "7",
+            "formationOrder": 9,
+            "contentID": "feac4c48-7058-4b5d-b31b-a86666a32494",
+            "goalsCSC": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Cornette",
+            "position": "Forward",
+            "shirtNo": "10",
+            "formationOrder": 8,
+            "contentID": "f728ef05-d2b3-4359-ab28-b237db501f58",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Zungu",
+            "position": "Midfield",
+            "shirtNo": "6",
+            "formationOrder": 7,
+            "contentID": "dd269acf-5525-452d-8e0a-9b3c33968274",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Monconduit",
+            "position": "Midfield",
+            "shirtNo": "8",
+            "formationOrder": 6,
+            "contentID": "fee4cb49-b73f-4c2d-9788-2c9bd34e69ca",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Avelar",
+            "position": "Defender",
+            "shirtNo": "3",
+            "formationOrder": 5,
+            "contentID": "b9dc013b-68b7-4748-b55c-0a4fe5ea7850"
+          },
+          {
+            "type": "playerField",
+            "title": "Dibassy",
+            "position": "Defender",
+            "shirtNo": "5",
+            "formationOrder": 4,
+            "contentID": "a7ed0a97-eb62-4f09-a86f-8801ff3e5c81"
+          },
+          {
+            "type": "playerField",
+            "title": "Adenon",
+            "position": "Defender",
+            "shirtNo": "4",
+            "formationOrder": 3,
+            "contentID": "f59a5f83-d3de-4c7f-aff8-2d59e85ceb94"
+          },
+          {
+            "type": "playerField",
+            "title": "Cissokho",
+            "position": "Defender",
+            "shirtNo": "2",
+            "formationOrder": 2,
+            "contentID": "30413da2-7494-490f-83a9-f1add6e160fd"
+          },
+          {
+            "type": "playerField",
+            "title": "Gurtner",
+            "position": "Goalkeeper",
+            "shirtNo": "1",
+            "formationOrder": 1,
+            "contentID": "864c7a96-d5b3-4dd7-b0f4-7f03fd2561d4",
+            "redCard": true
+          }
+        ]
+      },
+      "awayTeam": {
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1511891457988_Fanions-L1_L1-PSG.png",
+        "formationType": "433",
+        "color": {
+          "primary": "0x004070",
+          "secondary": "0xffffff"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Pastore",
+            "position": "Midfield",
+            "shirtNo": "10",
+            "formationOrder": 8,
+            "contentID": "a6e089e5-d335-4a2d-8ddb-a2ec615c336e"
+          },
+          {
+            "type": "playerField",
+            "title": "Cavani",
+            "position": "Forward",
+            "shirtNo": "9",
+            "formationOrder": 10,
+            "goals": 1,
+            "contentID": "63dffa93-5a08-4d47-b81f-10990eb12c44"
+          },
+          {
+            "type": "playerField",
+            "title": "Di Maria",
+            "position": "Midfield",
+            "shirtNo": "7",
+            "formationOrder": 9,
+            "contentID": "8f500627-59fe-4c9e-b0cd-b280227a7297"
+          },
+          {
+            "type": "playerField",
+            "title": "Nkunku",
+            "position": "Midfield",
+            "shirtNo": "11",
+            "formationOrder": 11,
+            "goals": 1,
+            "contentID": "cba3a8c3-6fd6-4a48-b357-2d30b89876b4",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Thiago Motta",
+            "position": "Midfield",
+            "shirtNo": "6",
+            "formationOrder": 7,
+            "contentID": "af225d87-7765-4410-ba95-9aabb54107ca",
+            "substitute": "out"
+          },
+          {
+            "type": "playerField",
+            "title": "Lo Celso",
+            "position": "Midfield",
+            "shirtNo": "8",
+            "formationOrder": 6,
+            "contentID": "39f9c76a-ab8f-4f4b-88d7-e3230ea9a0f7"
+          },
+          {
+            "type": "playerField",
+            "title": "Kurzawa",
+            "position": "Defender",
+            "shirtNo": "3",
+            "formationOrder": 5,
+            "contentID": "e40768a7-4df0-49b2-92b0-95794fed35fc"
+          },
+          {
+            "type": "playerField",
+            "title": "Kimpembe",
+            "position": "Defender",
+            "shirtNo": "5",
+            "formationOrder": 4,
+            "contentID": "8ee4f2fc-824f-49da-a40a-3a36dcad6e74"
+          },
+          {
+            "type": "playerField",
+            "title": "Marquinhos",
+            "position": "Defender",
+            "shirtNo": "4",
+            "formationOrder": 3,
+            "contentID": "093da675-cc6d-4e16-bc21-e111a92f89bc"
+          },
+          {
+            "type": "playerField",
+            "title": "Meunier",
+            "position": "Defender",
+            "shirtNo": "2",
+            "formationOrder": 2,
+            "contentID": "cc942ba3-77bc-431f-80bb-6eec1ed2e059"
+          },
+          {
+            "type": "playerField",
+            "title": "Areola",
+            "position": "Goalkeeper",
+            "shirtNo": "1",
+            "formationOrder": 1,
+            "contentID": "7c733f98-7d10-4dbf-937d-d4d9139f3c99"
+          }
+        ]
+      }
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Amiens",
+      "team": {
+        "displayName": "Amiens",
+        "isHome": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d82145d7-1aa3-4fad-a165-652de748a1a8/1501860649841_Fanions-L1_L1-Amiens.png",
+        "formationType": "433",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d82145d7-1aa3-4fad-a165-652de748a1a8/1507902685871_Maillots-Ligue_1_Amiens_2x.png",
+        "color": {
+          "primary": "0xf7f7f7",
+          "secondary": "0x373737"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Bouet",
+          "position": "Substitute",
+          "shirtNo": "16",
+          "contentID": "463c255b-d49f-40be-a35b-14084e8bc9ba"
+        },
+        {
+          "yellowCard": 1,
+          "type": "substitute",
+          "title": "Fofana",
+          "position": "Substitute",
+          "shirtNo": "8",
+          "contentID": "69a34e85-3a16-4d2a-a1fb-aeaf10ce5814",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "El Hajjam",
+          "position": "Substitute",
+          "shirtNo": "19",
+          "contentID": "85454c35-73aa-47fd-96ff-ac5d39b08c2c"
+        },
+        {
+          "type": "substitute",
+          "title": "Ielsch",
+          "position": "Substitute",
+          "shirtNo": "23",
+          "contentID": "452486fc-5a9f-4372-8aa7-da5ce55a9c8a"
+        },
+        {
+          "type": "substitute",
+          "title": "Bourgaud",
+          "position": "Substitute",
+          "shirtNo": "10",
+          "contentID": "f274c401-b559-4add-84ca-d262ff2cf2c3"
+        },
+        {
+          "type": "substitute",
+          "title": "Gakpe",
+          "position": "Substitute",
+          "shirtNo": "37",
+          "contentID": "c54e8c2e-133f-45ce-b261-7b079bd1ffd6",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Bodmer",
+          "position": "Substitute",
+          "shirtNo": "24",
+          "contentID": "92d0b0d1-32ef-4dd1-a9d6-c39433f1fbea",
+          "substitute": "in"
+        }
+      ]
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Paris SG",
+      "team": {
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1511891457988_Fanions-L1_L1-PSG.png",
+        "formationType": "433",
+        "URLJersey": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1511891629400_Maillots-Ligue_1_Paris.png",
+        "color": {
+          "primary": "0x004070",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Mbappe",
+          "position": "Substitute",
+          "shirtNo": "29",
+          "contentID": "a1532e22-9716-455f-8598-57ea9f3a4224",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Rabiot",
+          "position": "Substitute",
+          "shirtNo": "25",
+          "contentID": "b268a5fc-0b75-4334-8a6e-050d8533a7af",
+          "substitute": "in"
+        },
+        {
+          "type": "substitute",
+          "title": "Rimane",
+          "position": "Substitute",
+          "shirtNo": "33",
+          "contentID": "2e49f2f6-3826-4f9b-8327-cd535cb86a61"
+        },
+        {
+          "type": "substitute",
+          "title": "Berchiche",
+          "position": "Substitute",
+          "shirtNo": "17",
+          "contentID": "820d21df-f2e3-4002-a22d-f76d0e093e3e"
+        },
+        {
+          "type": "substitute",
+          "title": "Trapp",
+          "position": "Substitute",
+          "shirtNo": "1",
+          "contentID": "46d33402-d8eb-48cc-b053-7e079bb55344"
+        },
+        {
+          "type": "substitute",
+          "title": "Alves",
+          "position": "Substitute",
+          "shirtNo": "32",
+          "contentID": "2a02be46-1d71-428e-92e7-fd08c145c41a"
+        },
+        {
+          "type": "substitute",
+          "title": "Diarra",
+          "position": "Substitute",
+          "shirtNo": "19",
+          "contentID": "63178b91-10fa-4b2c-bfd7-a969967f2af1"
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune composition disponible pour le moment"
+  }
+}
