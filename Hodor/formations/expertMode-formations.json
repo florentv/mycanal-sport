@@ -29,139 +29,139 @@
       "displayTemplate": "sportVitrine",
       "displayName": "433",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-433.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/433.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "Rugby",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/rugby-composition.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/rugby.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "442",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-442.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/442.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "343",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-343.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/343.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "451",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-451.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/451.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "532",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-532.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/532.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "541",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-541.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/541.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "352",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-352.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/352.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "4411",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4411.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/4411.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "4231",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4231.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/4231.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "4222",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4222.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/4222.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "4141",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4141.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/4141.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "4321",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4321.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/4321.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "3421",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3421.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/3421.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "3412",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3412.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/3412.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "3142",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3142.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/3142.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "4132",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4132.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/4132.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "4240",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-4240.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/4240.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "3511",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3511.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/3511.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "41212",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-41212.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/41212.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "343 diamond",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-343-diamond.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/343-diamond.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "5131",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-5131.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/5131.json"
     },
     {
       "displayTemplate": "sportVitrine",
       "displayName": "3331",
       "autorefresh": 30000,
-      "URLPage": "https://io-assets.netlify.com/data/hodor/composition-3331.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/formations/3331.json"
     }
   ]
 }
