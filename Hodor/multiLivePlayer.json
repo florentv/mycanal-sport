@@ -24,16 +24,16 @@
   },
   "channels": [
   	{
-  		"EpgId": 370
+  		"epgId": 370
   	},
   	{
-  		"EpgId": 177
+  		"epgId": 177
   	},
   	{
-  		"EpgId": 381
+  		"epgId": 381
   	},
   	{
-  		"EpgId": 228
+  		"epgId": 228
   	}
   ]
 }
