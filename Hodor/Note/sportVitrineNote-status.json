@@ -1,0 +1,831 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Vote",
+    "autorefresh": 5000
+  },
+  "strates": [
+    {
+      "type": "survey",
+      "title": "Titre bloc 1",
+      "contents": [
+        {
+          "type": "rating",
+          "contentID": "bloc1",
+          "URLImage": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/7/cfc.101567.png",
+          "startDate": 1544588876,
+          "endDate": 1544588877,
+          "status": 2,
+          "displayStatus": "Open",
+          "layouts": [
+            {
+              "layoutID": "0",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "action": {
+                "type": "countdown"
+              }
+            },
+            {
+              "layoutID": "1",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "button",
+                "title": "Noter",
+                "onClick": {
+                  "displayTemplate": "surveyRating",
+                  "displayName": "Note du match"
+                }
+              },
+              "rate": {
+                "textMaxVote": "/ 20",
+                "title": "Note du match",
+                "action": {
+                  "title": "Valider",
+                  "type": "button"
+                },
+                "values": [
+                  {
+                    "value": 0,
+                    "text": "0"
+                  },
+                  {
+                    "value": 1,
+                    "text": "1"
+                  },
+                  {
+                    "value": 2,
+                    "text": "2"
+                  },
+                  {
+                    "value": 3,
+                    "text": "3"
+                  },
+                  {
+                    "value": 4,
+                    "text": "4"
+                  },
+                  {
+                    "value": 5,
+                    "text": "5"
+                  },
+                  {
+                    "value": 6,
+                    "text": "6"
+                  },
+                  {
+                    "value": 7,
+                    "text": "7"
+                  },
+                  {
+                    "value": 8,
+                    "text": "8"
+                  },
+                  {
+                    "value": 9,
+                    "text": "9"
+                  },
+                  {
+                    "value": 10,
+                    "text": "10",
+                    "default": true
+                  },
+                  {
+                    "value": 11,
+                    "text": "11"
+                  },
+                  {
+                    "value": 12,
+                    "text": "12"
+                  },
+                  {
+                    "value": 13,
+                    "text": "13"
+                  },
+                  {
+                    "value": 14,
+                    "text": "14"
+                  },
+                  {
+                    "value": 15,
+                    "text": "15"
+                  },
+                  {
+                    "value": 16,
+                    "text": "16"
+                  },
+                  {
+                    "value": 17,
+                    "text": "17"
+                  },
+                  {
+                    "value": 18,
+                    "text": "18"
+                  },
+                  {
+                    "value": 19,
+                    "text": "19"
+                  },
+                  {
+                    "value": 20,
+                    "text": "20"
+                  }
+                ]
+              }
+            },
+            {
+              "layoutID": "2",
+              "title": "Votre note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/20"
+              }
+            },
+            {
+              "layoutID": "3",
+              "title": "Vous avez noté le match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/20"
+              }
+            },
+            {
+              "layoutID": "4",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "label",
+                "title": "Terminé"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "survey",
+      "contents": [
+        {
+          "type": "rating",
+          "contentID": "fcda",
+          "URLImage": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/7/cfc.101567.png",
+          "startDate": 1543588949,
+          "endDate": 1543675355,
+          "status": 2,
+          "displayStatus": "Open",
+          "layouts": [
+            {
+              "layoutID": "0",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "action": {
+                "type": "countdown"
+              }
+            },
+            {
+              "layoutID": "1",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "action": {
+                "type": "button",
+                "title": "Noter",
+                "onClick": {
+                  "displayTemplate": "surveyRating",
+                  "displayName": "Note du match"
+                }
+              },
+              "rate": {
+                "textMaxVote": "/ 20",
+                "title": "Note du match",
+                "action": {
+                  "title": "Valider",
+                  "type": "button"
+                },
+                "values": [
+                  {
+                    "value": 0,
+                    "text": "0"
+                  },
+                  {
+                    "value": 1,
+                    "text": "1"
+                  },
+                  {
+                    "value": 2,
+                    "text": "2"
+                  },
+                  {
+                    "value": 3,
+                    "text": "3"
+                  },
+                  {
+                    "value": 4,
+                    "text": "4"
+                  },
+                  {
+                    "value": 5,
+                    "text": "5"
+                  },
+                  {
+                    "value": 6,
+                    "text": "6"
+                  },
+                  {
+                    "value": 7,
+                    "text": "7"
+                  },
+                  {
+                    "value": 8,
+                    "text": "8"
+                  },
+                  {
+                    "value": 9,
+                    "text": "9"
+                  },
+                  {
+                    "value": 10,
+                    "text": "10",
+                    "default": true
+                  },
+                  {
+                    "value": 11,
+                    "text": "11"
+                  },
+                  {
+                    "value": 12,
+                    "text": "12"
+                  },
+                  {
+                    "value": 13,
+                    "text": "13"
+                  },
+                  {
+                    "value": 14,
+                    "text": "14"
+                  },
+                  {
+                    "value": 15,
+                    "text": "15"
+                  },
+                  {
+                    "value": 16,
+                    "text": "16"
+                  },
+                  {
+                    "value": 17,
+                    "text": "17"
+                  },
+                  {
+                    "value": 18,
+                    "text": "18"
+                  },
+                  {
+                    "value": 19,
+                    "text": "19"
+                  },
+                  {
+                    "value": 20,
+                    "text": "20"
+                  }
+                ]
+              }
+            },
+            {
+              "layoutID": "2",
+              "title": "Votre note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/20"
+              }
+            },
+            {
+              "layoutID": "3",
+              "title": "Vous avez noté le match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/20"
+              }
+            },
+            {
+              "layoutID": "4",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "label",
+                "title": "Terminé"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "survey",
+      "title": "Titre bloc 3",
+      "contents": [
+        {
+          "type": "rating",
+          "contentID": "382e88c1-802c-46ed-b7ec-d975d6aa5c97",
+          "URLImage": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/7/cfc.101567.png",
+          "startDate": 1543575595,
+          "endDate": 1543675355,
+          "status": 2,
+          "displayStatus": "Open",
+          "layouts": [
+            {
+              "layoutID": "0",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "countdown"
+              }
+            },
+            {
+              "layoutID": "1",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "action": {
+                "type": "button",
+                "title": "Noter",
+                "onClick": {
+                  "displayTemplate": "surveyRating",
+                  "displayName": "Note du match"
+                }
+              },
+              "rate": {
+                "textMaxVote": "/ 20",
+                "title": "Donnez une note",
+                "action": {
+                  "title": "Valider",
+                  "type": "button"
+                },
+                "values": [
+                  {
+                    "value": 0,
+                    "text": "0"
+                  },
+                  {
+                    "value": 1,
+                    "text": "1"
+                  },
+                  {
+                    "value": 2,
+                    "text": "2"
+                  },
+                  {
+                    "value": 3,
+                    "text": "3"
+                  },
+                  {
+                    "value": 4,
+                    "text": "4"
+                  },
+                  {
+                    "value": 5,
+                    "text": "5"
+                  },
+                  {
+                    "value": 6,
+                    "text": "6"
+                  },
+                  {
+                    "value": 7,
+                    "text": "7"
+                  },
+                  {
+                    "value": 8,
+                    "text": "8"
+                  },
+                  {
+                    "value": 9,
+                    "text": "9"
+                  },
+                  {
+                    "value": 10,
+                    "text": "10",
+                    "default": true
+                  },
+                  {
+                    "value": 11,
+                    "text": "11"
+                  },
+                  {
+                    "value": 12,
+                    "text": "12"
+                  },
+                  {
+                    "value": 13,
+                    "text": "13"
+                  },
+                  {
+                    "value": 14,
+                    "text": "14"
+                  },
+                  {
+                    "value": 15,
+                    "text": "15"
+                  },
+                  {
+                    "value": 16,
+                    "text": "16"
+                  },
+                  {
+                    "value": 17,
+                    "text": "17"
+                  },
+                  {
+                    "value": 18,
+                    "text": "18"
+                  },
+                  {
+                    "value": 19,
+                    "text": "19"
+                  },
+                  {
+                    "value": 20,
+                    "text": "20"
+                  }
+                ]
+              }
+            },
+            {
+              "layoutID": "2",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/ 20"
+              }
+            },
+            {
+              "layoutID": "3",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/ 20"
+              }
+            },
+            {
+              "layoutID": "4",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "label",
+                "title": "Terminé"
+              }
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "contentID": "0b4d94a5-8862-4cb7-ac08-5303e14e33f3",
+          "startDate": 1542587246,
+          "endDate": 1642587246,
+          "status": 2,
+          "displayStatus": "Open",
+          "layouts": [
+            {
+              "layoutID": "0",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "countdown"
+              }
+            },
+            {
+              "layoutID": "1",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "button",
+                "title": "Noter",
+                "onClick": {
+                  "displayTemplate": "surveyRating",
+                  "displayName": "Note du match"
+                }
+              },
+              "rate": {
+                "textMaxVote": "/ 20",
+                "title": "Donnez une note",
+                "action": {
+                  "title": "Valider",
+                  "type": "button"
+                },
+                "values": [
+                  {
+                    "value": 0,
+                    "text": "0"
+                  },
+                  {
+                    "value": 1,
+                    "text": "1"
+                  },
+                  {
+                    "value": 2,
+                    "text": "2"
+                  },
+                  {
+                    "value": 3,
+                    "text": "3"
+                  },
+                  {
+                    "value": 4,
+                    "text": "4"
+                  },
+                  {
+                    "value": 5,
+                    "text": "5"
+                  },
+                  {
+                    "value": 6,
+                    "text": "6"
+                  },
+                  {
+                    "value": 7,
+                    "text": "7"
+                  },
+                  {
+                    "value": 8,
+                    "text": "8"
+                  },
+                  {
+                    "value": 9,
+                    "text": "9"
+                  },
+                  {
+                    "value": 10,
+                    "text": "10",
+                    "default": true
+                  },
+                  {
+                    "value": 11,
+                    "text": "11"
+                  },
+                  {
+                    "value": 12,
+                    "text": "12"
+                  },
+                  {
+                    "value": 13,
+                    "text": "13"
+                  },
+                  {
+                    "value": 14,
+                    "text": "14"
+                  },
+                  {
+                    "value": 15,
+                    "text": "15"
+                  },
+                  {
+                    "value": 16,
+                    "text": "16"
+                  },
+                  {
+                    "value": 17,
+                    "text": "17"
+                  },
+                  {
+                    "value": 18,
+                    "text": "18"
+                  },
+                  {
+                    "value": 19,
+                    "text": "19"
+                  },
+                  {
+                    "value": 20,
+                    "text": "20"
+                  }
+                ]
+              }
+            },
+            {
+              "layoutID": "2",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/ 20"
+              }
+            },
+            {
+              "layoutID": "3",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/ 20"
+              }
+            },
+            {
+              "layoutID": "4",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "label",
+                "title": "Terminé"
+              }
+            }
+          ]
+        },
+        {
+          "type": "rating",
+          "contentID": "35",
+          "startDate": 1542587246,
+          "endDate": 1542587246,
+          "status": 2,
+          "displayStatus": "Open",
+          "layouts": [
+            {
+              "layoutID": "0",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "countdown"
+              }
+            },
+            {
+              "layoutID": "1",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "button",
+                "title": "Noter",
+                "onClick": {
+                  "displayTemplate": "surveyRating",
+                  "displayName": "Note du match"
+                }
+              },
+              "rate": {
+                "textMaxVote": "/ 20",
+                "title": "Donnez une note",
+                "action": {
+                  "title": "Valider",
+                  "type": "button"
+                },
+                "values": [
+                  {
+                    "value": 0,
+                    "text": "0"
+                  },
+                  {
+                    "value": 1,
+                    "text": "1"
+                  },
+                  {
+                    "value": 2,
+                    "text": "2"
+                  },
+                  {
+                    "value": 3,
+                    "text": "3"
+                  },
+                  {
+                    "value": 4,
+                    "text": "4"
+                  },
+                  {
+                    "value": 5,
+                    "text": "5"
+                  },
+                  {
+                    "value": 6,
+                    "text": "6"
+                  },
+                  {
+                    "value": 7,
+                    "text": "7"
+                  },
+                  {
+                    "value": 8,
+                    "text": "8"
+                  },
+                  {
+                    "value": 9,
+                    "text": "9"
+                  },
+                  {
+                    "value": 10,
+                    "text": "10",
+                    "default": true
+                  },
+                  {
+                    "value": 11,
+                    "text": "11"
+                  },
+                  {
+                    "value": 12,
+                    "text": "12"
+                  },
+                  {
+                    "value": 13,
+                    "text": "13"
+                  },
+                  {
+                    "value": 14,
+                    "text": "14"
+                  },
+                  {
+                    "value": 15,
+                    "text": "15"
+                  },
+                  {
+                    "value": 16,
+                    "text": "16"
+                  },
+                  {
+                    "value": 17,
+                    "text": "17"
+                  },
+                  {
+                    "value": 18,
+                    "text": "18"
+                  },
+                  {
+                    "value": 19,
+                    "text": "19"
+                  },
+                  {
+                    "value": 20,
+                    "text": "20"
+                  }
+                ]
+              }
+            },
+            {
+              "layoutID": "2",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/ 20"
+              }
+            },
+            {
+              "layoutID": "3",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "userNote",
+                "textMaxVote": "/ 20"
+              }
+            },
+            {
+              "layoutID": "4",
+              "title": "Note du match",
+              "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
+              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
+              "action": {
+                "type": "label",
+                "title": "Terminé"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun sondage disponible pour le moment"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Fonctionnalites",
+      "prop5": "MyCtvOS - Fonctionnalites - Mode Expert",
+      "prop6": "MyCtvOS - Fonctionnalites - Mode Expert - Ligue 1 Note du match",
+      "pageName": "MyCtvOS - Fonctionnalites - Mode Expert - Ligue 1 Note du match",
+      "channel": "MyCtvOS",
+      "eVar31": "TEST - Note du match v2",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}
