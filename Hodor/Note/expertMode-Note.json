@@ -20,7 +20,7 @@
   "rubriques": [
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Note",
+      "displayName": "Note du match",
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-new.json"
     },
@@ -30,6 +30,12 @@
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json",
       "default": true
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Note",
+      "autorefresh": 5000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-status.json"
     },
     {
       "displayTemplate": "sportVitrine",
