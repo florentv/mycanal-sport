@@ -2,7 +2,7 @@
   "currentPage": {
     "displayTemplate": "sportVitrine",
     "displayName": "Vote",
-    "autorefresh": 5000
+    "autorefresh": 30000
   },
   "strates": [
     {
