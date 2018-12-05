@@ -332,7 +332,7 @@
     },
     {
       "type": "survey",
-      "title": "Titre bloc 3",
+      "title": "Titre bloc 3 (à jour)",
       "contents": [
         {
           "type": "rating",
