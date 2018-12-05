@@ -202,7 +202,7 @@
                 }
               },
               "rate": {
-                "textMaxVote": "/ 20",
+                "textMaxVote": "/20",
                 "title": "Note du match",
                 "action": {
                   "title": "Valider",
