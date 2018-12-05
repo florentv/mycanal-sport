@@ -7,7 +7,7 @@
   "strates": [
     {
       "type": "survey",
-      "title": "Titre bloc 1",
+      "title": "Note à venir (bloc1)",
       "contents": [
         {
           "type": "rating",
