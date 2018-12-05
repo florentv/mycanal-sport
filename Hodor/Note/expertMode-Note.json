@@ -20,7 +20,7 @@
   "rubriques": [
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Note du match",
+      "displayName": "Note",
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-new.json"
     },
