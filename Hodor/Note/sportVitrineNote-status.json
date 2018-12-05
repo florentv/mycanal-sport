@@ -30,7 +30,6 @@
               "layoutID": "1",
               "title": "Note du match",
               "URLLogo": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/56/6/note@3x.101566.png",
-              "description": "Retrouvez les résultat de la Note du match dans le débrief du Canal Football Club.",
               "action": {
                 "type": "button",
                 "title": "Noter",
