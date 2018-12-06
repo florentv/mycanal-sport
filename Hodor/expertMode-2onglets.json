@@ -23,12 +23,6 @@
       "displayName": "Statistiques",
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json"
-    },
-    {
-      "displayTemplate": "sportVitrine",
-      "displayName": "Composition",
-      "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition.json"
     }
     
   ]

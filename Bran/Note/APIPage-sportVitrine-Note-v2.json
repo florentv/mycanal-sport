@@ -1,0 +1,81 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Vitrine Ligue 1",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "à définir",
+      "prop5": "à définir",
+      "prop6": "à définir",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer",
+      "pageName": "à définir"
+    }
+  },
+  "strates": [
+    {
+      "configuration": {
+        "global": {
+          "strateType": "survey",
+          "surveyType": "rating",
+          "title": "Note du match",
+          "title0": "Note du match dans :",
+          "title1": "Note du match",
+          "title2": "Botre note du match",
+          "title3": "Votre note du match",
+          "title4": "Note du match",
+          "description0": "xx",
+          "description1": "",
+          "description2": "Retrouvez le résultat dans le débrief du CANAL Football Club",
+          "description3": "Retrouvez le résultat dans le débrief du CANAL Football Club",
+          "description4": "Retrouvez le résultat dans le débrief du CANAL Football Club",
+
+          "text": "Notez le match",
+          "textVoted" : "Votre note du match :",
+          "textMaxVote": "/ 20",
+          "URLImage": "https://...",
+          "URLLogo": "https://...",
+          "description": "Retrouvez les résultats des votes lors du CANAL Football Club",
+          "textResults": "Votre note du match"
+        },
+        "extra": {
+          "button": {
+            "title": "Noter",
+            "onClick": {
+              "displayTemplate": "surveyRating",
+              "displayName": "Note du match"
+            }
+          }
+        }
+      }
+    },
+    {
+      "configuration": {
+        "global": {
+          "strateType": "survey",
+          "surveyType": "manOfTheGame",
+          "title": "Homme du match",
+          "text": "Votez pour l'homme du match",
+          "URLImage": "https://...",
+          "description": "Retrouvez les résultats des votes lors du CANAL Football Club",
+          "textResults": "Vous avez choisi"
+        },
+        "extra": {
+          "button": {
+            "title": "Voter",
+            "onClick": {
+              "displayTemplate": "surveyRating",
+              "displayName": "Note du match"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "empty": {
+    "displayName": "Pas de résultats disponibles"
+  }
+}
