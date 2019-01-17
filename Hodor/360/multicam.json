@@ -21,9 +21,9 @@
     {
       "displayName": "onBoard",
       "EpgId": "972",
-      "streamType": "360",
+      "type": "player360",
       "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
-      "streamURL": "http"
+      "URLVideo": "http://us-ugc-aka.canal-plus.com/i/1706/TONY_YOKA_360_THE_MAIN_EVENT_170607_UGC_78346_video_,MOB,L,H,HD,.mp4.csmil/master.m3u8"
     },
     {
       "displayName": "C+",
