@@ -19,19 +19,24 @@
   },
   "multicam": [
     {
+      "type": "playerMulticam",
       "displayName": "onBoard",
       "EpgId": "972",
       "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
     },
     {
+      "type": "playerMulticam",
       "displayName": "Video m3u8",
       "URLVideo": "http://cplive-lh.akamaihd.net/i/moto_1@153963/master.m3u8",
-      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
+      "keepMainAudio": true
     },
     {
-      "displayName": "C+",
-      "EpgId": "301",
-      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+      "type": "player360",
+      "displayName": "Video 360",
+      "URLVideo": "http://cplive-lh.akamaihd.net/i/moto_1@153963/master.m3u8",
+      "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
+      "keepMainAudio": true
     },
     {
       "displayName": "C+ Sport",
