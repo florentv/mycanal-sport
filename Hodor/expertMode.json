@@ -71,12 +71,6 @@
       "displayName": "Classement",
       "autorefresh": 10000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportRanking.json"
-    },
-    {
-      "displayTemplate": "multicam",
-      "displayName": "Multicam 360",
-      "autorefresh": 10000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/360/multicam.json"
     }
   ]
 }
