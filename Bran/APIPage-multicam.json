@@ -23,15 +23,22 @@
       "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
     },
     {
-      "displayName": "Stands",
-      "EpgId": 973,
+      "displayName": "Video m3u8",
+      "URLVideo": "http://cplive-lh.akamaihd.net/i/moto_1@153963/master.m3u8",
       "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
-      "keepMainAudio" : true
+      "keepMainAudio": true
+    },
+    {
+      "displayName": "Video 360",
+      "type": "player360",
+      "URLVideo": "http://cplive-lh.akamaihd.net/i/moto_1@153963/master.m3u8",
+      "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
+      "keepMainAudio": true
     },
     {
       "displayName": "Tracking",
       "EpgId": 974,
-      "keepMainAudio" : true
+      "keepMainAudio": true
     },
     {
       "displayName": "Temps",
