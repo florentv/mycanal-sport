@@ -32,9 +32,9 @@
     },
     {
       "displayTemplate": "multicam",
-      "displayName": "Multicam NEW",
+      "displayName": "Multicam Multi-Live",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/f1/multicam-new-1.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/multicam-multilive.json"
     },
     {
       "displayTemplate": "highlights",
