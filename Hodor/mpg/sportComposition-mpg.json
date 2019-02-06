@@ -48,6 +48,7 @@
               "title": "Konate",
               "position": "Forward",
               "shirtNo": "15",
+              "mpgRating": "8",
               "formationOrder": 11,
               "goals": 2,
               "contentID": "b40df580-8e53-48c5-91b9-0ec197739b64"
@@ -57,6 +58,7 @@
               "title": "Manzala",
               "position": "Forward",
               "shirtNo": "7",
+              "mpgRating": "8",
               "formationOrder": 10,
               "contentID": "d454f829-5084-46a0-b8ce-f8c346f2e051",
               "substitute": "out"
@@ -66,6 +68,7 @@
               "title": "Kakuta",
               "position": "Midfield",
               "shirtNo": "14",
+              "mpgRating": "8",
               "formationOrder": 9,
               "contentID": "feac4c48-7058-4b5d-b31b-a86666a32494",
               "goalsCSC": 1
@@ -75,6 +78,7 @@
               "title": "Cornette",
               "position": "Forward",
               "shirtNo": "13",
+              "mpgRating": "8",
               "formationOrder": 8,
               "contentID": "f728ef05-d2b3-4359-ab28-b237db501f58",
               "substitute": "out"
@@ -84,6 +88,7 @@
               "title": "Zungu",
               "position": "Midfield",
               "shirtNo": "34",
+              "mpgRating": "8",
               "formationOrder": 7,
               "contentID": "dd269acf-5525-452d-8e0a-9b3c33968274",
               "yellowCard": true
@@ -93,6 +98,7 @@
               "title": "Monconduit",
               "position": "Midfield",
               "shirtNo": "6",
+              "mpgRating": "8",
               "formationOrder": 6,
               "contentID": "fee4cb49-b73f-4c2d-9788-2c9bd34e69ca",
               "substitute": "out"
@@ -102,6 +108,7 @@
               "title": "Avelar",
               "position": "Defender",
               "shirtNo": "35",
+              "mpgRating": "8",
               "formationOrder": 5,
               "contentID": "b9dc013b-68b7-4748-b55c-0a4fe5ea7850"
             },
@@ -110,6 +117,7 @@
               "title": "Dibassy",
               "position": "Defender",
               "shirtNo": "12",
+              "mpgRating": "8",
               "formationOrder": 4,
               "contentID": "a7ed0a97-eb62-4f09-a86f-8801ff3e5c81"
             },
@@ -118,6 +126,7 @@
               "title": "Adenon",
               "position": "Defender",
               "shirtNo": "3",
+              "mpgRating": "8",
               "formationOrder": 3,
               "contentID": "f59a5f83-d3de-4c7f-aff8-2d59e85ceb94"
             },
@@ -126,6 +135,7 @@
               "title": "Cissokho",
               "position": "Defender",
               "shirtNo": "25",
+              "mpgRating": "8",
               "formationOrder": 2,
               "contentID": "30413da2-7494-490f-83a9-f1add6e160fd"
             },
@@ -134,6 +144,7 @@
               "title": "Gurtner",
               "position": "Goalkeeper",
               "shirtNo": "1",
+              "mpgRating": "8",
               "formationOrder": 1,
               "contentID": "864c7a96-d5b3-4dd7-b0f4-7f03fd2561d4",
               "redCard": true
@@ -154,6 +165,7 @@
               "title": "Pastore",
               "position": "Midfield",
               "shirtNo": "27",
+              "mpgRating": "8",
               "formationOrder": 8,
               "contentID": "a6e089e5-d335-4a2d-8ddb-a2ec615c336e"
             },
@@ -162,6 +174,7 @@
               "title": "Cavani",
               "position": "Forward",
               "shirtNo": "9",
+              "mpgRating": "8",
               "formationOrder": 10,
               "goals": 1,
               "contentID": "63dffa93-5a08-4d47-b81f-10990eb12c44"
@@ -171,6 +184,7 @@
               "title": "Di Maria",
               "position": "Midfield",
               "shirtNo": "11",
+              "mpgRating": "8",
               "formationOrder": 9,
               "contentID": "8f500627-59fe-4c9e-b0cd-b280227a7297"
             },
@@ -179,6 +193,7 @@
               "title": "Nkunku",
               "position": "Midfield",
               "shirtNo": "24",
+              "mpgRating": "8",
               "formationOrder": 11,
               "goals": 1,
               "contentID": "cba3a8c3-6fd6-4a48-b357-2d30b89876b4",
@@ -189,6 +204,7 @@
               "title": "Thiago Motta",
               "position": "Midfield",
               "shirtNo": "8",
+              "mpgRating": "8",
               "formationOrder": 7,
               "contentID": "af225d87-7765-4410-ba95-9aabb54107ca",
               "substitute": "out"
@@ -198,6 +214,7 @@
               "title": "Lo Celso",
               "position": "Midfield",
               "shirtNo": "18",
+              "mpgRating": "8",
               "formationOrder": 6,
               "contentID": "39f9c76a-ab8f-4f4b-88d7-e3230ea9a0f7"
             },
@@ -206,6 +223,7 @@
               "title": "Kurzawa",
               "position": "Defender",
               "shirtNo": "20",
+              "mpgRating": "8",
               "formationOrder": 5,
               "contentID": "e40768a7-4df0-49b2-92b0-95794fed35fc"
             },
@@ -214,6 +232,7 @@
               "title": "Kimpembe",
               "position": "Defender",
               "shirtNo": "3",
+              "mpgRating": "8",
               "formationOrder": 4,
               "contentID": "8ee4f2fc-824f-49da-a40a-3a36dcad6e74"
             },
@@ -222,6 +241,7 @@
               "title": "Marquinhos",
               "position": "Defender",
               "shirtNo": "5",
+              "mpgRating": "8",
               "formationOrder": 3,
               "contentID": "093da675-cc6d-4e16-bc21-e111a92f89bc"
             },
@@ -238,6 +258,7 @@
               "title": "Areola",
               "position": "Goalkeeper",
               "shirtNo": "16",
+              "mpgRating": "8",
               "formationOrder": 1,
               "contentID": "7c733f98-7d10-4dbf-937d-d4d9139f3c99"
             }
