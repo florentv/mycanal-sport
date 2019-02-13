@@ -20,36 +20,28 @@
   "multicam": [
     {
       "type": "playerMulticam",
-      "EpgId": "972",
+      "EpgId": "480",
       "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
     },
-    {
+     {
       "type": "playerMulticam",
+      "displayName": "Dorna m3u8 1",
       "URLVideo": "http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8",
       "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
       "keepMainAudio": true
     },
     {
       "type": "playerMulticam",
+      "displayName": "Dorna m3u8 2",
       "URLVideo": "http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8?1",
       "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
     },
     {
       "type": "player360",
+      "displayName": "Video 360",
       "URLVideo": "http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8?2",
       "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
       "keepMainAudio": true
-    },
-    {
-      "EpgId": "177",
-      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
-    },
-    {
-      "EpgId": "973",
-      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
-    },
-    {
-      "EpgId": "974"
     }
   ]
 }
