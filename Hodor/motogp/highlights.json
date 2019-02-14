@@ -12,7 +12,7 @@
         {
           "type": "videoHighlights",
           "contentID": "6412835524",
-          "title": "Dovisiozo domine le GP de Valence",
+          "title": "A. Dovizioso presse A. Rins",
           "URLImage": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/50/3/dovisiozo-premier.49503.png",
           "onClick": {
             "displayTemplate": "quicktime",
@@ -25,7 +25,7 @@
         {
           "type": "videoHighlights",
           "contentID": "6412941840",
-          "title": "Zarco assure la septième place",
+          "title": "Revivez le départ de J. Zarco",
           "URLImage": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/50/5/zarco-assure-la-septie%CC%80me-place.49505.png",
           "onClick": {
             "displayTemplate": "quicktime",
