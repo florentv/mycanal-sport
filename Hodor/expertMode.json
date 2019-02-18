@@ -28,7 +28,7 @@
       "displayTemplate": "highlights",
       "displayName": "Temps forts",
       "autorefresh": 30000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/highlights.json"
+      "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/0c3f666cb77a0913d1d655e48d1e45d2/highlights/100797/events/a83f683e-5df5-479e-9322-c61c51df2cec"
     },
     {
       "displayTemplate": "highlights",
