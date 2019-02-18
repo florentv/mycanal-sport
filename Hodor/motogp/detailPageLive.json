@@ -130,7 +130,7 @@
     ],
     "displayExpertMode": [
       {
-        "title": "Mode Expert disponible",
+        "title": "Multicam et temps forts disponibles",
         "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/48/4/pictomodeexpert-3x.36484.png",
         "subtitle": "Appui long sur la Surface Touch",
         "onClick": {
