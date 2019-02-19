@@ -50,7 +50,8 @@
       "displayName": "Video 360 2",
       "URLVideo": "http://us-cplus-aka.canal-plus.com/i/1606/02/nip_NIP_94869_,200k,400k,800k,1500k,.mp4.csmil/master.m3u8",
       "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
-      "keepMainAudio": true
+      "keepMainAudio": true,
+      "disableVerticalAxis": true
     }
   ]
 }
