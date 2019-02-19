@@ -3,15 +3,16 @@
     "displayTemplate": "multicam",
     "displayName": "Multicam",
     "pullToRefresh": true,
-    "BOLayoutName": "[TEST tvOS] Multicam F1"
+    "BOLayoutName": "Multicam MotoGP"
   },
   "tracking": {
     "omniture": {
-      "prop4": "MyCtvOS - Mode expert",
-      "prop5": "MyCtvOS - Mode expert - Multicam",
-      "pageName": "MyCtvOS - Mode expert - Multicam",
+      "prop4": "MyCtvOS - Fonctionnalites",
+      "prop5": "MyCtvOS - Fonctionnalites - Mode Expert",
+      "prop6": "MyCtvOS - Fonctionnalites - Mode Expert - Multicam MotoGP",
+      "pageName": "MyCtvOS - Fonctionnalites - Mode Expert - Multicam MotoGP",
       "channel": "MyCtvOS",
-      "eVar31": "[TEST tvOS] Multicam F1",
+      "eVar31": "Multicam MotoGP",
       "prop10": "Contenu",
       "prop11": "Autres",
       "prop12": "Consumer"
@@ -29,12 +30,14 @@
       "URLVideo": "http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8",
       "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
       "keepMainAudio": true
+
     },
     {
       "type": "playerMulticam",
-      "displayName": "Dorna m3u8 2",
-      "URLVideo": "http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-hddvrplus-clair/index.m3u8?1",
-      "URLImage": "https://thumb.canalplus.pro/http/unsafe/348x196/media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
+      "displayName": "Tracking",
+      "URLVideo": "http://cplive-lh.akamaihd.net/i/dorna_1@159433/master.m3u8",
+      "URLImage": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/11/6/mycanal-ald_mea_pivot_16x9_emissions_1920x1080.27116.jpg",
+      "keepMainAudio": true
     },
     {
       "type": "player360",
