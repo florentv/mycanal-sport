@@ -42,7 +42,7 @@
     {
       "type": "player360",
       "displayName": "Video 360",
-      "URLVideo": "http://us-ugc-aka.canal-plus.com/i/1706/TONY_YOKA_360_THE_MAIN_EVENT_170607_UGC_78346_video_,MOB,L,H,HD,.mp4.csmil/master.m3u8",
+      "URLVideo": "http://cplive-lh.akamaihd.net/i/dorna_1@179610/master.m3u8",
       "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
       "keepMainAudio": true
     },
