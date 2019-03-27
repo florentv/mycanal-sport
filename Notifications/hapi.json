@@ -1,0 +1,25 @@
+{
+  "APNS": {
+    "aps": {
+      "title": "Deadpool 2",
+      "alert": "Ce soir à 20h45 sur myCANAL",
+      "category": "myCANAL_PlayableNotification",
+      "URLImage": "https://mycan.a/dB76ud"
+    },
+    "l": {
+      "path": "/cinema/deadpool-2/h/9902068_50001"
+    },
+    "buttons": {
+      "label": "En savoir plus",
+      "path": "/cinema/deadpool-2/h/9902068_50001"
+    },
+    "playableContent": {
+      "notificationType": "player",
+      "contentType": "hapi",
+      "path": "/cinema/deadpool-2/h/9902068_50001"
+    },
+    "a": {
+      "id": "2357"
+    }
+  }
+}

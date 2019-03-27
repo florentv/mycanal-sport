@@ -1,0 +1,16 @@
+{
+  "APNS": {
+    "aps": {
+      "title": "Deadpool 2",
+      "alert": "Le retour du super-héros...",
+      "category": "myCANAL_PlayableNotification",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/84059840"
+    },
+    "l": {
+      "path": "/cinema/deadpool-2/h/9902068_50001"
+    },
+    "a": {
+      "id": "2354"
+    }
+  }
+}

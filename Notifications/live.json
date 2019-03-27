@@ -1,0 +1,25 @@
+{
+  "APNS": {
+    "aps": {
+      "title": "Toulouse / Paris-SG",
+      "alert": "Le match vient de démarrer !",
+      "category": "myCANAL_PlayableNotification",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/82581365"
+    },
+    "l": {
+      "path": "/siri-live?channel=301"
+    },
+    "buttons": {
+      "label": "Voir le match",
+      "path": "/siri-live?channel=301"
+    },
+    "playableContent": {
+      "notificationType": "player",
+      "contentType": "live",
+      "EpgId": 301
+    },
+    "a": {
+      "id": "2355"
+    }
+  }
+}
