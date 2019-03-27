@@ -9,10 +9,13 @@
     "l": {
       "path": "/cinema/deadpool-2/h/9902068_50001"
     },
-    "buttons": {
-      "label": "En savoir plus",
-      "path": "/cinema/deadpool-2/h/9902068_50001"
-    },
+    "buttons": [
+      {
+        "type": "deeplink",
+        "label": "En savoir plus",
+        "path": "/cinema/deadpool-2/h/9902068_50001"
+      }
+    ],
     "playableContent": {
       "notificationType": "player",
       "contentType": "hapi",

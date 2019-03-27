@@ -9,10 +9,13 @@
     "l": {
       "path": "/siri-live?channel=301"
     },
-    "buttons": {
-      "label": "Voir le match",
-      "path": "/siri-live?channel=301"
-    },
+   "buttons": [
+      {
+        "type": "deeplink",
+        "label": "Voir le match",
+        "path": "/siri-live?channel=301"
+      }
+    ],
     "playableContent": {
       "notificationType": "player",
       "contentType": "videoHighlights",
