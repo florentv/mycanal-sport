@@ -70,7 +70,7 @@
             "displayTemplate": "quicktime",
             "displayName": "Un point sur les transferts pour la saison prochaine",
             "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/2dd70f8a42927b6eb31a4c6bdfc6265f/okapi/11302069_50001;325h;8cOoFmBQsP.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/2dd70f8a42927b6eb31a4c6bdfc6265f/okapi/11302069_50001.json?cache=780000&objectType=unit&operator=%7Boperator%7D",
+            "URLMedias": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/motogp/mediaUrls",
             "path": "/sport/un-point-sur-les-transferts-pour-la-saison-prochaine/p/6411911946"
           }
         }
