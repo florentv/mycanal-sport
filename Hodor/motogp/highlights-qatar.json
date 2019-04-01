@@ -11,87 +11,9 @@
       "contents": [
         {
           "type": "videoHighlights",
-          "contentID": "6412835524",
-          "title": "A. Dovizioso presse A. Rins",
-          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/50/3/dovisiozo-premier.49503.png",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Verstappen dépasse Hamilton !",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412835524.json?params%5BcontentType%5D=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412835524.json?params%5BcontentType%5D=sport",
-            "path": "/sport/verstappen-depasse-hamilton/p/6412835524"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "6412941840",
-          "title": "Revivez le départ de J. Zarco",
-          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/50/5/zarco-assure-la-septie%CC%80me-place.49505.png",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Tête-à-queue de Verstappen après un accrochage avec Ocon !",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412941840.json?params%5BcontentType%5D=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412941840.json?params%5BcontentType%5D=sport",
-            "path": "/sport/tete-a-queue-de-verstappen-apres-un-accrochage-avec-ocon/p/6412941840"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "6412895014",
-          "title": "Chute de Valentino Rossi !",
-          "URLImage": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/50/4/12e_-_chute_de_rossi.49504.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Tête-à-queue de Verstappen après un accrochage avec Ocon !",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412895014.json?params%5BcontentType%5D=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412895014.json?params%5BcontentType%5D=sport",
-            "path": "/sport/tete-a-queue-de-verstappen-apres-un-accrochage-avec-ocon/p/6412895014"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "6412599555",
-          "title": "Ericsson va devoir s'arrêter après un tête-à-queue",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/aa527424cf1202c308b7a476ac908f3a2ee9fd4c.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Ericsson va devoir s'arrêter après un tête-à-queue",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412599555.json?params%5BcontentType%5D=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412599555.json?params%5BcontentType%5D=sport",
-            "path": "/sport/ericsson-va-devoir-s-arreter-apres-un-tete-a-queue/p/6412599555"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "6412464983",
-          "title": "Un Verstappen survolté dépasse Bottas !",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/5fe189449ce4d6394f1cd79fa6e1d1761d41bb8a.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Un Verstappen survolté dépasse Bottas !",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412464983.json?params%5BcontentType%5D=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412464983.json?params%5BcontentType%5D=sport",
-            "path": "/sport/un-verstappen-survolte-depasse-bottas/p/6412464983"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "6412380693",
-          "title": "Verstappen dépasse les deux Ferrari l'une après l'autre !",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/aa1b47c1129074bd3883518c5870775d57ab95a0.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "Verstappen dépasse les deux Ferrari l'une après l'autre !",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412380693.json?params%5BcontentType%5D=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412380693.json?params%5BcontentType%5D=sport",
-            "path": "/sport/verstappen-depasse-les-deux-ferrari-l-une-apres-l-autre/p/6412380693"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "6412337404",
-          "title": "Le départ du Grand Prix",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/19d54f0fc5611724fa7a27481781f38c077e9624.jpg",
+          "contentID": "85218307",
+          "title": "Le podium",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85218307",
           "onClick": {
             "displayTemplate": "quicktime",
             "displayName": "Le départ du Grand Prix",
@@ -102,9 +24,9 @@
         },
         {
           "type": "videoHighlights",
-          "contentID": "6412290659",
-          "title": "La grille de départ",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/adef920329f730d2c27e9741a5a711573cbd0523.jpg",
+          "contentID": "85218322",
+          "title": "Dernier tour de course dans les conditions du direct",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85218322",
           "onClick": {
             "displayTemplate": "quicktime",
             "displayName": "La grille de départ",
@@ -115,9 +37,9 @@
         },
         {
           "type": "videoHighlights",
-          "contentID": "6412151101",
-          "title": "Retour sur la séance de qualifications",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/8e474ddcb6f02029b1310fe23339446fef341d01.jpg",
+          "contentID": "85218030",
+          "title": "Francesco Bagnaia sort de la piste",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85218030",
           "onClick": {
             "displayTemplate": "quicktime",
             "displayName": "Retour sur la séance de qualifications",
@@ -128,9 +50,9 @@
         },
         {
           "type": "videoHighlights",
-          "contentID": "6411991215",
-          "title": "\"Le Tour de Franck\" du Grand Prix du Brésil",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/b9d5c9c97819a6c391fad9c8e27057b115b90169.jpg",
+          "contentID": "85218125",
+          "title": "Le replay du départ du Qatar GP",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85218125",
           "onClick": {
             "displayTemplate": "quicktime",
             "displayName": "\"Le Tour de Franck\" du Grand Prix du Brésil",
@@ -141,14 +63,14 @@
         },
         {
           "type": "videoHighlights",
-          "contentID": "6411911946",
+          "contentID": "85218080",
           "title": "Le départ du Qatar GP",
           "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85218080",
           "onClick": {
             "displayTemplate": "quicktime",
             "displayName": "Un point sur les transferts pour la saison prochaine",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6411911946.json?params%5BcontentType%5D=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6411911946.json?params%5BcontentType%5D=sport",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/2dd70f8a42927b6eb31a4c6bdfc6265f/okapi/11302069_50001;325h;8cOoFmBQsP.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/2dd70f8a42927b6eb31a4c6bdfc6265f/okapi/11302069_50001.json?cache=780000&objectType=unit&operator=%7Boperator%7D",
             "path": "/sport/un-point-sur-les-transferts-pour-la-saison-prochaine/p/6411911946"
           }
         }

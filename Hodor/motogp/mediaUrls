@@ -1,0 +1,36 @@
+{
+  "currentPage": {
+    "displayTemplate": "mediaUrls",
+    "displayName": "76' Mangani égalise sur un nouveau penalty"
+  },
+  "detail": {
+    "informations": {
+      "contentID": "8209384693",
+      "title": "76' Mangani égalise sur un nouveau penalty",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/2efc0f3a87d628d683f5d225e74d21ed485fbed2.jpg",
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": false,
+      "isInOfferForD2G": false,
+      "consumptionPlatform": "wildmoka",
+      "noPub": true,
+      "videoURLs": [
+        {
+          "videoURL": "https://www.dailymotion.com/cdn/manifest/video/x73wvu4.m3u8?sec=DfDemXqhfByFKUwjYv5o8N6nqP4B_xlZpZKPmvYiX8MTuvgZa3xSZeb5IYz1uMLyLfUX98XxXsSqUXfeMCkdFA&include=1080",
+          "encryption": "clear"
+        }
+      ]
+    }
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Prog",
+      "prop5": "MyCtvOS - Prog - Lecture",
+      "prop6": "MyCtvOS - Prog - Lecture - 76  Mangani egalise sur un nouveau penalty",
+      "pageName": "MyCtvOS - Prog - Lecture - 76  Mangani egalise sur un nouveau penalty",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}
