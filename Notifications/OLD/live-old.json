@@ -1,13 +1,9 @@
 {
   "APNS": {
     "aps": {
-      "alert": {
-        "title": "Toulouse / Paris-SG",
-        "body": "Le match vient de démarrer !"
-      },
-      "mutable-content": "1",
+      "title": "Toulouse / Paris-SG",
+      "alert": "Le match vient de démarrer !",
       "category": "myCANAL_PlayableNotification",
-      "thread-id": "marketing",
       "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/82581365"
     },
     "l": {
@@ -21,6 +17,7 @@
       }
     ],
     "playableContent": {
+      "notificationType": "player",
       "contentType": "live",
       "EpgId": 301
     },

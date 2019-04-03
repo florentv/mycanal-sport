@@ -1,20 +1,15 @@
 {
   "APNS": {
     "aps": {
-      "alert": {
-        "title": "PSG / Montpellier",
-        "body": "BUT !"
-      },
-      "sound": "jingle.wav",
-      "thread-id": "sport",
-      "mutable-content": "1",
+      "title": "PSG / Montpellier",
+      "alert": "BUT !",
       "category": "myCANAL_PlayableNotification",
-      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/84059840"
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/6860407be4d3d1670ccceeb528554899f29f47f6.jpg"
     },
     "l": {
       "path": "/siri-live?channel=301"
     },
-    "buttons": [
+   "buttons": [
       {
         "type": "deeplink",
         "label": "Voir le match",

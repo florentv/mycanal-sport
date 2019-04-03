@@ -1,11 +1,9 @@
 {
   "APNS": {
     "aps": {
-      "alert": {
-        "body": "Deadpool 2 : Le retour du super-héros !"
-      },
-      "mutable-content": "1",
-      "thread-id": "marketing",
+      "title": "Deadpool 2",
+      "alert": "Le retour du super-héros...",
+      "category": "myCANAL_PlayableNotification",
       "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/84059840"
     },
     "l": {
