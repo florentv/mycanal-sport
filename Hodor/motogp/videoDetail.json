@@ -1,0 +1,39 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "76' Mangani égalise sur un nouveau penalty",
+    "path": "/highlights/8209384693"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCtvOS",
+      "prop4": "MyCtvOS - Prog",
+      "prop5": "MyCtvOS - Prog - Fiche",
+      "prop6": "MyCtvOS - Prog - Fiche",
+      "prop7": "MyCtvOS - Prog - Fiche - 76' Mangani égalise sur un nouveau penalty",
+      "pageName": "MyCtvOS - Prog - Fiche - 76' Mangani égalise sur un nouveau penalty",
+      "prop10": "Contenu",
+      "prop11": "Clair",
+      "prop12": "Consumer",
+      "eVar30": "MODE EXPERT",
+      "eVar39": "8209384693"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "wildmoka",
+      "contentID": "8209384693",
+      "title": "76' Mangani égalise sur un nouveau penalty",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/2efc0f3a87d628d683f5d225e74d21ed485fbed2.jpg",
+      "fbkWatchTag": "video.other",
+      "HD": true,
+      "UHD": false,
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": false,
+      "isInOfferForD2G": false,
+      "consumptionPlatform": "wildmoka",
+      "URLMedias": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/motogp/mediaUrls",
+      "noPub": true
+    }
+  }
+}
