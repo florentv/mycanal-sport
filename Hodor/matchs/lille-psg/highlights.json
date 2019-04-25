@@ -11,32 +11,6 @@
       "contents": [
         {
           "type": "videoHighlights",
-          "contentID": "8388136242",
-          "title": "70' But de Gabriel pour Lille ",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/1e1eab7633c7ce7a7dae51d6b3cd0ef24cb669b4.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "70' But de Gabriel pour Lille ",
-            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8388136242.json?params%5BcontentType%5D=sport",
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8388136242.json?params%5BcontentType%5D=sport",
-            "path": "/sport/70-but-de-gabriel-pour-lille/p/8388136242"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "8388091944",
-          "title": "64' But pour Lille signé Bamba",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/7ccbb7375b45517f0e0379c55acbf2faddbfff3b.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "64' But pour Lille signé Bamba",
-            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8388091944.json?params%5BcontentType%5D=sport",
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8388091944.json?params%5BcontentType%5D=sport",
-            "path": "/sport/64-but-pour-lille-signe-bamba/p/8388091944"
-          }
-        },
-        {
-          "type": "videoHighlights",
           "contentID": "8387948963",
           "title": "50' BUT pour Lille signé Nicolas Pépé",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/728f8e2ac28635052ba9f2617921ed3cb4ad13c9.jpg",

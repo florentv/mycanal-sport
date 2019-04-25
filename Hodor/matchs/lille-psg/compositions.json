@@ -75,7 +75,6 @@
             "shirtNo": "8",
             "position": "Midfield",
             "formationOrder": 6,
-            "substitute": "out",
             "contentID": "1bd93e47-55d6-4557-977d-90e443710f31"
           },
           {
@@ -84,8 +83,7 @@
             "shirtNo": "14",
             "position": "Forward",
             "formationOrder": 10,
-            "contentID": "8dde15f7-6b16-4d44-94f4-46dc462e2654",
-            "goals": 1
+            "contentID": "8dde15f7-6b16-4d44-94f4-46dc462e2654"
           },
           {
             "type": "playerField",
@@ -93,7 +91,6 @@
             "shirtNo": "12",
             "position": "Forward",
             "formationOrder": 9,
-            "substitute": "out",
             "contentID": "8a5860e0-67f4-41fb-bf14-ffaedf7d8e53"
           },
           {
@@ -102,8 +99,7 @@
             "shirtNo": "6",
             "position": "Defender",
             "formationOrder": 3,
-            "contentID": "0c3e3d2f-4ad4-46b1-9cc2-a17aeb6e7903",
-            "goals": 1
+            "contentID": "0c3e3d2f-4ad4-46b1-9cc2-a17aeb6e7903"
           },
           {
             "type": "playerField",
@@ -166,9 +162,7 @@
             "shirtNo": "23",
             "position": "Midfield",
             "formationOrder": 11,
-            "substitute": "out",
-            "contentID": "9e9ddb74-4944-4cb5-87d3-9b5db07133d5",
-            "yellowCard": true
+            "contentID": "9e9ddb74-4944-4cb5-87d3-9b5db07133d5"
           },
           {
             "type": "playerField",
@@ -176,8 +170,7 @@
             "shirtNo": "6",
             "position": "Midfield",
             "formationOrder": 7,
-            "contentID": "2a0185dc-1f2e-44a0-96df-3279c1efb25a",
-            "yellowCard": true
+            "contentID": "2a0185dc-1f2e-44a0-96df-3279c1efb25a"
           },
           {
             "type": "playerField",
@@ -247,7 +240,6 @@
           "title": "Soumare",
           "shirtNo": "24",
           "position": "Substitute",
-          "substitute": "in",
           "contentID": "8efd9c99-d88b-49cf-8bef-cf83f39aaafc"
         },
         {
@@ -269,7 +261,6 @@
           "title": "Fonte",
           "shirtNo": "10",
           "position": "Substitute",
-          "substitute": "in",
           "contentID": "ae4e950d-824c-4826-bddb-f7092e926b91"
         },
         {
@@ -278,8 +269,7 @@
           "shirtNo": "4",
           "position": "Substitute",
           "substitute": "in",
-          "contentID": "460f2aab-dec0-4dc2-b995-c30e3d81a0d9",
-          "goals": 1
+          "contentID": "460f2aab-dec0-4dc2-b995-c30e3d81a0d9"
         },
         {
           "type": "substitute",
