@@ -21,7 +21,7 @@
       "displayTemplate": "sportVitrine",
       "displayName": "Compositions",
       "autorefresh": 30000,
-      "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/lille-psg/compositions.json"
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/matchs/lille-psg/compositions.json"
     },
     {
       "displayTemplate": "sportCalendar",
