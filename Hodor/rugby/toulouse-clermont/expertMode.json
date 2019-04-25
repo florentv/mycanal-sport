@@ -1,0 +1,39 @@
+{
+  "currentPage": {
+    "displayTemplate": "expertMode",
+    "displayName": "Mode Expert Ligue 1",
+    "autorefresh": 30000
+  },
+  "rubriques": [
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Statistiques",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/toulouse-clermont/stats.json"
+    },
+    {
+      "displayTemplate": "highlights",
+      "displayName": "Temps forts",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/toulouse-clermont/highlights.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
+      "displayName": "Compositions",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/toulouse-clermont/compositions.json"
+    },
+    {
+      "displayTemplate": "sportCalendar",
+      "displayName": "Résultats",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/toulouse-clermont/resultats.json"
+    },
+    {
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/toulouse-clermont/classement.json"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Résultats Top 14",
+    "BOLayoutName": "[ME] Résultats Top 14",
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Top 14",
+      "prop6": "MyCtvOS - Mode expert - Top 14 - Résultats",
+      "pageName": "MyCtvOS - Mode expert - Top 14 - Résultats",
+      "channel": "MyCtvOS",
+      "eVar31": "[ME] Résultats Top 14",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "strates": [
+    {
+      "type": "sportCalendar",
+      "title": "Top 14 - Journée 22",
+      "groups": [
+        {
+          "events": [
+            {
+              "contentID": "bd4d55de-1c46-4215-952e-5130d724d400",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "14 avril",
+              "homeTeam": {
+                "displayName": "Toulouse",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e41b572a-bad0-46ec-947d-3a9395ef265c/1511013724361_Fanions-Top14_Top14-Toulouse.png",
+                "score": 47,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Clermont-Auvergne",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94/1511012959690_Fanions-Top14_Top14-Clermont.png",
+                "score": 44
+              }
+            },
+            {
+              "contentID": "c25ab15d-0f99-4863-8bd2-9317a199e2e5",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "13 avril",
+              "homeTeam": {
+                "displayName": "Bordeaux-Begles",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/656b3526-b999-47f1-9a36-afd98c1fb36b/1534835753171_Fanions-Top14_Top14-Bordeaux.png",
+                "score": 12
+              },
+              "awayTeam": {
+                "displayName": "Castres",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/8429b079-f4e4-4048-844d-f772e5894b61/1511013992951_Fanions-Top14_Top14-Castre.png",
+                "score": 16,
+                "winner": true
+              }
+            },
+            {
+              "contentID": "ffd119b8-b47b-46c2-93ad-33f1b02d9764",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "13 avril",
+              "homeTeam": {
+                "displayName": "La Rochelle",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/6c861694-063f-4ab0-8851-9140e77a25e6/1511013656788_Fanions-Top14_Top14-LaRochelle.png",
+                "score": 71,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Pau",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/267e322d-1f52-407c-9640-62e3bb0d0da6/1511013946809_Fanions-Top14_Top14-Pau.png",
+                "score": 21
+              }
+            },
+            {
+              "contentID": "12adce50-ca53-4264-91e9-782cb52fb48e",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "13 avril",
+              "homeTeam": {
+                "displayName": "Lyon",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/a0672b05-e97e-4cfa-9ad0-e50238f9361a/1511013098170_Fanions-Top14_Top14-Lyon.png",
+                "score": 47,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Perpignan",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/bc09b665-1447-4011-96da-f9022c6b3909/1534836246874_Fanions-Top14_Top14-Perpignan.png",
+                "score": 9
+              }
+            },
+            {
+              "contentID": "f2c8cb5c-3bcc-42c5-8d50-eceed2327450",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "13 avril",
+              "homeTeam": {
+                "displayName": "Stade Francais",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/88b93d2f-5e1e-45c0-a764-61dd683d9d70/1534836134686_Fanions-Top14_Top14-Stade-Francais.png",
+                "score": 25,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Agen",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/bed73b68-e9f7-44c5-849b-6c5ed6b2165d/1511014028410_Fanions-Top14_Top14-Agen.png",
+                "score": 22
+              }
+            },
+            {
+              "contentID": "7bd1557c-2269-454a-95d1-e5fa89addecb",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "13 avril",
+              "homeTeam": {
+                "displayName": "Grenoble",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/66dd2b91-b1a2-46c2-92a7-a62d714d9687/1534835990989_Fanions-Top14_Top14-Grenoble-03.png",
+                "score": 19,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Toulon",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e495c938-4e99-44dd-9547-b1224bc3d714/1534836219965_Fanions-Top14_Top14-Toulon.png",
+                "score": 18
+              }
+            },
+            {
+              "contentID": "b2f44d35-8804-4fa5-a622-45ea5d6c7f5f",
+              "type": "match",
+              "status": "13",
+              "displayStatus": "Terminé",
+              "displayTime": "14 avril",
+              "homeTeam": {
+                "displayName": "Racing 92",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/28209f09-301c-43a9-af05-769af260480b/1511014223989_Fanions-Top14_Top14-Racing.png",
+                "score": 26,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Montpellier",
+                "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/940a434e-0502-49d4-8075-144caec133fd/1511013619556_Fanions-Top14_Top14-Montpellier.png",
+                "score": 25
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun résultat disponible pour le moment"
+  }
+}

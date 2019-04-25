@@ -1,0 +1,377 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Statistiques",
+    "autorefresh": 30000
+  },
+  "strates": [
+    {
+      "type": "match",
+      "id": "bd4d55de-1c46-4215-952e-5130d724d400",
+      "status": "13",
+      "displayStatus": "Terminé",
+      "displayTime": "14 avril",
+      "homeTeam": {
+        "displayName": "Toulouse",
+        "score": 47,
+        "winner": true,
+        "URLImage": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e41b572a-bad0-46ec-947d-3a9395ef265c/1511013724361_Fanions-Top14_Top14-Toulouse.png"
+      },
+      "awayTeam": {
+        "displayName": "Clermont-Auvergne",
+        "score": 44,
+        "URLImage": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94/1511012959690_Fanions-Top14_Top14-Clermont.png"
+      }
+    },
+    {
+      "type": "stats",
+      "title": "Général",
+      "homeTeam": {
+        "displayName": "Toulouse",
+        "score": 47,
+        "winner": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e41b572a-bad0-46ec-947d-3a9395ef265c/1511013724361_Fanions-Top14_Top14-Toulouse.png",
+        "color": {
+          "primary": "0x000000",
+          "secondary": "0xffffff"
+        }
+      },
+      "awayTeam": {
+        "displayName": "Clermont-Auvergne",
+        "score": 44,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94/1511012959690_Fanions-Top14_Top14-Clermont.png",
+        "color": {
+          "primary": "0xF1E306",
+          "secondary": "0x004C98"
+        }
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Possession (%)",
+          "contentID": "PossessionPercentage",
+          "homeTeam": {
+            "score": 56,
+            "displayName": "56"
+          },
+          "awayTeam": {
+            "score": 44,
+            "displayName": "44"
+          },
+          "subScore": [
+            {
+              "title": "22 adverse (%)",
+              "homeTeam": {
+                "score": 9,
+                "displayName": "9"
+              },
+              "awayTeam": {
+                "score": 6,
+                "displayName": "6"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Occupation (%)",
+          "contentID": "TerritoryInOppositionHalfPercentage",
+          "homeTeam": {
+            "score": 56,
+            "displayName": "56"
+          },
+          "awayTeam": {
+            "score": 44,
+            "displayName": "44"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Essais",
+          "contentID": "Try",
+          "homeTeam": {
+            "score": 5,
+            "displayName": "5"
+          },
+          "awayTeam": {
+            "score": 4,
+            "displayName": "4"
+          },
+          "subScore": [
+            {
+              "title": "Transformations",
+              "homeTeam": {
+                "score": 5,
+                "displayName": "5"
+              },
+              "awayTeam": {
+                "score": 4,
+                "displayName": "4"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Pénalités",
+          "contentID": "Penalty",
+          "homeTeam": {
+            "score": 4,
+            "displayName": "4"
+          },
+          "awayTeam": {
+            "score": 3,
+            "displayName": "3"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Drops",
+          "contentID": "DropGoal",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Attaque",
+      "homeTeam": {
+        "displayName": "Toulouse",
+        "score": 47,
+        "winner": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e41b572a-bad0-46ec-947d-3a9395ef265c/1511013724361_Fanions-Top14_Top14-Toulouse.png",
+        "color": {
+          "primary": "0x000000",
+          "secondary": "0xffffff"
+        }
+      },
+      "awayTeam": {
+        "displayName": "Clermont-Auvergne",
+        "score": 44,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94/1511012959690_Fanions-Top14_Top14-Clermont.png",
+        "color": {
+          "primary": "0xF1E306",
+          "secondary": "0x004C98"
+        }
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Franchissements",
+          "contentID": "LineBreak",
+          "homeTeam": {
+            "score": 4,
+            "displayName": "4"
+          },
+          "awayTeam": {
+            "score": 4,
+            "displayName": "4"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Mètres parcourus avec le ballon",
+          "contentID": "BallCarriesMetres",
+          "homeTeam": {
+            "score": 751,
+            "displayName": "751"
+          },
+          "awayTeam": {
+            "score": 765,
+            "displayName": "765"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Passes",
+          "contentID": "PassGood",
+          "homeTeam": {
+            "score": 154,
+            "displayName": "154"
+          },
+          "awayTeam": {
+            "score": 116,
+            "displayName": "116"
+          },
+          "subScore": [
+            {
+              "title": "Passes manquées",
+              "homeTeam": {
+                "score": 7,
+                "displayName": "7"
+              },
+              "awayTeam": {
+                "score": 3,
+                "displayName": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Défense",
+      "homeTeam": {
+        "displayName": "Toulouse",
+        "score": 47,
+        "winner": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e41b572a-bad0-46ec-947d-3a9395ef265c/1511013724361_Fanions-Top14_Top14-Toulouse.png",
+        "color": {
+          "primary": "0x000000",
+          "secondary": "0xffffff"
+        }
+      },
+      "awayTeam": {
+        "displayName": "Clermont-Auvergne",
+        "score": 44,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94/1511012959690_Fanions-Top14_Top14-Clermont.png",
+        "color": {
+          "primary": "0xF1E306",
+          "secondary": "0x004C98"
+        }
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Plaquages",
+          "contentID": "TackleMade",
+          "homeTeam": {
+            "score": 115,
+            "displayName": "115"
+          },
+          "awayTeam": {
+            "score": 168,
+            "displayName": "168"
+          },
+          "subScore": [
+            {
+              "title": "Plaquages manqués",
+              "homeTeam": {
+                "score": 10,
+                "displayName": "10"
+              },
+              "awayTeam": {
+                "score": 37,
+                "displayName": "37"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Pénalités concédées",
+          "contentID": "PenaltyConceded",
+          "homeTeam": {
+            "score": 8,
+            "displayName": "8"
+          },
+          "awayTeam": {
+            "score": 7,
+            "displayName": "7"
+          }
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "title": "Phases groupées",
+      "homeTeam": {
+        "displayName": "Toulouse",
+        "score": 47,
+        "winner": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e41b572a-bad0-46ec-947d-3a9395ef265c/1511013724361_Fanions-Top14_Top14-Toulouse.png",
+        "color": {
+          "primary": "0x000000",
+          "secondary": "0xffffff"
+        }
+      },
+      "awayTeam": {
+        "displayName": "Clermont-Auvergne",
+        "score": 44,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94/1511012959690_Fanions-Top14_Top14-Clermont.png",
+        "color": {
+          "primary": "0xF1E306",
+          "secondary": "0x004C98"
+        }
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Mêlées perdues",
+          "contentID": "ScrumLost",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 1,
+            "displayName": "1"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Touches perdues",
+          "contentID": "LineoutLost",
+          "homeTeam": {
+            "score": 2,
+            "displayName": "2"
+          },
+          "awayTeam": {
+            "score": 5,
+            "displayName": "5"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Rucks perdus",
+          "contentID": "RuckLost",
+          "homeTeam": {
+            "score": 4,
+            "displayName": "4"
+          },
+          "awayTeam": {
+            "score": 2,
+            "displayName": "2"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Mauls perdus",
+          "contentID": "MaulLost",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 0,
+            "displayName": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Top 14",
+      "prop6": "MyCtvOS - Mode expert - Top 14 - Statistiques",
+      "pageName": "MyCtvOS - Mode expert - Top 14 - Statistiques",
+      "channel": "MyCtvOS",
+      "eVar31": "[ME] Stats Top 14",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}
