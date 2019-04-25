@@ -1,0 +1,184 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Statistiques",
+    "autorefresh": 30000
+  },
+  "strates": [
+    {
+      "type": "match",
+      "id": "c2a0ea1d-5e07-4b07-aa39-2dbf1a1cf8ff",
+      "status": "13",
+      "displayStatus": "Terminé",
+      "displayTime": "14 avril",
+      "homeTeam": {
+        "displayName": "Lille",
+        "score": 5,
+        "winner": true,
+        "URLImage": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1533717110803_Fanions-L1_L1-Lille.png"
+      },
+      "awayTeam": {
+        "displayName": "Paris SG",
+        "score": 1,
+        "URLImage": "http://d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1511891457988_Fanions-L1_L1-PSG.png"
+      }
+    },
+    {
+      "type": "stats",
+      "homeTeam": {
+        "displayName": "Lille",
+        "score": 5,
+        "winner": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1533717110803_Fanions-L1_L1-Lille.png",
+        "color": {
+          "primary": "0xbe0000",
+          "secondary": "0xffffff"
+        }
+      },
+      "awayTeam": {
+        "displayName": "Paris SG",
+        "score": 1,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1511891457988_Fanions-L1_L1-PSG.png",
+        "color": {
+          "primary": "0x004070",
+          "secondary": "0xffffff"
+        }
+      },
+      "contents": [
+        {
+          "type": "vsBar",
+          "title": "Possession (%)",
+          "contentID": "PossessionPercentage",
+          "homeTeam": {
+            "score": 46,
+            "displayName": "46"
+          },
+          "awayTeam": {
+            "score": 54,
+            "displayName": "54"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Tirs",
+          "contentID": "Shot",
+          "homeTeam": {
+            "score": 15,
+            "displayName": "15"
+          },
+          "awayTeam": {
+            "score": 10,
+            "displayName": "10"
+          },
+          "subScore": [
+            {
+              "title": "Tirs cadrés",
+              "homeTeam": {
+                "score": 6,
+                "displayName": "6 (40%)"
+              },
+              "awayTeam": {
+                "score": 5,
+                "displayName": "5 (50%)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "vsBar",
+          "title": "Coups francs",
+          "contentID": "Free Kick",
+          "homeTeam": {
+            "score": 14,
+            "displayName": "14"
+          },
+          "awayTeam": {
+            "score": 10,
+            "displayName": "10"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Corners",
+          "contentID": "Corner Kick",
+          "homeTeam": {
+            "score": 2,
+            "displayName": "2"
+          },
+          "awayTeam": {
+            "score": 2,
+            "displayName": "2"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Hors-jeux",
+          "contentID": "Offside",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 4,
+            "displayName": "4"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Fautes",
+          "contentID": "Foul",
+          "homeTeam": {
+            "score": 10,
+            "displayName": "10"
+          },
+          "awayTeam": {
+            "score": 10,
+            "displayName": "10"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Cartons jaunes",
+          "contentID": "Caution",
+          "homeTeam": {
+            "score": 1,
+            "displayName": "1"
+          },
+          "awayTeam": {
+            "score": 3,
+            "displayName": "3"
+          }
+        },
+        {
+          "type": "vsBar",
+          "title": "Cartons rouges",
+          "contentID": "Expulsion",
+          "homeTeam": {
+            "score": 0,
+            "displayName": "0"
+          },
+          "awayTeam": {
+            "score": 1,
+            "displayName": "1"
+          }
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune statistiques disponible pour le moment"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Stats",
+      "channel": "MyCtvOS",
+      "eVar31": "[ME] Stats Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}

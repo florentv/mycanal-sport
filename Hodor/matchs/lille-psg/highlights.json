@@ -1,0 +1,132 @@
+{
+  "currentPage": {
+    "displayTemplate": "highlights",
+    "displayName": "Temps forts",
+    "autorefresh": 30000,
+    "path": "/fonctionnalites/mode-expert/pid100797-ligue-1-temps-forts.html"
+  },
+  "strates": [
+    {
+      "type": "highlights",
+      "contents": [
+        {
+          "type": "videoHighlights",
+          "contentID": "8388136242",
+          "title": "70' But de Gabriel pour Lille ",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/1e1eab7633c7ce7a7dae51d6b3cd0ef24cb669b4.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "70' But de Gabriel pour Lille ",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8388136242.json?params%5BcontentType%5D=sport",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8388136242.json?params%5BcontentType%5D=sport",
+            "path": "/sport/70-but-de-gabriel-pour-lille/p/8388136242"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "8388091944",
+          "title": "64' But pour Lille signé Bamba",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/7ccbb7375b45517f0e0379c55acbf2faddbfff3b.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "64' But pour Lille signé Bamba",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8388091944.json?params%5BcontentType%5D=sport",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8388091944.json?params%5BcontentType%5D=sport",
+            "path": "/sport/64-but-pour-lille-signe-bamba/p/8388091944"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "8387948963",
+          "title": "50' BUT pour Lille signé Nicolas Pépé",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/728f8e2ac28635052ba9f2617921ed3cb4ad13c9.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "50' BUT pour Lille signé Nicolas Pépé",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387948963.json?params%5BcontentType%5D=sport",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387948963.json?params%5BcontentType%5D=sport",
+            "path": "/sport/50-but-pour-lille-signe-nicolas-pepe/p/8387948963"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "8387646920",
+          "title": "35' Carton rouge pour le parisien Bernat",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/edc10c3dbb5d78e5bdcb67c4a0e7a8939dc4908a.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "35' Carton rouge pour le parisien Bernat",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387646920.json?params%5BcontentType%5D=sport",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387646920.json?params%5BcontentType%5D=sport",
+            "path": "/sport/35-carton-rouge-pour-le-parisien-bernat/p/8387646920"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "8387433816",
+          "title": "10' Egalisation pour le PSG signée Bernat",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/394d30d769e3f99191ebafef149a51ff33b864c0.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "10' Egalisation pour le PSG signée Bernat",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387433816.json?params%5BcontentType%5D=sport",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387433816.json?params%5BcontentType%5D=sport",
+            "path": "/sport/10-egalisation-pour-le-psg-signee-bernat/p/8387433816"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "8387412766",
+          "title": "07' BUT CSC du PSG de Meunier en faveur de Lille",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/15523b98a20025541ef5aa79c399420f7f195df0.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "07' BUT CSC du PSG de Meunier en faveur de Lille",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387412766.json?params%5BcontentType%5D=sport",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387412766.json?params%5BcontentType%5D=sport",
+            "path": "/sport/07-but-csc-du-psg-de-meunier-en-faveur-de-lille/p/8387412766"
+          }
+        },
+        {
+          "type": "videoHighlights",
+          "contentID": "8387387439",
+          "title": "02' But du PSG refusé pour hors-jeu",
+          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/90b0c33aa579e94b5603007f3203d1bbac7680d7.jpg",
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "02' But du PSG refusé pour hors-jeu",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387387439.json?params%5BcontentType%5D=sport",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8387387439.json?params%5BcontentType%5D=sport",
+            "path": "/sport/02-but-du-psg-refuse-pour-hors-jeu/p/8387387439"
+          }
+        }
+      ],
+      "paging": {
+        "iterationType": "index",
+        "indexStart": 0,
+        "indexEnd": 6,
+        "nbContents": 7,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "totalAvailableContents": 7
+      }
+    }
+  ],
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode expert",
+      "prop5": "MyCtvOS - Mode expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode expert - Ligue 1 - Temps forts",
+      "pageName": "MyCtvOS - Mode expert - Ligue 1 - Temps forts",
+      "channel": "MyCtvOS",
+      "eVar31": "[ME] Temps forts Sport auto",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "sportEventId": "c2a0ea1d-5e07-4b07-aa39-2dbf1a1cf8ff",
+  "empty": {
+    "displayName": "Aucune vidéo disponible pour le moment"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportVitrine",
+    "displayName": "Compositions",
+    "autorefresh": 30000
+  },
+  "strates": [
+    {
+      "type": "field",
+      "sport": "football",
+      "homeTeam": {
+        "displayName": "Lille",
+        "formationType": "4231",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1533717110803_Fanions-L1_L1-Lille.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1535015655517_Maillots-Ligue_1-2018-19_Lille_@2x.png",
+        "color": {
+          "primary": "0xbe0000",
+          "secondary": "0xffffff"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Maignan",
+            "shirtNo": "16",
+            "position": "Goalkeeper",
+            "formationOrder": 1,
+            "contentID": "6cbd81e4-4e6e-4904-8fa4-1e1e4f8efc7a"
+          },
+          {
+            "type": "playerField",
+            "title": "Pepe",
+            "shirtNo": "19",
+            "position": "Forward",
+            "formationOrder": 8,
+            "contentID": "d34132b1-0e7d-4250-bbc0-d368a9ac22da",
+            "goals": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Soumaoro",
+            "shirtNo": "5",
+            "position": "Defender",
+            "formationOrder": 4,
+            "substitute": "out",
+            "contentID": "73496be4-b1a3-4d7f-9930-d7495956d013"
+          },
+          {
+            "type": "playerField",
+            "title": "Kone",
+            "shirtNo": "3",
+            "position": "Defender",
+            "formationOrder": 5,
+            "contentID": "48353385-a219-43b1-80dd-ea4d46aec145"
+          },
+          {
+            "type": "playerField",
+            "title": "Remy",
+            "shirtNo": "9",
+            "position": "Forward",
+            "formationOrder": 11,
+            "contentID": "61ea7cd6-c925-4433-a00a-dc32fb2289a0"
+          },
+          {
+            "type": "playerField",
+            "title": "Thiago Mendes",
+            "shirtNo": "23",
+            "position": "Midfield",
+            "formationOrder": 7,
+            "contentID": "b1ac6ac9-48b7-4560-b3c8-556ed3cf45f4",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Xeka",
+            "shirtNo": "8",
+            "position": "Midfield",
+            "formationOrder": 6,
+            "substitute": "out",
+            "contentID": "1bd93e47-55d6-4557-977d-90e443710f31"
+          },
+          {
+            "type": "playerField",
+            "title": "Bamba",
+            "shirtNo": "14",
+            "position": "Forward",
+            "formationOrder": 10,
+            "contentID": "8dde15f7-6b16-4d44-94f4-46dc462e2654",
+            "goals": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Ikone",
+            "shirtNo": "12",
+            "position": "Forward",
+            "formationOrder": 9,
+            "substitute": "out",
+            "contentID": "8a5860e0-67f4-41fb-bf14-ffaedf7d8e53"
+          },
+          {
+            "type": "playerField",
+            "title": "Fonte",
+            "shirtNo": "6",
+            "position": "Defender",
+            "formationOrder": 3,
+            "contentID": "0c3e3d2f-4ad4-46b1-9cc2-a17aeb6e7903",
+            "goals": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Celik",
+            "shirtNo": "17",
+            "position": "Defender",
+            "formationOrder": 2,
+            "contentID": "365d77b1-d906-478f-8cf4-d6e93a4ab6a8"
+          }
+        ]
+      },
+      "awayTeam": {
+        "displayName": "Paris SG",
+        "formationType": "3421",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1511891457988_Fanions-L1_L1-PSG.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1535095260544_Maillots-Ligue_1-2018-19_Paris_@2x.png",
+        "color": {
+          "primary": "0x004070",
+          "secondary": "0xffffff"
+        },
+        "contents": [
+          {
+            "type": "playerField",
+            "title": "Kimpembe",
+            "shirtNo": "3",
+            "position": "Defender",
+            "formationOrder": 4,
+            "contentID": "8ee4f2fc-824f-49da-a40a-3a36dcad6e74"
+          },
+          {
+            "type": "playerField",
+            "title": "Meunier",
+            "shirtNo": "12",
+            "position": "Defender",
+            "formationOrder": 5,
+            "substitute": "out",
+            "contentID": "cc942ba3-77bc-431f-80bb-6eec1ed2e059",
+            "goalsCSC": 1
+          },
+          {
+            "type": "playerField",
+            "title": "Mbappe",
+            "shirtNo": "7",
+            "position": "Forward",
+            "formationOrder": 10,
+            "contentID": "a1532e22-9716-455f-8598-57ea9f3a4224",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Areola",
+            "shirtNo": "16",
+            "position": "Goalkeeper",
+            "formationOrder": 1,
+            "contentID": "7c733f98-7d10-4dbf-937d-d4d9139f3c99"
+          },
+          {
+            "type": "playerField",
+            "title": "Draxler",
+            "shirtNo": "23",
+            "position": "Midfield",
+            "formationOrder": 11,
+            "substitute": "out",
+            "contentID": "9e9ddb74-4944-4cb5-87d3-9b5db07133d5",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Verratti",
+            "shirtNo": "6",
+            "position": "Midfield",
+            "formationOrder": 7,
+            "contentID": "2a0185dc-1f2e-44a0-96df-3279c1efb25a",
+            "yellowCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Bernat",
+            "shirtNo": "14",
+            "position": "Defender",
+            "formationOrder": 8,
+            "contentID": "227125d6-93d5-4120-ae1f-700aeff6497e",
+            "goals": 1,
+            "redCard": true
+          },
+          {
+            "type": "playerField",
+            "title": "Dagba",
+            "shirtNo": "31",
+            "position": "Defender",
+            "formationOrder": 2,
+            "contentID": "ef3d0709-694d-4905-a8f0-35bff4f55cb4"
+          },
+          {
+            "type": "playerField",
+            "title": "Paredes",
+            "shirtNo": "8",
+            "position": "Midfield",
+            "formationOrder": 9,
+            "contentID": "f8b0fb0c-6426-4981-93d5-7e1931114d2b"
+          },
+          {
+            "type": "playerField",
+            "title": "Alves",
+            "shirtNo": "13",
+            "position": "Defender",
+            "formationOrder": 6,
+            "contentID": "2a02be46-1d71-428e-92e7-fd08c145c41a"
+          },
+          {
+            "type": "playerField",
+            "title": "Thiago Silva",
+            "shirtNo": "2",
+            "position": "Defender",
+            "formationOrder": 3,
+            "substitute": "out",
+            "contentID": "a4eba6bd-681b-4d69-b279-d2caccf2fc40"
+          }
+        ]
+      }
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Lille",
+      "team": {
+        "displayName": "Lille",
+        "isHome": true,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1533717110803_Fanions-L1_L1-Lille.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/d7bc6de5-cce2-4d17-84c9-e3f58be8dd77/1535015655517_Maillots-Ligue_1-2018-19_Lille_@2x.png",
+        "formationType": "4231",
+        "color": {
+          "primary": "be0000",
+          "secondary": "ffffff",
+          "primaryFormat": "hex",
+          "secondaryFormat": "hex"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Soumare",
+          "shirtNo": "24",
+          "position": "Substitute",
+          "substitute": "in",
+          "contentID": "8efd9c99-d88b-49cf-8bef-cf83f39aaafc"
+        },
+        {
+          "type": "substitute",
+          "title": "Pied",
+          "shirtNo": "26",
+          "position": "Substitute",
+          "contentID": "ec327c55-9453-4e1e-8a6d-f163556c59f1"
+        },
+        {
+          "type": "substitute",
+          "title": "Jakubech",
+          "shirtNo": "1",
+          "position": "Substitute",
+          "contentID": "6a73f55b-957f-44c8-bd27-3417750956a2"
+        },
+        {
+          "type": "substitute",
+          "title": "Fonte",
+          "shirtNo": "10",
+          "position": "Substitute",
+          "substitute": "in",
+          "contentID": "ae4e950d-824c-4826-bddb-f7092e926b91"
+        },
+        {
+          "type": "substitute",
+          "title": "Gabriel",
+          "shirtNo": "4",
+          "position": "Substitute",
+          "substitute": "in",
+          "contentID": "460f2aab-dec0-4dc2-b995-c30e3d81a0d9",
+          "goals": 1
+        },
+        {
+          "type": "substitute",
+          "title": "Luiz Araujo",
+          "shirtNo": "11",
+          "position": "Substitute",
+          "contentID": "f2993808-8887-4f94-b757-95450733609b"
+        },
+        {
+          "type": "substitute",
+          "title": "Mandava",
+          "shirtNo": "28",
+          "position": "Substitute",
+          "contentID": "d38c3191-9883-41b9-9042-07b6f7814533"
+        }
+      ]
+    },
+    {
+      "type": "playerList",
+      "title": "Remplaçants Paris SG",
+      "team": {
+        "displayName": "Paris SG",
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1511891457988_Fanions-L1_L1-PSG.png",
+        "URLJersey": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/0d00196a-a007-429e-88ce-5d988c4ec08c/1535095260544_Maillots-Ligue_1-2018-19_Paris_@2x.png",
+        "formationType": "3421",
+        "color": {
+          "primary": "004070",
+          "secondary": "ffffff",
+          "primaryFormat": "hex",
+          "secondaryFormat": "hex"
+        }
+      },
+      "contents": [
+        {
+          "type": "substitute",
+          "title": "Kehrer",
+          "shirtNo": "4",
+          "position": "Substitute",
+          "substitute": "in",
+          "contentID": "f69570f6-6cec-4dce-ac26-f49553560ee7"
+        },
+        {
+          "type": "substitute",
+          "title": "Kurzawa",
+          "shirtNo": "20",
+          "position": "Substitute",
+          "substitute": "in",
+          "contentID": "e40768a7-4df0-49b2-92b0-95794fed35fc"
+        },
+        {
+          "type": "substitute",
+          "title": "Choupo-Moting",
+          "shirtNo": "17",
+          "position": "Substitute",
+          "contentID": "721c1f6f-a019-4f32-a62f-1af4318a4758"
+        },
+        {
+          "type": "substitute",
+          "title": "Diaby",
+          "shirtNo": "27",
+          "position": "Substitute",
+          "substitute": "in",
+          "contentID": "d82ae797-4dcb-4d2f-b3b1-ef9f25c952fb"
+        },
+        {
+          "type": "substitute",
+          "title": "Nkunku",
+          "shirtNo": "24",
+          "position": "Substitute",
+          "contentID": "cba3a8c3-6fd6-4a48-b357-2d30b89876b4"
+        },
+        {
+          "type": "substitute",
+          "title": "Buffon",
+          "shirtNo": "1",
+          "position": "Substitute",
+          "contentID": "d62fba8b-71a3-4cb7-ace4-5e7755d49545"
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucune composition disponible pour le moment"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCtvOS - Mode Expert",
+      "prop5": "MyCtvOS - Mode Expert - Ligue 1",
+      "prop6": "MyCtvOS - Mode Expert - Ligue 1 - Compositions Ligue 1",
+      "pageName": "MyCtvOS - Mode Expert - Ligue 1 - Compositions Ligue 1",
+      "channel": "MyCtvOS",
+      "eVar31": "[ME] Compositions Ligue 1",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  }
+}
