@@ -28,19 +28,19 @@
             {
               "contentID": "bd4d55de-1c46-4215-952e-5130d724d400",
               "type": "match",
-              "status": "13",
-              "displayStatus": "Terminé",
+              "status": "8",
+              "displayStatus": "En cours",
               "displayTime": "14 avril",
               "homeTeam": {
                 "displayName": "Toulouse",
                 "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/e41b572a-bad0-46ec-947d-3a9395ef265c/1511013724361_Fanions-Top14_Top14-Toulouse.png",
-                "score": 47,
+                "score": 33,
                 "winner": true
               },
               "awayTeam": {
                 "displayName": "Clermont-Auvergne",
                 "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d3pv35hprv5u49.cloudfront.net/59404953a7ed0600044cfbfa/91c5f1d3-f8ce-4b56-80cf-3f3e12c65b94/1511012959690_Fanions-Top14_Top14-Clermont.png",
-                "score": 44
+                "score": 23
               }
             },
             {

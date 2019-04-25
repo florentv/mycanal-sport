@@ -11,58 +11,6 @@
       "contents": [
         {
           "type": "videoHighlights",
-          "contentID": "8385544651",
-          "title": "36' L'essai de Penaud face à Clermont",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/69747f8581538864471a8f0da5e38d643d2d93d5.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "36' L'essai de Penaud face à Clermont",
-            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8385544651.json?params%5BcontentType%5D=sport",
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8385544651.json?params%5BcontentType%5D=sport",
-            "path": "/sport/36-l-essai-de-penaud-face-a-clermont/p/8385544651"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "8386038070",
-          "title": "70' L'essai de Ntamack face à Clermont",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/ed26e79f06bcf5d59c26bc6f228859ad50e7485d.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "70' L'essai de Ntamack face à Clermont",
-            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8386038070.json?params%5BcontentType%5D=sport",
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8386038070.json?params%5BcontentType%5D=sport",
-            "path": "/sport/70-l-essai-de-ntamack-face-a-clermont/p/8386038070"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "8385930915",
-          "title": "65' Le 3ème essai de Penaud face à Toulouse",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/b1fa2433301f37cc90fb319e15b0b0c3c53b8404.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "65' Le 3ème essai de Penaud face à Toulouse",
-            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8385930915.json?params%5BcontentType%5D=sport",
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8385930915.json?params%5BcontentType%5D=sport",
-            "path": "/sport/65-le-3-eme-essai-de-penaud-face-a-toulouse/p/8385930915"
-          }
-        },
-        {
-          "type": "videoHighlights",
-          "contentID": "8385913093",
-          "title": "62' Le 2ème essai de Penaud face à Toulouse",
-          "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/1d92c1f677923457ceda11083d6a0bc9c0df1323.jpg",
-          "onClick": {
-            "displayTemplate": "quicktime",
-            "displayName": "62' Le 2ème essai de Penaud face à Toulouse",
-            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8385913093.json?params%5BcontentType%5D=sport",
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/76f1f78b1f1bed4d5a3e959ef53e11c8/wildmoka/8385913093.json?params%5BcontentType%5D=sport",
-            "path": "/sport/62-le-2-eme-essai-de-penaud-face-a-toulouse/p/8385913093"
-          }
-        },
-        {
-          "type": "videoHighlights",
           "contentID": "8385882714",
           "title": "59' L'essai de Gray face à Clermont",
           "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/9a247d85ba78f33fe1cd56fa09c8d23746b584e4.jpg",

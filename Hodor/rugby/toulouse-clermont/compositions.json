@@ -42,7 +42,7 @@
             "position": "Centre",
             "formationOrder": 13,
             "contentID": "86442a02-8325-448b-92c3-930d4ee6cd71",
-            "tries": 2
+            "tries": 1
           },
           {
             "type": "playerField",
@@ -280,7 +280,7 @@
             "position": "Wing",
             "formationOrder": 14,
             "contentID": "d1dd2e7e-1a32-4c11-b20c-48c0124f996f",
-            "tries": 3
+            "tries": 1
           },
           {
             "type": "playerField",
