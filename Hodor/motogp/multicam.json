@@ -28,7 +28,8 @@
     {
       "type": "player360",
       "displayName": "Video 360",
-      "URLVideo": "http://cplive-lh.akamaihd.net/i/dorna_1@179610/master.m3u8",
+      "URLVideo": "http://hls-vod-snl-aka-canalplus.akamaized.net/test/hls/video8/playlist.m3u8",
+      "disableVerticalAxis": true,
       "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg"
     }
   ]
