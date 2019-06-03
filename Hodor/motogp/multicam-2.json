@@ -42,7 +42,7 @@
     {
       "type": "player360",
       "displayName": "Video 360 2",
-      "URLVideo": "http://hls-vod-snl-aka-canalplus.akamaized.net/test/hls/index.m3u8",
+      "URLVideo": "https://strcpluscplus-vh.akamaihd.net/i/geo4/1905/14/wm_8736784402_,200k,400k,800k,1500k,.mp4.csmil/index_0_av.m3u8",
       "URLImage": "http://media.canal-plus.com/wwwplus/image/1/19/7/nip-nip-141849-640x360-ognqc.jpg",
       "keepMainAudio": false,
       "disableVerticalAxis": true
