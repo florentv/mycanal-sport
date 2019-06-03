@@ -214,7 +214,7 @@
               "title": "Lo Celso",
               "position": "Midfield",
               "shirtNo": "18",
-              "mpgRating": "8",
+              "mpgRating": "5",
               "formationOrder": 6,
               "contentID": "39f9c76a-ab8f-4f4b-88d7-e3230ea9a0f7"
             },
@@ -223,7 +223,7 @@
               "title": "Kurzawa",
               "position": "Defender",
               "shirtNo": "20",
-              "mpgRating": "8",
+              "mpgRating": "4",
               "formationOrder": 5,
               "contentID": "e40768a7-4df0-49b2-92b0-95794fed35fc"
             },
@@ -232,7 +232,7 @@
               "title": "Kimpembe",
               "position": "Defender",
               "shirtNo": "3",
-              "mpgRating": "8",
+              "mpgRating": "6,5",
               "formationOrder": 4,
               "contentID": "8ee4f2fc-824f-49da-a40a-3a36dcad6e74"
             },
@@ -293,6 +293,7 @@
             "title": "Fofana",
             "position": "Substitute",
             "shirtNo": "8",
+            "mpgRating": "8",
             "contentID": "69a34e85-3a16-4d2a-a1fb-aeaf10ce5814",
             "substitute": "in"
           },
@@ -322,6 +323,7 @@
             "title": "Gakpe",
             "position": "Substitute",
             "shirtNo": "37",
+            "mpgRating": "4,5",
             "contentID": "c54e8c2e-133f-45ce-b261-7b079bd1ffd6",
             "substitute": "in"
           },
