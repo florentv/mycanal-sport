@@ -44,6 +44,12 @@
     },
     {
       "displayTemplate": "sportVitrine",
+      "displayName": "Composition",
+      "autorefresh": 30000,
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportComposition-without-jersey.json"
+    },
+    {
+      "displayTemplate": "sportVitrine",
       "displayName": "Composition Rugby",
       "autorefresh": 30000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/rugby/rubgy-sportComposition.json"
