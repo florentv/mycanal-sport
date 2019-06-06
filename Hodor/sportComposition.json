@@ -255,7 +255,7 @@
           "contentID": "463c255b-d49f-40be-a35b-14084e8bc9ba"
         },
         {
-          "yellowCard": 1,
+          "yellowCard": true,
           "type": "substitute",
           "title": "Fofana",
           "position": "Substitute",
