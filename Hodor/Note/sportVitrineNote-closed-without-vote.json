@@ -10,12 +10,12 @@
       "contents": [
         {
           "type": "rating",
-          "contentID": "84d87481-8713-4898-a5a4-19648c84b0cc",
+          "contentID": "1f09458f-aeeb-40e9-bfd6-620bd5c172cc",
           "URLImage": "https://thumb-rec.canalplus.pro/bran/unsafe/{resolutionXY}/image/10/1/ob_b35203_0-mc-image-1.53101.jpeg",
-          "displayStatus": "Created",
-          "status": 1,
-          "startDate": 1562515800,
-          "endDate": 1562518800,
+          "displayStatus": "Terminé",
+          "status": 3,
+          "startDate": 1561563106,
+          "endDate": 1561563116,
           "layouts": [
             {
               "layoutID": "0",
@@ -158,7 +158,7 @@
               "description": "Retrouvez les résultats dans l'émission Formula One",
               "action": {
                 "type": "label",
-                "title": "Created"
+                "title": "Closed"
               }
             }
           ]
@@ -167,35 +167,41 @@
     },
     {
       "type": "match",
-      "id": "3f93cd88-cd5d-4646-8e86-2ae431a9d695",
-      "status": "2",
-      "displayStatus": "A venir",
-      "displayTime": "7 juil.",
+      "id": "a69bf83f-8f2d-4c0d-87cb-6aea75e12869",
+      "status": "13",
+      "displayStatus": "Terminé",
+      "displayTime": "28 juin",
       "homeTeam": {
-        "displayName": "Etats-Unis",
-        "URLImage": "http://d2e8607j1hmk3d.cloudfront.net/59404953a7ed0600044cfbfa/1c860e95-3c72-4b86-ab52-259c2e03f12e/flags/flag_UnitedStates.png"
+        "displayName": "France",
+        "score": 1,
+        "URLImage": "http://d2e8607j1hmk3d.cloudfront.net/59404953a7ed0600044cfbfa/1c860e95-3c72-4b86-ab52-259c2e03f12e/flags/flag_France.png"
       },
       "awayTeam": {
-        "displayName": "Pays-Bas",
-        "URLImage": "http://d2e8607j1hmk3d.cloudfront.net/59404953a7ed0600044cfbfa/1c860e95-3c72-4b86-ab52-259c2e03f12e/flags/flag_Netherlands.png"
+        "displayName": "Etats-Unis",
+        "score": 2,
+        "winner": true,
+        "URLImage": "http://d2e8607j1hmk3d.cloudfront.net/59404953a7ed0600044cfbfa/1c860e95-3c72-4b86-ab52-259c2e03f12e/flags/flag_UnitedStates.png"
       }
     },
     {
       "type": "stats",
       "homeTeam": {
+        "displayName": "France",
+        "score": 1,
+        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d2e8607j1hmk3d.cloudfront.net/59404953a7ed0600044cfbfa/1c860e95-3c72-4b86-ab52-259c2e03f12e/flags/flag_France.png",
+        "color": {
+          "primary": "0x233d63",
+          "secondary": "0xffffff"
+        }
+      },
+      "awayTeam": {
         "displayName": "Etats-Unis",
+        "score": 2,
+        "winner": true,
         "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d2e8607j1hmk3d.cloudfront.net/59404953a7ed0600044cfbfa/1c860e95-3c72-4b86-ab52-259c2e03f12e/flags/flag_UnitedStates.png",
         "color": {
           "primary": "0xF9F9F9",
           "secondary": "0x201843"
-        }
-      },
-      "awayTeam": {
-        "displayName": "Pays-Bas",
-        "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/d2e8607j1hmk3d.cloudfront.net/59404953a7ed0600044cfbfa/1c860e95-3c72-4b86-ab52-259c2e03f12e/flags/flag_Netherlands.png",
-        "color": {
-          "primary": "0xFF5E44",
-          "secondary": "0x2A1B17"
         }
       },
       "contents": [
@@ -204,12 +210,12 @@
           "title": "Possession (%)",
           "contentID": "PossessionPercentage",
           "homeTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 59,
+            "displayName": "59"
           },
           "awayTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 41,
+            "displayName": "41"
           }
         },
         {
@@ -217,23 +223,23 @@
           "title": "Tirs",
           "contentID": "Shot",
           "homeTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 20,
+            "displayName": "20"
           },
           "awayTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 11,
+            "displayName": "11"
           },
           "subScore": [
             {
               "title": "Tirs cadrés",
               "homeTeam": {
-                "score": 0,
-                "displayName": "0 (undefined%)"
+                "score": 5,
+                "displayName": "5 (25%)"
               },
               "awayTeam": {
-                "score": 0,
-                "displayName": "0 (undefined%)"
+                "score": 9,
+                "displayName": "9 (82%)"
               }
             }
           ]
@@ -243,12 +249,12 @@
           "title": "Coups francs",
           "contentID": "Free Kick",
           "homeTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 14,
+            "displayName": "14"
           },
           "awayTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 15,
+            "displayName": "15"
           }
         },
         {
@@ -256,12 +262,12 @@
           "title": "Corners",
           "contentID": "Corner Kick",
           "homeTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 7,
+            "displayName": "7"
           },
           "awayTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 3,
+            "displayName": "3"
           }
         },
         {
@@ -269,12 +275,12 @@
           "title": "Hors-jeux",
           "contentID": "Offside",
           "homeTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 6,
+            "displayName": "6"
           },
           "awayTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 3,
+            "displayName": "3"
           }
         },
         {
@@ -282,12 +288,12 @@
           "title": "Fautes",
           "contentID": "Foul",
           "homeTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 8,
+            "displayName": "8"
           },
           "awayTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 11,
+            "displayName": "11"
           }
         },
         {
@@ -295,8 +301,8 @@
           "title": "Cartons jaunes",
           "contentID": "Caution",
           "homeTeam": {
-            "score": 0,
-            "displayName": "0"
+            "score": 2,
+            "displayName": "2"
           },
           "awayTeam": {
             "score": 0,
