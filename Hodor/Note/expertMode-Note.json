@@ -22,7 +22,7 @@
       "displayTemplate": "sportVitrine",
       "displayName": "Match (coming)",
       "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrineNote-tocome.json",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrineNote-voting.json",
       "default": true
     },
     {
