@@ -1,7 +1,7 @@
 {
   "currentPage": {
     "displayTemplate": "detailPage",
-    "displayName": "Monaco / Nantes",
+    "displayName": "Note du match",
     "path": "/guide/programme/9721268-monaco-nantes.html"
   },
   "tracking": {
@@ -566,7 +566,7 @@
         "onClick": {
           "displayTemplate": "liveNotifications",
           "displayName": "Notifications Ligue 1",
-          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/liveNotifications/1e378f0e0f63bdeadbe8b2297a4c3a2c/associatedContentId/6340/event/d7cbebdf-942e-4a59-a7eb-5e8be0fefcaa",
+          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/timeline.json",
           "autorefresh": 5000
         }
       }
@@ -574,12 +574,13 @@
     "displayExpertMode": [
       {
         "URLImage": "https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/48/4/pictomodeexpert-3x.36484.png",
-        "title": "Coulisses et temps forts",
-        "subtitle" : "Appui long sur le pavé tactile",
+        "title": "Mode Expert",
+        "subtitle": "Appui long sur le pavé tactile",
+        "URLTimeline": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/timeline.json",
         "onClick": {
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Top 14",
-          "URLPage": "https://hodor-dev.canalplus.pro/api/v1/mycanal/expertMode/ee96204da9db69a62dfd70a257679198/associatedContentId/16919/event/c8259568-75da-4f8d-b93b-362d36d8101c",
+          "URLPage": "https://hodor-dev.canalplus.pro/api/v1/mycanal/expertMode/b590a24ca28de2fb2c7f95d255b1ba16/associatedContentId/16919/event/5e3f59ef-76a0-4e6a-bf9e-dd7f02c9a70d",
           "autorefresh": 30000
         }
       }
