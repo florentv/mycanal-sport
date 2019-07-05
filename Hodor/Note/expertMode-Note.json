@@ -28,7 +28,7 @@
       "displayTemplate": "sportVitrine",
       "displayName": "Statistiques",
       "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrine.json",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrineNote-status.json",
       "default": true
     },
     {
