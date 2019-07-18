@@ -20,32 +20,32 @@
   "rubriques": [
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Match (coming)",
+      "displayName": "Match (a venir)",
       "autorefresh": 5000,
-      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/sportVitrineNote-coming.json",
+      "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-coming.json",
       "default": true
     },
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Match ov",
+      "displayName": "Match ouvert avec vote",
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-open-with-vote.json"
     },
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Match owv",
+      "displayName": "Match ouvert sans vote",
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-open-without-vote.json"
     },
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Match cv",
+      "displayName": "Match fermé avec vote",
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-closed-with-vote.json"
     },
     {
       "displayTemplate": "sportVitrine",
-      "displayName": "Match cwv",
+      "displayName": "Match fermé sans vote",
       "autorefresh": 5000,
       "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-closed-without-vote.json"
     },
