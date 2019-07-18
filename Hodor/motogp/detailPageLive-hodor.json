@@ -137,7 +137,7 @@
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert motoGP",
           "autorefresh" : 10000,
-          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/d2820ca3428a1bd97090bb3f661a66d1/associatedContentId/15752/event/15752-18"
+          "URLPage": "https://hodor-passif.canalplus.pro/api/v1/mycanal/expertMode/8649e8b06536dda7cf0ccb60cecb637d/associatedContentId/15752/event/15752-27"
         }
       }
     ]

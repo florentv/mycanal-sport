@@ -1,0 +1,3189 @@
+{
+  "currentPage": {
+    "displayTemplate": "landing",
+    "displayName": "Regarder",
+    "displayLogo": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/42/1/logomycanallight@3x.55421.png",
+    "BOName": "Accueil V2",
+    "BOLayoutName": "[myCANAL hors TV JM] Home HAPI (globale abonné)",
+    "path": "/navV2/accueil"
+  },
+  "tracking": {
+    "omniture": {
+      "prop4": "MyCiOS - Test",
+      "prop5": "MyCiOS - Test - Test Explorer",
+      "prop6": "MyCiOS - Test - Test Explorer - Accueil V2",
+      "pageName": "MyCiOS - Test - Test Explorer - Accueil V2",
+      "channel": "MyCiOS",
+      "eVar31": "[myCANAL hors TV JM] Home HAPI (globale abonné)",
+      "prop10": "Contenu",
+      "prop11": "Autres",
+      "prop12": "Consumer"
+    }
+  },
+  "covers": [
+    {
+      "type": "coverImage",
+      "contents": [
+        {
+          "type": "VoD",
+          "contentID": "10559215_50047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/top/89977035",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "quicktime",
+            "displayName": "Millenium : ce qui ne me tue pas",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10559215_50047;SFB;8gyMfUqLF0.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=player&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10559215_50047;SFB;8gyMfUqLF0.json?cache=780000&objectType=unit&operator={operator}",
+            "BOName": "Millenium : ce qui ne me tue pas",
+            "path": "/cinema/millenium-ce-qui-ne-me-tue-pas/h/10559215_50047"
+          }
+        }
+      ],
+      "context": {
+        "contextType": "edito",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-cover-creplay_selectionbis"
+      }
+    }
+  ],
+  "strates": [
+    {
+      "type": "carrousel",
+      "contents": [
+        {
+          "type": "VoD",
+          "contentID": "10559215_50047",
+          "epgID": "40047",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89977031",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Millenium : ce qui ne me tue pas",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10559215_50047;SFB;8gyMfUqLF0.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Millenium : ce qui ne me tue pas",
+            "path": "/cinema/millenium-ce-qui-ne-me-tue-pas/h/10559215_50047"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_series_profitezdeletepourbinger",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89974619",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Les séries à binger et à télécharger",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_series_profitezdeletepourbinger;tap.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-1-contentrow-creplay_selectionbis",
+            "BOName": "Les séries à binger et à télécharger",
+            "path": "/les-series-a-binger-et-a-telecharger/h/creplay_collection_series_profitezdeletepourbinger"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "11438590_50001",
+          "epgID": "40052",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/86675686",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "onClick": {
+            "displayTemplate": "detailShow",
+            "displayName": "Toussa toussa",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/11438590_50001;2Tlm;8gxRVePbz2.json?params%5BdetailType%5D=detailShow&objectType=brand&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Toussa toussa",
+            "path": "/jeunesse/toussa-toussa/h/11438590_50001"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "8471148_50047",
+          "epgID": "40047",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89180654",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "onClick": {
+            "displayTemplate": "detailShow",
+            "displayName": "Legion",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/8471148_50047;3XcF;8gyor8Sz6o.json?params%5BdetailType%5D=detailShow&objectType=brand&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Legion",
+            "path": "/series/legion/h/8471148_50047"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_chaine_cineplus_100vampires",
+          "epgID": "40008",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89686703",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82482939",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "100% Vampires",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_chaine_cineplus_100vampires;Br8.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-1-contentrow-creplay_selectionbis",
+            "BOName": "100% Vampires",
+            "path": "/100-vampires/h/creplay_chaine_cineplus_100vampires"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "8701634_50047",
+          "epgID": "40047",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/88487881",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "onClick": {
+            "displayTemplate": "detailShow",
+            "displayName": "The Handmaid's Tale",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/8701634_50047;3osP;8gzcILgxup.json?params%5BdetailType%5D=detailShow&objectType=brand&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "The Handmaid's Tale",
+            "path": "/series/the-handmaid-s-tale/h/8701634_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "8992138_50002",
+          "epgID": "40008",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89686685",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82482939",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le redoutable",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/8992138_50002;1Oom;8gyxvIHZVF.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Le redoutable",
+            "path": "/cinema/le-redoutable/h/8992138_50002"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9998436_50047",
+          "epgID": "40047",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89976922",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Midnight Sun",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9998436_50047;2vMI;8gyj8Yjpug.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Midnight Sun",
+            "path": "/cinema/midnight-sun/h/9998436_50047"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "9407325_50001",
+          "epgID": "40052",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76144112",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "onClick": {
+            "displayTemplate": "detailShow",
+            "displayName": "The Teach",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9407325_50001;3tSk;8gyGcRd9MJ.json?params%5BdetailType%5D=detailShow&objectType=brand&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "The Teach",
+            "path": "/series/the-teach/h/9407325_50001"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_chaine_comedie_leteserashow",
+          "epgID": "40004",
+          "URLImageRegular": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89549404",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/64696789",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "L’été sera show !",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_chaine_comedie_leteserashow;J3I.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-1-contentrow-creplay_selectionbis",
+            "BOName": "L’été sera show !",
+            "path": "/l-ete-sera-show/h/creplay_chaine_comedie_leteserashow"
+          }
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "166",
+        "titleDisplayMode": "all",
+        "imageSize": "large"
+      },
+      "paging": {
+        "iterationType": "id",
+        "idStart": "YXJyYXljb25uZWN0aW9uOjA=",
+        "idEnd": "YXJyYXljb25uZWN0aW9uOjk=",
+        "nbContents": 10,
+        "hasNextPage": false,
+        "hasPreviousPage": false
+      },
+      "context": {
+        "contextType": "edito",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-1-contentrow-creplay_selectionbis"
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "Continuer la lecture",
+      "perso": "ongoing",
+      "displayParameters": {
+        "imageRatio": "169",
+        "titleDisplayMode": "all",
+        "imageSize": "normal"
+      },
+      "button": {
+        "title": "Tous",
+        "onClick": {
+          "displayTemplate": "contentGrid",
+          "displayName": "Continuer la lecture",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/62bb8ca875d9d5fea5a845b77cbcc49c/7510.json",
+          "pullToRefresh": true,
+          "BOName": "Ongoing",
+          "BOLayoutName": "[All devices] Ongoing",
+          "path": "/mes-videos/ongoing",
+          "perso": "ongoing"
+        }
+      },
+      "paging": {
+        "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/me/62bb8ca875d9d5fea5a845b77cbcc49c/lists/ongoing?dsp=detailPage&sdm=show&imageRatio=169&titleDisplayMode=all&displayLogo=true&maxContentRemaining=15&distmodes=catchup%2Csvod%2Cpretvod%2Ctvod%2Cposttvod"
+      },
+      "context": {
+        "contextType": "ongoing",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-2-continuer_la_lecture-contentrow"
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "Recommandé pour vous",
+      "perso": "recommendations",
+      "displayParameters": {
+        "imageRatio": "169",
+        "titleDisplayMode": "all",
+        "imageSize": "normal"
+      },
+      "paging": {
+        "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/me/62bb8ca875d9d5fea5a845b77cbcc49c/lists/recommendations?dsp=detailPage&sdm=show&imageRatio=169&titleDisplayMode=all&displayLogo=true&maxContentRemaining=25"
+      },
+      "context": {
+        "contextType": "recommendations",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-3-recommande_pour_vous-contentrow"
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "Nouveautés cinéma",
+      "contents": [
+        {
+          "type": "VoD",
+          "contentID": "10559215_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/84010703",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Millenium : ce qui ne me tue pas",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10559215_50047;SFB;8gyMfUqLF0.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Millenium : ce qui ne me tue pas",
+            "path": "/cinema/millenium-ce-qui-ne-me-tue-pas/h/10559215_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9998436_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77991521",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Midnight Sun",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9998436_50047;2vMI;8gyj8Yjpug.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Midnight Sun",
+            "path": "/cinema/midnight-sun/h/9998436_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10417056_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/82204307",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Yéti & Compagnie",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10417056_50001;MnW;8gwMMa5zJv.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Yéti & Compagnie",
+            "path": "/cinema/yeti-compagnie/h/10417056_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10140183_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/86192672",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Contes de juillet",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10140183_50047;481j;8gta7FErv2.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Contes de juillet",
+            "path": "/cinema/contes-de-juillet/h/10140183_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10248406_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/75343901",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Sollers Point, Baltimore",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10248406_50047;48rT;8gtEFGpstm.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Sollers Point, Baltimore",
+            "path": "/cinema/sollers-point-baltimore/h/10248406_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10180427_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/80666268",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Darkest Minds : rébellion",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10180427_50001;1so9;8grw2FzAN8.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Darkest Minds : rébellion",
+            "path": "/cinema/darkest-minds-rebellion/h/10180427_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10318714_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/82306325",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "L'amour est une fête",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10318714_50001;10gz;8gyGcRdaXN.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "L'amour est une fête",
+            "path": "/cinema/l-amour-est-une-fete/h/10318714_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10365309_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/87695629",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "16 levers de soleil",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10365309_50001;6Vy;8gyRy4ZV1S.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "16 levers de soleil",
+            "path": "/cinema/16-levers-de-soleil/h/10365309_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10519459_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/84404972",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Kursk",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10519459_50047;2b9E;8gywKQ3wHU.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Kursk",
+            "path": "/cinema/kursk/h/10519459_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10482525_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83850250",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Silvio et les autres",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10482525_50047;2Fm;8gvZ1mmitz.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Silvio et les autres",
+            "path": "/cinema/silvio-et-les-autres/h/10482525_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10340663_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83058745",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Un peuple et son roi",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10340663_50001;3H7v;8gzxTrxabx.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Un peuple et son roi",
+            "path": "/cinema/un-peuple-et-son-roi/h/10340663_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10044255_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/84255870",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Un couteau dans le coeur",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10044255_50001;4bSw;8giJxj9OzZ.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Un couteau dans le coeur",
+            "path": "/cinema/un-couteau-dans-le-coeur/h/10044255_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10318656_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/81678040",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Climax",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10318656_50001;n9I;8gz2vRssZm.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Climax",
+            "path": "/cinema/climax/h/10318656_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "8261394_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85008392",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "High Life",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/8261394_50001;3Epr;8gyxvIHYs7.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "High Life",
+            "path": "/cinema/high-life/h/8261394_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10365227_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/81914780",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Alad'2",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10365227_50001;3lAT;8gznj6oQW7.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Alad'2",
+            "path": "/cinema/alad-2/h/10365227_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10140171_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/78272356",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Une pluie sans fin",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10140171_50001;43yV;8gzEHnpdqa.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Une pluie sans fin",
+            "path": "/cinema/une-pluie-sans-fin/h/10140171_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9716667_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74291752",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Vent du nord",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9716667_50047;3BEB;8gyWsOeReA.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Vent du nord",
+            "path": "/cinema/vent-du-nord/h/9716667_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10248389_50002",
+          "epgID": "40008",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89040045",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82482939",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Reine d'un été",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10248389_50002;3l3r;8gbHZzmbLl.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Reine d'un été",
+            "path": "/cinema/reine-d-un-ete/h/10248389_50002"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10180555_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/79237987",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Detective Dee : la légende des rois célestes",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10180555_50001;16Y8;8gwUWtW2MJ.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Detective Dee : la légende des rois célestes",
+            "path": "/cinema/detective-dee-la-legende-des-rois-celestes/h/10180555_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10270220_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83011159",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Un nouveau jour sur Terre",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10270220_50001;2bQe;8gwSioErZK.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Un nouveau jour sur Terre",
+            "path": "/cinema/un-nouveau-jour-sur-terre/h/10270220_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10445860_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83011341",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Chair de poule 2 : les fantômes d'Halloween",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10445860_50047;v02;8gtn824AS5.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Chair de poule 2 : les fantômes d'Halloween",
+            "path": "/cinema/chair-de-poule-2-les-fantomes-d-halloween/h/10445860_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10113860_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77479700",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Break",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10113860_50001;3dMz;8gyVkugaO0.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Break",
+            "path": "/cinema/break/h/10113860_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10225141_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/81298910",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "En eaux troubles",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10225141_50001;3LFv;8gyg7rHBTI.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "En eaux troubles",
+            "path": "/cinema/en-eaux-troubles/h/10225141_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10395711_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/82482850",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Venom",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10395711_50047;1fIf;8gnIckGdS8.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Venom",
+            "path": "/cinema/venom/h/10395711_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10248227_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/79238741",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Guy",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10248227_50001;3HzB;8gzuutB8gt.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Guy",
+            "path": "/cinema/guy/h/10248227_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9850771_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73826692",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Cornélius, le meunier hurlant",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9850771_50001;2Ghi;8gxKmqiFZu.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Cornélius, le meunier hurlant",
+            "path": "/cinema/cornelius-le-meunier-hurlant/h/9850771_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10022811_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77481629",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "How to Talk to Girls at Parties",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10022811_50047;324L;8fFRFZRt8X.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "How to Talk to Girls at Parties",
+            "path": "/cinema/how-to-talk-to-girls-at-parties/h/10022811_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10044432_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76763344",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Parvana, une enfance en Afghanistan",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10044432_50001;1e4f;8gg3yOWT5E.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Parvana, une enfance en Afghanistan",
+            "path": "/cinema/parvana-une-enfance-en-afghanistan/h/10044432_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10022957_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/88489089",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Sans un bruit",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10022957_50001;2qcg;8gun8jzz71.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Sans un bruit",
+            "path": "/cinema/sans-un-bruit/h/10022957_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10395988_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83653120",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Dilili à Paris",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10395988_50047;1fPf;8fyQ8g3IAd.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Dilili à Paris",
+            "path": "/cinema/dilili-a-paris/h/10395988_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9858255_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73749563",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Monsieur Je-Sais-Tout",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9858255_50001;1IYM;8gzBFQNq4h.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Monsieur Je-Sais-Tout",
+            "path": "/cinema/monsieur-je-sais-tout-monsieur-je-sais-tout/h/9858255_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9789724_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69853042",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Nico, 1988",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9789724_50047;362E;8ftJ9xmrYj.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Nico, 1988",
+            "path": "/cinema/nico-1988/h/9789724_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10044234_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76760874",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Budapest",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10044234_50001;lNg;8gyxTa2csX.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Budapest",
+            "path": "/cinema/budapest/h/10044234_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10140185_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/81582459",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Hôtel Transylvanie 3 : des vacances monstrueuses",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10140185_50047;sJP;8ghR19w7eg.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Hôtel Transylvanie 3 : des vacances monstrueuses",
+            "path": "/cinema/hotel-transylvanie-3-des-vacances-monstrueuses/h/10140185_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10113739_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/80839880",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Guilty",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10113739_50001;n8k;8gyoAwd4AK.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "The Guilty",
+            "path": "/cinema/the-guilty/h/10113739_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10340722_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/82482437",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "I Feel Good",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10340722_50001;Z6h;8gyQl4lZSP.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "I Feel Good",
+            "path": "/cinema/i-feel-good/h/10340722_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10070754_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77584380",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le dossier Mona Lina",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10070754_50001;2XAY;8gnhA6vWs7.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Le dossier Mona Lina",
+            "path": "/cinema/le-dossier-mona-lina/h/10070754_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10092786_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/78564010",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Paranoïa",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10092786_50001;3N8X;8g5wfdfr3x.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Paranoïa",
+            "path": "/cinema/paranoia/h/10092786_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9822957_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76760925",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "La route sauvage",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9822957_50001;3Pev;8gwDycVETY.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "La route sauvage",
+            "path": "/cinema/la-route-sauvage-la-route-sauvage/h/9822957_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10092835_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/88930924",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "L'empire de la perfection",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10092835_50047;3Xhl;8ffIponKlh.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "L'empire de la perfection",
+            "path": "/cinema/l-empire-de-la-perfection-l-empire-de-la-perfection/h/10092835_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10225059_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/81298912",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Alpha",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10225059_50047;1j9G;8gugRcmeoW.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Alpha",
+            "path": "/cinema/alpha/h/10225059_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10113732_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/78272352",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Maya l'abeille 2 : les jeux du miel",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10113732_50001;dnQ;8gyQl4m11R.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Maya l'abeille 2 : les jeux du miel",
+            "path": "/cinema/maya-l-abeille-2-les-jeux-du-miel/h/10113732_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9928297_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76571315",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Solo : A Star Wars Story",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9928297_50001;3RIa;8gwedG4AAX.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Solo : A Star Wars Story",
+            "path": "/cinema/solo-a-star-wars-story/h/9928297_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10248385_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/82481553",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Burning",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10248385_50001;19gc;8gwsAqt7G7.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Burning",
+            "path": "/cinema/burning/h/10248385_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9928403_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/87739481",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Gueule d'ange",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9928403_50001;44r7;8gokBUCIEl.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Gueule d'ange",
+            "path": "/cinema/gueule-d-ange/h/9928403_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10519437_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/84255872",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Heureux comme Lazzaro",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10519437_50001;1Xpz;8gxbcqXJ32.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Heureux comme Lazzaro",
+            "path": "/cinema/heureux-comme-lazzaro/h/10519437_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10180431_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/79882516",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Under the Silver Lake",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10180431_50001;22pr;8gdalUk4EY.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Under the Silver Lake",
+            "path": "/cinema/under-the-silver-lake/h/10180431_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10092813_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77633256",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Dogman",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10092813_50001;2WAJ;8gxcIcgD7V.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Dogman",
+            "path": "/cinema/dogman/h/10092813_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10593146_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83547608",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Les filles du soleil",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10593146_50001;3LEe;8gvm9EqkzJ.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Les filles du soleil",
+            "path": "/cinema/les-filles-du-soleil/h/10593146_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10270187_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/81302529",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Whitney",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10270187_50001;3L8k;8gux79nUCn.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Whitney",
+            "path": "/cinema/whitney/h/10270187_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9879770_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/75558990",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Plaire, aimer et courir vite",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9879770_50001;3kBP;8gzmVF4EqU.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Plaire, aimer et courir vite",
+            "path": "/cinema/plaire-aimer-et-courir-vite/h/9879770_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10022812_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77481634",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Une prière avant l'aube",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10022812_50001;38qa;8gvnhYp0ST.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Une prière avant l'aube",
+            "path": "/cinema/une-priere-avant-l-aube-une-priere-avant-l-aube/h/10022812_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9876265_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/79532554",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Everybody Knows",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9876265_50001;3PsW;8gtF37JGTF.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Everybody Knows",
+            "path": "/cinema/everybody-knows/h/9876265_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10044433_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77900269",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Love, Simon",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10044433_50001;1GqM;8guxS22oBz.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Love, Simon",
+            "path": "/cinema/love-simon/h/10044433_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10203226_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/79831299",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le monde est à toi",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10203226_50001;qyz;8gxCqarWxp.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Le monde est à toi",
+            "path": "/cinema/le-monde-est-a-toi/h/10203226_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10070874_50019",
+          "epgID": "40055",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77900263",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/88272710",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Les Indestructibles 2",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10070874_50019;3ZA4;8go9gGPXEQ.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Les Indestructibles 2",
+            "path": "/cinema/les-indestructibles-2/h/10070874_50019"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9669894_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73563000",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Tomb Raider",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9669894_50001;44Rh;8goWpZfeWg.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Tomb Raider",
+            "path": "/cinema/tomb-raider/h/9669894_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10203236_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/79535340",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Equalizer 2",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10203236_50047;2bDb;8gviKGuiHP.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Equalizer 2",
+            "path": "/cinema/equalizer-2/h/10203236_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9951633_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77479449",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Je vais mieux",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9951633_50001;39Lp;8gx59nK83V.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Je vais mieux",
+            "path": "/cinema/je-vais-mieux/h/9951633_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10070873_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77479718",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Joueurs",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10070873_50001;2yfD;8gwdUVpAiP.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Joueurs",
+            "path": "/cinema/joueurs/h/10070873_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10070726_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/78272360",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Woman at War",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10070726_50001;2fBz;8gu6gRdUG5.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Woman at War",
+            "path": "/cinema/woman-at-war/h/10070726_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9766612_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74293999",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Third Murder",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9766612_50001;39vR;8grezHTYI6.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "The Third Murder",
+            "path": "/cinema/the-third-murder/h/9766612_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9742040_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73750587",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Dans la brume",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9742040_50001;2Lbm;8gtgHxwM61.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Dans la brume",
+            "path": "/cinema/dans-la-brume/h/9742040_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10022809_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76761125",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le doudou",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10022809_50001;1OaY;8guVGNAzAB.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Le doudou",
+            "path": "/cinema/le-doudou/h/10022809_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9691119_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/87474616",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Captain : l'usurpateur",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9691119_50001;3Emu;8gdsSvj6ms.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "The Captain : l'usurpateur",
+            "path": "/cinema/the-captain-l-usurpateur/h/9691119_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9974561_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77776193",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Champions",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9974561_50001;3QzU;8gwZtLQK4D.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Champions",
+            "path": "/cinema/champions-champions/h/9974561_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9822953_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/86885718",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Avengers : Infinity War",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9822953_50001;27K;8gyItvaC3h.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Avengers : Infinity War",
+            "path": "/cinema/avengers-infinity-war/h/9822953_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9998438_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76760908",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Ocean's 8",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9998438_50001;1rBd;8gyLNMriYL.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Ocean's 8",
+            "path": "/cinema/ocean-s-8/h/9998438_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9850815_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76579105",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Paul, apôtre du Christ",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9850815_50047;46nG;8gqcGdLUtB.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Paul, apôtre du Christ",
+            "path": "/cinema/paul-apotre-du-christ/h/9850815_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9766821_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73749557",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "L'île aux chiens",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9766821_50001;ztc;8e3ZLx5W71.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "L'île aux chiens",
+            "path": "/cinema/l-ile-aux-chiens/h/9766821_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9951630_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/76633953",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Opération Beyrouth",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9951630_50001;3bFS;8gnOVzT5lx.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Opération Beyrouth",
+            "path": "/cinema/operation-beyrouth/h/9951630_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10070732_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/77584378",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Tamara Vol. 2",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10070732_50047;2Owl;8dYuvURq0D.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Tamara Vol. 2",
+            "path": "/cinema/tamara-vol-2/h/10070732_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "7115580_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72732554",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le BGG : le bon gros géant",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/7115580_50001;1MvA;8gymVnzGEx.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Le BGG : le bon gros géant",
+            "path": "/cinema/le-bgg-le-bon-gros-geant/h/7115580_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9951634_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/75870625",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Demi-soeurs",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9951634_50047;2BMt;8dMcjnczPW.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Demi-soeurs",
+            "path": "/cinema/demi-soeurs/h/9951634_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9823006_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/75208046",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Otages à Entebbe",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9823006_50047;cE6;8guobWSZXO.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Otages à Entebbe",
+            "path": "/cinema/otages-a-entebbe/h/9823006_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "10113744_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/86885719",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Ant-Man et La Guêpe",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/10113744_50001;3hmd;8drrIw5Eif.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Ant-Man et La Guêpe",
+            "path": "/cinema/ant-man-et-la-guepe/h/10113744_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9822878_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/75875237",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Amoureux de ma femme",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9822878_50047;3o85;8gzzb8QlyF.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Amoureux de ma femme",
+            "path": "/cinema/amoureux-de-ma-femme/h/9822878_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9850913_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74472984",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Comme des rois",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9850913_50047;3uB2;8gwFrpyN6S.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Comme des rois",
+            "path": "/cinema/comme-des-rois/h/9850913_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9716639_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74960936",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Rider",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9716639_50001;ick;8gy0eW08Oi.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "The Rider",
+            "path": "/cinema/the-rider-the-rider/h/9716639_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9742198_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73439955",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Red Sparrow",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9742198_50001;1teS;8gtzGgvhht.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Red Sparrow",
+            "path": "/cinema/red-sparrow/h/9742198_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9669947_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72973483",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Ghostland",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9669947_50001;1Hd7;8gxaOZDuT5.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Ghostland",
+            "path": "/cinema/ghostland/h/9669947_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9445711_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/69320990",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "La monnaie de leur pièce",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9445711_50001;3OYJ;8gvYlan60E.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "La monnaie de leur pièce",
+            "path": "/cinema/la-monnaie-de-leur-piece/h/9445711_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9789677_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/75511545",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "My Wonder Women",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9789677_50047;3xTp;8gvr94kwAb.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "My Wonder Women",
+            "path": "/cinema/my-wonder-women/h/9789677_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9789721_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85369838",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Love Addict",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9789721_50047;24wp;8gx413LruX.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Love Addict",
+            "path": "/cinema/love-addict/h/9789721_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9541429_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74312054",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Ni juge, ni soumise",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9541429_50001;3SoD;8gvkzcsbRB.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Ni juge, ni soumise",
+            "path": "/cinema/ni-juge-ni-soumise/h/9541429_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9742193_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74962958",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Pierre Lapin",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9742193_50047;gtD;8gzFsg3Gj8.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Pierre Lapin",
+            "path": "/cinema/pierre-lapin/h/9742193_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9541368_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/70831896",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Jusqu'à la garde",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9541368_50001;2EAm;8gtznvQjzQ.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Jusqu'à la garde",
+            "path": "/cinema/jusqu-a-la-garde/h/9541368_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9620374_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72974218",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Call Me by Your Name",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9620374_50047;2SIh;8gzi0VPIrb.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Call Me by Your Name",
+            "path": "/cinema/call-me-by-your-name/h/9620374_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9766829_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73826698",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Kings",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9766829_50001;3ILA;8gwvBX4W0A.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Kings",
+            "path": "/cinema/kings/h/9766829_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9541427_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/71051475",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 4,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Revenge",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9541427_50001;3Q2v;8gyMfUqLpF.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Revenge",
+            "path": "/cinema/revenge/h/9541427_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9742179_50047",
+          "epgID": "40047",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74962956",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/82301678",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Gaston Lagaffe",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9742179_50047;35KB;8gnu3Ehxf9.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Gaston Lagaffe",
+            "path": "/cinema/gaston-lagaffe/h/9742179_50047"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9902068_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83904421",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Deadpool 2",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9902068_50001;3HJd;8goWNqzsTR.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Deadpool 2",
+            "path": "/cinema/deadpool-2/h/9902068_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9850917_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74333570",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Rampage : hors de contrôle",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9850917_50001;91j;8gyxvIHYkS.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Rampage : hors de contrôle",
+            "path": "/cinema/rampage-hors-de-controle/h/9850917_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9541362_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/70037246",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le 15h17 pour Paris",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9541362_50001;25TP;8gwpWlby14.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Le 15h17 pour Paris",
+            "path": "/cinema/le-15-h-17-pour-paris/h/9541362_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9691303_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72973701",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 3,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Mektoub, My Love : Canto Uno",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9691303_50001;2eOp;8gx9jekBop.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Mektoub, My Love : Canto Uno",
+            "path": "/cinema/mektoub-my-love-canto-uno/h/9691303_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9669755_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73178184",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "La belle et la belle",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9669755_50001;3UxM;8gu6NFSE4c.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "La belle et la belle",
+            "path": "/cinema/la-belle-et-la-belle/h/9669755_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9571521_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/86885717",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Black Panther",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9571521_50001;2llS;8gru4MhiDN.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Black Panther",
+            "path": "/cinema/black-panther/h/9571521_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9345858_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/73720199",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Star Wars : les derniers Jedi",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9345858_50001;3zem;8gylN3B5FV.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Star Wars : les derniers Jedi",
+            "path": "/cinema/star-wars-les-derniers-jedi/h/9345858_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9294933_50019",
+          "epgID": "40055",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/67201274",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/88272710",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Coco",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9294933_50019;21eU;8grvAxA7ZG.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "Coco",
+            "path": "/cinema/coco-coco/h/9294933_50019"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "9215864_50001",
+          "epgID": "40052",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83347797",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/58987415",
+          "CSA": 2,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Foreigner",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/9215864_50001;2l9A;8gzrsWZkP5.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false",
+            "BOName": "The Foreigner",
+            "path": "/cinema/the-foreigner-the-foreigner/h/9215864_50001"
+          }
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "34",
+        "titleDisplayMode": "none",
+        "imageSize": "large"
+      },
+      "button": {
+        "title": "Cinéma",
+        "onClick": {
+          "displayTemplate": "landing",
+          "displayName": "Cinéma",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/62bb8ca875d9d5fea5a845b77cbcc49c/6006.json",
+          "BOName": "Cinema",
+          "BOLayoutName": "[Webapp_App tab_mob_TV] Cinema Abonnes",
+          "path": "/cinema/"
+        }
+      },
+      "paging": {
+        "iterationType": "id",
+        "idStart": "YXJyYXljb25uZWN0aW9uOjA=",
+        "idEnd": "YXJyYXljb25uZWN0aW9uOjk5",
+        "nbContents": 100,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "doNotIterate": true
+      },
+      "context": {
+        "contextType": "edito",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-4-nouveautes_cinema-contentrow-creplay_selection_cinema_ineditsmycanal"
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "Sélection séries",
+      "perso": "curation",
+      "displayParameters": {
+        "imageRatio": "169",
+        "titleDisplayMode": "none",
+        "imageSize": "large"
+      },
+      "button": {
+        "title": "Séries",
+        "onClick": {
+          "displayTemplate": "landing",
+          "displayName": "Séries",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/62bb8ca875d9d5fea5a845b77cbcc49c/6003.json",
+          "BOName": "Series",
+          "BOLayoutName": "[Webapp_App tab_mob_TV] Series Abonnes",
+          "path": "/series/"
+        }
+      },
+      "paging": {
+        "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/me/62bb8ca875d9d5fea5a845b77cbcc49c/lists/curation?dsp=detailPage&sdm=show&imageRatio=169&titleDisplayMode=none&displayLogo=true&listId=creplay_them_serie_selectionbis&maxContentRemaining=40"
+      },
+      "context": {
+        "contextType": "curation",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-5-selection_series-contentrow-creplay_them_serie_selectionbis"
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "Rendez-vous sport",
+      "contents": [
+        {
+          "type": "VoD",
+          "contentID": "11988731_50001",
+          "title": "Open britannique 2019 - 2e tour",
+          "subtitle": "Golf",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/6538600",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Open britannique 2019 - 2e tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/11988731_50001;4a0A;8gyZukQFfm.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Open britannique 2019 - 2e tour",
+            "path": "/sport/open-britannique-2019-2-e-tour-open-britannique-2019-2-e-tour/h/11988731_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034424_50001",
+          "title": "Open britannique 2019 - 3e tour",
+          "subtitle": "Golf",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/14550739",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Open britannique 2019 - 3e tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034424_50001;1Jez;8gtScRuk1e.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Open britannique 2019 - 3e tour",
+            "path": "/sport/open-britannique-2019-3-e-tour-open-britannique-2019-3-e-tour/h/12034424_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12027699_50001",
+          "title": "Afrique du Sud / Australie",
+          "subtitle": "The Rugby Championship 2019 - 1r...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/26305539",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Afrique du Sud / Australie",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12027699_50001;2BkW;8gyg7rHCkY.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Afrique du Sud / Australie",
+            "path": "/sport/afrique-du-sud-australie-afrique-du-sud-australie/h/12027699_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12027696_50001",
+          "title": "Wolverhampton / Manchester City",
+          "subtitle": "Premier League Asia Trophy 2019 ...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/220511",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Wolverhampton / Manchester City",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12027696_50001;3Pp5;8gy0eW09q2.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Wolverhampton / Manchester City",
+            "path": "/sport/wolverhampton-manchester-city-wolverhampton-manchester-city/h/12027696_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12028435_50001",
+          "title": "Lyon (Fra) / Genoa (Ita)",
+          "subtitle": "Match amical 2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89976651",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Lyon (Fra) / Genoa (Ita)",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12028435_50001;3QrI;8gypc1x1IE.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Lyon (Fra) / Genoa (Ita)",
+            "path": "/sport/lyon-fra-genoa-ita-lyon-fra-genoa-ita/h/12028435_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12027698_50001",
+          "title": "Open britannique 2019 - 4e tour",
+          "subtitle": "Golf",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/14550739",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Open britannique 2019 - 4e tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12027698_50001;28Gm;8gjTKusRou.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Open britannique 2019 - 4e tour",
+            "path": "/sport/open-britannique-2019-4-e-tour-open-britannique-2019-4-e-tour/h/12027698_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12027700_50001",
+          "title": "Argentine / Nouvelle-Zélande",
+          "subtitle": "The Rugby Championship 2019 - 1r...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/28481155",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Argentine / Nouvelle-Zélande",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12027700_50001;1yrU;8gyyli1Gip.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Argentine / Nouvelle-Zélande",
+            "path": "/sport/argentine-nouvelle-zelande-argentine-nouvelle-zelande/h/12027700_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12027695_50001",
+          "title": "Newcastle / West Ham",
+          "subtitle": "Premier League Asia Trophy 2019 ...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/20714873",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Newcastle / West Ham",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12027695_50001;3Pzi;8gxOmTyFPn.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Newcastle / West Ham",
+            "path": "/sport/newcastle-west-ham-newcastle-west-ham/h/12027695_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12027692_50001",
+          "title": "12e manche",
+          "subtitle": "Grand Prix d'Iowa",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/53668165",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "12e manche",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12027692_50001;Ath;8gzBdINXtB.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "12e manche",
+            "path": "/sport/12-e-manche-12-e-manche/h/12027692_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034423_50001",
+          "title": "Les temps forts",
+          "subtitle": "Grand Prix d'Iowa",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/53668165",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Les temps forts",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034423_50001;7IJ;8gncFnh1QG.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Les temps forts",
+            "path": "/sport/les-temps-forts-les-temps-forts/h/12034423_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034427_50001",
+          "title": "D.C. United (Usa) / Marseille (Fra)",
+          "subtitle": "Match amical 2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1676",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "D.C. United (Usa) / Marseille (Fra)",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034427_50001;ilB;8gnrpyZRYc.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "D.C. United (Usa) / Marseille (Fra)",
+            "path": "/sport/d-c-united-usa-marseille-fra-d-c-united-usa-marseille-fra/h/12034427_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034431_50001",
+          "title": "The Evian Championship - 1er tour",
+          "subtitle": "Circuits américain et européen f...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39751",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Evian Championship - 1er tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034431_50001;1JmD;8gn3ANrCLo.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "The Evian Championship - 1er tour",
+            "path": "/sport/the-evian-championship-1-er-tour-the-evian-championship-1-er-tour/h/12034431_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034433_50001",
+          "title": "St Jude Invitational - 1er jour",
+          "subtitle": "Championnats du monde 2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1940",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "St Jude Invitational - 1er jour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034433_50001;3Onk;8gnp8V2wmM.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "St Jude Invitational - 1er jour",
+            "path": "/sport/st-jude-invitational-1-er-jour-st-jude-invitational-1-er-jour/h/12034433_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034428_50001",
+          "title": "Essais libres 1",
+          "subtitle": "Grand Prix d'Allemagne",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72896157",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais libres 1",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034428_50001;1JqP;8goj69jPJW.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais libres 1",
+            "path": "/sport/essais-libres-1-essais-libres-1/h/12034428_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034429_50001",
+          "title": "Essais libres 2",
+          "subtitle": "Grand Prix d'Allemagne",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72896157",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais libres 2",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034429_50001;1Jp6;8gorpQuMZc.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais libres 2",
+            "path": "/sport/essais-libres-2-essais-libres-2/h/12034429_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034432_50001",
+          "title": "The Evian Championship - 2e tour",
+          "subtitle": "Circuits américain et européen f...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/12133655",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Evian Championship - 2e tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034432_50001;1JAu;8goMXY5Dtm.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "The Evian Championship - 2e tour",
+            "path": "/sport/the-evian-championship-2-e-tour-the-evian-championship-2-e-tour/h/12034432_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12034436_50001",
+          "title": "St Jude Invitational - 2e jour",
+          "subtitle": "Championnats du monde 2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/74411523",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "St Jude Invitational - 2e jour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034436_50001;2FFu;8gnZOFGo7i.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "St Jude Invitational - 2e jour",
+            "path": "/sport/st-jude-invitational-2-e-jour-st-jude-invitational-2-e-jour/h/12034436_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076302_50001",
+          "title": "The Evian Championship - 3e tour",
+          "subtitle": "Circuits américain et européen f...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39751",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/45209741",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Evian Championship - 3e tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076302_50001;1Bqm;8gp70knDnD.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "The Evian Championship - 3e tour",
+            "path": "/sport/the-evian-championship-3-e-tour-the-evian-championship-3-e-tour/h/12076302_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076303_50001",
+          "title": "The Evian Championship - 4e tour",
+          "subtitle": "Circuits américain et européen f...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/7354185",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/45209741",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Evian Championship - 4e tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076303_50001;418w;8gra2pZmHU.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "The Evian Championship - 4e tour",
+            "path": "/sport/the-evian-championship-4-e-tour-the-evian-championship-4-e-tour/h/12076303_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076653_50001",
+          "title": "Essais libres 1",
+          "subtitle": "Grand Prix de Hongrie",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1680",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/45209741",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais libres 1",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076653_50001;2w28;8gzz1LvXdS.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais libres 1",
+            "path": "/sport/essais-libres-1-essais-libres-1/h/12076653_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12070111_50001",
+          "title": "Essais qualificatifs",
+          "subtitle": "Grand Prix d'Allemagne",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72896157",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais qualificatifs",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12070111_50001;1F82;8gqMB5LnZt.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais qualificatifs",
+            "path": "/sport/essais-qualificatifs-essais-qualificatifs/h/12070111_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12070115_50001",
+          "title": "Nouvelle-Zélande / Afrique du Sud",
+          "subtitle": "The Rugby Championship 2019 - 2e...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/26305539",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Nouvelle-Zélande / Afrique du Sud",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12070115_50001;fVI;8gwqjMvQTb.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Nouvelle-Zélande / Afrique du Sud",
+            "path": "/sport/nouvelle-zelande-afrique-du-sud-nouvelle-zelande-afrique-du-sud/h/12070115_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12070114_50001",
+          "title": "Australie / Argentine",
+          "subtitle": "The Rugby Championship 2019 - 2e...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/17096101",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Australie / Argentine",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12070114_50001;fET;8gwxv9I8qx.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Australie / Argentine",
+            "path": "/sport/australie-argentine-australie-argentine/h/12070114_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076647_50001",
+          "title": "La grille",
+          "subtitle": " Du 28 juil.",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72896157",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "La grille",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076647_50001;1neU;8gr1lhubi9.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "La grille",
+            "path": "/sport/la-grille-emission-du-28-juil-2019/h/12076647_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076643_50001",
+          "title": "La course",
+          "subtitle": "Grand Prix d'Allemagne",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72896157",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "La course",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076643_50001;1Gpn;8gw9Go9Wxx.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "La course",
+            "path": "/sport/la-course-la-course/h/12076643_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076644_50001",
+          "title": "Le podium",
+          "subtitle": "Grand Prix d'Allemagne",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72896157",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le podium",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076644_50001;1MFQ;8grecgzQp8.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Le podium",
+            "path": "/sport/le-podium-le-podium/h/12076644_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076645_50001",
+          "title": "Formula One, le débrief",
+          "subtitle": " Du 28 juil.",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/13514949",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Formula One, le débrief",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076645_50001;3IQe;8gwbX27irq.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Formula One, le débrief",
+            "path": "/sport/formula-one-le-debrief-emission-du-28-juil-2019/h/12076645_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12070112_50001",
+          "title": "The Evian Championship - 3e tour",
+          "subtitle": "Circuits américain et européen f...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/12133655",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Evian Championship - 3e tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12070112_50001;1YvI;8gs6DJyi8G.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "The Evian Championship - 3e tour",
+            "path": "/sport/the-evian-championship-3-e-tour-the-evian-championship-3-e-tour/h/12070112_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076641_50001",
+          "title": "Lorient / Paris FC",
+          "subtitle": "Domino's Ligue 2 - 1re journée",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89831216",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Lorient / Paris FC",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076641_50001;4b4w;8gvQoUwsnX.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Lorient / Paris FC",
+            "path": "/sport/lorient-paris-fc-lorient-paris-fc/h/12076641_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12070113_50001",
+          "title": "The Evian Championship - 4e tour",
+          "subtitle": "Circuits américain et européen f...",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/39751",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Evian Championship - 4e tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12070113_50001;49mR;8gvyfKRDcI.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "The Evian Championship - 4e tour",
+            "path": "/sport/the-evian-championship-4-e-tour-the-evian-championship-4-e-tour/h/12070113_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076646_50001",
+          "title": "Liverpool (Gbr) / Lyon (Fra)",
+          "subtitle": "Match amical 2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/13651765",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Liverpool (Gbr) / Lyon (Fra)",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076646_50001;2lQV;8gy59Ffbb1.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Liverpool (Gbr) / Lyon (Fra)",
+            "path": "/sport/liverpool-gbr-lyon-fra-liverpool-gbr-lyon-fra/h/12076646_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076648_50001",
+          "title": "13e manche",
+          "subtitle": "Grand Prix de Mid-Ohio",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/53668165",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "13e manche",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076648_50001;gmv;8gxlpkLTpe.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "13e manche",
+            "path": "/sport/13-e-manche-13-e-manche/h/12076648_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076649_50001",
+          "title": "Les temps forts",
+          "subtitle": "Grand Prix de Mid-Ohio",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1562",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Les temps forts",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076649_50001;tt;8gzjU8sQgC.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Les temps forts",
+            "path": "/sport/les-temps-forts-les-temps-forts/h/12076649_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076650_50001",
+          "title": "On Board F1",
+          "subtitle": " Du 31 juil.",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85408646",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/71805593",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "On Board F1",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076650_50001;3BA5;8gzd6cASax.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "On Board F1",
+            "path": "/sport/on-board-f-1-emission-du-31-juil-2019/h/12076650_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12070060_50001",
+          "title": "Essais libres 3",
+          "subtitle": "Grand Prix d'Allemagne",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72896157",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais libres 3",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12070060_50001;1zaH;8gp6frJbps.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais libres 3",
+            "path": "/sport/essais-libres-3-essais-libres-3/h/12070060_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076516_50001",
+          "title": "Arsenal (Gbr) / Lyon (Fra)",
+          "subtitle": "Match amical 2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/13651765",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Arsenal (Gbr) / Lyon (Fra)",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076516_50001;42BA;8gu58xfjL4.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Arsenal (Gbr) / Lyon (Fra)",
+            "path": "/sport/arsenal-gbr-lyon-fra-arsenal-gbr-lyon-fra/h/12076516_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076517_50001",
+          "title": "Présentation",
+          "subtitle": "Rallye de Finlande",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1562",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Présentation",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076517_50001;2kux;8gycl2rsYg.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Présentation",
+            "path": "/sport/presentation-presentation/h/12076517_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12070059_50001",
+          "title": "Open britannique féminin 2019 - 1er tour",
+          "subtitle": "Golf",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1532",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Open britannique féminin 2019 - 1er tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12070059_50001;44pP;8gyeBGoOQs.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Open britannique féminin 2019 - 1er tour",
+            "path": "/sport/open-britannique-feminin-2019-1-er-tour-open-britannique-feminin-2019-1-er-tour/h/12070059_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076518_50001",
+          "title": "1re spéciale",
+          "subtitle": "Rallye de Finlande",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1918",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "1re spéciale",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076518_50001;44DO;8gzEjW56Al.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "1re spéciale",
+            "path": "/sport/1-re-speciale-1-re-speciale/h/12076518_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12070058_50001",
+          "title": "Open de Greensboro - 1er tour",
+          "subtitle": "Circuit américain 2018/2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1940",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Open de Greensboro - 1er tour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12070058_50001;4E5;8gyFrYyP0c.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Open de Greensboro - 1er tour",
+            "path": "/sport/open-de-greensboro-1-er-tour-open-de-greensboro-1-er-tour/h/12070058_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076496_50001",
+          "title": "Essais libres 1 des Moto 3",
+          "subtitle": "Grand Prix de République tchèque",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1562",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais libres 1 des Moto 3",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076496_50001;cIb;8gzqkD0LNI.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais libres 1 des Moto 3",
+            "path": "/sport/essais-libres-1-des-moto-3-essais-libres-1-des-moto-3/h/12076496_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076493_50001",
+          "title": "Essais libres 1 des Moto GP",
+          "subtitle": "Grand Prix de République tchèque",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1562",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais libres 1 des Moto GP",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076493_50001;cJF;8gzuutBfwe.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais libres 1 des Moto GP",
+            "path": "/sport/essais-libres-1-des-moto-gp-essais-libres-1-des-moto-gp/h/12076493_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076494_50001",
+          "title": "Essais libres 1 des Moto 2",
+          "subtitle": "Grand Prix de République tchèque",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1918",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais libres 1 des Moto 2",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076494_50001;cJL;8gzz1LvXcZ.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais libres 1 des Moto 2",
+            "path": "/sport/essais-libres-1-des-moto-2-essais-libres-1-des-moto-2/h/12076494_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076642_50001",
+          "title": "11e spéciale",
+          "subtitle": "Rallye de Finlande",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1832",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "11e spéciale",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076642_50001;41Pm;8gzEjW4Zs0.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "11e spéciale",
+            "path": "/sport/11-e-speciale-11-e-speciale/h/12076642_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12076497_50001",
+          "title": "Essais libres 2 des Moto 3",
+          "subtitle": "Grand Prix de République tchèque",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1918",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Essais libres 2 des Moto 3",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12076497_50001;cLF;8gzJeFk2vX.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "Essais libres 2 des Moto 3",
+            "path": "/sport/essais-libres-2-des-moto-3-essais-libres-2-des-moto-3/h/12076497_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12069730_50001",
+          "title": "St Jude Invitational - 3e jour",
+          "subtitle": "Championnats du monde 2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/23503813",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "St Jude Invitational - 3e jour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12069730_50001;2Ay7;8gpKHBDiGs.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "St Jude Invitational - 3e jour",
+            "path": "/sport/st-jude-invitational-3-e-jour-st-jude-invitational-3-e-jour/h/12069730_50001"
+          }
+        },
+        {
+          "type": "VoD",
+          "contentID": "12069731_50001",
+          "title": "St Jude Invitational - 4e jour",
+          "subtitle": "Championnats du monde 2019",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/1940",
+          "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/smart/2950932",
+          "CSA": 1,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "St Jude Invitational - 4e jour",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12069731_50001;3ZPb;8gsm8NVxvq.json?params%5BdetailType%5D=detailPage&objectType=unit&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&displayDiffChannelLogo=true",
+            "BOName": "St Jude Invitational - 4e jour",
+            "path": "/sport/st-jude-invitational-4-e-jour-st-jude-invitational-4-e-jour/h/12069731_50001"
+          }
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169",
+        "titleDisplayMode": "all",
+        "imageSize": "normal"
+      },
+      "button": {
+        "title": "Sport",
+        "onClick": {
+          "displayTemplate": "landing",
+          "displayName": "Sport",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/62bb8ca875d9d5fea5a845b77cbcc49c/5980.json",
+          "BOName": "Sport",
+          "BOLayoutName": "[Webapp UWP Xbox tab] Sport HAPI (abonnes)",
+          "path": "/sport/"
+        }
+      },
+      "paging": {
+        "iterationType": "id",
+        "idStart": "YXJyYXljb25uZWN0aW9uOjA=",
+        "idEnd": "YXJyYXljb25uZWN0aW9uOjQ2",
+        "nbContents": 47,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "doNotIterate": true
+      },
+      "context": {
+        "contextType": "edito",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-6-rendez-vous_sport-contentrow-creplay_prochains_rdv_sport"
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "Vos émissions",
+      "perso": "history",
+      "displayParameters": {
+        "imageRatio": "169",
+        "titleDisplayMode": "all",
+        "imageSize": "normal"
+      },
+      "button": {
+        "title": "Emissions",
+        "onClick": {
+          "displayTemplate": "landing",
+          "displayName": "Divertissement",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/62bb8ca875d9d5fea5a845b77cbcc49c/5976.json",
+          "BOName": "Divertissement",
+          "BOLayoutName": "[Webapp_tab_mob] Divertissement HAPI (abonnes)",
+          "path": "/divertissement/"
+        }
+      },
+      "paging": {
+        "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/me/62bb8ca875d9d5fea5a845b77cbcc49c/lists/history?dsp=detailPage&sdm=show&imageRatio=169&titleDisplayMode=all&displayLogo=true&listId=creplay_them_touteslesemissions&maxContentRemaining=20"
+      },
+      "context": {
+        "contextType": "history",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-7-vos_emissions-contentrow-creplay_them_touteslesemissions"
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "Sélection documentaires",
+      "perso": "curation",
+      "displayParameters": {
+        "imageRatio": "169",
+        "titleDisplayMode": "all",
+        "imageSize": "normal"
+      },
+      "button": {
+        "title": "Docus",
+        "onClick": {
+          "displayTemplate": "landing",
+          "displayName": "Documentaires",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/62bb8ca875d9d5fea5a845b77cbcc49c/5978.json",
+          "BOName": "Documentaires",
+          "BOLayoutName": "[Webapp_App tab_mob_TV] Doc Abonnes",
+          "path": "/documentaires/"
+        }
+      },
+      "paging": {
+        "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/me/62bb8ca875d9d5fea5a845b77cbcc49c/lists/curation?dsp=detailPage&sdm=show&imageRatio=169&titleDisplayMode=all&displayLogo=true&listId=creplay_them_decouverte_selection&maxContentRemaining=40"
+      },
+      "context": {
+        "contextType": "curation",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-8-selection_documentaires-contentrow-creplay_them_decouverte_selection"
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "A voir ce soir",
+      "contents": [
+        {
+          "type": "EPG",
+          "contentID": "8768703",
+          "title": "Le Caire confidentiel",
+          "subtitle": "Film Policier",
+          "thirdTitle": "20h50",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/87216888",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_398_20190117.PNG",
+          "CSA": 1,
+          "startTime": 1563475800,
+          "endTime": 1563482100,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le Caire confidentiel",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/8768703.json?id=8768703&params[type]=epg&idDiffusion=208550737&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8768703-le-caire-confidentiel.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "1033327",
+          "title": "Bonnie and Clyde",
+          "subtitle": "Film Suspense",
+          "thirdTitle": "20h50",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89433595",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_531_20190117.PNG",
+          "CSA": 1,
+          "startTime": 1563475800,
+          "endTime": 1563482100,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Bonnie and Clyde",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/1033327.json?id=1033327&params[type]=epg&idDiffusion=208491546&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/1033327-bonnie-and-clyde.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "11983463",
+          "title": "The Handmaid's Tale - S3 - Ep9",
+          "subtitle": "Série Drame",
+          "thirdTitle": "20h40",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/88524124",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_372_20190326.PNG",
+          "CSA": 3,
+          "startTime": 1563475200,
+          "endTime": 1563478500,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "The Handmaid's Tale S3 - Ep9",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/11983463.json?id=11983463&params[type]=epg&idDiffusion=208481369&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/11983463-the-handmaid-s-tale.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "10341688",
+          "title": "Mayans M.C. - S1 - Ep5",
+          "subtitle": "Série Drame",
+          "thirdTitle": "21h00",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/78130205",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_301_20170719.PNG",
+          "CSA": 3,
+          "startTime": 1563476400,
+          "endTime": 1563480300,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Mayans M.C. S1 - Ep5",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/10341688.json?id=10341688&params[type]=epg&idDiffusion=208585512&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10341688-mayans-m-c.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "8833468",
+          "title": "Blindspot - S2 - Ep9",
+          "subtitle": "Série Suspense",
+          "thirdTitle": "20h55",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/64591235",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_694_20170918.PNG",
+          "CSA": 2,
+          "startTime": 1563476100,
+          "endTime": 1563478800,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Blindspot S2 - Ep9",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/8833468.json?id=8833468&params[type]=epg&idDiffusion=208593859&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/8833468-blindspot.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "11983650",
+          "title": "Le meilleur forgeron",
+          "subtitle": "Téléréalité",
+          "thirdTitle": "21h00",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/86969720",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_588_20170103.PNG",
+          "CSA": 1,
+          "startTime": 1563476400,
+          "endTime": 1563478800,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le meilleur forgeron",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/11983650.json?id=11983650&params[type]=epg&idDiffusion=208474120&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/11983650-le-meilleur-forgeron.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "11983434",
+          "title": "La dernière bataille d'Hitler",
+          "subtitle": "Doc. Histoire",
+          "thirdTitle": "20h40",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89554222",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_302_20161121.PNG",
+          "CSA": 2,
+          "startTime": 1563475200,
+          "endTime": 1563478200,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "La dernière bataille d'Hitler",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/11983434.json?id=11983434&params[type]=epg&idDiffusion=208001267&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/11983434-la-derniere-bataille-d-hitler.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "10482518",
+          "title": "Le grand bal",
+          "subtitle": "Film Documentaire",
+          "thirdTitle": "20h40",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83595398",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_467_20190326.PNG",
+          "CSA": 1,
+          "startTime": 1563475200,
+          "endTime": 1563480900,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le grand bal",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/10482518.json?id=10482518&params[type]=epg&idDiffusion=208492159&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/10482518-le-grand-bal.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "482391",
+          "title": "Un hiver à Central Park",
+          "subtitle": "Film Drame",
+          "thirdTitle": "20h40",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/64380567",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_505_20150827.PNG",
+          "CSA": 1,
+          "startTime": 1563475200,
+          "endTime": 1563481800,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Un hiver à Central Park",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/482391.json?id=482391&params[type]=epg&idDiffusion=208871790&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/482391-un-hiver-a-central-park.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "11983079",
+          "title": "Sport - Epée dames et sabre messieurs",
+          "subtitle": "",
+          "thirdTitle": "21h38",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89553689",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_436_20151114.PNG",
+          "CSA": 1,
+          "startTime": 1563478680,
+          "endTime": 1563481980,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Sport - Epée dames et sabre messieurs",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/11983079.json?id=11983079&params[type]=epg&idDiffusion=208949546&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/11983079-sport-epee-dames-et-sabre-messieurs.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "11995682",
+          "title": "Rugby - Top 14 2018/2019",
+          "subtitle": "Rétrospective de la saison Made by Canal",
+          "thirdTitle": "21h00",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/17096101",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_177_20130826.PNG",
+          "CSA": 1,
+          "startTime": 1563476400,
+          "endTime": 1563482400,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Rugby - Top 14 2018/2019",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/11995682.json?id=11995682&params[type]=epg&idDiffusion=208597672&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/11995682-rugby-top-14-2018-2019.html"
+          }
+        },
+        {
+          "type": "EPG",
+          "contentID": "12034146",
+          "title": "Le premier homme sur la Lune : l'histoire en marche",
+          "subtitle": "Doc. Sciences et Techniques",
+          "thirdTitle": "20h45",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/14550930",
+          "URLLogoChannel": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/640X480/CHN43FB_614_20150908.PNG",
+          "CSA": 1,
+          "startTime": 1563475500,
+          "endTime": 1563478860,
+          "onClick": {
+            "displayTemplate": "detailPage",
+            "displayName": "Le premier homme sur la Lune : l'histoire en marche",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/detail/62bb8ca875d9d5fea5a845b77cbcc49c/epg/12034146.json?id=12034146&params[type]=epg&idDiffusion=209294340&cache=780000&liveTVPageID=2872",
+            "path": "/guide/programme/12034146-le-premier-homme-sur-la-lune-l-histoire-en-marche.html"
+          }
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169",
+        "titleDisplayMode": "all",
+        "imageSize": "normal"
+      },
+      "button": {
+        "title": "Grille TV",
+        "onClick": {
+          "displayTemplate": "EPGGrid",
+          "displayName": "Grille TV",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/62bb8ca875d9d5fea5a845b77cbcc49c/601.json?filters[day]=0",
+          "BOName": "DEPRECIATED J",
+          "path": "/guide/grille-tv/pid601-depreciated-j.html",
+          "day": "0"
+        }
+      },
+      "paging": {
+        "iterationType": "index",
+        "indexStart": 0,
+        "indexEnd": 11,
+        "nbContents": 12,
+        "totalAvailableContents": 12,
+        "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/strateContent/62bb8ca875d9d5fea5a845b77cbcc49c/pfs/epgcnx/contents/1.json?dsp=detailPage&sdm=episod&displayLogo=true&doNotIterate=true&strateType=contentRow&imageRatio=169&day=0&titleDisplayMode=all&from=12",
+        "doNotIterate": true
+      }
+    },
+    {
+      "type": "contentRow",
+      "title": "Nos dernières collections",
+      "contents": [
+        {
+          "type": "folder",
+          "contentID": "creplay_selection_collection_biencaledanslecanape",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/84060232",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "De la suite dans le ciné",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_selection_collection_biencaledanslecanape;L34.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "De la suite dans le ciné",
+            "path": "/de-la-suite-dans-le-cine/h/creplay_selection_collection_biencaledanslecanape"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_selection_cinema_robolution",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/90009605",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Robolution",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_selection_cinema_robolution;oXz.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Robolution",
+            "path": "/robolution/h/creplay_selection_cinema_robolution"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_them_sries_collections_lesseriesprimes",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83903284",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Les séries primées",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_them_sries_collections_lesseriesprimes;ALF.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Les séries primées",
+            "path": "/les-series-primees/h/creplay_them_sries_collections_lesseriesprimes"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_series_filles_en_series",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83903285",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Filles en séries",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_series_filles_en_series;ua3.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Filles en séries",
+            "path": "/filles-en-series/h/creplay_collection_series_filles_en_series"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_selection_jeunesse_superheros",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83899743",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Super-héros",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_selection_jeunesse_superheros;ALF.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Super-héros",
+            "path": "/super-heros/h/creplay_selection_jeunesse_superheros"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_jeunesse_aupaysdesjouets",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83854802",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Au pays des jouets",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_jeunesse_aupaysdesjouets;KXv.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Au pays des jouets",
+            "path": "/au-pays-des-jouets/h/creplay_collection_jeunesse_aupaysdesjouets"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_decouverte_planete_cachauffe",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89941393",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Green Attitude",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_decouverte_planete_cachauffe;vE2.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Green Attitude",
+            "path": "/green-attitude/h/creplay_collection_decouverte_planete_cachauffe"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_decouverte_accuse",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85009533",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Accusés levez-vous",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_decouverte_accuse;JI0.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Accusés levez-vous",
+            "path": "/accuses-levez-vous/h/creplay_collection_decouverte_accuse"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_divertissement_mode",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83904021",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Mode d'emploi",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_divertissement_mode;ALF.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Mode d'emploi",
+            "path": "/mode-d-emploi/h/creplay_collection_divertissement_mode"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_divertissement_cuisine",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83903998",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "A table !",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_divertissement_cuisine;AOn.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "A table !",
+            "path": "/a-table/h/creplay_collection_divertissement_cuisine"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_selection_cinema_souriezvvousetesbraquez",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85515926",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Souriez vous êtes braqués !",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_selection_cinema_souriezvvousetesbraquez;J2v.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Souriez vous êtes braqués !",
+            "path": "/souriez-vous-etes-braques/h/creplay_selection_cinema_souriezvvousetesbraquez"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_cinema_saturday_night_live",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/85064138",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Génération Saturday Night Live",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_cinema_saturday_night_live;ATu.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Génération Saturday Night Live",
+            "path": "/generation-saturday-night-live/h/creplay_collection_cinema_saturday_night_live"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_series_tueursenserie",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83903356",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Tueurs en série",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_series_tueursenserie;Esh.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Tueurs en série",
+            "path": "/tueurs-en-serie/h/creplay_collection_series_tueursenserie"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_selection_collection_nyc",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83903360",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "NYC",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_selection_collection_nyc;rhb.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "NYC",
+            "path": "/nyc/h/creplay_selection_collection_nyc"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_jeunesse_petites_betes",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83905584",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Petites bêtes",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_jeunesse_petites_betes;w3w.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Petites bêtes",
+            "path": "/petites-betes/h/creplay_collection_jeunesse_petites_betes"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_jeunesse_Grosses_betes",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83905585",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Grosses bêtes",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_jeunesse_Grosses_betes;Ep0.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Grosses bêtes",
+            "path": "/grosses-betes/h/creplay_collection_jeunesse_Grosses_betes"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_decouverte_coupedumonde",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/82857210",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Passion ballon rond",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_decouverte_coupedumonde;vAX.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Passion ballon rond",
+            "path": "/passion-ballon-rond/h/creplay_collection_decouverte_coupedumonde"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_decouverte_portraitfemme",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/86847128",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Women are heroes",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_decouverte_portraitfemme;ALF.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Women are heroes",
+            "path": "/women-are-heroes/h/creplay_collection_decouverte_portraitfemme"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_selection_collection_one_wo_man_show",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/83904025",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "One Wo.Man Show",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_selection_collection_one_wo_man_show;ALF.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "One Wo.Man Show",
+            "path": "/one-wo-man-show/h/creplay_selection_collection_one_wo_man_show"
+          }
+        },
+        {
+          "type": "folder",
+          "contentID": "creplay_collection_divertissement_audeladureel",
+          "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/88783734",
+          "onClick": {
+            "displayTemplate": "contentGrid",
+            "displayName": "Au-delà du réel",
+            "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/contentGrid/62bb8ca875d9d5fea5a845b77cbcc49c/creplay_collection_divertissement_audeladureel;yYj.json?params%5BdetailType%5D=contentGrid&objectType=list&params%5Bdsp%5D=detailPage&params%5Bsdm%5D=show&params%5Bhighlight%5D=false&previousContextDetail=mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema",
+            "BOName": "Au-delà du réel",
+            "path": "/au-dela-du-reel/h/creplay_collection_divertissement_audeladureel"
+          }
+        }
+      ],
+      "displayParameters": {
+        "imageRatio": "169",
+        "titleDisplayMode": "none",
+        "imageSize": "normal"
+      },
+      "button": {
+        "title": "Toutes",
+        "onClick": {
+          "displayTemplate": "landing",
+          "displayName": "Toutes nos collections",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/page/62bb8ca875d9d5fea5a845b77cbcc49c/6262.json",
+          "BOName": "Collections",
+          "BOLayoutName": "Collections",
+          "path": "/collections/"
+        }
+      },
+      "paging": {
+        "iterationType": "id",
+        "idStart": "YXJyYXljb25uZWN0aW9uOjA=",
+        "idEnd": "YXJyYXljb25uZWN0aW9uOjE5",
+        "nbContents": 20,
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "doNotIterate": true
+      },
+      "context": {
+        "contextType": "edito",
+        "contextDetail": "mycios-test-test_explorer-accueil_v2-11-nos_dernieres_collections-contentrow-creplay_selection_listedetuilemultithema"
+      }
+    }
+  ]
+}
