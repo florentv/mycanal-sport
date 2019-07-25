@@ -1,0 +1,38 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage"
+  },
+  "detail": {
+    "informations": {
+      "contentID": "1511421478",
+            "consumptionPlatform": "wildmoka",
+      "duration": "152000",
+      "title": "81' But de Neymar",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/2ab8f7d02f7e1f3e448e0be3375d4b1b7cf04607.jpg",
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": false,
+      "isInOfferForD2G": false,
+      "isInOfferForVoD": true,
+      "noPub": true,
+      "videoURLs": [
+        {
+          "videoURL": "https://hls-od-sport-canalplus.akamaized.net/clips13/559dd668006186b425112e9e7b7d7eed0f3c563e.m3u8",
+          "encryption": "clear"
+        }
+      ]
+    }
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCiOS",
+      "prop4": "MyCiOS - Lecture prog",
+      "prop5": "MyCiOS - Lecture prog - 81' But de Neymar",
+      "pageName": "MyCiOS - Lecture prog - 81' But de Neymar",
+      "prop10": "Contenu",
+      "prop11": "Clair",
+      "prop12": "Consumer",
+      "eVar30": "Football",
+      "eVar39": "1511421478"
+    }
+  }
+}
