@@ -17,8 +17,8 @@
           "onClick": {
             "displayTemplate": "quicktime",
             "displayName": "Verstappen dépasse Hamilton !",
-            "URLPage": "http://hodor.canalplus.pro/api/v1/mycanal/detail/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412835524.json?params%5BcontentType%5D=sport",
-            "URLMedias": "http://hodor.canalplus.pro/api/v1/mycanal/getMediaUrl/58f3ee496281c5ba33059af9501ed2d0/wildmoka/6412835524.json?params%5BcontentType%5D=sport",
+            "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/URLPage.json",
+            "URLMedias": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/mediasUrls.json",
             "path": "/sport/verstappen-depasse-hamilton/p/6412835524"
           }
         },
