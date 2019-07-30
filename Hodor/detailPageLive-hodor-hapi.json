@@ -1,8 +1,8 @@
 {
   "currentPage": {
     "displayTemplate": "detailPage",
-    "displayName": "Angleterre / Etats-Unis",
-    "path": "/sport/angleterre-etats-unis/h/11897701_50001"
+    "displayName": "Essais libres 1",
+    "path": "/sport/essais-libres-1/h/12034428_50001"
   },
   "tracking": {
     "omniture": {
@@ -10,36 +10,36 @@
       "prop4": "MyCiOS - Prog",
       "prop5": "MyCiOS - Prog - Fiche",
       "prop6": "MyCiOS - Prog - Fiche - Sport",
-      "prop7": "MyCiOS - Prog - Fiche - Sport - Angleterre  Etats-Unis",
-      "pageName": "MyCiOS - Prog - Fiche - Sport - Angleterre  Etats-Unis",
+      "prop7": "MyCiOS - Prog - Fiche - Sport - Essais libres 1",
+      "pageName": "MyCiOS - Prog - Fiche - Sport - Essais libres 1",
       "prop10": "Contenu",
       "prop11": "Crypte",
       "prop12": "Consumer",
-      "eVar39": "11897701_50001",
+      "eVar39": "12034428_50001",
       "prop19": "CANAL+",
-      "eVar30": "Football"
+      "eVar30": "Formule 1"
     }
   },
   "detail": {
     "informations": {
       "type": "VoD",
-      "contentID": "11897701_50001",
-      "idRevision": "11897701_50001;2q3Q;8g2WjMg0C0",
-      "title": "Angleterre / Etats-Unis",
-      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/89396357",
-      "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/71805593",
-      "summary": "Rendez-vous pour la demi-finale de la Coupe du Monde féminine de la FIFA 2019.",
+      "contentID": "12034428_50001",
+      "idRevision": "12034428_50001;J6J;8gJnJmIJms",
+      "title": "Essais libres 1",
+      "URLImage": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/72896157",
+      "URLLogoChannel": "https://thumb.canalplus.pro/bddpe/unsafe/{resolutionXY}/2950932",
+      "summary": "Championnat du monde 2019. 11e manche. Grand Prix d'Allemagne. Essais libres 1. A Hockenheim.",
       "isTVoD": false,
       "thirdTitle": "CANAL+",
       "fbkWatchTag": "video.movie",
-      "subtitle": "Coupe du monde féminine 2019 - 1...",
+      "subtitle": "Grand Prix d'Allemagne",
       "noPub": true,
       "isInOfferForVoD": false,
-      "isInOfferForD2G": true,
+      "isInOfferForD2G": false,
       "availableInD2GOnDevice": false,
       "availableInVoDOnDevice": false,
-      "editorialTitle": "Coupe du monde féminine 2019 - 1re demi-finale, France, 2019, 1h53",
-      "sharingURL": "https://mycan.al/h/11897701_50001",
+      "editorialTitle": "Grand Prix d'Allemagne, France, 2019, 1h50",
+      "sharingURL": "https://mycan.al/h/12034428_50001",
       "HD": true,
       "UHD": false,
       "formats": {
@@ -47,65 +47,64 @@
           "HD"
         ],
         "audio": [
-          "Stereo",
-          "Mono"
+          "Stereo"
         ]
       },
       "CSA": 1,
-      "URLVitrine": "https://hodor.canalplus.pro/api/v1/mycanal/highlight/8649e8b06536dda7cf0ccb60cecb637d/okapi/11897701_50001.json?cache=1800000&id=11897701_50001&params%5Btype%5D=okapi&contentType=unit&previousPageName=MyCiOS%20-%20Prog%20-%20Fiche%20-%20Sport",
+      "URLVitrine": "https://hodor.canalplus.pro/api/v1/mycanal/highlight/62bb8ca875d9d5fea5a845b77cbcc49c/okapi/12034428_50001.json?cache=1800000&id=12034428_50001&params%5Btype%5D=okapi&contentType=unit&previousPageName=MyCiOS%20-%20Prog%20-%20Fiche%20-%20Sport",
       "audioLanguage": "VF",
       "closedCaptioning": false,
       "consumptionPlatform": "HAPI",
       "rediffusions": false,
       "trailer": false,
       "displayPersoButtons": true,
-      "duration": "6780000",
+      "duration": "6600000",
       "productionYear": "2019",
-      "channelName": "CANAL+ UHD",
+      "channelName": "CANAL+ SPORT",
       "contentAvailability": {
         "isInCatalog": true,
         "isInOffer": true,
         "availabilities": {
           "download": {
             "isAvailable": false,
-            "isInOffer": true,
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/me/getMediaUrl/{tokenCMS}/okapi/11897701_50001.json?cache=780000&operator={operator}"
+            "isInOffer": false,
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/me/getMediaUrl/{tokenCMS}/okapi/12034428_50001.json?cache=780000&operator={operator}"
           },
           "stream": {
             "isAvailable": false,
             "isInOffer": false,
-            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/me/getMediaUrl/{tokenCMS}/okapi/11897701_50001.json?cache=780000&operator={operator}"
+            "URLMedias": "https://hodor.canalplus.pro/api/v1/mycanal/me/getMediaUrl/{tokenCMS}/okapi/12034428_50001.json?cache=780000&operator={operator}"
           },
           "live": {
             "isAvailable": true,
             "isInOffer": true,
             "broadcasts": [
               {
-                "channelName": "CANAL+ UHD",
-                "channelId": 728,
-                "broadcastId": "207938967",
-                "startTime": 1562094000,
-                "endTime": 1562100900
+                "channelName": "CANAL+ SPORT",
+                "channelId": 177,
+                "broadcastId": "209065177",
+                "startTime": 1564130700,
+                "endTime": 1564137600
               }
             ]
           }
         }
       },
-      "startTime": 1562094000,
-      "endTime": 1562100900,
+      "startTime": 1564130700,
+      "endTime": 1564137600,
       "isRecordable": true,
-      "recordUrl": "https://service.mycanal.fr/record/edc3be623671712514e4cd099ba34c2e/207938967.json?params[ead]={ead}"
+      "recordUrl": "https://service.mycanal.fr/record/edc3be623671712514e4cd099ba34c2e/209065177.json?params[ead]={ead}"
     },
     "displayExpertMode": [
       {
         "URLImage": "https://thumb.canalplus.pro/bran/unsafe/{resolutionXY}/image/48/4/pictomodeexpert-3x.36484.png",
         "title": "Mode Expert disponible",
-        "subtitle": "Appui long sur le pavé tactile",
+        "subtitle": "Appui long sur la Surface Touch",
         "onClick": {
           "displayTemplate": "expertMode",
-          "displayName": "Mode Expert Women World Cup 2019",
+          "displayName": "Mode Expert F1",
           "autorefresh": "30000",
-          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/8649e8b06536dda7cf0ccb60cecb637d/associatedContentId/18365/event/9f1f0841-e53d-4951-b128-b9fb0bf95260"
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/62bb8ca875d9d5fea5a845b77cbcc49c/associatedContentId/8507/event/1358c597-ccd5-4952-a4d4-0b68169b34e5"
         }
       }
     ]
@@ -113,7 +112,7 @@
   "perso": [
     {
       "platform": "HAPI",
-      "URLPerso": "https://hodor.canalplus.pro/api/v1/mycanal/me/8649e8b06536dda7cf0ccb60cecb637d/objectTypes/unit/contents/11897701_50001.json"
+      "URLPerso": "https://hodor.canalplus.pro/api/v1/mycanal/me/62bb8ca875d9d5fea5a845b77cbcc49c/objectTypes/unit/contents/12034428_50001.json"
     }
   ]
 }

@@ -579,7 +579,7 @@
         "onClick": {
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Top 14",
-          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/62bb8ca875d9d5fea5a845b77cbcc49c/associatedContentId/8507/event/498b0f48-946d-4d31-8e08-f7f01559ebd1",
+          "URLPage": "https://hodor.canalplus.pro/api/v1/mycanal/expertMode/8649e8b06536dda7cf0ccb60cecb637d/associatedContentId/16728/event/1",
           "autorefresh": 30000
         }
       }

@@ -580,7 +580,7 @@
         "onClick": {
           "displayTemplate": "expertMode",
           "displayName": "Mode Expert Top 14",
-          "URLPage": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/Note/sportVitrineNote-status.json",
+          "URLPage": "https://hodor-dev.canalplus.pro/api/v1/mycanal/expertMode/ee96204da9db69a62dfd70a257679198/associatedContentId/16919/event/d62d4163-ec1a-44a1-92cf-dfcf8b9a9580",
           "autorefresh": 30000
         }
       }
