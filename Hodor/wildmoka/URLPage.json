@@ -1,0 +1,39 @@
+{
+  "currentPage": {
+    "displayTemplate": "detailPage",
+    "displayName": "82' Fin du match",
+    "path": "/highlights/3230859332"
+  },
+  "tracking": {
+    "omniture": {
+      "channel": "MyCiOS",
+      "prop4": "MyCiOS - Prog",
+      "prop5": "MyCiOS - Prog - Fiche",
+      "prop6": "MyCiOS - Prog - Fiche",
+      "prop7": "MyCiOS - Prog - Fiche - 82  Fin du match",
+      "pageName": "MyCiOS - Prog - Fiche - 82  Fin du match",
+      "prop10": "Contenu",
+      "prop11": "Clair",
+      "prop12": "Consumer",
+      "eVar30": "MODE EXPERT",
+      "eVar39": "3230859332"
+    }
+  },
+  "detail": {
+    "informations": {
+      "type": "wildmoka",
+      "contentID": "3230859332",
+      "title": "82' Fin du match",
+      "URLImage": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/hls-od-sport-canalplus.akamaized.net/clips13/162c335a453dd5167aa36bd8a99f09ccf5f52409.jpg",
+      "fbkWatchTag": "video.other",
+      "HD": true,
+      "UHD": false,
+      "availableInVoDOnDevice": true,
+      "availableInD2GOnDevice": false,
+      "isInOfferForD2G": false,
+      "consumptionPlatform": "wildmoka",
+      "URLMedias": "https://raw.githubusercontent.com/florentv/mycanal-sport/master/Hodor/wildmoka/mediasUrls.json",
+      "noPub": true
+    }
+  }
+}
